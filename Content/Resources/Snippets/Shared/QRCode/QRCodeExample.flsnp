@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Following is an example of a QR code.</p>
+            <p>If you have a QR code reader on your cell phone, you can scan this QR code and the <MadCap:variable name="Other.CompanyName" /> website will open on your screen.</p>
+            <p>
+                <MadCap:qrCode style="width: 120;">http://www.madcapsoftware.com</MadCap:qrCode>
+            </p>
+        </div>
+    </body>
+</html>

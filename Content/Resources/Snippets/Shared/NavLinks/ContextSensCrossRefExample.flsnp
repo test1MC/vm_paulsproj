@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say you use the plain {page} command. Perhaps the complete format that you create for a cross-reference style is this:</p>
+            <p class="Indented">See "{paratext}" on page {page}.</p>
+            <p>When you generate the output, this cross-reference will be converted to something like the following, regardless of where the link falls in relation to its destination:</p>
+            <p class="Indented">See "My Information" on page 42.</p>
+            <p>However, let's say that you use a slightly different format, something like this:</p>
+            <p class="Indented">See "{paratext}" {pageref}.</p>
+            <p>When you generate the output, what you see in place of {pageref} depends on the relative closeness of the link and the destination. It might be translated as any of the following:</p>
+            <p class="Indented">See "My Information" below.</p>
+            <p class="Indented">See "My Information" above.</p>
+            <p class="Indented">See "My Information" on previous page.</p>
+            <p class="Indented">See "My Information" on page 42.</p>
+        </div>
+    </body>
+</html>

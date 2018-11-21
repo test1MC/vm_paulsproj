@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Green dots indicate which dictionaries are supported by spell checkers and hyphenators. A <span class="EmphasisItalic">hyphenator</span> automatically inserts separators in an editor based on particular word patterns, as outlined in the dictionary file. Hyphenators are important only for certain languages.</p>
+    </body>
+</html>

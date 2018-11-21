@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="924" MadCap:lastWidth="933">
+    <body>
+        <p>You manage a team of users. You currently have a Task Calendar widget on your dashboard that is not filtered. It currently shows all tasks for all users, but you want a separate widget that shows only your own tasks. You decide to duplicate the widget, so you click the widget menu <img src="../../../Images/Central/settings-btn.png" alt="" title="" class="ReduceButtonSize" /> in the upper-right corner and choose <span class="Emphasis">Duplicate</span>.</p>
+        <p>
+            <img src="../../../Images/Central/widgets7.png" alt="" title="" class="MaxWidth80Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralWidgetsGuide" />
+        <p>Now you have two Task Calendar widgets that are exactly the same. Then in the new widget, you click <img src="../../../Images/Central/settings-btn.png" alt="" title="" class="ReduceButtonSize" /> and filter it by users, choosing your name.</p>
+        <p>
+            <img src="../../../Images/Central/widgets9.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralWidgetsGuide" />
+        <p>Keeping the tasks in two different widgets makes it easier to see which tasks belong to you and which ones belong to your team.</p>
+        <p>
+            <img src="../../../Images/Central/widgets6.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

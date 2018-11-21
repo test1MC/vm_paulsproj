@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="11" MadCap:lastHeight="2954" MadCap:lastWidth="551" style="mc-master-page: url('../../Resources/MasterPages/Shared/PDF_Topics/CentralIntegration.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Projects:features not supported;Builds:features not supported;Output:features not supported" />Flare Features Not Supported in MadCap Central</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Projects/FlareFeaturesNotSupportedCentralSummary.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Importing:Easy Sync;Easy Sync;Auto-Sync" />Auto-Sync of Import Files</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Resources/Snippets/Shared/Projects/NotSupportedAutoSyncImport.flsnp" />
+                    <MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../Importing/About-Importing.htm">About Importing</MadCap:xref>.</MadCap:conditionalText>
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Source control:get latest version;Projects:source control" />Automatically Get Latest Files </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>If you are working in a dual-bound scenario<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="Source-Control-Central.htm#DualBoundOnline">Dual-bound Projects</MadCap:xref>)</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.PrintOnly"> (see <MadCap:xref href="Source-Control-Central.htm#DualBoundPrint">Dual-bound Projects</MadCap:xref>)</MadCap:conditionalText> and you select the option in the target to automatically get the latest version of files before generating<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../../Shared/Source-Control/Linked-Topics/Getting-Latest-Version.htm">Updating or Getting the Latest Version of Source Control Files</MadCap:xref>)</MadCap:conditionalText>, this option will not work when you build from MadCap Central. Instead, you must first synchronize your files with source control in Flare and then push those changes to Central.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Custom Build Log Folder </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>In the Options dialog, Flare has a feature that lets you choose a custom folder to hold the log file after generating output<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../Interface/UI-Elements/Options-Dialog.htm">Options Dialog</MadCap:xref>)</MadCap:conditionalText>. This feature is not supported when building from MadCap Central. Instead, the log file is stored at the root level of the output folder.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Fonts" />Custom Fonts </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Projects/NotSupportedCustomFonts.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareMadCapCentralIntegrationGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Output:folders;Targets:output folder" />Custom Output Folder </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Flare targets let you choose a custom location for your output folder<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../Targets/More/Specifying-Output-File-Folder-in-Target.htm">Specifying the Output File and Folder in a Target</MadCap:xref>)</MadCap:conditionalText>. However, this is not supported when building from MadCap Central. You must use the default location.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Variables:date and time;Date/time variables" />Date/Time Variables </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Resources/Snippets/Shared/Projects/NotSupportedDateTimeVariables.flsnp" />
+                    <MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../Variables/Creating-Date-Time-Variables.htm">Creating Custom Date/Time Variables</MadCap:xref>.</MadCap:conditionalText>
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Building:output;Targets:building output;Output:building targets" />Global Ignored Warnings </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Resources/Snippets/Shared/Output/IgnoreWarningsSummary.flsnp" /> However, if you generate output from Central, global settings to ignore warnings are not supported; instead, you must ignore warnings in the target.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../Output/More-Building-Output/Ignoring-Warnings-When-Building-Output.htm">Ignoring Warnings When Building Output</MadCap:xref>.</MadCap:conditionalText></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Projects:merging;Merging:projects;Tables of contents:merging;Merging:tables of contents" />Linked Flare Projects </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Resources/Snippets/Shared/Projects/NotSupportedLinkedFlareProjects.flsnp" />
+                    <MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../TOCs/Merging-Projects.htm">Merging Projects</MadCap:xref>.</MadCap:conditionalText>
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Movies" />Linked Mimic Movies and Projects </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>When building from MadCap Central, external links to Mimic movies/projects will not work<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../Multimedia/Movies/Movies.htm">Movies</MadCap:xref>)</MadCap:conditionalText>. However, embedded movies in a Flare project are supported.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Language support" />Multilingual Output </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Resources/Snippets/Shared/Projects/NotSupportedMultilingualOutput.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Language-Support/About-Language-Support.htm#Multilin">Multilingual Output</MadCap:xref>.</MadCap:conditionalText></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Targets:build events" />Pre- and Post-Build Events </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Resources/Snippets/Shared/Projects/NotSupportedPrePostBuildEvents.flsnp" />
+                    <MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../Targets/More/Creating-Pre-Post-Build-Events.htm">Creating Pre- and Post-Build Events</MadCap:xref>.</MadCap:conditionalText>
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Publishing:destinations;Destinations:creating" />Publishing to Outside Servers </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Flare lets you create destination files for the purpose of publishing to external servers<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../Output/Creating-Publishing-Destinations.htm">Creating Publishing Destinations</MadCap:xref>)</MadCap:conditionalText>. This feature is not supported when building from MadCap Central. Instead, live builds are always published in Central.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareMadCapCentralIntegrationGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Some Output Formats (Building) </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Projects/NotSupportedOutputsBuilding.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Some Output Formats (Viewing) </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Projects/NotSupportedOutputFormatsViewing.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.Future">Not working</p>
+        <p MadCap:conditions="General.Future">•	dynamic ePub targets- Bug 122044</p>
+        <p MadCap:conditions="General.Future">•	custom file extensions from Advanced tab - Bug 119254</p>
+        <p MadCap:conditions="General.Future">•	custom file extensions in output file tab - Bug 122601</p>
+        <p MadCap:conditions="General.Future">•	variables in output file field - Bug 122097</p>
+    </body>
+</html>

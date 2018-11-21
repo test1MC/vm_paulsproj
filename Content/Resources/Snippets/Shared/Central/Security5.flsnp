@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central" MadCap:lastBlockDepth="6" MadCap:lastHeight="697" MadCap:lastWidth="1381">
+    <body>
+        <p>Every MadCap Central subscription includes access to our highly scalable cloud-based build server. Because MadCap Central is a cloud-based solution, content creators can rapidly generate and publish their content with minimal effort while benefiting from a high level of security, scalability, and durability, something that would otherwise require skilled IT resources to implement. Published output is hosted on a robust, secure, geographically redundant web application server.</p>
+        <p>With that in mind, the following are important considerations:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Reduced Hosting Costs </span>You can host all of your projects within Central and never worry about managing or scaling costly web servers. Whether you have a small, single project or several large projects, you can host and manage all of your content in one place.</li>
+            <li><span class="SetOffFirstLevel">Automation and Convenience </span>From Central, you generate and publish output with minimal effort. You also have the ability to quickly roll back published outputs when necessary, with the click of a button. Builds can be initiated manually or they can be scheduled. All of this can be done from any device supporting the browser-based interface.</li>
+            <li><span class="SetOffFirstLevel">Availability and Monitoring </span>Your content is vital to your company, so 24-hour availability of the web server is crucial, as is constant uptime monitoring. All components of MadCap Central are monitored 24 hours a day, 7 days a week, 365 days a year using remote monitoring systems. MadCap Software has staff on hand to respond to outages and security breaches.</li>
+            <li><span class="SetOffFirstLevel">Security Management </span>Data in MadCap Central is secured in the following ways:<ul class="SecondLevel"><li>Web services have built-in load balancers to stave off most DOS (Denial-Of-Service) attacks.</li><li>We provide unauthorized access monitoring and incident response. Any breaches in data security will be reported to affected customers.</li><li>User portal and API endpoints (i.e., the connection between Flare and Central) are secured via user authentication.</li><li>All data endpoints are secured using SSL. The user portal, API endpoints, source control provider (Git), and all backend system communications are all encrypted.</li><li>Published builds that are not set to “Live” are secured by user authentication.</li></ul></li>
+            <MadCap:pageBreak MadCap:conditions="General.PrintOnly" />
+            <li>
+                <p><span class="SetOffFirstLevel">Scalability </span>As your content management needs grow, so will your demands for a system that dynamically scales as well. Over time, the builds that you generate on Central will consume more and more space. Central offers ease with scalability for your output, which helps to eliminate worries about CPU, memory, and disk-intensive projects.</p>
+                <p>
+                    <img src="../../../Images/Shared/CentralSecurityScalable.jpg" class="MaxWidth100Percent" />
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p class="TableText">A cell is a single rectangular or square area within a table, where you can add text and other content. Each cell has its own set of gridlines that separate it from the other cells in the table. For example, the paragraph you are reading is contained in one cell.</p>
+    </body>
+</html>

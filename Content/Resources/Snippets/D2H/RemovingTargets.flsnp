@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="122" MadCap:lastWidth="798">
+    <body>
+        <p>If you remove targets from your project in the Help Targets dialog <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">(see <MadCap:xref href="../../../D2H/Output/Editing-Target-Settings.htm">Editing Target Settings</MadCap:xref>)</MadCap:conditionalText>, you will not see these targets when viewing Target drop-downs in Word (e.g., in the Contents window pane or in the Doc-To-Help Build panel).<MadCap:conditionalText MadCap:conditions="D2HGuides.D2HNewUserTutorialGuide"> For more information, see the online Help.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.OnlineOnly,Snippets.Snippet2"> For more information, see <MadCap:xref href="../../../D2H/Interface/UI-Elements/Contents-Pane-Word.htm">Contents Window Pane (Word)</MadCap:xref> and <MadCap:xref href="../../../D2H/Interface/UI-Elements/Build-Panel.htm">Doc-To-Help Build Panel</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

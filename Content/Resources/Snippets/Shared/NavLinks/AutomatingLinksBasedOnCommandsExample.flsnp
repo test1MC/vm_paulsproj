@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say that you have created autonumbers in order to number all of your figures. Perhaps your autonumber format is set up to show the word "Figure" followed by an incremented number and a colon (e.g., Figure 4:, Figure 5:, Figure 6:). In addition, wherever you apply autonumbering in a topic, you might manually type a short description of the image (e.g., Properties Dialog). So in the output under the graphic, the user might see something like this:</p>
+            <p class="Indented">Figure 4: Properties Dialog</p>
+            <p>Now let's say that you want to insert a cross-reference in another topic that points the user to the Figure 4 graphic. To do this, first of all you would probably want to insert a bookmark at that autonumber location so that you can point directly to that paragraph when you insert the cross-reference. Then you can create a special cross-reference format that includes the autonumber portion of that paragraph. The following two autonumber commands can be used:</p>
+            <p><span class="Emphasis">{paranum}</span> This command displays all of the content in the autonumber format, including any text before an autonumber, the autonumber itself, and any text after the autonumber. Using the example provided above, this command would display something like this in the cross-reference:</p>
+            <p class="Indented">Figure 4:</p>
+            <p><span class="Emphasis">{paranumonly}</span> This command displays any text before an autonumber and the autonumber itself. However, it does not show any text after the autonumber (such as a colon). Using the example provided above, this command would display something like this in the cross-reference:</p>
+            <p class="Indented">Figure 4</p>
+            <p>In addition, if you want to include any text that you manually add in the topic after the autonumber format, you can add the <span class="Emphasis">{paratext}</span> command to the cross-reference format. Using the example provided above, this command would display something like this in the cross-reference:</p>
+            <p class="Indented">Properties Dialog</p>
+            <p>Therefore, suppose your entire cross-reference format is this: </p>
+            <p class="Indented">See "{paranum} {paratext}"</p>
+            <p>In that case, the output would display something like this: </p>
+            <p class="Indented">See "Figure 4: Properties Dialog"</p>
+            <p>On the other hand, suppose your entire cross-reference format is this:</p>
+            <p class="Indented">See "{paranumonly} {paratext}"</p>
+            <p>In that case, the output would display something like this (without the colon): </p>
+            <p class="Indented">See Figure 4 Properties Dialog</p>
+            <p>Again, when you insert the cross-reference in a topic, make sure you select the format that you created, and also remember to link to the bookmarked paragraph where the autonumber appears.</p>
+        </div>
+    </body>
+</html>

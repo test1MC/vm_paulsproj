@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="139" MadCap:lastWidth="739" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>Use this method to quickly insert the first word located after your cursor as an index keyword.</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Advantage </span>It is extremely fast.</li>
+            <li><span class="SetOffFirstLevel">Disadvantage </span>It is not the method to use if you want to customize your phrase or add a second-level keyword. The word located immediately after the cursor is exactly what will be displayed in the index. </li>
+        </ul>
+    </body>
+</html>

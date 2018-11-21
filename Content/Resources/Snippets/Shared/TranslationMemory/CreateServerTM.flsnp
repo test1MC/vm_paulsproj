@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <p>For a server TM, in the <span class="Emphasis">Name of new database</span> field, type a name for the TM database. Next to the <span class="Emphasis">Database server</span> field, click <img src="../../../Images/Shared/browse_ellipses.png" class="ReduceButtonSize" />. The Connect to SQL Server dialog opens, displaying a list of usable servers after Lingo scans your network. In the <span class="Emphasis">Connection timeout</span> field, you can adjust the number of seconds to allow a connection to the server to be successful. In the <span class="Emphasis">Authentication</span> section, you can use Windows Integrated Security (the default), or you can enter a specific user name and password for the server (if necessary). If you elect to use <MadCap:keyword term="Windows Integrated Security" />Windows Integrated Security, leave the user name and password fields blank. Otherwise, if your server requires specific credentials, enter them in the fields provided. </p>
+    </body>
+</html>

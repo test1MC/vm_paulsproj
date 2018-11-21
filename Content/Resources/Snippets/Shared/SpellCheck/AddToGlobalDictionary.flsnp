@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare,Products.Lingo">
+    <body>
+        <p><MadCap:variable name="Other.Product" /> adds the word to a global dictionary so that it is not flagged as a questionable spelling in the future. The word will also be displayed as a suggestion for future questionable spellings that are very similar. Suggestions can be used by any projects pointing to the dictionary.</p>
+    </body>
+</html>

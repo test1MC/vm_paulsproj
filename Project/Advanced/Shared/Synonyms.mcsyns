@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapSynonyms
+  conditions="Products.AllProductsPlusDocBible">
+  <Groups>
+    <SynonymGroup
+      Stem="true">
+      <Word>localization</Word>
+      <Word>language</Word>
+    </SynonymGroup>
+    <SynonymGroup
+      Stem="true">
+      <Word>video</Word>
+      <Word>movie</Word>
+    </SynonymGroup>
+    <SynonymGroup
+      Stem="true">
+      <Word>picture</Word>
+      <Word>image</Word>
+    </SynonymGroup>
+    <SynonymGroup
+      Stem="true">
+      <Word>source control</Word>
+      <Word>version control</Word>
+    </SynonymGroup>
+    <SynonymGroup
+      Stem="true">
+      <Word>conditional text</Word>
+      <Word>condition tag</Word>
+      <Word>condition</Word>
+    </SynonymGroup>
+    <SynonymGroup
+      Stem="true">
+      <Word>snap</Word>
+      <Word>grid</Word>
+    </SynonymGroup>
+    <SynonymGroup
+      Stem="true">
+      <Word>auto-generate</Word>
+      <Word>autogenerate</Word>
+    </SynonymGroup>
+    <SynonymGroup
+      Stem="true">
+      <Word>right to left</Word>
+      <Word>right-to-left</Word>
+    </SynonymGroup>
+    <SynonymGroup
+      Stem="true">
+      <Word>left to right</Word>
+      <Word>left-to-right</Word>
+    </SynonymGroup>
+  </Groups>
+  <Directional />
+</MadCapSynonyms>

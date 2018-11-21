@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>
+            <MadCap:keyword term="Read only" />Use this tab to mark the files as "Read Only" so that they cannot be modified. Other information is also shown on this tab, although the word "multiple" will often display in many of the fields (rather than the actual data) if more than one file has been selected.</p>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="533" MadCap:lastWidth="1518">
+    <body>
+        <ol style="list-style-type: lower-alpha;">
+            <li>In the Google Search Console, click <span class="Emphasis">Fetch as Google</span>.</li>
+            <li>
+                <p>In the text field, enter a page in your output that contains many links. For example, in the Top Navigation and PDF Advanced project template in Flare, the “Home.htm” topic is the landing page and contains links to multiple topics, so in that case you would enter Content/Home.htm in the field.</p>
+                <p>
+                    <img src="../../../Images/Flare/google_search12.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>Click <span class="Emphasis">Fetch and Render</span>.</li>
+            <li>
+                <p>After the status finishes processing, click <span class="Emphasis">Request indexing</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/google_search13.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>In the popup, click <span class="Emphasis">I’m not a robot</span>.</li>
+            <li>Click <span class="Emphasis">Crawl this URL and its direct links</span>.</li>
+            <li>Click <span class="Emphasis">Go</span>.</li>
+            <li>Continue with the following steps to exclude your TOC from indexing.</li>
+        </ol>
+    </body>
+</html>

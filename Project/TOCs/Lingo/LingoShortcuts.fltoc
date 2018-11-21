@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Lingo">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Lingo/TitleLingo.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Shortcut Keys"
+    Link="/Content/Print-Only-Topics/Lingo/Shortcuts/Keyboard-Shortcuts-Keys.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/CheatSheetLegalFirstPage4Columns.flpgl"
+    PageNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="Keyboard_Shortcuts_Keys2"
+    Link="/Content/Print-Only-Topics/Lingo/Shortcuts/Keyboard-Shortcuts-Keys2.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/CheatSheetLegal4Columns.flpgl" />
+  <TocEntry
+    Title="Shortcuts Tasks"
+    Link="/Content/Print-Only-Topics/Lingo/Shortcuts/Keyboard-Shortcuts-Tasks.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/CheatSheetLegal4Columns.flpgl"></TocEntry>
+</CatapultToc>

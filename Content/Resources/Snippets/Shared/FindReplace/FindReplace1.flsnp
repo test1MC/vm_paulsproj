@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Lingo">
+    <body>
+        <p>From time to time, you may need to search for (and replace) specific text<MadCap:conditionalText MadCap:conditions="Products.Analyzer"> or elements</MadCap:conditionalText> in your project.</p>
+    </body>
+</html>

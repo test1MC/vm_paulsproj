@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Unlike the other print-based outputs, Microsoft Word does not automatically use left and right pages after First Left and First Right page types. Instead, you must force chapter breaks and specify the page type on every topic in the outline TOC if you want different pages of the layout to be used.</p>
+        </div>
+    </body>
+</html>

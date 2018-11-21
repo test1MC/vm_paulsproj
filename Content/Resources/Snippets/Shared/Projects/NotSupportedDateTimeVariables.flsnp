@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <p>Because target generation occurs on a server with MadCap Central, date/time variables are not supported.</p>
+    </body>
+</html>

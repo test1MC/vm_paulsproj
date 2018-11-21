@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare,Products.Analyzer">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="OpenPageLayoutStep.flsnp" />
+            </li>
+            <li>In the local toolbar, click the down arrow next to the <span class="Emphasis">Page Properties</span> button <img src="../../../Images/Shared/page_properties_btn.png" class="ReduceButtonSize" />.</li>
+            <li>
+                <p>From the drop-down select <span class="Emphasis">Add Page</span>, and from the menu select one of the following.</p>
+                <MadCap:snippetBlock src="PageTypeOptionsList.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

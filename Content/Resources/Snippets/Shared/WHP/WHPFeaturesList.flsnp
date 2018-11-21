@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="6" MadCap:lastHeight="652" MadCap:lastWidth="884">
+    <body>
+        <p>Following are some of the key features of the <MadCap:variable name="Outputs.WebHelp Plus" /> format.</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">WebHelp Features </span>This format lets you take advantage of features and benefits available with the regular <MadCap:variable name="Outputs.WebHelp" /> output type.</li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Search;Search:optimization" />Sitemap/Search Engine Optimization (SEO) </span>
+                <MadCap:snippetText src="../../Flare/Targets/GenerateSitemap.flsnp" />
+                <MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Targets/More/Generating-Sitemaps-for-Search-Engine-Optimization.htm" target="" title="" alt="">Generating Sitemaps for Search Engine Optimization</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+            <li><span class="SetOffFirstLevel">Multiple Platforms </span>This format is a good choice if you publish your output to a machine running <MadCap:keyword term="Microsoft Windows XP" />Windows XP, <MadCap:keyword term="Microsoft Windows Server 2003" />Windows Server 2003, <MadCap:keyword term="Microsoft Windows Server 2008" />Windows Server 2008, <MadCap:keyword term="Microsoft Windows 7" />Windows 7, or <MadCap:keyword term="Microsoft Windows Vista" />Windows Vista.</li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Search:non-XHTML files;WebHelp Plus:search;Search:WebHelp Plus" />Searching of Non-XHTML Content </span>
+                <MadCap:snippetText src="SearchNonXHTMLFiles.flsnp" />
+                <MadCap:snippetText src="SearchNonXHTMLFiles3.flsnp" />
+                <MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareWebHelpGuide"> See <MadCap:xref href="../../../../Flare/Output/WebHelp-Plus-Output/Search/Including-Non-XHTML-Files-Search.htm">Including Non-XHTML Files in Search</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="WebHelp Plus:search;Search:WebHelp Plus" />Faster Searching </span>
+                <MadCap:snippetText src="FasterSearching.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Projects:merging;Merging:projects;Merging:WebHelp Plus;WebHelp Plus:merging" />Automatic Runtime Merging of Flare Projects </span>
+                <MadCap:snippetText src="AutomaticRuntimeMerging.flsnp" />
+                <MadCap:conditionalText MadCap:conditions="FlareGuides.FlareWebHelpGuide,General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Output/WebHelp-Plus-Output/AutoMerge/Merging-Output-Runtime-Using-WebHelp-Plus.htm">Merging Output at Runtime Using WebHelp Plus</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+        </ul>
+    </body>
+</html>

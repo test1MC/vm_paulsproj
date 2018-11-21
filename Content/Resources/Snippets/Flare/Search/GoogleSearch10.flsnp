@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="150" MadCap:lastWidth="1518">
+    <body>
+        <p>From your account, you can see the progress of your indexed pages.</p>
+        <ol style="list-style-type: lower-alpha;">
+            <li>Go back to the second browser tab showing your Google Search Console.</li>
+            <li>Expand <span class="Emphasis">Crawl</span> and click <span class="Emphasis">Sitemaps</span>.</li>
+        </ol>
+        <p>It might be awhile before you see actual results, so return to this page periodically.</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>If you insert cross-references into topics and then later edit the formats for those cross-references<MadCap:conditionalText MadCap:conditions="Products.Flare"> (or make other changes in the project that might affect them)</MadCap:conditionalText>, you can update the cross-references in a topic. By updating cross-references, you are essentially refreshing them so that they reflect any pertinent changes<MadCap:conditionalText MadCap:conditions="Products.Flare"> in the project</MadCap:conditionalText> since you inserted them.</p>
+    </body>
+</html>

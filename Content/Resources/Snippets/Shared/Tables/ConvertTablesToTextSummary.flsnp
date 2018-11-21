@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>If you have a table containing text, you can remove the table but keep the text. When doing this, you can choose how the converted text should be represented: paragraphs, separated with commas, separated with text.</p>
+    </body>
+</html>

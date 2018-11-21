@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <head>
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <ol>
+            <li>Right-click on the snippet where it is inserted and select <span class="Emphasis">Select New Snippet</span>. The Insert Snippet Link dialog opens.</li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="SelectASnippet.flsnp" />
+                    <MadCap:conditionalText MadCap:conditions="Products.Analyzer">For more information about pinned and recently used snippets, see the Flare online Help.</MadCap:conditionalText>
+                </p>
+                <p>
+                    <img src="../../../Images/Shared/insert_snippet_link_dialog.png" alt="" title="" class="MaxWidth80Percent" />
+                </p>
+                <MadCap:snippetBlock src="../UIElements/MultiViewTable2.flsnp" />
+                <p class="note" MadCap:conditions="Products.Flare" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you select a snippet file outside the project, that file is then copied and placed inside the project. The image file is stored in the Resources\Snippets folder of the Content Explorer.</p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /> The original snippet is replaced by the new snippet.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

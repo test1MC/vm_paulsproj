@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say that you have created in your stylesheet a class of the object style called "BigMargin" (i.e., object.BigMargin) and you have set the margin for all sides of that class to 1 inch. Rather than using the default parent object style when you insert the audio, you select object.BigMargin from the Style Class drop-down. As a result, 1 inch of space is added around the audio interface in the output.</p>
+        </div>
+    </body>
+</html>

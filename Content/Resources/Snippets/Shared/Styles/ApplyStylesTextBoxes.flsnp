@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="148" MadCap:lastWidth="1091" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>When you insert a text box, it uses a div tag in the content file. So you can change the look of a text box container by selecting another div style class.</p>
+        <ol class="LowerAlpha">
+            <li>Right-click the <span class="Emphasis">div</span> structure bar being used for the text box.</li>
+            <li>
+                <p>&#160;Select <span class="Emphasis">Style Class &gt; [Name of Style]</span>.</p>
+                <p>If you want to choose an ID, you can select <span class="Emphasis">Style ID&gt;[Name of ID]</span>.</p>
+            </li>
+        </ol>
+    </body>
+</html>

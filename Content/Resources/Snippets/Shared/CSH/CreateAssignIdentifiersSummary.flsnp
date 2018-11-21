@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="243" MadCap:lastWidth="848">
+    <body>
+        <p>The first steps in developing context-sensitive Help (CSH) for your project are to add a header file and add an alias file. After this, you need to work on the <MadCap:keyword term="Context-sensitive Help:identifiers;Identifiers" />identifiers for the header file.</p>
+        <ul>
+            <li>If it is decided that you are responsible for creating the header file in CSH, you need to create <span class="EmphasisItalic">and</span> assign identifiers in the Alias Editor.</li>
+            <li>If it is decided that the software developer is responsible for creating the header file in CSH, you only need to assign the identifiers, which should already be contained in the header file that the developer provides for you. Before assigning the identifiers in the alias file, you must first import the header file from the developer so that it is located in the Advanced folder in the Project Organizer. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/CSH/More-Header-Files/Importing-Header-Files.htm">Importing Header Files</MadCap:xref>.</MadCap:conditionalText></li>
+        </ul>
+    </body>
+</html>

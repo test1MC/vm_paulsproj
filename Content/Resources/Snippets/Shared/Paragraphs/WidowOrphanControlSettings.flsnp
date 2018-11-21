@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>By default, the setting for both widow and orphan control is 2. In other words, <MadCap:variable name="Other.Product" /> will always ensure that at least two lines are shown at the top or bottom of a page. If there is only one line, <MadCap:variable name="Other.Product" /> adjusts the text on the page accordingly. If you want to change the default setting, you can do so.</p>
+    </body>
+</html>

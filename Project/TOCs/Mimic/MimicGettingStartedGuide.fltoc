@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Mimic">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Mimic/TitleMimic.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Mimic/TitleMimic.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageType="firstright" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/Mimic/Introduction/Welcome-Mimic.htm"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="(multiple)"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    BreakType="chapter"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 2 Step 1: Creating a Movie Project"
+    Link="/Content/Mimic/Multimedia/Movie-Collections/Creating-Movie-Collection.htm"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    BreakType="chapter"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 3 Step 2: Recording Movies"
+    StartSection="false"
+    Link="/Content/Mimic/Multimedia/Movies-Creating/Recording-Movies.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    BreakType="chapter"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 4 Step 3: Enhancing a Movie"
+    StartSection="false"
+    Link="/Content/Mimic/Steps/Editing-Movie.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    BreakType="chapter"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 5 Step 4: Building Movie Output"
+    Link="/Content/Mimic/Output/Building-Movie-Output.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 6 Step 5: Distributing Output"
+    Link="/Content/Mimic/Output/Distributing-Output-Mimic.htm"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    BreakType="chapter"
+    PageType="firstright">
+    <TocEntry
+      Title="Publishing Output"
+      Link="/Content/Mimic/Output/Publishing-Output-Mimic.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Mimic/PDF-Guides/PDF-Guides-Mimic.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright" />
+</CatapultToc>

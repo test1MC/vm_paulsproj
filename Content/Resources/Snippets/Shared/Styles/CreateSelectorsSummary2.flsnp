@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>You can create selectors from the Stylesheet Editor or from a content file (i.e., topic, snippet, master page). If you use the Stylesheet Editor, you can create more kinds of selectors. If you use the content file, the process can sometimes be faster.</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare,Products.Lingo">
+    <body>
+        <p><MadCap:variable name="Other.Product"></MadCap:variable> adds the word to the dictionary so that it is not flagged as a questionable spelling in the future. The word will also be displayed as a suggestion for future questionable spellings that are very similar. <MadCap:conditionalText MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo">The kind of dictionary (Global or Project) to which it is added is determined by the selection in the next field.</MadCap:conditionalText></p>
+    </body>
+</html>

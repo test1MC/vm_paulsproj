@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare,Products.Analyzer">
+    <body>
+        <div class="warning">
+            <p class="warningInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Red;&quot; class=&quot;mcFormatColor&quot;&gt;Warning: &lt;/span&gt;&lt;/b&gt;">Make sure you at least add a body frame to each new page that you create. Otherwise, your output will not work as you want it to.</p>
+        </div>
+    </body>
+</html>

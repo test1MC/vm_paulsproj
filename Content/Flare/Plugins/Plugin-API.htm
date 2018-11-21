@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="2366" MadCap:lastWidth="895" MadCap:ignoredWords="english">
+    <head><title></title>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Plug-in API;API:plug-in" />Plug-In API</h1>
+        <p>
+            <MadCap:snippetText src="../../Resources/Snippets/Shared/PlugIns/PlugInAPIIntro.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PlugIns/PlugInAPI2.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to integrate your dll</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PlugIns/PlugInAPISteps.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>flare plug-in api and <MadCap:keyword term="Simplified Technical English;Controlled language" />controlled language with simplified technical english</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>One of the most common uses for the Flare plug-in API is to implement controlled language with Simplified Technical English (STE). This lets you validate the language and terminology used in your Flare content, ensuring the use of standardized vocabulary and style, while improving consistency, eliminating ambiguity, and reducing complexity. This also means you can ensure compliance with corporate terminology and style guide rules.</p>
+                <p>Two STE solutions that can be integrated with Flare come from Acrolinx  (<a href="http://acrolinx.com/" target="_blank">acrolinx.com</a>) and Tedopres  (<a href="http://tedopres.com/" target="_blank">tedopres.com</a>).</p>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example</p>
+                    <p>Let's say you use Tedopres HyperSTE, which is one of the leading software solutions for STE. You want to integrate HyperSTE with your Flare project so that you can take advantage of controlled language when you write topics and snippets. You might do the following to set it all up and use it.</p>
+                    <div class="IndentSmall">
+                        <p class="Subheading">register hyperste and enable the plug-in</p>
+                        <ol>
+                            <li>Install HyperSTE and launch it.<ol class="LowerAlpha"><li><p>Select <span class="Emphasis">HyperSTE for MadCap Flare</span>.</p><p><img src="../../Resources/Images/Flare/hyper_ste_flare.png" alt="" title="" class="MaxWidth90Percent" /></p></li><li>Don't launch the license server.</li><li>Click <span class="Emphasis">Finish</span>.</li></ol></li>
+                            <li>Open a Flare project and select <span class="Emphasis">File &gt; Options</span>. The Options dialog opens.</li>
+                            <li>Select the <span class="Emphasis">Plugins</span> tab.</li>
+                            <li>Click <span class="Emphasis">Enable</span>.</li>
+                            <li>
+                                <p>Select the <span class="Emphasis">HyperSTE</span> ribbon and click <span class="Emphasis">Check Document</span>.</p>
+                                <p>
+                                    <img src="../../Resources/Images/Flare/hyper_ste_ribbon.png" alt="" title="" class="MaxWidth90Percent" />
+                                </p>
+                            </li>
+                            <li>When you check a document for the first time, the HyperSTE plugin looks for your associated license.  If you don’t have a license already, you’ll need to request one from Tedopres. To request a trial license of HyperSTE, contact <a href="mailto:STE@tedopres.com" target="_blank">STE@tedopres.com</a>.</li>
+                            <li>When a license file is returned, save it on your machine.</li>
+                            <li>From the <span class="Emphasis">HyperSTE</span> ribbon, click <span class="Emphasis">Check Document</span>.</li>
+                            <li>When the licensing UI launches, select <span class="Emphasis">I have a license</span>.  This launches the HyperSTE configuration wizard.</li>
+                            <li>Click <span class="Emphasis">Next</span> and set up HyperSTE, filling out the information as needed.</li>
+                            <li>Browse for the <span class="Emphasis">V2C</span> file and click <span class="Emphasis">Next</span>.</li>
+                            <li>Select a dictionary file (acquired from Tedopres).</li>
+                        </ol>
+                        <p class="Subheading">use hyperste to check a content file in flare</p>
+                        <ol>
+                            <li>Open a project in Flare.</li>
+                            <li>Open the topic you want to validate.</li>
+                            <li>From the <span class="Emphasis">HyperSTE</span> ribbon, click <span class="Emphasis">Check Document</span>.</li>
+                            <li>
+                                <p>Click on highlighted words throughout the topic. Notice the HyperSTE window explaining the terms and usage.</p>
+                                <p>
+                                    <img src="../../Resources/Images/Flare/hyper_ste_flare2.png" alt="" title="" class="MaxWidth90Percent" />
+                                </p>
+                            </li>
+                        </ol>
+                        <p>You can also use the other features shown in the HyperSTE ribbon in Flare.</p>
+                    </div>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PlugIns/NotePlugInAPI.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Here is an example of a multi-level ordered list.</p>
+            <p>
+                <img src="../../../Images/Flare/complex_selectors1.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>You want to add an advanced selector so each level of the list will use a different style. To do this, you need to create (or edit) three different styles:&#160;the ol style, the ol ol advanced selector (for &lt;ol&gt; tags residing inside another &lt;ol&gt; tag), and the ol ol ol advanced selector (for &lt;ol&gt;&#160;tags residing inside two other &lt;ol&gt; tags).</p>
+            <p>You already have an ol style in your stylesheet, so you can edit this style. Let's say you want to make the style blue. This will affect the first level of your list.</p>
+            <p>
+                <img src="../../../Images/Flare/complex_selectors2.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>Now you create a new ol ol advanced selector. You edit the style properties so the second level of the list will be green and bold.</p>
+            <p>
+                <img src="../../../Images/Flare/complex_selectors3.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>Now you create another advanced selector:&#160;ol ol ol. You edit the style properties so the third level of the list will be red and italic.</p>
+            <p>
+                <img src="../../../Images/Flare/complex_selectors4.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>When you view the multi-level list in your topic, it looks like this:</p>
+            <p>
+                <img src="../../../Images/Flare/complex_selectors5.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

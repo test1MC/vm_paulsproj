@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">center</span> Aligns the text on the center of the page or column.</li>
+            <li><span class="SetOffFirstLevel">inherit</span> Uses the alignment setting of the parent tag.</li>
+            <li><span class="SetOffFirstLevel">justify</span> Aligns the text so that it is flush with both the left and right side.</li>
+            <li><span class="SetOffFirstLevel">left</span> Aligns the text on the left side of the page or column.</li>
+            <li><span class="SetOffFirstLevel">right</span> Aligns the text on the right side of the page or column.</li>
+        </ul>
+    </body>
+</html>

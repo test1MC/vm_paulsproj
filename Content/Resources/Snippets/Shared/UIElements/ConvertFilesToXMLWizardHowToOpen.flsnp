@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel">Ribbon</span>
+                        <MadCap:snippetText src="SelectViewRibbon.flsnp" /> In the <span class="Emphasis">Explorer</span> section select <span class="Emphasis">File List</span>.</li>
+                    <li><span class="SetOffFirstLevel">Keyboard Shortcut</span> Press <span class="Emphasis">CTRL+SHIFT+J</span>.</li>
+                </ul>
+                <p>The File List window pane opens.</p>
+            </li>
+            <li>Select multiple non-XML (HTM) files. You can hold down your <span class="Emphasis">SHIFT</span> or <span class="Emphasis">CTRL</span> key and select a range or individual files.</li>
+            <li>Right-click and select <span class="Emphasis">Convert to XML</span>.</li>
+        </ol>
+    </body>
+</html>

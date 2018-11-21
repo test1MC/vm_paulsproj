@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare,Products.Lingo,Products.Mimic">
+    <body>
+        <ul style="list-style-type: square;">
+            <li><span class="SetOffFirstLevel">Use default location </span>Select this if you want your global dictionaries to be stored in the App Data folder on your computer.</li>
+            <li><span class="SetOffFirstLevel">Use custom location </span>Select this if you want to place your global dictionaries in any folder you choose on your computer or on a network drive. After selecting this option, click <img src="../../../Images/Shared/browse_ellipses.png" class="ReduceButtonSize" /> and choose the folder location. If you select a location on your network, any  authors with access to that location can use the same dictionary.</li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="318" MadCap:lastWidth="1156" MadCap:fileTags="Flare/FlareTopicAuthor.Kate">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>Following are some of the key features of the <MadCap:variable name="Outputs.EclipseHelp" /> format:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Eclipse Help Plug-In and Extension Points </span>This output type is particularly useful when you want to create  dynamic, searchable content that integrates into the Eclipse workbench as a platform plug-in. Flare generates an XML-based plug-in file (plugin.xml) that specifies the context Help (csh.xml), index (index.xml), and table of contents (toc.xml) files that Eclipse needs to load your Flare content in the <MadCap:variable name="Outputs.EclipseHelp">hunNp</MadCap:variable> system.</li>
+            <li><span class="SetOffFirstLevel">Eclipse Help Viewer and Dynamic Help Window </span>You can generate the <MadCap:variable name="Outputs.EclipseHelp">o</MadCap:variable> output for viewing with the Eclipse Help Viewer and the Eclipse Dynamic Help window, which displays context-sensitive Help and search results.</li>
+            <li><span class="SetOffFirstLevel">Distribute Server-based or Local Content </span>Your Eclipse content can be distributed over the web via an Eclipse InfoCenter server or on local systems with a pared down version of Eclipse, which provides the search capabilities and skin for the Eclipse Help Viewer.</li>
+            <li><span class="SetOffFirstLevel">Publish Content as a Collection of Files or Single JAR&#160;File </span>This format lets you publish the output for the Eclipse Help plug-in as a series of files in a folder or bundled in a single Java archive (JAR)&#160;file. </li>
+        </ul>
+    </body>
+</html>

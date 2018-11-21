@@ -1,0 +1,822 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="11671" MadCap:lastWidth="580">
+    <head>
+        <link href="../../../TableStyles/Shared/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="margin-left: 0;margin-right: auto;mc-table-style: url('../../../TableStyles/Shared/BasicAlternateRows.css');" class="TableStyle-BasicAlternateRows" cellspacing="0">
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 43px;" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Icon</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Extension</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/stylesheet_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="CSS file" />CSS</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Regular stylesheets and table stylesheets. These are content files stored in the Content Explorer (Resources &gt; Stylesheets and Resources &gt; TableStyles folders by default).</p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Styles/RegularAndTableStylesheets.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Styles/About-Styles-Stylesheets.htm">About Styles and Stylesheets</MadCap:xref>, <MadCap:xref href="../../../../Flare/Styles/About-Regular-Stylesheets.htm">About Regular Stylesheets</MadCap:xref>, and <MadCap:xref href="../../../../Flare/Styles/About-Table-Stylesheets.htm">About Table Stylesheets</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/auto_index_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLAIX file" />FLAIX</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Auto index sets. These are project files stored in the Project Organizer (Advanced folder).</p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../Indexes/AutoIndexSummary.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Indexes/Creating-Auto-Indexes.htm">Creating Auto-Indexes</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p>
+                            <img src="../../../Images/Flare/alias_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLALI file" />FLALI</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Alias files. These are project files stored in the Project Organizer (Advanced folder).</p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../CSH/AliasFileSummary.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/CSH/About-Alias-Files.htm">About Alias Files</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/batch_target_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLBAT file" />FLBAT</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Batch targets. These are project files stored in the Project Organizer (Targets folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Targets/BatchTargetSummary.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Output/Building-Output-Using-Batch-Target.htm">Building Output Using a Batch Target</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/browse_sequence_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLBRS file" />FLBRS</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Browse sequences. These are project files stored in the Project Organizer (Advanced folder). </p>
+                        <MadCap:snippetBlock src="../../Shared/BrowseSeq/BrowseSequenceSummary.flsnp" />
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Browse-Sequences/About-Browse-Sequences.htm">About Browse Sequences</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/condition_tag_set_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLCTS file" />FLCTS</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Condition tag sets. These are project files stored in the Project Organizer (Conditional Text folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Conditions/ConditionTagSetSummary.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Conditions/About-Condition-Tags.htm">About Conditions</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/destinations_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLDES file" />FLDES</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Destinations. These are project files stored in the Project Organizer (Destinations folder). </p>
+                        <MadCap:snippetBlock src="../Destinations/DestinationsDefinition.flsnp" />
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Output/Creating-Publishing-Destinations.htm">Creating Publishing Destinations</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/export_files_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLEXP file" />FLEXP</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Export files. These are project files stored in the Project Organizer (Exports folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Exports/ExportProjectSummary.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Exporting/Exporting-Projects.htm">Exporting Projects</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/file_tags_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLFTS file" />FLFTS</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">File tag sets. These are project files stored in the Project Organizer (Advanced folder). </p>
+                        <MadCap:snippetBlock src="../../Shared/FileTags/FileTagsSummary.flsnp" />
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/File-Tagging/About-File-Tagging.htm">About File Tagging</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/glossary_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLGLO file" />FLGLO</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Glossaries. These are project files stored in the Project Organizer (Glossaries folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Glossaries/GlossarySummary.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Glossaries/About-Glossaries.htm">About Glossaries</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/import_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLIMP file" />FLIMP</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Word import files. These are project files stored in the Project Organizer (Imports folder). </p>
+                        <p class="TableText">You can import Microsoft Word files into Flare.</p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Importing/Importing-Word-Files.htm">Importing Word Files</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/import_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLIMPDITA file" />FLIMPDITA</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">DITA import files. These are project files stored in the Project Organizer (Imports folder). </p>
+                        <p class="TableText">You can import DITA files into Flare.</p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Importing/Importing-DITA-Files.htm">Importing DITA Files</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/import_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLIMPFL file" />FLIMPFL</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Flare project import files. These are project files stored in the Project Organizer (Imports folder). </p>
+                        <p class="TableText">You can import Flare project files into Flare.</p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Global-Project-Linking/About-Global-Project-Linking.htm">About Global Project Linking</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/import_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLIMPFM file" />FLIMPFM</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">FrameMaker import files. These are project files stored in the Project Organizer (Imports folder). </p>
+                        <p class="TableText">You can import Adobe FrameMaker files into Flare.</p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Importing/Importing-FM-Files.htm">Importing FrameMaker Files</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/import_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLIMPHTML file" />FLIMPHTML</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">HTML import files. These are project files stored in the Project Organizer (Imports folder). </p>
+                        <p class="TableText">You can import HTML files into Flare.</p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Importing/Importing-HTML-Files.htm">Importing HTML Files</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/index_links_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLIXL file" />FLIXL</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Index links. These are project files stored in the Project Organizer (Advanced folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Indexes/IndexLinkSummary.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Indexes/Creating-Index-Links.htm">Creating Index Links</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/language_skins_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLLNG file" />FLLNG</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Language skins. These are project files stored in the Project Organizer (Advanced folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../LanguageSupport/LanguageSkinDefinition.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Language-Support/About-Language-Skins.htm">About Language Skins</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/master_pages_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLMSP file" />FLMSP</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Master pages. These are content files stored in the Content Explorer (Resources folder by default). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/MasterPages/MasterPageSummary.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Master-Pages/About-Master-Pages.htm">About Master Pages</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/page_layouts_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLPGL file" />FLPGL</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Page layouts. These are content files stored in the Content Explorer (Resources &gt; PageLayouts folder by default). </p>
+                        <snippetBlock src="../../Shared/PageLayouts/PageLayoutSummary1.flsnp" />
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <xref href="../../../../Flare/Page-Layouts/About-Page-Layouts.htm">About Page Layouts</xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/flare_project_file_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLPRJ file" />FLPRJ</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Main project file. This is stored at the root level of the project folder in Windows. You can open the project in <MadCap:variable name="Other.Product" /> by double-clicking this file. </p>
+                        <p class="TableText">The first step in developing a project after you launch <MadCap:variable name="Other.Product" /> is to start a project.</p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Introduction/Steps/Start-Project.htm">Starting Projects</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/zipped_project_file_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLPRJZIP file" />FLPRJZIP</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Zipped project files. You can store these files anywhere you want, then send them to others, who can unpack the zipped files. </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Zip/ZipProjectsSummary.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Zip/Zipping-Projects.htm">Zipping Projects</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/reports_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLREP file" />FLREP</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Reports. These are project files stored in the Project Organizer (Reports folder). </p>
+                        <p class="TableText">You can <MadCap:snippetText src="../../Shared/Reports/ReportsSummary.flsnp" /></p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Analyzer/Reports.htm">Reports</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/relationship_table_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLRTB file" />FLRTB</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Relationship table files. These are project files stored in the Project Organizer (Advanced folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../RelationshipTables/RelationshipTableSummary1.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Nav-Links/Relationship-Links/About-Relationship-Tables.htm">About Relationship Tables</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/search_filter_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLSFS file" />FLSFS</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Search filter sets. These are project files stored in the Project Organizer (Advanced folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../Search/SearchFilterSetsSummary.flsnp" />.</p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Search/Search-Filter-Sets/About-Search-Filter-Sets.htm">About Search Filter Sets</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p>
+                            <img src="../../../Images/Flare/skin_HTML5_icon.png" alt="" title="" />
+                        </p>
+                        <p class="TableText">&#160;</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLSKN file" />FLSKN</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Skins. These are project files stored in the Project Organizer (Skins folder). </p>
+                        <p class="TableText">A skin is a file that contains information about the appearance of an online output window.</p>
+                        <p class="Subheading">Skin File Types</p>
+                        <table style="mc-table-style: url('../../../TableStyles/Shared/Simple.css');margin-left: 0;margin-right: auto;" class="TableStyle-Simple" cellspacing="0">
+                            <col class="TableStyle-Simple-Column-Column1" style="width: 20px;" />
+                            <col class="TableStyle-Simple-Column-Column1" />
+                            <tbody>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <img src="../../../Images/Flare/skin_HTML5_icon.png" alt="" title="" />
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">HTML5</td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <img src="../../../Images/Flare/skin_HTML5_component_icon.png" alt="" title="" />
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">HTML5 component</td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <img src="../../../Images/Flare/skin_webhelp_icon.png" alt="" title="" />
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">WebHelp</td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                        <img src="../../../Images/Flare/skin_webhelp_mobile_icon.png" alt="" title="" />
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyA-Column1-Row1">WebHelp Mobile</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Skins/About-Skins.htm">About Skins</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/snippet_btn1.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLSNP file" />FLSNP</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Snippets. These are content files stored in the Content Explorer (Resources &gt; Snippets folder by default). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Snippets/SnippetSummary2.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Snippets/About-Snippets.htm">About Snippets</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/target_HTML5_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLTAR file" />FLTAR</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Targets. These are project files stored in the Project Organizer (Targets folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Output/OutputTypesOfOutput.flsnp" />
+                        </p>
+                        <p class="Subheading">Target Types</p>
+                        <table style="mc-table-style: url('../../../TableStyles/Shared/Simple.css');margin-left: 0;margin-right: auto;" class="TableStyle-Simple" cellspacing="0">
+                            <col class="TableStyle-Simple-Column-Column1" style="width: 20px;" />
+                            <col class="TableStyle-Simple-Column-Column1" />
+                            <tbody>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <img src="../../../Images/Flare/target_HTML5_icon.png" alt="" title="" />
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">HTML5</td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <img src="../../../Images/Flare/target_PDF_icon.png" alt="" title="" />
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">PDF</td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <img src="../../../Images/Flare/target_word_icon.png" alt="" title="" />
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">Word</td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <img src="../../../Images/Flare/target_clean_xhtml_icon.png" alt="" title="" />
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">Clean XHTML</td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <img src="../../../Images/Flare/target_dita_icon.png" alt="" title="" />
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">DITA</td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <img src="../../../Images/Flare/target_eclipse_icon.png" alt="" title="" />
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">Eclipse</td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <img src="../../../Images/Flare/target_epub_icon.png" alt="" title="" />
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">EPUB</td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <p class="TableText">
+                                            <img src="../../../Images/Flare/target_dotnet_icon.png" alt="" title="" />
+                                        </p>
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">
+                                        <p class="TableText">DotNet Help</p>
+                                    </td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <p class="TableText">
+                                            <img src="../../../Images/Flare/target_frame_icon.png" alt="" title="" />
+                                        </p>
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">
+                                        <p class="TableText">FrameMaker</p>
+                                    </td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <p class="TableText">
+                                            <img src="../../../Images/Flare/target_html_icon.png" alt="" title="" />
+                                        </p>
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">
+                                        <p class="TableText">HTML Help</p>
+                                    </td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <p class="TableText">
+                                            <img src="../../../Images/Flare/target_webhelp_icon.png" alt="" title="" />
+                                        </p>
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">
+                                        <p class="TableText">WebHelp</p>
+                                    </td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <p class="TableText">
+                                            <img src="../../../Images/Flare/target_mobile_icon.png" alt="" title="" />
+                                        </p>
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">
+                                        <p class="TableText">WebHelp Mobile</p>
+                                    </td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <p class="TableText">
+                                            <img src="../../../Images/Flare/target_plus_icon.png" alt="" title="" />
+                                        </p>
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">
+                                        <p class="TableText">WebHelp Plus</p>
+                                    </td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <p class="TableText">
+                                            <img src="../../../Images/Flare/target_xhtml_icon.png" alt="" title="" />
+                                        </p>
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">
+                                        <p class="TableText">XHTML&#160;Book</p>
+                                    </td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                        <p class="TableText">
+                                            <img src="../../../Images/Flare/target_air_icon.png" alt="" title="" />
+                                        </p>
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyD-Column1-Row1">
+                                        <p class="TableText">WebHelp AIR</p>
+                                    </td>
+                                </tr>
+                                <tr class="TableStyle-Simple-Body-Row1">
+                                    <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                        <p class="TableText">
+                                            <img src="../../../Images/Flare/target_xps_icon.png" alt="" title="" />
+                                        </p>
+                                    </td>
+                                    <td class="TableStyle-Simple-BodyA-Column1-Row1">
+                                        <p class="TableText">XPS</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Targets/About-Targets.htm">About Targets</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/auto_suggestion_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLTBX file" />FLTBX</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Auto-suggestion sets. These are project files stored in the Project Organizer (Advanced folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/AutoSuggestion/AutoSuggestionDefinition.flsnp" />.</p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Auto-Suggestion/About-Auto-Suggestion.htm">About Auto Suggestion</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/toc_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLTOC file" />FLTOC</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Tables of contents. These are project files stored in the Project Organizer (TOCs folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/TOCs/MethodsForFindingInfo.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/TOCs/About-TOCs.htm">About Tables of Contents</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/review_package_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLTREV file" />FLTREV</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Review package files. You can store these files anywhere you want, then send them to others, who can open and review the files. </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/ReviewsContributions/ReviewsSummary.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Reviews-Contributions/Review-Workflow-Sending.htm">Review Workflow—Sending to Others</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/variable_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="FLVAR file" />FLVAR</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Variable sets. These are project files stored in the Project Organizer (Variables folder). </p>
+                        <p class="TableText">
+                            <snippetText src="../../Shared/Variables/VariablesSummary1.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Variables/About-Variables.htm">About Variables</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/header_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="H file" />H</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Header files. These are project files stored in the Project Organizer (Advanced folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../CSH/HeaderFileSummary.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/CSH/About-Header-Files.htm">About Header Files</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/topic_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="HTM" />HTM</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Topics. These are content files stored in the Content Explorer, either at the root level or in custom subfolders that you create. </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Topics/TopicsSummary.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Topics/About-Topics.htm">About Topics</MadCap:xref> and <MadCap:xref href="../../../../Flare/Folders-Files/Creating-Subfolders.htm">Creating Subfolders</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/ignored_words_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="MCIGN" />MCIGN</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Ignored words. These are project files stored in the Project Organizer (Advanced folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/SpellCheck/IgnoredWords.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Spell-Check/Adding-Words-to-Ignore-Spell-Check-List.htm">Adding Words to the Ignore Spell Check List</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/build_log_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="MCLOG file" />MCLOG</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Build logs. These are automatically generated when you build a target. They are stored by default in your Output folder, but you can choose to place them in the Reports folder in the Project Organizer, or in a custom folder you set up. </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../Output/OpenBuildLogs1.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Output/More-Building-Output/Opening-Build-Logs.htm">Opening Build Logs</MadCap:xref> and <MadCap:xref href="../../../../Flare/Interface/UI-Elements/Options-Dialog.htm">Options Dialog</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/synonyms_icon.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="MCSYNS file" />MCSYNS</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyA-Regular-DarkerRows">
+                        <p class="TableText">Synonym files. These are project files stored in the Project Organizer (Advanced folder). </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Search/CreateSynonymsSummary.flsnp" />
+                        </p>
+                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Search/Synonyms/About-Synonyms.htm">Synonyms</MadCap:xref>.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

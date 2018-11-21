@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Lingo,Products.Flare,Products.Contributor">
+    <body>
+        <p>Dictionaries are used in <MadCap:variable name="Other.Product" /> to support the spell checking feature.</p>
+    </body>
+</html>

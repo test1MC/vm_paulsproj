@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>This dialog opens whenever you attempt to move a folder into a location that contains folders and files with similar names.</p>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ol class="LowerAlpha">
+            <li>Select the <span class="Emphasis">Text</span> tab.</li>
+            <li>Use the <span class="Emphasis">First line indent</span> section. <MadCap:snippetText src="../Paragraphs/IndentFirstLineParagraph.flsnp" /></li>
+        </ol>
+    </body>
+</html>

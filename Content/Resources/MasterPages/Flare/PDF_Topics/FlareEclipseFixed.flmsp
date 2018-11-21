@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="164" MadCap:lastWidth="570">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+    </head>
+    <body>
+        <div class="content">
+            <div id="contentBody">
+                <div class="row collapse">
+                    <div class="sideContent">
+                        <div class="clearfix" style="text-align: right;">
+                            <div><a href="http://docs.madcapsoftware.com/Flare2017r2/FlareEclipseHelpGuide.pdf" target="_blank"><img src="../../../Images/Shared/PDFGuideGreenButton.png" class="Hyperlinked" /></a>
+                            </div>
+                            <div>
+                                <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" data-mc-skin="/Project/Skins/Shared/TopicToolBarPDF.flskn" />
+                            </div>
+                        </div>
+                    </div>
+                    <MadCap:breadcrumbsProxy />
+                </div>
+                <div class="ContentRow">
+                    <div>
+                        <MadCap:bodyProxy />
+                    </div>
+                    <div>
+                        <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" data-mc-skin="/Project/Skins/Shared/SideMenu.flskn" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

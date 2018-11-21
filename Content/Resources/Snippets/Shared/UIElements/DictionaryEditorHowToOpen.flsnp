@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo">
+    <body>
+        <ol>
+            <li>Select <span class="Emphasis">Tools &gt; Edit Dictionary</span>.</li>
+            <li>In the Open Dictionary dialog, click in the drop-down field and select <span class="Emphasis">Global</span> or <span class="Emphasis">Project</span>, depending on the kind of dictionary you want to edit.</li>
+            <li>In the grid below, select the dictionary you want to edit.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

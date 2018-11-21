@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="CH 1 About SharePoint Integration"
+    Link="/Content/Flare/Sharepoint/About-SharePoint-Integration.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 2 Connecting to a SharePoint Server"
+    Link="/Content/Flare/Sharepoint/Connecting-to-Sharepoint-Server.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 3 Checking Out SharePoint Files"
+    Link="/Content/Flare/Sharepoint/Checking-Out-SharePoint-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Undoing a Check-Out of SharePoint Files"
+      Link="/Content/Flare/Sharepoint/Undoing-Check-Out-SharePoint-Files.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Opening SharePoint Files"
+    Link="/Content/Flare/Sharepoint/Opening-SharePoint-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 5 Checking In SharePoint Files"
+    Link="/Content/Flare/Sharepoint/Checking-In-SharePoint-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 6 Copying and Mapping SharePoint Files"
+    Link="/Content/Flare/Sharepoint/Copying-Mapping-Sharepoint-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 7 Managing Mappings of SharePoint Files"
+    Link="/Content/Flare/Sharepoint/Managing-Mappings-SharePoint-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 8 Synchronizing SharePoint Files"
+    Link="/Content/Flare/Sharepoint/Synchronizing-Sharepoint-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Merging Mapped Files"
+      Link="/Content/Flare/External-Resources/Merging-Mapped-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Setting Color Options for Mapped File Differences"
+      Link="/Content/Flare/External-Resources/Setting-Color-Options-Mapped-File-Differences.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

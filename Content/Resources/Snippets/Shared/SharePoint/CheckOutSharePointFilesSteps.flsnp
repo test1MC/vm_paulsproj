@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <head>
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../UIElements/SelectViewRibbon.flsnp" />In the <span class="Emphasis">Resources</span> section select <span class="Emphasis">SharePoint Explorer</span>. The SharePoint Explorer opens.</li>
+            <li>
+                <p>Locate the file(s) that you want to check out. You can use the "multi-view" to do this.</p>
+                <MadCap:snippetBlock src="../UIElements/MultiViewTable.flsnp" />
+            </li>
+            <li>Select the file(s) that you want to check out. If the window pane is split into two halves, you can select the appropriate folder on the left side and select the files on the right side. <MadCap:snippetText src="../StepsGeneral/YouCanHoldShiftCtrlKeys.flsnp" /></li>
+            <li>Right-click the file(s) and from the context menu select <span class="Emphasis">Check Out</span>.</li>
+            <li>
+                <p>In the dialog that opens, click <span class="Emphasis">Check Out</span>.</p>
+                <MadCap:snippetBlock src="NoteCheckmarks2.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

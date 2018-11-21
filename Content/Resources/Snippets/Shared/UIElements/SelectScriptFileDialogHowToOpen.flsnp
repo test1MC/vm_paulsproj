@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../Topics/OpenContentFile.flsnp" />
+            </li>
+            <li>In the XML Editor, place your cursor where you want to insert the script.</li>
+            <li>Select <span class="Emphasis">Insert &gt; Script</span>.</li>
+        </ol>
+    </body>
+</html>

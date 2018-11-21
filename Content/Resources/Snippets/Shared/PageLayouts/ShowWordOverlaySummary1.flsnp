@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor">
+    <body>
+        <p>You can select an option in the Page Layout Editor that shows the real header, footer, and body areas if the page layout will be used in <MadCap:variable name="Outputs.Word" /> output.</p>
+    </body>
+</html>

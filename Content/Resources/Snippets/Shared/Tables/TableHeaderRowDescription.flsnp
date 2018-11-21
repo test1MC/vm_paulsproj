@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p class="TableText">A header row is the first series of horizontal cells in a table. A header row is used to provide explanatory phrases for each of the columns in the table. For example, this table contains a header row; the first cell of the header row in this table contains the text "Element/Feature," and the second cell of the header row in this table contains the text "Description." Including a header row is optional. Using a header row helps with accessibility.</p>
+    </body>
+</html>

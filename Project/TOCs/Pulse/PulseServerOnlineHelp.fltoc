@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Pulse">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/Pulse/Introduction/Welcome-Pulse.htm"></TocEntry>
+  <TocEntry
+    Title="What's New?"
+    Link="/Content/Pulse/Introduction/Whats-New-Pulse.htm" />
+  <TocEntry
+    Title="PDF Guides"
+    Link="/Content/Pulse/PDF-Guides/PDF-Guides-Pulse.htm"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="Upgrading">
+    <TocEntry
+      Title="Upgrading to a New Version of Pulse"
+      Link="/Content/Shared/Pulse-Features/Upgrading/Upgrading-New-Version-Pulse.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Installation">
+    <TocEntry
+      Title="Deployment Types"
+      Link="/Content/Shared/Pulse-Features/Install/Introduction.htm" />
+    <TocEntry
+      Title="Upgrading to a New Version of Pulse"
+      Link="/Content/Shared/Pulse-Features/Upgrading/Upgrading-New-Version-Pulse.htm" />
+    <TocEntry
+      Title="Windows Server 2012 Prerequisites">
+      <TocEntry
+        Title="Pulse System Requirements for Windows Server 2012"
+        Link="/Content/Shared/Pulse-Features/Install/2012/Pulse-Requirements-2012.htm" />
+      <TocEntry
+        Title="Installing the Prerequisites for Windows Server 2012"
+        Link="/Content/Shared/Pulse-Features/Install/2012/Installing-Prerequisites-2012.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Windows Server 2008R2 Prerequisites">
+      <TocEntry
+        Title="Pulse System Requirements for Windows Server 2008R2"
+        Link="/Content/Shared/Pulse-Features/Install/2008R2/Pulse-Requirements-2008R2.htm" />
+      <TocEntry
+        Title="Installing the Prerequisites for Windows Server 2008R2"
+        Link="/Content/Shared/Pulse-Features/Install/2008R2/Installing-Prerequisites-2008R2.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Windows Server 2008 Prerequisites">
+      <TocEntry
+        Title="Pulse System Requirements for Windows Server 2008"
+        Link="/Content/Shared/Pulse-Features/Install/2008/Pulse-Requirements-2008.htm" />
+      <TocEntry
+        Title="Installing the Prerequisites for Windows Server 2008"
+        Link="/Content/Shared/Pulse-Features/Install/2008/Installing-Prerequisites-2008.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Install Microsoft SQL Server"
+      Link="/Content/Shared/Pulse-Features/Install/Installing-SQL-Server.htm" />
+    <TocEntry
+      Title="Installing and Activating Pulse"
+      Link="/Content/Shared/Pulse-Features/Install/Installing_Pulse.htm" />
+    <TocEntry
+      Title="Pulse Server Configuration"
+      Link="/Content/Shared/Pulse-Features/Install/Pulse-Server-Configuration.htm" />
+    <TocEntry
+      Title="Importing Feedback Data"
+      Link="/Content/Shared/Pulse-Features/Install/Importing-Feedback-Data.htm" />
+    <TocEntry
+      Title="Integrating Flare and Pulse"
+      Link="/Content/Shared/Pulse-Features/Install/Integrating-Flare-Pulse.htm" />
+    <TocEntry
+      Title="Installation FAQs"
+      Link="/Content/Shared/Pulse-Features/Install/Installation-FAQ.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Dashboard">
+    <TocEntry
+      Title="About the Pulse Dashboard"
+      Link="/Content/Shared/Pulse-Features/Dashboard/About-Pulse-Dashboard.htm" />
+    <TocEntry
+      Title="Pulse Menu"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Pulse/Using-Pulse-Menu.htm" />
+    <TocEntry
+      Title="People Menu"
+      Link="/Content/Shared/Pulse-Features/Dashboard/People/Using-People-Menu.htm" />
+    <TocEntry
+      Title="Groups Menu"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Groups/Using-Groups-Menu.htm" />
+    <TocEntry
+      Title="Tags Menu"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Tags/Using-Tags-Menu.htm" />
+    <TocEntry
+      Title="Systems Menu"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Systems/Using-Systems-Menu.htm" />
+    <TocEntry
+      Title="Administration Menu">
+      <TocEntry
+        Title="Using the Administration Menu"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Using-Administration-Menu.htm" />
+      <TocEntry
+        Title="Database"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Database.htm" />
+      <TocEntry
+        Title="General Settings"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-General-Settings.htm" />
+      <TocEntry
+        Title="Groups"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Managing-Groups.htm" />
+      <TocEntry
+        Title="Suggested Feeds"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Suggested-Feeds.htm" />
+      <TocEntry
+        Title="Users"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Managing-Users.htm"></TocEntry>
+      <TocEntry
+        Title="Profiles"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Profile-Settings.htm" />
+      <TocEntry
+        Title="Moderation"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Moderation.htm" />
+      <TocEntry
+        Title="Log"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Viewing-Log.htm" />
+      <TocEntry
+        Title="Communities"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Managing-Communities.htm" />
+      <TocEntry
+        Title="Synonyms"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Managing-Synonyms.htm" />
+      <TocEntry
+        Title="Reports"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Reports/About-Reports.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Messaging">
+      <TocEntry
+        Title="Messaging"
+        Link="/Content/Shared/Pulse-Features/Messaging/Messaging.htm" />
+      <TocEntry
+        Title="Tasks"
+        Link="/Content/Shared/Pulse-Features/Messaging/Messaging-Tasks.htm" />
+      <TocEntry
+        Title="Contacting Registered Users"
+        Link="/Content/Shared/Pulse-Features/Moderation/Contacting-Registered-Users.htm" />
+      <TocEntry
+        Title="Checking Your Notifications"
+        Link="/Content/Shared/Pulse-Features/Messaging/Checking-Notifications.htm" />
+      <TocEntry
+        Title="Sending Chat Messages"
+        Link="/Content/Shared/Pulse-Features/Messaging/Sending-Chat-Messages.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Searching the Pulse Dashboard"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Searching-Pulse-Dashboard.htm" />
+    <TocEntry
+      Title="Dashboard FAQs"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Dashboard-FAQs.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="User Tasks">
+    <TocEntry
+      Title="Getting Started">
+      <TocEntry
+        Title="Getting Started"
+        Link="/Content/Shared/Pulse-Features/Getting-Started/Getting-Started.htm" />
+      <TocEntry
+        Title="Registering for a Pulse Account"
+        Link="/Content/Shared/Pulse-Features/Getting-Started/Registering-Account.htm" />
+      <TocEntry
+        Title="Logging In to Pulse"
+        Link="/Content/Shared/Pulse-Features/Getting-Started/Logging-in-Pulse.htm" />
+      <TocEntry
+        Title="Creating and Editing Your Profile"
+        Link="/Content/Shared/Pulse-Features/Getting-Started/Creating-Editing-Profiles.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Posting Content">
+      <TocEntry
+        Title="Posting Content"
+        Link="/Content/Shared/Pulse-Features/Posting-Content/Posting-Content.htm" />
+      <TocEntry
+        Title="Posting Status Updates"
+        Link="/Content/Shared/Pulse-Features/Posting-Content/Posting-Status-Updates.htm" />
+      <TocEntry
+        Title="Posting Questions"
+        Link="/Content/Shared/Pulse-Features/Posting-Content/Posting-Questions.htm" />
+      <TocEntry
+        Title="Posting Articles"
+        Link="/Content/Shared/Pulse-Features/Posting-Content/Posting-Articles.htm" />
+      <TocEntry
+        Title="Assigning Tasks"
+        Link="/Content/Shared/Pulse-Features/Posting-Content/Assigning-Tasks.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Responding to Posts">
+      <TocEntry
+        Title="Responding to Posts"
+        Link="/Content/Shared/Pulse-Features/Responding-Posts/Responding-Posts.htm" />
+      <TocEntry
+        Title="Adding Comments"
+        Link="/Content/Shared/Pulse-Features/Responding-Posts/Adding-Comments.htm" />
+      <TocEntry
+        Title="Following Posts"
+        Link="/Content/Shared/Pulse-Features/Responding-Posts/Following-Posts.htm" />
+      <TocEntry
+        Title="Liking and Unliking Activity"
+        Link="/Content/Shared/Pulse-Features/Responding-Posts/Liking-Unliking-Posts.htm" />
+      <TocEntry
+        Title="Tagging Posts"
+        Link="/Content/Shared/Pulse-Features/Responding-Posts/Tagging-Posts.htm" />
+      <TocEntry
+        Title="Mentioning Documents, People, and Groups"
+        Link="/Content/Shared/Pulse-Features/Responding-Posts/Mentioning-Documents-People-Groups.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Messaging">
+      <TocEntry
+        Title="Messaging"
+        Link="/Content/Shared/Pulse-Features/Messaging/Messaging.htm" />
+      <TocEntry
+        Title="Messaging Tasks"
+        Link="/Content/Shared/Pulse-Features/Messaging/Messaging-Tasks.htm" />
+      <TocEntry
+        Title="Checking Your Notifications"
+        Link="/Content/Shared/Pulse-Features/Messaging/Checking-Notifications.htm" />
+      <TocEntry
+        Title="Sending Chat Messages"
+        Link="/Content/Shared/Pulse-Features/Messaging/Sending-Chat-Messages.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Moderating Pulse">
+      <TocEntry
+        Title="Moderating Pulse"
+        Link="/Content/Shared/Pulse-Features/Moderation/Moderating-Pulse.htm" />
+      <TocEntry
+        Title="Moderating (Approving/Rejecting) Posts"
+        Link="/Content/Shared/Pulse-Features/Moderation/Moderating-Posts.htm">
+        <TocEntry
+          Title="Configuring Moderation—Rejection Reasons"
+          Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Moderation.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Contacting Registered Users"
+        Link="/Content/Shared/Pulse-Features/Moderation/Contacting-Registered-Users.htm" />
+      <TocEntry
+        Title="Your Apps Menu">
+        <TocEntry
+          Title="Customizing the Your Apps Menu"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Customizing-Your-Apps.htm" />
+        <TocEntry
+          Title="Articles"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Articles.htm" />
+        <TocEntry
+          Title="Files"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Files.htm" />
+        <TocEntry
+          Title="Mentions"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Mentions.htm" />
+        <TocEntry
+          Title="Messages"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Messages.htm" />
+        <TocEntry
+          Title="Moderation"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Moderation.htm" />
+        <TocEntry
+          Title="Most Recent"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Most-Recent.htm" />
+        <TocEntry
+          Title="Notifications"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Notifications.htm" />
+        <TocEntry
+          Title="Profile"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Profile.htm" />
+        <TocEntry
+          Title="Questions"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Questions.htm" />
+        <TocEntry
+          Title="Read It Later"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Read-Later.htm" />
+        <TocEntry
+          Title="Statuses"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Statuses.htm" />
+        <TocEntry
+          Title="Tasks"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Tasks.htm" />
+        <TocEntry
+          Title="Top News"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Top-News.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Finding Topic Leaders"
+        Link="/Content/Shared/Pulse-Features/Moderation/Finding-Topic-Leaders.htm" />
+      <TocEntry
+        Title="Following Community Activities"
+        Link="/Content/Shared/Pulse-Features/Moderation/Following-Community-Activities.htm" />
+      <TocEntry
+        Title="Inviting People"
+        Link="/Content/Shared/Pulse-Features/Moderation/Inviting-People.htm" />
+      <TocEntry
+        Title="Reading it Later"
+        Link="/Content/Shared/Pulse-Features/Moderation/Reading-Later.htm" />
+      <TocEntry
+        Title="Responding to Status Updates"
+        Link="/Content/Shared/Pulse-Features/Moderation/Responding-Status-Updates.htm" />
+      <TocEntry
+        Title="Responding to Questions"
+        Link="/Content/Shared/Pulse-Features/Moderation/Responding-Questions.htm" />
+      <TocEntry
+        Title="Responding to Articles"
+        Link="/Content/Shared/Pulse-Features/Moderation/Responding-Articles.htm" />
+      <TocEntry
+        Title="Responding to Tasks"
+        Link="/Content/Shared/Pulse-Features/Moderation/Responding-Tasks.htm" />
+      <TocEntry
+        Title="Sharing Posts"
+        Link="/Content/Shared/Pulse-Features/Moderation/Sharing-Posts.htm" />
+      <TocEntry
+        Title="Subscribing to Communities and Topics"
+        Link="/Content/Shared/Pulse-Features/Moderation/Subscribing-Topics.htm" />
+      <TocEntry
+        Title="Tagging Content"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Tags/Using-Tags-Menu.htm" />
+      <TocEntry
+        Title="Using Mentions"
+        Link="/Content/Shared/Pulse-Features/Moderation/Using-Mentions.htm" />
+      <TocEntry
+        Title="Working With Favorites"
+        Link="/Content/Shared/Pulse-Features/Moderation/Working-Favorites.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Searching for Community Results"
+      Link="/Content/Shared/Pulse-Features/Searching-Pulse/Searching-Pulse.htm" />
+  </TocEntry>
+</CatapultToc>

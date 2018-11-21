@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare,Products.Lingo">
+    <body>
+        <p><MadCap:variable name="Other.Product" /> ignores the spelling of the word<MadCap:conditionalText MadCap:conditions="Products.Flare,Products.Analyzer,Products.Lingo"> and adds the spelling of this word to the Ignored Words Editor (which can be opened from the Tools ribbon)</MadCap:conditionalText>. This means that if other occurrences of the word are found in any other files in future sessions, they will not be flagged as questionable spellings. This is similar to adding words to a dictionary. The difference is that this feature simply ignores questionable spellings of certain words, whereas a dictionary also lists spellings as suggestions.</p>
+    </body>
+</html>

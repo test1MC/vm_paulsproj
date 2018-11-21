@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <ol class="LowerAlpha">
+            <li>
+                <p>Click somewhere in the paragraph.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you highlight the text, make sure you highlight the entire paragraph. Otherwise, you will not be able to select a paragraph style, but rather a character style only. The exception to this is when you highlight portions of multiple paragraphs at the same time; in that case, you will be able to select a paragraph style to be applied to all of those paragraphs.</p>
+                </div>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul>
+                    <li>From the Home ribbon, Styles window pane, or Floating Style Picker, select the style.</li>
+                    <li>
+                        <p>Right-click the <span class="Emphasis">p</span> (paragraph) structure bar and select <span class="Emphasis">Style Class &gt; [Name of Style]</span>.</p>
+                        <p>If you want to choose an ID, you can select <span class="Emphasis">Style ID&gt;[Name of ID]</span>.</p>
+                    </li>
+                </ul>
+            </li>
+        </ol>
+    </body>
+</html>

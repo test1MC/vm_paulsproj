@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>Using floats, you can adjust the positioning of elements such as images, QR codes, text boxes, and paragraphs. This lets you wrap text to the left or right of an element, or to float an element outside the frame holding the regular flow of text. As an alternative to floats, you can position content absolutely.</p>
+    </body>
+</html>

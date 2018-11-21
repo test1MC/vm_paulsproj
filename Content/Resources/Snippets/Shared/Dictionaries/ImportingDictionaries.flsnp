@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>If necessary, you can download more dictionaries in various languages from <a href="http://www.madcapsoftware.com/downloads/dictionaries/openoffice" target="_blank">openoffice.org</a> and then use the Options dialog to import them for use in <MadCap:variable name="Other.Product" />.</p>
+    </body>
+</html>

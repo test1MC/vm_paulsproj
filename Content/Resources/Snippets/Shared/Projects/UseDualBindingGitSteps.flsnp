@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central" MadCap:lastBlockDepth="9" MadCap:lastHeight="1212" MadCap:lastWidth="912">
+    <body>
+        <ol>
+            <li>Open the project in MadCap Flare.</li>
+            <li>Be sure your project is already bound to Git.<MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Flare/Source-Control/Git/Binding-Project-Source-Control-git.htm">Binding a Project to Git</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Central,FlareGuides.FlareMadCapCentralIntegrationGuide"> See the Flare online Help.</MadCap:conditionalText></li>
+            <li>
+                <MadCap:snippetText src="SelectViewMadCapCentral.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="IfNotYetLoggedIn.flsnp" />
+            </li>
+            <li>
+                <p>Upload (bind) your project to Central. <MadCap:conditionalText MadCap:conditions="Products.Central"> See <MadCap:xref href="../../../../Central/Projects/Uploading-Projects.htm">Uploading (Binding) Projects</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Flare"> See <MadCap:xref href="../../../../Flare/Central/Binding-Projects.htm">Uploading (Binding) Projects</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>When you bind the project to Central, an ID is added to the project file. This ID&#160;links the project to Central.</p>
+            </li>
+            <li>Push the Flare project file to Git. This adds the Central ID in the project file to your Git repository, making it available to other users.<MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Shared/Source-Control/Git/Pushing-Files-to-Remote.htm">Pushing Files to a Remote Repository—Git</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Central,FlareGuides.FlareMadCapCentralIntegrationGuide"> See the Flare online Help.</MadCap:conditionalText></li>
+            <li>In Central, assign users to the new project and make sure they have “Push” permissions. This gives the users the ability to push content to the project.<MadCap:conditionalText MadCap:conditions="Products.CentralOnlineOnly"> See <MadCap:xref href="../../../../Central/Users/Assigning-Users-to-Teams-Projects.htm">Assigning Users to Teams and Projects</MadCap:xref> and <MadCap:xref href="../../../../Central/Users/Setting-Permissions.htm">Setting User Permissions</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="CentralGuides.CentralProjectsAndBuildsGuide"> See the online Help.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Flare"> See the Central online Help.</MadCap:conditionalText></li>
+            <li>
+                <p>Newly assigned users must now do one of the following, depending on whether or not they already have a copy of the Flare project on their local machine:</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Have a Local Copy</span> Pull the latest version of the Flare project file from Git.<MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Shared/Source-Control/Git/Pulling-Files-from-Remote.htm">Pulling Files from a Remote Repository—Git</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Central,FlareGuides.FlareMadCapCentralIntegrationGuide"> See the Flare online Help.</MadCap:conditionalText></li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Do Not Have a Local Copy</span> Import the project from Git using the Import Project from Source Control Wizard.<MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Shared/Source-Control/Git/Importing-Project-from-Source-Control-git.htm">Importing a Project from Git</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Central,FlareGuides.FlareMadCapCentralIntegrationGuide"> See the Flare online Help.</MadCap:conditionalText></p>
+                        <MadCap:snippetBlock src="../SourceControl/DualBoundGitImportant.flsnp" />
+                    </li>
+                </ul>
+                <p>Either option will give users the most current version of the project file, with the Central ID. This links each user's local copy of the project to Central. </p>
+            </li>
+            <li>
+                <p>In Flare, make changes to your files. When working in a Git/Central dual-bound situation, you can make changes to both Central and Git, using the following actions:</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Push</span> Push your changes to source control. <MadCap:conditionalText MadCap:conditions="Products.Central,FlareGuides.FlareMadCapCentralIntegrationGuide"> See the Flare online Help.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Shared/Source-Control/Git/Pushing-Files-to-Remote.htm">Pushing Files to a Remote Repository—Git</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Pull</span> Pull your teammates' changes from Git and add them to your local project. <MadCap:conditionalText MadCap:conditions="Products.Central,FlareGuides.FlareMadCapCentralIntegrationGuide"> See the Flare online Help.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Shared/Source-Control/Git/Pulling-Files-from-Remote.htm">Pulling Files from a Remote Repository—Git</MadCap:xref>.</MadCap:conditionalText></p>
+                    </li>
+                </ul>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">It does not matter which location (i.e., Git or Central)&#160;you push to or pull from first, as long as you push the files to both Git and Central and that everyone on your team uses the same workflow.</p>
+            </li>
+            <li>
+                <p>(Optional) If the changes in Git or Central become out-of-sync with each other (i.e., changes are made in one location but not the other), the Resolve Conflicts dialog opens. If this happens, use the dialog to accept or reject other users' changes. <MadCap:conditionalText MadCap:conditions="Products.Central,FlareGuides.FlareMadCapCentralIntegrationGuide"> See the Flare online Help.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Shared/Source-Control/Git/Merging-Source-Control-Files-git.htm">Merging Source Control Files—Git</MadCap:xref>.</MadCap:conditionalText></p>
+            </li>
+            <li>When you are done making changes, push your final changes to Central. To do this, click <img src="../../../Images/Shared/central_push_btn.png" alt="" title="" /> in the MadCap Central window pane. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Projects/Pushing-Dual-Bound-Model.htm">Pushing Content</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Central">See <MadCap:xref href="../../../../Central/Projects/Pushing-Dual-Bound-Model.htm">Pushing in a Dual-bound Model</MadCap:xref>.</MadCap:conditionalText></li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>You can specify the maximum number of suggestions shown in the Auto Suggestion popup (from 1 to 25), as well as the minimum number of characters that must be typed before the popup opens with suggestions (from 3 to 12).</p>
+    </body>
+</html>

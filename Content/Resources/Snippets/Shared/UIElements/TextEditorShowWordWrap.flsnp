@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p class="TableText">Enables or disables word wrapping in the Internal Text Editor. This makes it much easier to see all of the words and tags in an area. Without the word wrap feature, lines in the Internal Text Editor can often be quite long and require you to use the horizontal scroll bar in order to see text not shown.</p>
+    </body>
+</html>

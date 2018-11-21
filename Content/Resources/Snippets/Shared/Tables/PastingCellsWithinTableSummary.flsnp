@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>You can copy cells from one table to another. If you copy cells from a table, then place your cursor within a single table cell and paste the contents, a paste icon <img src="../../../Images/Shared/paste_btn2.png" class="ReduceButtonSize" /> displays to the right. This icon allows you to specify how you would like to handle the pasted cells. You can also set the default behavior for similar actions in the future.</p>
+    </body>
+</html>

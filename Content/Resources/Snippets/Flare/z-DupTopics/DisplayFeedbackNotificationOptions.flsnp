@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="913" MadCap:lastWidth="1134">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature_Supported/DotNet_HTMLHelp_HTML5_WebHelp_WHPlus.flsnp" />
+        <MadCap:snippetBlock src="../Feedback/FeedbackEmailNotificationDisplaySummary.flsnp" />
+        <p>
+            <img src="../../../Images/Flare/feedback_display_notification_options_enabled.png" class="MaxWidth100Percent" />
+        </p>
+        <p>
+            <img src="../../../Images/Flare/feedback_display_notification_options_disabled.png" class="MaxWidth100Percent" />
+        </p>
+        <p MadCap:conditions="General.OnlineOnly">
+            <MadCap:snippetText src="../../Shared/Feedback/FeedbackMoreInformation.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to display feedback notification options to users</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open a Standard or <MadCap:variable name="Outputs.HTML5" /> skin.</li>
+                    <li>Select the <span class="Emphasis">Community</span> tab.</li>
+                    <li>Click <span class="Emphasis">Display notification options to users</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../HTML5/NoteFeatureNotSupportedInTopNavSkins.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.OnlineOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>Make sure you associate the skin with the target. See <MadCap:xref href="../../../../Flare/Skins/Associating-Skins-with-Targets.htm">Associating Skins with Targets</MadCap:xref>.</p>
+                <p>After you generate and publish the output, you can open Feedback Explorer to view submitted comments and see how readers are using the output. See <MadCap:xref href="../../../../Flare/Feedback/Opening-Feedback-Explorer.htm">Opening Feedback Explorer</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.RemoveFromTopicsThenDeleteThis">
+            <MadCap:conceptLink term="FeedbackComments" />
+        </p>
+    </body>
+</html>

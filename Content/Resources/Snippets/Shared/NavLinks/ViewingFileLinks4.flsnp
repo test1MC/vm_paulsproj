@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="193" MadCap:lastWidth="980">
+    <body>
+        <p>Normally when you click in a different file, giving it focus, the links for that file are shown in the Link Viewer window pane. However, there may be times when you want a previous set of links to continue to show in the Link Viewer, even when you click in other files. In that case, you can lock the Link Viewer by clicking the <span class="Emphasis">Lock</span> button <img src="../../../Images/Shared/lock_dynamic_help_btn.png" class="ReduceButtonSize" /> in the local toolbar. To unlock the window pane, click the button again.</p>
+        <p class="note" MadCap:conditions="General.OnlineOnly" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you open the Link Viewer and notice that it does not appear to be working to show links for the active topic, make sure that the Lock button <img src="../../../Images/Shared/lock_dynamic_help_btn.png" class="ReduceButtonSize" /> is not selected. It is easy to forget that you enabled it when working on a previous file.</p>
+    </body>
+</html>

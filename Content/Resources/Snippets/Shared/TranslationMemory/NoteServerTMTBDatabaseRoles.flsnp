@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo" MadCap:lastBlockDepth="3" MadCap:lastHeight="608" MadCap:lastWidth="1091">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">In order to create a server translation memory or termbase, you must have both db_datareader and db_datawriter roles , or you must have the dbcreator role. This is set in your SQL management tool.</p>
+            <p>In the following user mapping image, the user has both db_datareader and db_datawriter selected:</p>
+            <p>
+                <img src="../../../Images/Shared/db-roles.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>In the following server role image, the user has dbcreator selected:</p>
+            <p>
+                <img src="../../../Images/Shared/db-roles2.png" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

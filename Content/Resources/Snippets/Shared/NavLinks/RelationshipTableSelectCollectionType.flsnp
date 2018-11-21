@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="900" MadCap:lastWidth="1007" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>When you put items into a group, you can specify how that group will function as a collection (e.g., in the images above the group is using the "Family" collection type, which means that those topic items will reference each other in the output). You can do this for entire columns or for individual topic items in a cell that have been grouped. If you set a particular collection type on a column, all groups in that column will use that collection type.</p>
+        <ol class="LowerAlpha">
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel">For Columns </span>Click in a column. In the local toolbar click <img src="../../../Images/Shared/column_properties_btn.png" class="ReduceButtonSize" />.</li>
+                    <li><span class="SetOffFirstLevel">For Topic Link Items </span>Click a topic link item in a cell. In the local toolbar click <img src="../../../Images/Shared/run_properties2_btn.png" class="ReduceButtonSize" />.</li>
+                </ul>
+            </li>
+            <li>Click in the <span class="Emphasis">Collection Type</span> field and select one of the following:<ul class="FirstLevel"><li><span class="SetOffFirstLevel">Unordered (default) </span>This displays the grouped links in the output, but the order in which they are displayed is not important.</li><li><p><span class="SetOffFirstLevel">Family </span>This lets you display links not only to adjacent topics in the row, but to other topics grouped within the same cell as well.</p><div class="example"><p class="exampleHeadTextEmpty">example</p><p>Let's say you have a row that is populated like this:</p><p>Topic A is in the "concept" cell.</p><p>Topics, B, C, and D are contained in a group in the "task" cell.</p><p>Topic E is in the "reference" cell.</p><p>Suppose you DO NOT use the Family collection type. In that case, when a user opens Topic A, he will see links to Topics B, C, D, and E. However, when the user opens Topic C, he will see links to Topic A and Topic E, but not to Topics B and D.</p><p>Now suppose you DO use the Family collection type. In that case, when a user opens Topic C, he will see links not only to Topics A and E, but to Topics B and D as well.</p></div></li><li><span class="SetOffFirstLevel">Sequence </span>This displays links with significance given to how the links are ordered in the output. For Flare outputs other than DITA, this option is not supported.</li><li><span class="SetOffFirstLevel">Choice </span>This lets you specify which link should be "selected" or "highlighted" from the group of links. For Flare outputs other than DITA, this option is not supported.</li><li><span class="SetOffFirstLevel">Use CONREF Target </span>This uses the conref attribute to pull content. The conref attribute references an ID on content that can be reused. For Flare outputs other than DITA, this option is not supported.</li></ul><p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">For more detailed information about DITA and these options, please refer to <a href="http://www.oasis-open.org/committees/dita/" target="_blank">www.oasis-open.org/committees/dita/</a>.</p></li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

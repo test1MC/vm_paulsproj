@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Mimic">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Mimic/TitleMimic.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Shortcuts Tasks"
+    Link="/Content/Print-Only-Topics/Mimic/Shortcuts/Keyboard-Shortcuts-Tasks.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/4FoldBrochureBlackBackground.flpgl"></TocEntry>
+  <TocEntry
+    Title="Shortcut Keys"
+    Link="/Content/Print-Only-Topics/Mimic/Shortcuts/Keyboard-Shortcuts-Keys.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/4FoldBrochureGrayBackground.flpgl"
+    PageNumberReset="continue" />
+</CatapultToc>

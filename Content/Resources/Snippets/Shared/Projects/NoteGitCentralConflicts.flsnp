@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you are using a Git/Central dual-binding, and you encounter conflicts in one repository (i.e., Git or Central), you will likely encounter them in the other location as well. Conflicts in one repository will most likely need to be resolved in the other repository.<MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Shared/Source-Control/Git/Merging-Source-Control-Files-git.htm">Merging Source Control Files—Git</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Central,FlareGuides.FlareMadCapCentralIntegrationGuide"> See the Flare online Help.</MadCap:conditionalText></p>
+        </div>
+    </body>
+</html>

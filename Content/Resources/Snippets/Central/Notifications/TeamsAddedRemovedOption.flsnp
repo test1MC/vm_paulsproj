@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="TableText">Receive a notification if a team is added to a project or removed from one. This notification is sent to the user who has been added or removed from the project.</p>
+    </body>
+</html>

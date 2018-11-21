@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>You can also click <img src="../../../Images/Shared/new_item3_btn.png" class="ReduceButtonSize" /> to add a new word and the rules for it. When you do this, the Add Custom Hyphenation Rule dialog opens. You can complete the <span class="Emphasis">Word</span> and <span class="Emphasis">Rule</span> fields. When you type a rule, include a hyphen inside the word to indicate where it will break. Make sure to separate new text from other rules with a semi-colon. After you click <span class="Emphasis">OK</span>, the new word and rule are added to the editor.</p>
+    </body>
+</html>

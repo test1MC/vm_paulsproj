@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>You might use two different types of tables in your project—a basic one (with simple borders and no shading) and a patterned one (with customized borders and colored shading in certain rows and columns). So you create one table stylesheet (let's say it's called "Basic.css") and format it the way you want, and then you create a second table stylesheet (let's say it's called "RowPatternStyleSheet.css") and format it. Then, as you insert tables into your topics, you can associate the new table with one of these two table stylesheets. </p>
+            <p>
+                <img src="../../../Images/Shared/table_style_sheet_pattern_example1.png" class="MaxWidth90Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Shared/table_style_sheet_pattern_example2.png" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

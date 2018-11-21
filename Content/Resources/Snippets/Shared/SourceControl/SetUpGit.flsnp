@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Flare">
+    <body>
+        <p>Install Git and set up the local database and any folders where you want to place the project. You should also set up your remote repository. Also, assign permissions to the proper individuals. This task may be performed by someone else, such as a network administrator.</p>
+    </body>
+</html>

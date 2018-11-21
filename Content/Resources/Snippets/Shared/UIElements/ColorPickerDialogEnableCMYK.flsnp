@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare">
+    <body>
+        <p class="TableText">Activates the C, M, Y, K fields below so that you can use the CMYK color model. CYMK is an acronym for the four primary colors used in printing (Cyan, Magenta, Yellow, and Key—or black). Whereas CMYK is often the preferred model for print-based output, the RGB (Red, Green, Blue) model is primarily intended for electronic content.</p>
+    </body>
+</html>

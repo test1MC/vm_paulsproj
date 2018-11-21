@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>Within those tags you can see &lt;th&gt; or &lt;td&gt; tags when you click in different cells. These tags represent content for table headers or regular cell text, respectively.</p>
+    </body>
+</html>

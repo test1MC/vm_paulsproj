@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="110" MadCap:lastWidth="599" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <head>
+    </head>
+    <body>
+        <p>Opens the Condition tags dialog, which lets you apply condition tags to content.<MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Flare/Conditions/Applying-Condition-Tags-to-Content.htm">Applying Condition Tags to Content</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.AnalyzerOnlineOnly"> See <MadCap:xref href="../../../../Analyzer/Conditions/Applying-Condition-Tags-to-Content.htm">Applying Conditions to Content</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.ContributorOnlineOnly"> See <MadCap:xref href="../../../../Contributor/Conditions/Applying-Condition-Tags-to-Content.htm">Applying Conditions to Content</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

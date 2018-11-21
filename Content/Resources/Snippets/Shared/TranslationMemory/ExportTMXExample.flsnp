@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say that the "Languages to export" field shows English-to-Danish and English-to-German translations. Like this:</p>
+            <p>
+                <img src="../../../Images/Lingo/export_to_tmx_example1.png" class="MaxWidth80Percent" />
+            </p>
+            <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoTranslationGuide" />
+            <p>If you select "English" in the Source Language field to the right, the tool using the exported TMX file will be able to use the translations going from English to Danish or English to German. </p>
+            <p>
+                <img src="../../../Images/Lingo/export_to_tmx_example2.png" class="MaxWidth80Percent" />
+            </p>
+            <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoTranslationGuide" />
+            <p>If you select "Any" in the Source Language field to the right, the tool using the exported TMX file will be able to use the translations going from English to Danish, English to German, Danish to English, and German to English.</p>
+            <p>
+                <img src="../../../Images/Lingo/export_to_tmx_example3.png" class="MaxWidth80Percent" />
+            </p>
+        </div>
+    </body>
+</html>

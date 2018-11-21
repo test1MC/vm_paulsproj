@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>This places the footnote comment at the end of the topic where the in-text footnote number is inserted. This is similar to the previous option. However, a single topic may result in multiple pages in the output. This option ensures that the footnote is placed at the end of the topic, not necessarily on the same page where the corresponding number or symbol is placed.</p>
+    </body>
+</html>

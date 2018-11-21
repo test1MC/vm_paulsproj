@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>As you complete the different fields in this dialog, the Advanced Selector field is populated accordingly. The reverse is also true. You can enter text in the Advanced Selector field directly, and the other fields in the dialog will be automatically populated. However, you need to enter the correct syntax if you type directly in the field.</p>
+    </body>
+</html>

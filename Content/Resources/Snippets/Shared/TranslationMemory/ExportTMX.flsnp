@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <p>If you have a termbase file in Lingo, you can export it into a Translation Memory eXchange (TMX) file to share with others or to save for later. To do this, select the database in the grid, then click <span class="Emphasis">Export</span>. Complete the fields in the dialog and click <span class="Emphasis">Start Export</span>.</p>
+    </body>
+</html>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="290" MadCap:lastWidth="1124">
+    <body>
+        <ol>
+            <li>Open an <MadCap:variable name="Outputs.HTML5" /> Top Navigation skin.</li>
+            <li>Select the <span class="Emphasis">Setup</span> tab.</li>
+            <li>
+                <p>From the <span class="Emphasis">Slide-Out Menu Style</span> field, select <span class="Emphasis">Tree</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/slide_out_tree_view5.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

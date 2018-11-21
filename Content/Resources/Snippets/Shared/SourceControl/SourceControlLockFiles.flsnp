@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>When you are working, you may want to lock the files you have modified. Locking a file does not prevent other users from modifying the file. However, no one else can commit a file that you have locked until you unlock the file. If your project is bound to Subversion, you can steal a lock from another user if you need to commit a locked file while they are working on it. Likewise, another user can steal a lock on a file you have locked. You will see this option if your project is bound to Perforce or Subversion.</p>
+    </body>
+</html>

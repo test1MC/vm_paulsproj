@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Lingo" MadCap:lastBlockDepth="2" MadCap:lastHeight="85" MadCap:lastWidth="1274">
+    <body>
+        <p>If you have created more than one branch, you can switch to, or select, the branch you want to work with. When you switch to a new branch, you will see the files associated with that branch, and any new commits will be sent to the selected branch. By default, the master branch is selected.</p>
+    </body>
+</html>

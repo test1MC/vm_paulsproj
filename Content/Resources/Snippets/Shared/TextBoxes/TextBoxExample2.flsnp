@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">examples</p>
+            <p>
+                <img src="../../../Images/Shared/float_text_box_example1.png" class="MaxWidth70Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Shared/float_text_box_example2.png" class="MaxWidth70Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Shared/float_text_box_example3.png" class="MaxWidth80Percent" />
+            </p>
+        </div>
+    </body>
+</html>

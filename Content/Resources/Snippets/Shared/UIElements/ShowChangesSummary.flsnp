@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="84" MadCap:lastWidth="1018">
+    <head>
+    </head>
+    <body>
+        <p>Opens a sidebar and displays any tracked changes or annotations (notes) that have been attached to any content in the topic. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Reviews-Contributions/Track-Changes/Hiding-Showing-Changes-Annotations.htm">Hiding and Showing Changes and Annotations</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Reviews-Contributions/Track-Changes/Hiding-Showing-Changes-Annotations.htm">Hiding and Showing Changes and Annotations</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

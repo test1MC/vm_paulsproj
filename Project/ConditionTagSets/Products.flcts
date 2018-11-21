@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="Products.AllProductsPlusDocBible">
+  <ConditionTag
+    Comment=""
+    Name="Flare"
+    BackgroundColor="#bed230" />
+  <ConditionTag
+    BackgroundColor="#dbec62"
+    Name="FlareOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#e5f573"
+    Name="FlarePrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#fcfc3e"
+    Name="MovieViewer"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#fafa6d"
+    Name="MovieViewerOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#fafa9b"
+    Name="MovieViewerPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#4fc4ee"
+    Name="Capture"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#95def9"
+    Name="CaptureOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#b7ebff"
+    Name="CapturePrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#5dacc8"
+    Name="Mimic"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8fb9c8"
+    Name="MimicOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#a0bac4"
+    Name="MimicPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c658fc"
+    Name="HelpViewer"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#d27ffb"
+    Name="HelpViewerOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#dda7f8"
+    Name="HelpViewerPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#f48520"
+    Name="Lingo"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#f5b071"
+    Name="LingoOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#f5c69b"
+    Name="LingoPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#f48520"
+    Name="Analyzer"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#f5b071"
+    Name="AnalyzerOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#f5c69b"
+    Name="AnalyzerPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="AllProducts"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ccd3a1"
+    Name="Contributor"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#d1d4bf"
+    Name="ContributorOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#d3d4cb"
+    Name="ContributorPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#eee0d3"
+    Name="Align"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ebe8e4"
+    Name="AlignOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#faf6f2"
+    Name="AlignPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#fa9b9b"
+    Name="AllProductsThatRequireRegistration"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#d3dbde"
+    Name="MovieSync"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#e4ebee"
+    Name="MovieSyncOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#f6fafb"
+    Name="MovieSyncPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#f5d7bc"
+    Name="AnalyzerServerOnly"
+    Comment=""
+    OriginalName="AnalyzerServerOnly" />
+  <ConditionTag
+    BackgroundColor="#f0ff86"
+    Name="FlareServerOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="NotHelpViewer"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="NotAlign"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#3167b1"
+    Name="Pulse"
+    Comment=""
+    OriginalName="Pulse" />
+  <ConditionTag
+    BackgroundColor="#6b95cf"
+    Name="PulseOnlineOnly"
+    Comment=""
+    OriginalName="PulseOnlineOnly" />
+  <ConditionTag
+    BackgroundColor="#87abdd"
+    Name="PulsePrintOnly"
+    Comment=""
+    OriginalName="PulsePrintOnly" />
+  <ConditionTag
+    BackgroundColor="#a3c1eb"
+    Name="PulseServerOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#d0e24f"
+    Name="FlareLocalOnly"
+    Comment=""
+    OriginalName="FlareLocalOnly" />
+  <ConditionTag
+    BackgroundColor="#fb7070"
+    Name="AllProductsPlusDocBible"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#f4a053"
+    Name="LingoLocalOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#e8e9e2"
+    Name="ContributorServerOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="NotPulse"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#d1f2ff"
+    Name="CaptureServerOnly"
+    Comment=""
+    OriginalName="CaptureServerOnly" />
+  <ConditionTag
+    BackgroundColor="#b9c2c5"
+    Name="MimicServerOnly"
+    Comment=""
+    OriginalName="CaptureWebHelpResponsive" />
+  <ConditionTag
+    BackgroundColor="#f5d7bc"
+    Name="LingoServerOnly"
+    Comment=""
+    OriginalName="CaptureWebHelpResponsive" />
+  <ConditionTag
+    BackgroundColor="#5180c1"
+    Name="PulseLocalOnly"
+    Comment=""
+    OriginalName="PulseOnlineNotWebHelp" />
+  <ConditionTag
+    BackgroundColor="#f4a053"
+    Name="AnalyzerLocalOnly"
+    Comment=""
+    OriginalName="AnalyzerLocalOnly" />
+  <ConditionTag
+    BackgroundColor="#78d3f5"
+    Name="CaptureLocalOnly"
+    Comment=""
+    OriginalName="CaptureLocalOnly" />
+  <ConditionTag
+    BackgroundColor="#d0d4b0"
+    Name="ContributorLocalOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#77b2c7"
+    Name="MimicLocalOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#b2eede"
+    Name="D2HServerOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#a3e4d2"
+    Name="D2HPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#91d9c5"
+    Name="D2HOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#7fcbb7"
+    Name="D2HLocalOnly"
+    Comment="" />
+  <ConditionTag
+    Comment=""
+    Name="D2H"
+    BackgroundColor="#6dc1aa" />
+  <ConditionTag
+    BackgroundColor="#22ff14"
+    Name="DocBible"
+    Comment=""
+    OriginalName="DocBible" />
+  <ConditionTag
+    BackgroundColor="#fc3e3e"
+    Name="AllProductsNotD2H"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#4c6a7d"
+    Name="Central"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#5b7f97"
+    Name="CentralOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#6691ac"
+    Name="CentralPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="NotCentral"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="NotD2H"
+    Comment="" />
+</CatapultConditionTagSet>

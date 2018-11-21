@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartSection="false"
+    PageNumber="(multiple)"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    PageType="normal"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 1 About DotNet Help Output"
+    Link="/Content/Flare/Output/DotNet-Help-Output/About-DotNet-Help-Output.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartPageLayout="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="CH 2 Merging Output from DotNet Help Projects"
+    Link="/Content/Flare/TOCs/More/Merging-Output-from-DotNet-Help-Projects.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 3 CSH Calls for DotNet Help"
+    Link="/Content/Flare/CSH/DNH-CSH-Calls/CSH-Calls-DNH.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="CSH Calls for DotNet Help—Developers"
+      Link="/Content/Flare/CSH/DNH-CSH-Calls/CSH-Calls-DNH-Developers.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="HelpViewerClient API"
+      Link="/Content/Flare/CSH/DNH-CSH-Calls/HelpViewerClient-API.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="HelpViewerEmbeddedClient API"
+      Link="/Content/Flare/CSH/DNH-CSH-Calls/HelpViewerEmbeddedClient-API.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="IEmbeddedHelpSystem API"
+      Link="/Content/Flare/CSH/DNH-CSH-Calls/IEmbeddedHelpSystem.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="ICSHIDProvider API"
+      Link="/Content/Flare/CSH/DNH-CSH-Calls/ICSHIDProvider.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Command Line"
+      Link="/Content/Flare/CSH/DNH-CSH-Calls/Command-Line.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="APPENDIX Output_Type_Tables"
+    Link="/Content/Print-Only-Topics/Flare/Output-Type-Tables.htm"
+    StartPageLayout="false"
+    BreakPageLayout="/Content/Resources/PageLayouts/ChaptersLandscapeGreen.flpgl"
+    StartSection="false"
+    StartChapter="true"
+    BreakPageType="normal"
+    PageLayout="/Content/Resources/PageLayouts/Shared/AppendixLandscape.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    AutoEndOnLeftPage="disabled"
+    PageType="firstright" />
+</CatapultToc>

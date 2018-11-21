@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>For details on creating DLLs for integration with <MadCap:variable name="Other.Product" />, see <a href="http://www.madcapsoftware.com/downloads/redistributables.aspx" target="_blank">http://www.madcapsoftware.com/downloads/redistributables.aspx</a>. <span class="BoldWarning">The information provided is intended for developers or those who are very familiar with APIs and DLLs.</span></p>
+        <p>Once you have a DLL, you can follow the steps below to integrate it with <MadCap:variable name="Other.Product" />.</p>
+    </body>
+</html>

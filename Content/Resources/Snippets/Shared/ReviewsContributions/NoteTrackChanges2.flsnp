@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The track changes setting is not global in a project (i.e., it does not affect other content files open at that time). For example, let's say you have two topics open. With focus on topic A, you enable the track changes feature. If you bring focus to topic B, the track changes option is not enabled for that topic yet. However, if you then open other topics after that point, the track changes feature will be enabled in those topics.</p>
+        </div>
+    </body>
+</html>

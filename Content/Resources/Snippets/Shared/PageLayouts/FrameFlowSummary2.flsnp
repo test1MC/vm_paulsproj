@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor">
+    <body>
+        <p>If you add more than one frame of the same type to a page, they are numbered in the order you add them (1, 2, 3, and so on), and arrows connect them to indicate the flow, starting at the first frame. When you generate output, if the first frame becomes completely filled with content, the content then continues in the second frame, then the third, etc. If you remove one of the frames, the remaining ones are renumbered (e.g., if you have four body frames and remove the second one, third frame is renumbered 2 and the fourth one is renumbered 3).</p>
+    </body>
+</html>

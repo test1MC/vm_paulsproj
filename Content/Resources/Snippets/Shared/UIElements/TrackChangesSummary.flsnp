@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="58" MadCap:lastWidth="1018">
+    <head>
+    </head>
+    <body>
+        <p>Enables or disables the track changes feature.&#160;<MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Reviews-Contributions/Track-Changes/Enabling-Track-Changes.htm">Enabling Track Changes</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Reviews-Contributions/Track-Changes/Enabling-Track-Changes.htm">Enabling Track Changes</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

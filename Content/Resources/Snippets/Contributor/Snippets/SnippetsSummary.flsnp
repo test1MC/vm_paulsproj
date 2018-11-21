@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1174">
+    <body>
+        <p>A snippet is an important file used for single-sourcing that authors often insert into topics. You can think of them as miniature topics within topics. They can be formatted just like a topic and they look like they are part of the regular content in a topic, but they are not; they are separate files.</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>In regular stylesheets, you can set breaks on the standard HTML table tags. The most common approach for page breaks is to set them on table rows through the tr style. Another option is that you can set breaks on rows (and on entire tables) through a table stylesheet. And because you can create patterns in table stylesheets, each pattern item might have different settings for breaks.</p>
+    </body>
+</html>

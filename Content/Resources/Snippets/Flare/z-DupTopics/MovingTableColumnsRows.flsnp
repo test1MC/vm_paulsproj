@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="723" MadCap:lastWidth="940">
+    <body>
+        <MadCap:snippetBlock src="../../Shared/Tables/MoveTableColumnsRowsSummary.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to move columns and rows by dragging and dropping</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol type="1" class="Decimal">
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Topics/OpenContentFile.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/UIElements/EnableTagBlockBarsStep.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Tables/MoveColumnsStep.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Tables/MoveColumnsStep2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to move rows with keyboard shortcuts</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol type="1" class="Decimal">
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Topics/OpenContentFile.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Tables/MoveRowsStep.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Tables/MoveRowsStep2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../../Shared/Tables/NoteMoveTableColumnsRows.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

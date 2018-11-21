@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="6" MadCap:lastHeight="354" MadCap:lastWidth="1144">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../PageLayouts/OpenPageInPageLayoutStep.flsnp" />
+            </li>
+            <li>
+                <p>Click on the frame to which you want to add a page number, Heading variable, or another snippet.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can insert content only into header, footer, and decoration frames. You cannot insert content into a body frame (which automatically displays content from your topics).</p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p>In the local toolbar, click <img src="../../../Images/Shared/select_frame_text_btn.png" class="ReduceButtonSize" />.</p>
+                        <p>OR</p>
+                    </li>
+                    <li>Right-click the frame and select <span class="Emphasis">Select Frame Text</span>.</li>
+                </ul>
+            </li>
+        </ol>
+    </body>
+</html>

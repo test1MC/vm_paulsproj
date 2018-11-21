@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  conditions="Products.D2H">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/D2H/TitleD2H.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartSection="false"
+    PageNumber="1"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/D2H/TitleD2H.flpgl"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/D2H/Introduction/Features/Managing-Project.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 2 Migrating a Project"
+    Link="/Content/D2H/Projects/Migrating-Project.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 3 Modular Projects"
+    Link="/Content/D2H/Projects/Modular/About-Modular-Projects.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Creating a Hub Project"
+      Link="/Content/D2H/Projects/Modular/Creating-Hub-Project.htm" />
+    <TocEntry
+      Title="Creating a Child Project"
+      Link="/Content/D2H/Projects/Modular/Creating-Child-Project.htm">
+      <TocEntry
+        Title="Cross-Project Linking"
+        Link="/Content/D2H/Projects/Modular/Cross-Project-Linking.htm" />
+      <TocEntry
+        Title="Modifying Context IDs in Modular Projects"
+        Link="/Content/D2H/Projects/Modular/Modifying-Context-IDs-Modular-Projects.htm" />
+      <TocEntry
+        Title="Modular Glossaries"
+        Link="/Content/D2H/Projects/Modular/Modular-Output-Glossaries.htm" />
+      <TocEntry
+        Title="Modular TOC Utility"
+        Link="/Content/D2H/Projects/Modular/Modular-TOC-Utility.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Creating Modular Ouptut for Help Viewer Targets"
+      Link="/Content/D2H/Projects/Modular/Creating-Modular-Output-for-Help-Viewer-Targets.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Project Properties and Settings"
+    Link="/Content/D2H/Projects/Project-Settings/About-Project-Properties-Settings.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Compacting a Project File"
+      Link="/Content/D2H/Projects/Project-Settings/Compacting-Project-File.htm" />
+    <TocEntry
+      Title="Importing and Exporting Project Settings"
+      Link="/Content/D2H/Projects/Project-Settings/Importing-Exporting-Project-Settings.htm" />
+    <TocEntry
+      Title="Project Properties"
+      Link="/Content/D2H/Projects/Project-Settings/Setting-Project-Properties.htm">
+      <TocEntry
+        Title="Choosing a Source Folder"
+        Link="/Content/D2H/Projects/Project-Settings/Choosing-Source-Folder.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Reports"
+    Link="/Content/D2H/Reports/DocToHelp-Reports.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 6 SharePoint"
+    Link="/Content/D2H/Sharepoint/About-SharePoint-Integration-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="SharePoint Library"
+      Link="/Content/D2H/Sharepoint/About-SharePoint-Library.htm"
+      BreakType="none"
+      StartSection="Unchecked"
+      PageType="normal">
+      <TocEntry
+        Title="Adding SharePoint Library Documents to a Doc-To-Help Project"
+        Link="/Content/D2H/Sharepoint/Adding-SharePoint-Library-Docs-to-Project.htm" />
+      <TocEntry
+        Title="Checking Documents In and Out"
+        Link="/Content/D2H/Sharepoint/Checking-Docs-In-Out-SharePoint-Library.htm" />
+      <TocEntry
+        Title="Merging Documents"
+        Link="/Content/D2H/Sharepoint/Merging-Word-Documents.htm" />
+      <TocEntry
+        Title="Stop Sharing a Document"
+        Link="/Content/D2H/Sharepoint/Stop-Sharing-Document.htm" />
+      <TocEntry
+        Title="Synchronizing Documents"
+        Link="/Content/D2H/Sharepoint/Synchronizing-Documents.htm" />
+      <TocEntry
+        Title="Uploading Documents to a SharePoint Library"
+        Link="/Content/D2H/Sharepoint/Uploading-Documents-to-SharePoint-Library.htm" />
+      <TocEntry
+        Title="Working Offline"
+        Link="/Content/D2H/Sharepoint/Working-Offline.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="SharePoint Translation Library"
+      Link="/Content/D2H/Sharepoint/About-SharePoint-Translation-Library.htm">
+      <TocEntry
+        Title="Creating a SharePoint Translation Library"
+        Link="/Content/D2H/Sharepoint/Creating-SharePoint-Translation-Library.htm" />
+      <TocEntry
+        Title="Uploading Documents to a SharePoint Translation Library"
+        Link="/Content/D2H/Sharepoint/Uploading-Documents-to-SharePoint-Translation-Library.htm" />
+      <TocEntry
+        Title="Working with a Translation Project"
+        Link="/Content/D2H/Sharepoint/Working-with-Translation-Project.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Publishing to SharePoint"
+      Link="/Content/D2H/Sharepoint/Publishing-to-SharePoint.htm">
+      <TocEntry
+        Title="Editing a SharePoint Wiki"
+        Link="/Content/D2H/Sharepoint/Editing-SharePoint-Wiki.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 7 Team Authoring"
+    Link="/Content/D2H/Team-Authoring/About-Team-Authoring.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Setting Up a Team Project"
+      Link="/Content/D2H/Team-Authoring/Setting-Up-Team-Project.htm"></TocEntry>
+    <TocEntry
+      Title="Connecting to a Team Project"
+      Link="/Content/D2H/Team-Authoring/Connecting-to-Team-Project.htm" />
+    <TocEntry
+      Title="Working in a Team Project"
+      Link="/Content/D2H/Team-Authoring/Working-in-Team-Project.htm">
+      <TocEntry
+        Title="Adding a New File to the Team Project"
+        Link="/Content/D2H/Team-Authoring/Adding-New-File-to-Team-Project.htm" />
+      <TocEntry
+        Title="Checking Out the Project File"
+        Link="/Content/D2H/Team-Authoring/Checking-Out-Project-File.htm" />
+      <TocEntry
+        Title="Comparing Documents"
+        Link="/Content/D2H/Team-Authoring/Comparing-Documents-TFS-Repositories-Only.htm" />
+      <TocEntry
+        Title="Deleting a File from the Team Project"
+        Link="/Content/D2H/Team-Authoring/Deleting-File-from-Team-Project.htm" />
+      <TocEntry
+        Title="Editing a Document"
+        Link="/Content/D2H/Team-Authoring/Editing-Document.htm" />
+      <TocEntry
+        Title="Getting the Latest Version of a File"
+        Link="/Content/D2H/Team-Authoring/Getting-Latest-Version-File.htm" />
+      <TocEntry
+        Title="Viewing the Document History"
+        Link="/Content/D2H/Team-Authoring/Viewing-Document-History-TFS-Repositories-Only.htm" />
+      <TocEntry
+        Title="Viewing File Properties"
+        Link="/Content/D2H/Team-Authoring/Viewing-File-Properties-TFS-Repositories-Only.htm" />
+      <TocEntry
+        Title="Working Offline"
+        Link="/Content/D2H/Team-Authoring/Working-Offline.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Team Authoring Administrative Functions"
+      Link="/Content/D2H/Team-Authoring/Team-Authoring-Administrative-Functions.htm">
+      <TocEntry
+        Title="Changing Repository Settings"
+        Link="/Content/D2H/Team-Authoring/Changing-Repository-Settings.htm" />
+      <TocEntry
+        Title="Removing Backup Files from the Repository"
+        Link="/Content/D2H/Team-Authoring/Removing-Backup-Files-from-Repository.htm" />
+      <TocEntry
+        Title="Removing Team Authoring Support from a Working Copy"
+        Link="/Content/D2H/Team-Authoring/Removing-Team-Authoring-Support-from-Working-Copy.htm" />
+      <TocEntry
+        Title="Unlocking Files in the Repository"
+        Link="/Content/D2H/Team-Authoring/Unlocking-Files-Repository.htm" />
+      <TocEntry
+        Title="Unlocking the DHV File"
+        Link="/Content/D2H/Team-Authoring/Unlocking-DHV-File.htm" />
+      <TocEntry
+        Title="Upgrading a Team Authoring Project"
+        Link="/Content/D2H/Team-Authoring/Upgrading-Team-Authoring-Project.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/D2H/PDF-Guides/PDF-Guides-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled" />
+</CatapultToc>

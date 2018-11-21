@@ -1,0 +1,935 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/Flare/Output/Printed-Output/Creating-Printed-Output.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 2 Creating Topics"
+    Link="/Content/Flare/Topics/About-Topics.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    StartPageLayout="false">
+    <TocEntry
+      Title="Creating New Topics"
+      Link="/Content/Flare/Topics/Creating-Topics.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="About Layout Modes"
+      Link="/Content/Flare/Topics/About-Layout-Modes.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Adding Stuff to the Project"
+    Link="/Content/Flare/Introduction/Steps/Add-Elements.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false">
+    <TocEntry
+      Title="Cross-References"
+      Link="/Content/Flare/Nav-Links/Cross-References/About-Cross-References.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Inserting Cross-References into Topics"
+        Link="/Content/Flare/Nav-Links/Cross-References/Inserting-Cross-References.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Creating Context-Sensitive Cross-References"
+        Link="/Content/Flare/Nav-Links/Cross-References/Creating-Context-Sensitive-Cross-References.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Editing Cross References"
+        Link="/Content/Flare/Nav-Links/Cross-References/Editing-Cross-References.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Editing Cross-Reference Destinations"
+          Link="/Content/Flare/Nav-Links/Cross-References/Editing-Cross-Reference-Destinations.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Editing Cross-Reference Style Formats"
+          Link="/Content/Flare/Nav-Links/Cross-References/Editing-Cross-Reference-Style-Formats.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Editing Text for Context-Sensitive Cross-References"
+          Link="/Content/Flare/Nav-Links/Cross-References/Editing-Text-CS-Cross-References.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Updating Cross-References"
+        Link="/Content/Flare/Nav-Links/Cross-References/Updating-Cross-References.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Footnotes and Endnotes"
+      Link="/Content/Flare/Footnotes/About-Footnotes.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Inserting Footnotes and Endnotes"
+        Link="/Content/Flare/Footnotes/Inserting-Footnotes.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Editing Footnotes"
+        Link="/Content/Flare/Footnotes/Editing-Footnotes/Editing-Footnotes.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Using an Endnotes Proxy"
+        Link="/Content/Flare/Proxies/Creating-Endnotes-Proxy.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Glossaries"
+      Link="/Content/Flare/Glossaries/About-Glossaries.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Adding a Glossary File"
+        Link="/Content/Flare/Glossaries/More/Adding-Glossary.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Opening a Glossary"
+        Link="/Content/Flare/Glossaries/More/Opening-Glossary.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Creating Glossary Terms and Definitions"
+        Link="/Content/Flare/Glossaries/Creating-Glossary-Terms-Definitions.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Auto-generating Glossaries"
+        Link="/Content/Flare/Output/Printed-Output/Auto-Generating-Glossaries-Print.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Creating Glossary Manually for Print"
+        Link="/Content/Flare/Output/Printed-Output/Creating-Glossary-Manually-Print.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Associating Glossaries with Targets"
+        Link="/Content/Flare/Glossaries/Associating-Glossaries-with-Targets.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Indexes"
+      Link="/Content/Flare/Indexes/About-Indexes.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Adding Index Keywords"
+        Link="/Content/Flare/Indexes/Adding-Index-Keywords.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Assigning Files to Index Keywords"
+        Link="/Content/Flare/Indexes/Assigning-Topics-to-Index-Keywords.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Inserting Index Keywords"
+        Link="/Content/Flare/Indexes/Inserting-Index-Keywords.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Creating Auto-Indexes"
+        Link="/Content/Flare/Indexes/Creating-Auto-Indexes.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Creating Index Links"
+        Link="/Content/Flare/Indexes/Creating-Index-Links.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Auto-generating Indexes"
+        Link="/Content/Flare/Output/Printed-Output/Auto-Generating-Indexes-Print.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Creating an Index Manually for Print"
+        Link="/Content/Flare/Output/Printed-Output/Creating-Index-Manually-Print.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Including Page Auto-Numbers in Print Indexes"
+        Link="/Content/Flare/Output/Printed-Output/Including-Autonumbers-Print-Indexes.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Lists of Concepts"
+      Link="/Content/Flare/Concepts/About-Concepts.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Adding Concepts"
+        Link="/Content/Flare/Concepts/Adding-Concepts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Assigning Topics to Concepts"
+        Link="/Content/Flare/Concepts/Assigning-Topics-to-Concepts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Inserting Concepts into Topics"
+        Link="/Content/Flare/Concepts/Inserting-Concepts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Creating a List of Concepts"
+        Link="/Content/Flare/Proxies/Creating-List-Concepts.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="List of Elements"
+      Link="/Content/Flare/Proxies/Creating-List-Elements.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Mini-TOCs"
+      Link="/Content/Flare/Proxies/Creating-Mini-TOC.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="QR Code"
+      Link="/Content/Flare/QR-Codes/About-QR-Codes.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Inserting QR Codes"
+        Link="/Content/Flare/QR-Codes/Inserting-QR-Codes.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Tables of Contents"
+      Link="/Content/Flare/Output/Printed-Output/Auto-Generating-TOCs-Print.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Creating a TOC Manually for Print"
+        Link="/Content/Flare/Output/Printed-Output/Creating-TOC-Manually-Print.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Determining Heading Levels for a Print TOC"
+        Link="/Content/Flare/Output/Printed-Output/Determining-Heading-Levels-Print-TOC.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Variables"
+      Link="/Content/Flare/Variables/About-Variables.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Adding Variable Sets to Projects"
+        Link="/Content/Flare/Variables/Adding-Variable-Sets-to-Projects.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Creating New Variables"
+        Link="/Content/Flare/Variables/Creating-New-Variables.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Creating Custom Date/Time Variables"
+        Link="/Content/Flare/Variables/Creating-Date-Time-Variables.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="About Heading Variables"
+        Link="/Content/Flare/Variables/About-Heading-Variables.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="About Running Head Variables"
+        Link="/Content/Flare/Variables/About-Running-HF-Variables.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Inserting_Variables_into_Topics"
+        Link="/Content/Flare/Variables/Inserting-Variables.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Making It Look Good"
+    Link="/Content/Flare/Introduction/Steps/Look-Good.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false">
+    <TocEntry
+      Title="Styles and Style Sheets"
+      Link="/Content/Flare/Styles/About-Styles-Stylesheets.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="About Regular Stylesheets"
+        Link="/Content/Flare/Styles/About-Regular-Stylesheets.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="About Table Stylesheets"
+        Link="/Content/Flare/Styles/About-Table-Stylesheets.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Regular Stylesheets, Table Stylesheets, or Local Properties?"
+        Link="/Content/Flare/Styles/Using-Styles/Regular-Stylesheets-Table-Stylesheets-Properties.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="About Style Sheet Mediums"
+        Link="/Content/Flare/Styles/Mediums/About-Mediums-Media-Queries.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Selecting Style Sheet Mediums"
+        Link="/Content/Flare/Styles/Mediums/Selecting-Mediums-Media-Queries.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Creating Style Sheet Mediums"
+        Link="/Content/Flare/Styles/Mediums/Creating-Mediums.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Associating a Medium Type with a Target"
+        Link="/Content/Flare/Styles/Mediums/Associating-Medium-with-Target.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Local Formatting"
+      Link="/Content/Flare/Local-Formatting/Local-Formatting.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Autonumbers"
+      Link="/Content/Flare/Autonumbers/About-Autonumbers.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Creating Auto-Number Formats for Styles"
+        Link="/Content/Flare/Autonumbers/Creating-Auto-Number-Formats-for-Styles.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Auto-Number Format Examples"
+        Link="/Content/Flare/Autonumbers/AutoNumber-Format-Examples.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Positioning Elements"
+      Link="/Content/Flare/Positioning-Elements/About-Positioning-Elements.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Using Absolute Positioning on Elements"
+        Link="/Content/Flare/Positioning-Elements/Using-Absolute-Positioning-Elements.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Using Floats for Positioning Elements"
+        Link="/Content/Flare/Positioning-Elements/Using-Floats-Positioning-Elements.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Enabling for Floats"
+        Link="/Content/Flare/Positioning-Elements/Enabling-Object-Positioning.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Paragraph Formatting"
+      Link="/Content/Flare/Paragraphs/About-Paragraph-Formatting.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Setting Hyphenation"
+        Link="/Content/Flare/Paragraphs/Setting-Hyphenation.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Setting Page and Column Breaks"
+        Link="/Content/Flare/Paragraphs/Setting-Page-Column-Breaks.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Determining Wrap Behavior on Line Breaks Using Styles"
+        Link="/Content/Flare/Paragraphs/Determining-Wrap-Behavior-Line-Breaks.htm"
+        PageNumber="(multiple)"></TocEntry>
+      <TocEntry
+        Title="Setting Short Line Elimination"
+        Link="/Content/Flare/Paragraphs/Setting-Short-Line-Elimination.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="About Widows and Orphans"
+        Link="/Content/Flare/Paragraphs/About-Widows-Orphans.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Enabling and Disabling Widow/Orphan Control"
+          Link="/Content/Flare/Paragraphs/Enabling-Disabling-Widow-Oprhan-Control.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Widow and Orphan Control"
+          Link="/Content/Flare/Paragraphs/Setting-Widow-Orphan-Control.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Using Single-Sourcing Features"
+    Link="/Content/Flare/Output/Printed-Output/Setting-Styles-Print-Output-Regular-Stylesheet.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false">
+    <TocEntry
+      Title="Creating Table Styles for Print Output"
+      Link="/Content/Flare/Output/Printed-Output/Setting-Table-Styles-Print-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating Single-Source Images"
+      Link="/Content/Flare/Images/Creating-Single-Source-Images.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Resizing Pictures"
+      Link="/Content/Flare/Images/Editing-Images/Resizing-Images.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Condition_Tags"
+      Link="/Content/Flare/Output/Printed-Output/Creating-Condition-Tags-Printed-Output.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Creating Condition Tags"
+        Link="/Content/Flare/Conditions/Creating-Condition-Tags.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Applying_Condition_Tags_to_Content"
+        Link="/Content/Flare/Output/Printed-Output/Applying-Condition-Tags-Printed-Output.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Associating Condition Tags to a File While Editing"
+        Link="/Content/Flare/Conditions/Associating-Condition-Tags-to-File-While-Editing.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Associating_Condition_Tags_with_Targets"
+        Link="/Content/Flare/Output/Printed-Output/Associating-Condition-Tags-Print-Target.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Creating Page Layouts or Master Pages"
+    Link="/Content/Flare/Output/Printed-Output/Creating-Page-Layouts-Master-Pages.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false">
+    <TocEntry
+      Title="Page Layouts"
+      Link="/Content/Flare/Page-Layouts/About-Page-Layouts.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Adding Page Layouts"
+        Link="/Content/Flare/Page-Layouts/Adding-Page-Layouts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Importing Page Layouts"
+        Link="/Content/Flare/Page-Layouts/Importing-Page-Layouts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Opening Page Layouts"
+        Link="/Content/Flare/Page-Layouts/Opening-Page-Layouts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Copying and Renaming Page Layouts"
+        Link="/Content/Flare/Page-Layouts/Copying-Renaming-Page-Layouts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Adding Pages"
+        Link="/Content/Flare/Page-Layouts/Adding-Pages.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Adding Page Layout Frames"
+        Link="/Content/Flare/Page-Layouts/Adding-Page-Layout-Frames.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Editing Pages and Frames"
+        Link="/Content/Flare/Page-Layouts/Editing-Pages-and-Frames.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Duplicating Pages in Page Layouts"
+          Link="/Content/Flare/Page-Layouts/Pages/Duplicating-Pages-in-Page-Layouts.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Inserting Pages in Page Layouts"
+          Link="/Content/Flare/Page-Layouts/Pages/Inserting-Pages-in-Page-Layouts.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Mirroring Pages in Page Layouts"
+          Link="/Content/Flare/Page-Layouts/Pages/Mirroring-Pages-in-Page-Layouts.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Opening Pages in Layouts"
+          Link="/Content/Flare/Page-Layouts/Pages/Opening-Pages-in-Layouts.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Removing Pages from Page Layouts"
+          Link="/Content/Flare/Page-Layouts/Pages/Removing-Pages-from-Page-Layouts.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Specifying the Page Bleed Size"
+          Link="/Content/Flare/Page-Layouts/Pages/Specifying-Page-Bleed-Size.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Specifying Page Margins"
+          Link="/Content/Flare/Page-Layouts/Pages/Specifying-Page-Margins.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Specifying Page Names"
+          Link="/Content/Flare/Page-Layouts/Pages/Specifying-Page-Names.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Specifying Page Size and Orientation"
+          Link="/Content/Flare/Page-Layouts/Pages/Specifying-Page-Size-Orientation.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Specifying Page Types"
+          Link="/Content/Flare/Page-Layouts/Pages/Specifying-Page-Types.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Specifying Page Background Settings"
+          Link="/Content/Flare/Page-Layouts/Pages/Specifying-Page-Background-Settings.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Using Empty Pages"
+          Link="/Content/Flare/Page-Layouts/Pages/Using-Empty-Pages.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Page Type Flow Scenarios"
+          Link="/Content/Flare/Output/Printed-Output/Page-Type-Flow-Scenarios.htm"
+          StartSection="false"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Showing the Bleed, Crop, and Registration Marks in Page Layouts"
+          Link="/Content/Flare/Page-Layouts/Pages/Showing-Bleed-Crop-Reg-Marks-Page-Layouts.htm"
+          StartSection="false"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Showing Frame Anchor Lines in Page Layouts"
+          Link="/Content/Flare/Page-Layouts/Frames/Showing-Frame-Anchor-Lines-Page-Layouts.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Showing Labels in Page Layouts"
+          Link="/Content/Flare/Page-Layouts/Pages/Showing-Labels-Page-Layouts.htm"
+          StartSection="false"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Showing Margins in Page Layouts"
+          Link="/Content/Flare/Page-Layouts/Pages/Showing-Margins-Page-Layouts.htm"
+          StartSection="false"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Showing Padding in Page Layouts"
+          Link="/Content/Flare/Page-Layouts/Pages/Showing-Padding-Page-Layouts.htm"
+          StartSection="false"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Showing the Page Overview Bar in Page Layouts"
+          Link="/Content/Flare/Page-Layouts/Pages/Showing-Page-Overview-Bar-Page-Layouts.htm"
+          StartSection="false"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Showing the Word Overlay in Page Layouts"
+          Link="/Content/Flare/Page-Layouts/Pages/Showing-Word-Overlay-Page-Layouts.htm"
+          StartSection="false"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Adding Text and Content to Frames"
+          Link="/Content/Flare/Page-Layouts/Frames/Adding-Text-Content-Frames.htm"
+          StartSection="false"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Using the Snap Feature in Page Layouts"
+          Link="/Content/Flare/Page-Layouts/Pages/Using-Snap-Feature-Page-Layouts.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Aligning Page Layout Frames"
+          Link="/Content/Flare/Page-Layouts/Frames/Aligning-Page-Layout-Frames.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Aligning Text in Frames"
+          Link="/Content/Flare/Page-Layouts/Frames/Aligning-Text-Frames.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Creating Columns"
+          Link="/Content/Flare/Page-Layouts/Frames/Creating-Columns.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Exporting Frame Text"
+          Link="/Content/Flare/Page-Layouts/Frames/Exporting-Frame-Text.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Floating and Sinking Frames"
+          Link="/Content/Flare/Page-Layouts/Frames/Floating-Sinking-Frames.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Inserting Chapter, Section, and Volume Number Variables into Frames"
+          Link="/Content/Flare/Page-Layouts/Frames/Inserting-Chapter-Section-Volume-Number-Variables-Frames.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Inserting Heading Variables Into Frames"
+          Link="/Content/Flare/Page-Layouts/Frames/Inserting-Heading-Variables-Frames.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Inserting Running Head Variables into Frames"
+          Link="/Content/Flare/Page-Layouts/Frames/Inserting-Running-Head-Variables-Frames.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Inserting Page Numbers into Frames"
+          Link="/Content/Flare/Page-Layouts/Frames/Inserting-Page-Numbers-Frames.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Removing Page Layout Frames"
+          Link="/Content/Flare/Page-Layouts/Frames/Removing-Page-Layout-Frames.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Rotating Frames"
+          Link="/Content/Flare/Page-Layouts/Frames/Rotating-Frames.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Frame Anchors"
+          Link="/Content/Flare/Page-Layouts/Frames/Setting-Frame-Anchors.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Frame Breaks on Paragraphs and Headings"
+          Link="/Content/Flare/Page-Layouts/Frames/Setting-Frame-Breaks.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Frame Breaks on Tables"
+          Link="/Content/Flare/Tables/Setting-Page-Column-Frame-Breaks-on-Tables.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Specifying a Frame Background"
+          Link="/Content/Flare/Page-Layouts/Frames/Specifying-Frame-Background.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Specifying Frame Borders"
+          Link="/Content/Flare/Page-Layouts/Frames/Specifying-Frame-Borders.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Specifying Frame Flow"
+          Link="/Content/Flare/Page-Layouts/Frames/Specifying-Frame-Flow.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Specifying Frame Padding"
+          Link="/Content/Flare/Page-Layouts/Frames/Specifying-Frame-Padding.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Specifying Frame Size"
+          Link="/Content/Flare/Page-Layouts/Frames/Specifying-Frame-Size.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Copying Pages in Page Layouts"
+        Link="/Content/Flare/Page-Layouts/Pages/Copying-Pages-in-Page-Layouts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Associating Master Page Layouts with Projects"
+        Link="/Content/Flare/Page-Layouts/Associating-Master-Page-Layouts-Projects.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Associating Master Page Layouts with Targets"
+        Link="/Content/Flare/Page-Layouts/Associating-Master-Page-Layouts-Targets.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Selecting a Page Layout to View Content in the XML Editor"
+        Link="/Content/Flare/Page-Layouts/Selecting-Page-Layout-to-View-Content-XML-Editor.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Master Pages"
+      Link="/Content/Flare/Master-Pages/About-Master-Pages.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Creating Print Master Pages"
+        Link="/Content/Flare/Output/Printed-Output/Creating-Print-Master-Pages.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Adding a Master Page to a Project"
+        Link="/Content/Flare/Master-Pages/Adding-Master-Page-to-Project.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Opening Existing Master Pages"
+        Link="/Content/Flare/Master-Pages/More/Opening-Master-Pages.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Adding and Editing Body Proxies for Print Output"
+        Link="/Content/Flare/Output/Printed-Output/Adding-Editing-Body-Proxies.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Adding Page Header and Footer Proxies"
+        Link="/Content/Flare/Output/Printed-Output/Adding-Page-Header-Footer-Proxies.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Inserting Custom Date/Time Variables Into Master Pages"
+        Link="/Content/Flare/Variables/Inserting-Custom-Date-Time-Variables-Into-Master-Pages.htm" />
+      <TocEntry
+        Title="Inserting Heading Variables Into Master Pages"
+        Link="/Content/Flare/Output/Printed-Output/Inserting-Heading-Variables-Master-Pages.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Inserting Running Head Variables Into Master Pages"
+        Link="/Content/Flare/Output/Printed-Output/Inserting-Running-Head-Variables-Master-Pages.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 7 Creating an Outline Table of Contents"
+    Link="/Content/Flare/TOCs/About-TOCs.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters3Gray.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false">
+    <TocEntry
+      Title="Steps for Using an Outline TOC"
+      Link="/Content/Print-Only-Topics/Flare/Outline-TOC/Steps-Outline-TOC.htm"
+      BreakType="pageLayout"
+      PageType="left"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding Another Table of Contents"
+      Link="/Content/Flare/TOCs/More/Adding-TOC.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Opening a Table of Contents"
+      Link="/Content/Flare/TOCs/More/Opening-TOC.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Including Print Topics in an Online TOC"
+      Link="/Content/Flare/Output/Printed-Output/Adding-Print-Topics-Outline-TOC.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying Chapter Breaks and Page Layouts"
+      Link="/Content/Flare/Output/Printed-Output/Specifying-Chapter-Breaks.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying Section Breaks and Master Pages"
+      Link="/Content/Flare/Output/Printed-Output/Specifying-Section-Breaks-Master-Pages.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying Auto-Numbering Flow for Output"
+      Link="/Content/Flare/Autonumbers/Specifying-Auto-Numbering-Flow-for-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating a Master Table of Contents with a Project"
+      Link="/Content/Flare/TOCs/Associating-Master-TOC-with-Project.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating a Master Table of Contents with a Target"
+      Link="/Content/Flare/TOCs/Associating-Master-TOC-with-Target.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Stitching PDFs"
+      Link="/Content/Flare/Output/PDF-Output/Stitching-PDFs.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 8 Developing Output"
+    Link="/Content/Flare/Targets/Develop-Targets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false">
+    <TocEntry
+      Title="Determining_the_Output_Type"
+      Link="/Content/Flare/Output/Determining-Output-Type.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Changing the Output Type for a Target"
+      Link="/Content/Flare/Targets/More/Changing-Output-Type-for-Target.htm"
+      StartPageLayout="true"
+      BreakPageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+      StartSection="false"
+      StartChapter="false"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding_Targets"
+      Link="/Content/Flare/Targets/Adding-Targets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Renaming_Targets"
+      Link="/Content/Flare/Targets/Renaming-Targets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Editing_Target_Settings"
+      Link="/Content/Flare/Targets/Editing-Target-Settings.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Selecting a Language for the Target"
+        Link="/Content/Flare/Language-Support/Selecting-Language.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Specifying PDF Output Via Word or FrameMaker"
+        Link="/Content/Flare/Output/PDF-Output/Specifying-PDF-Output.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Specifying PDF Options"
+        Link="/Content/Flare/Targets/More/Specifying-PDF-Options.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Preserving Tracked Changes in PDF or Word Output"
+        Link="/Content/Flare/Reviews-Contributions/Track-Changes/Preserving-Tracked-Changes.htm" />
+      <TocEntry
+        Title="Specifying XPS Output Via Microsoft Word"
+        Link="/Content/Flare/Output/XPS-Output/Specifying-XPS-Output.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Specifying How Online Features are Converted in Printed Output"
+        Link="/Content/Flare/Output/Printed-Output/Specifying-How-Online-Features-Converted-Printed-Output.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Collapsing Top Margins"
+        Link="/Content/Flare/Output/Printed-Output/Collapsing-Top-Margins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Setting Redacted Text on Content"
+        Link="/Content/Flare/Redacted-Text/Setting-Redacted-Text.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Setting Redacted Text on Targets"
+        Link="/Content/Flare/Targets/More/Setting-Redacted-Text-on-Targets.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Creating Headings for Unlinked Books in a Generated TOC"
+        Link="/Content/Flare/Output/Printed-Output/Creating-Headings-Unlinked-Books-Generated-TOC.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Removing Images from Headings in a Generated TOC"
+        Link="/Content/Flare/Output/Printed-Output/Removing-Images-Headings-Generated-TOC.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Enabling Review Mode in Word Output"
+        Link="/Content/Flare/Targets/More/Enabling-Review-Mode-Word-Output.htm" />
+      <TocEntry
+        Title="Enabling Mirror Margins in Word Output"
+        Link="/Content/Flare/Targets/More/Enabling-Mirror-Margins-Word-Output.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Registering MIME Types and File Extensions for XPS Output"
+        Link="/Content/Flare/Output/XPS-Output/Registering-MIME-Types-File-Extensions-XPS-Output.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Specifying EPUB Options"
+        Link="/Content/Flare/Targets/More/Specifying-EPUB-Options.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 9 Building and Publishing Output"
+    Link="/Content/Flare/Output/About-Building-Output.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false">
+    <TocEntry
+      Title="Building_the_Primary_Target"
+      Link="/Content/Flare/Output/Building-Primary-Target.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Building_a_Single_Target"
+      Link="/Content/Flare/Output/Building-Single-Target.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Building and Publishing Multiple Targets"
+      Link="/Content/Flare/Output/Building-Multiple-Targets.htm" />
+    <TocEntry
+      Title="Building Output Using a Batch Target"
+      Link="/Content/Flare/Output/Building-Output-Using-Batch-Target.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Viewing_Output"
+      Link="/Content/Flare/Output/More-Building-Output/Viewing-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating_Publishing_Destinations"
+      Link="/Content/Flare/Output/Creating-Publishing-Destinations.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating_Publishing_Destinations_with_Targets"
+      Link="/Content/Flare/Output/Associating-Publishing-Destinations-Targets.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="APPENDIX Output_Type_Tables"
+    Link="/Content/Print-Only-Topics/Flare/Output-Type-Tables.htm"
+    StartPageLayout="false"
+    BreakPageLayout="/Content/Resources/PageLayouts/ChaptersLandscapeGreen.flpgl"
+    StartSection="false"
+    StartChapter="true"
+    BreakPageType="normal"
+    PageLayout="/Content/Resources/PageLayouts/Shared/AppendixLandscape.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageType="firstright" />
+  <TocEntry
+    Title="PrintIndex"
+    Link="/Content/Print-Only-Topics/Shared/Print-Index.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Index.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

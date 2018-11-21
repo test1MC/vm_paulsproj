@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p class="TableText">In this field, you can select an HTML element (or "parent" style) if you want your new class or other "child" (e.g., ID) to be directly associated with it.</p>
+    </body>
+</html>

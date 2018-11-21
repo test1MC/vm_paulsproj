@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say you want the body text be displayed in one column on the top quarter of each page, but then you want the text to continue below in two columns. In order to accomplish this, you can create two body frames on a page—one with a single column and the other with two columns.</p>
+            <p>
+                <img src="../../../Images/Shared/body_frames_example.png" class="MaxWidth70Percent" />
+            </p>
+        </div>
+    </body>
+</html>

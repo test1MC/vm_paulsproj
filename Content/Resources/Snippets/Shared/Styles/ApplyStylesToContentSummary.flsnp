@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>You can apply styles to content in your files<MadCap:conditionalText MadCap:conditions="Products.Flare"> (e.g., topics, snippets, page layouts, master pages)</MadCap:conditionalText>. For regular stylesheets, this means choosing sections in your content files and selecting individual styles from the stylesheet using <MadCap:variable name="Other.Product" />'s interface. For table stylesheets, this means inserting a table into a content file and selecting a table stylesheet during that process, or from the Table Properties dialog when editing a table.</p>
+    </body>
+</html>

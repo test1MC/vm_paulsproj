@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p class="TableText">Hides the properties in the main portion of the Stylesheet Editor. By hiding the properties you can make the editor load faster than it would otherwise.</p>
+    </body>
+</html>

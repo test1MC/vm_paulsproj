@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say that you have created in your stylesheet a class of the img style called "button" (i.e., img.button) and you have set a maximum size on that style class. The idea is that you want to use that style class whenever you insert an image of a button, ensuring that the image always displays in a very small size. Rather than using the default parent img style when you insert the image, you select img.button from the Style Class drop-down.</p>
+        </div>
+    </body>
+</html>

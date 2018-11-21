@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>You can use mediums and media queries in <MadCap:variable name="Other.Product" />in order to produce various outputs with different appearances. These are similar concepts; in fact, you will see mediums and media queries side by side in different places in <MadCap:variable name="Other.Product" />'s user interface. However, they are not the same.</p>
+    </body>
+</html>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="155" MadCap:lastWidth="1116">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">Outputs Supported</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <div class="banner">
+                    <p class="OutputsSupported">
+                        <img src="../../../../Images/Shared/html5Light.svg" class="banners" MadCap:conditions="General.OnlineOnly" />
+                        <img src="../../../../Images/Shared/html5.svg" class="banners" MadCap:conditions="General.PrintOnly" />
+                        <img src="../../../../Images/Flare/eclipse.svg" class="banners" />
+                        <img src="../../../../Images/Flare/DotNetHelp.svg" class="banners" />
+                        <img src="../../../../Images/Shared/Microsoft HTML Help.svg" class="banners" />
+                        <img src="../../../../Images/Shared/WebHelp.svg" class="banners" />
+                        <img src="../../../../Images/Shared/WebHelp Mobile.svg" class="banners" />
+                        <img src="../../../../Images/Shared/WebHelp Plus.svg" class="banners" />
+                    </p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

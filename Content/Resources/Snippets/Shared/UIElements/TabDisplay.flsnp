@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="144" MadCap:lastWidth="739" MadCap:conditions="Products.Align,Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.Lingo,Products.Mimic,Products.MovieViewer">
+    <body>
+        <p>You can choose how to view window panes in the workspace. </p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Accordion Tabs</span>&#160;Stacks the document tabs below the window pane or editor.</li>
+            <li><span class="SetOffFirstLevel">Standard Tabs on Top</span>&#160;Places the document tabs on the top of the window pane or editor.</li>
+            <li><span class="SetOffFirstLevel">Standard Tabs on Bottom</span>&#160;Places the document tabs on the bottom of the window pane or editor.</li>
+        </ul>
+    </body>
+</html>

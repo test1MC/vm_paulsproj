@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Let's say you have four different images, and you're using the "In Front of Text" text wrap option on each of them. Therefore, each one has a z-index of 1 by default. However, because they are overlapping, the one that appears first in the code (Washington) is in back, and the one that appears last in the code (Roosevelt) appears on top.</p>
+            <p>
+                <img src="../../../Images/Shared/absolute-positioning15.png" alt="" title="" class="MaxWidth80Percent" />
+            </p>
+            <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareStylesGuide,FlareGuides.FlareQRCodesGuide,FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareImagesGuide" />
+            <p>Suppose you want Washington to be on top, then Jefferson, then Lincoln, and finally Roosevelt on the bottom. To do this, you could either change the order that they occur in the code (Roosevelt first, followed in order by Lincoln, Jefferson, and Washington). Alternatively, you can change the z-index value in the HTML code (or in custom style classes) for the images (Washington=4, Jefferson=3, Lincoln=2, Roosevelt=1). This changes the order in which the images are stacked on one another.</p>
+            <p>
+                <img src="../../../Images/Shared/absolute-positioning16.png" alt="" title="" class="MaxWidth80Percent" />
+            </p>
+        </div>
+    </body>
+</html>

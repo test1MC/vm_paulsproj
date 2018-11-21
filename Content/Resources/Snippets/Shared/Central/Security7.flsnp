@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <p>Much of the work in MadCap Central (e.g., management of users, teams, tasks, projects, and builds) requires user interactions to be performed through a browser. In addition to Flare requiring end-to-end encryption, all traffic from your web browser to the MadCap Central portal is also secured using industry standard security practices such as SSL.</p>
+    </body>
+</html>

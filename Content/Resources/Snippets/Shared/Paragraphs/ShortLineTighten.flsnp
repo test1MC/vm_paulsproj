@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p><MadCap:variable name="Other.Product" /> will try to decrease the kerning (i.e., the white space will become more narrow).</p>
+    </body>
+</html>

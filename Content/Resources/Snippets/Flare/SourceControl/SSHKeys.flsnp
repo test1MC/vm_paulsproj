@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">SSH&#160;keys allow you to establish a secure connection between your computer and your Git source control provider (likewise, using an SSH URL is more secure than an HTTP&#160;URL; you need to use SSH&#160;keys if you want to use an SSH&#160;URL). If you do not have a public and private SSH key, your can generate these keys using your Git source control provider (e.g., Gitlab). Follow the directions provided by your source control provider to add these keys to your Git account. Once you generate these keys, they are typically found in the <span class="Emphasis">C:\Users\[username]\.ssh</span> folder on your computer.</p>
+            <p>Public keys typically have a .pub extension. Private keys use the same file name as the public key, but without the file extension.</p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="141" MadCap:lastWidth="1223">
+    <body>
+        <MadCap:dropDown class="SecondLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Add a New Credit Card</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol style="list-style-type: lower-alpha;">
+                    <li>At the bottom of the Billing Information dialog, click <span class="Emphasis">Add</span>. The Add a Payment Method dialog opens.</li>
+                    <li>In the fields, enter your credit card and address information. Mandatory fields are marked with an asterisk.</li>
+                    <li>Click <span class="Emphasis">Save and Finish</span>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

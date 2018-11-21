@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor">
+    <body>
+        <p>Why is it important to have a special page layout view for Word output? Because Word treats the header, footer, and body areas differently than <MadCap:variable name="Other.Product" /> and other outputs treat them. In <MadCap:variable name="Other.Product" /> the frames are determined by the sizes that you specify either in the Frame Properties dialog or by drawing them on the page. But in Word, frames are determined instead by the margins and content within the frames. Therefore, if you send output to Word, you might end up with results that you do not expect, unless you use the Word Overlay to see what the actual results will be.</p>
+    </body>
+</html>

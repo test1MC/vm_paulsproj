@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="668" MadCap:lastWidth="1160">
+    <body>
+        <p>
+            <MadCap:snippetText src="../Projects/AssignUsersToProjects.flsnp" />
+            <MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Central/Users/Assigning-Users-to-Teams-Projects.htm">Assigning Users to Teams and Projects</MadCap:xref>.</MadCap:conditionalText>
+        </p>
+        <p>
+            <img src="../../../Images/Central/projects3.png" alt="" title="" class="MaxWidth100Percent">
+            </img>
+        </p>
+        <p>
+            <img src="../../../Images/Central/projects4.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>
+            <img src="../../../Images/Central/projects5.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

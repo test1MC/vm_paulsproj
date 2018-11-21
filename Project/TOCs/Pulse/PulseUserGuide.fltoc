@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Pulse">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Pulse/TitlePulse.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Pulse/TitlePulse.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    ComputeToc="false" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="1"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="CH 1 Getting Started"
+    Link="/Content/Shared/Pulse-Features/Getting-Started/Getting-Started.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    PageNumberFormat="decimal"
+    PageNumber="">
+    <TocEntry
+      Title="Registering for a Pulse Account"
+      Link="/Content/Shared/Pulse-Features/Getting-Started/Registering-Account.htm" />
+    <TocEntry
+      Title="Logging In to Pulse"
+      Link="/Content/Shared/Pulse-Features/Getting-Started/Logging-in-Pulse.htm" />
+    <TocEntry
+      Title="Creating and Editing Your Profile"
+      Link="/Content/Shared/Pulse-Features/Getting-Started/Creating-Editing-Profiles.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 2 Posting Content"
+    Link="/Content/Shared/Pulse-Features/Posting-Content/Posting-Content.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ReplaceMergeNode="false"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Posting Status Updates"
+      Link="/Content/Shared/Pulse-Features/Posting-Content/Posting-Status-Updates.htm" />
+    <TocEntry
+      Title="Posting Questions"
+      Link="/Content/Shared/Pulse-Features/Posting-Content/Posting-Questions.htm" />
+    <TocEntry
+      Title="Posting Articles"
+      Link="/Content/Shared/Pulse-Features/Posting-Content/Posting-Articles.htm" />
+    <TocEntry
+      Title="Assigning Tasks"
+      Link="/Content/Shared/Pulse-Features/Posting-Content/Assigning-Tasks.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Responding to Posts"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    Link="/Content/Shared/Pulse-Features/Responding-Posts/Responding-Posts.htm"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Adding Comments"
+      Link="/Content/Shared/Pulse-Features/Responding-Posts/Adding-Comments.htm" />
+    <TocEntry
+      Title="Following Posts"
+      Link="/Content/Shared/Pulse-Features/Responding-Posts/Following-Posts.htm" />
+    <TocEntry
+      Title="Liking and Unliking Posts"
+      Link="/Content/Shared/Pulse-Features/Responding-Posts/Liking-Unliking-Posts.htm" />
+    <TocEntry
+      Title="Tagging Posts"
+      Link="/Content/Shared/Pulse-Features/Responding-Posts/Tagging-Posts.htm" />
+    <TocEntry
+      Title="Mentioning Documents, People, and Groups"
+      Link="/Content/Shared/Pulse-Features/Responding-Posts/Mentioning-Documents-People-Groups.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Messaging"
+    Link="/Content/Shared/Pulse-Features/Messaging/Messaging.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Messaging Tasks"
+      Link="/Content/Shared/Pulse-Features/Messaging/Messaging-Tasks.htm" />
+    <TocEntry
+      Title="Checking Your Notifications"
+      Link="/Content/Shared/Pulse-Features/Messaging/Checking-Notifications.htm" />
+    <TocEntry
+      Title="Sending Chat Messages"
+      Link="/Content/Shared/Pulse-Features/Messaging/Sending-Chat-Messages.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Moderating Pulse"
+    Link="/Content/Shared/Pulse-Features/Moderation/Moderating-Pulse.htm"
+    StartSection="false"
+    BreakType="chapter"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters2Gray.flpgl"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Moderating (Approving/Rejecting) Posts"
+      Link="/Content/Shared/Pulse-Features/Moderation/Moderating-Posts.htm"
+      BreakType="pageLayout"
+      PageType="right"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Contacting Registered Users"
+      Link="/Content/Shared/Pulse-Features/Moderation/Contacting-Registered-Users.htm" />
+    <TocEntry
+      Title="Customizing the Your Apps Menu"
+      Link="/Content/Shared/Pulse-Features/Your-Apps/Customizing-Your-Apps.htm">
+      <TocEntry
+        Title="Articles"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Articles.htm" />
+      <TocEntry
+        Title="Files"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Files.htm" />
+      <TocEntry
+        Title="Mentions"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Mentions.htm" />
+      <TocEntry
+        Title="Messages"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Messages.htm" />
+      <TocEntry
+        Title="Moderation"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Moderation.htm" />
+      <TocEntry
+        Title="Most Recent"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Most-Recent.htm" />
+      <TocEntry
+        Title="Notifications"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Notifications.htm" />
+      <TocEntry
+        Title="Profile"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Profile.htm" />
+      <TocEntry
+        Title="Questions"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Questions.htm" />
+      <TocEntry
+        Title="Read it Later"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Read-Later.htm" />
+      <TocEntry
+        Title="Statuses"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Statuses.htm" />
+      <TocEntry
+        Title="Tasks"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Tasks.htm" />
+      <TocEntry
+        Title="Top News"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Top-News.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Finding Topic Leaders"
+      Link="/Content/Shared/Pulse-Features/Moderation/Finding-Topic-Leaders.htm" />
+    <TocEntry
+      Title="Following Community Activities"
+      Link="/Content/Shared/Pulse-Features/Moderation/Following-Community-Activities.htm" />
+    <TocEntry
+      Title="Inviting People"
+      Link="/Content/Shared/Pulse-Features/Moderation/Inviting-People.htm" />
+    <TocEntry
+      Title="Reading it Later"
+      Link="/Content/Shared/Pulse-Features/Moderation/Reading-Later.htm" />
+    <TocEntry
+      Title="Responding to Status Updates"
+      Link="/Content/Shared/Pulse-Features/Moderation/Responding-Status-Updates.htm" />
+    <TocEntry
+      Title="Responding to Questions"
+      Link="/Content/Shared/Pulse-Features/Moderation/Responding-Questions.htm" />
+    <TocEntry
+      Title="Responding to Articles"
+      Link="/Content/Shared/Pulse-Features/Moderation/Responding-Articles.htm" />
+    <TocEntry
+      Title="Responding to Tasks"
+      Link="/Content/Shared/Pulse-Features/Moderation/Responding-Tasks.htm" />
+    <TocEntry
+      Title="Sharing Posts"
+      Link="/Content/Shared/Pulse-Features/Moderation/Sharing-Posts.htm"></TocEntry>
+    <TocEntry
+      Title="Subscribing to Feeds"
+      Link="/Content/Shared/Pulse-Features/Moderation/Subscribing-Topics.htm" />
+    <TocEntry
+      Title="Tagging Content"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Tags/Using-Tags-Menu.htm" />
+    <TocEntry
+      Title="Using Mentions"
+      Link="/Content/Shared/Pulse-Features/Moderation/Using-Mentions.htm" />
+    <TocEntry
+      Title="Working with Favorites"
+      Link="/Content/Shared/Pulse-Features/Moderation/Working-Favorites.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Searching for Community Results"
+    Link="/Content/Shared/Pulse-Features/Searching-Pulse/Searching-Pulse.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"></TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Pulse/PDF-Guides/PDF-Guides-Pulse.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"></TocEntry>
+</CatapultToc>

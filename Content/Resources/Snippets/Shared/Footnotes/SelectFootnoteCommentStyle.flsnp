@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Select the appropriate style to be used for the footnote comment. If you used the default style when inserting the footnotes, then select <span class="Emphasis">MadCap|footnote</span>. Otherwise, if you have used a class of that style (e.g., MadCap|footnote.BeginnersManual) that you created previously, then select it instead.</p>
+    </body>
+</html>

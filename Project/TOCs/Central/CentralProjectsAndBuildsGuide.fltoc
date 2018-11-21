@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Central">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Central/TitleCentral.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page-No-Version-Number.htm"
+    StartSection="false"
+    PageNumber="(multiple)"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/Central/TitleCentral.flpgl"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 1 Projects"
+    Link="/Content/Central/Projects/About-Projects-Central.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters2Gray.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    PageNumberFormat="decimal">
+    <TocEntry
+      Title="Uploading (Binding)"
+      Link="/Content/Central/Projects/Uploading-Projects.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="pageLayout"></TocEntry>
+    <TocEntry
+      Title="Importing"
+      Link="/Content/Central/Projects/Importing-Projects.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Opening"
+      Link="/Content/Central/Projects/Opening-Project.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Using Source Control"
+      Link="/Content/Central/Projects/Source-Control-Central.htm">
+      <TocEntry
+        Title="Committing and Synchronizing (Pull, Push) in a Single-bound Model"
+        Link="/Content/Central/Projects/Committing-Synchronizing-Single-Bound.htm"
+        StartSection="false"></TocEntry>
+      <TocEntry
+        Title="Pushing in a Dual-bound Model"
+        Link="/Content/Central/Projects/Pushing-Dual-Bound-Model.htm"
+        StartSection="false" />
+    </TocEntry>
+    <TocEntry
+      Title="Editing Profiles"
+      Link="/Content/Central/Projects/Editing-Project-Profiles.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Viewing Profiles"
+      Link="/Content/Central/Projects/Viewing-Project-Profiles.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Changing Status"
+      Link="/Content/Central/Projects/Changing-Status-Project.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Viewing Repository"
+      Link="/Content/Central/Projects/Viewing-Project-Repository.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Viewing Activity"
+      Link="/Content/Central/Projects/Viewing-Project-Activity.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Deleting"
+      Link="/Content/Central/Projects/Deleting-Projects.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 2 Builds"
+    Link="/Content/Central/Projects/About-Builds.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="Running and Scheduling"
+      Link="/Content/Central/Projects/Running-Scheduling-Builds.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Setting Builds to &quot;Live&quot; or &quot;Keep&quot;"
+      Link="/Content/Central/Projects/Setting-Builds-to-Live-Keep.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Viewing Output"
+      Link="/Content/Central/Projects/Viewing-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Viewing Deleted Targets"
+      Link="/Content/Central/Projects/Viewing-Deleted-Targets.htm" />
+    <TocEntry
+      Title="Opening the Build Log"
+      Link="/Content/Central/Projects/Opening-Build-Log.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Downloading"
+      Link="/Content/Central/Projects/Downloading-Builds.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Deleting"
+      Link="/Content/Central/Projects/Deleting-Builds.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Flare Features Not Supported in Central"
+      Link="/Content/Central/Projects/Flare-Features-Not-Supported.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Central/PDF-Guides/PDF-Guides-Central.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled" />
+</CatapultToc>

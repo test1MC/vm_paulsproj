@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>After you create or add a new snippet to your project, you can insert it into any of your topics. Later, if you decide that a different snippet is a better fit for the topic, you can select a new snippet to replace it. When you replace a snippet, it only affects the instance that you selected.</p>
+    </body>
+</html>

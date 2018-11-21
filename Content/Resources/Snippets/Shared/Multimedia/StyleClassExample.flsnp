@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say that you have created in your stylesheet a class of the MadCap|model3D style called "border" (i.e., MadCap|model3D.border) and you have set the border for all sides of that class to 10 pixels. Rather than using the default parent MadCap|model3D style when you insert the 3D model, you select MadCap|model3D.border from the Style Class drop-down. As a result, 10 pixels are added around the 3D model in the output.</p>
+        </div>
+    </body>
+</html>

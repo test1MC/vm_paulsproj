@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare,Products.Analyzer">
+    <body>
+        <p>When you incorporate autonumbering into content, you do so by creating an autonumbering format, which consists of one or more commands. Some examples of commands are: CH:, {n+}, {chapnum}, {b}, and {/b}. In addition, you can add text next to commands.</p>
+    </body>
+</html>

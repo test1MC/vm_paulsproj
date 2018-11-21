@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="2253" MadCap:lastWidth="1272">
+    <body>
+        <p>When you drag a topic into a<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> TOC</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> browse sequence</MadCap:conditionalText> to create a link to it—or if you click <img src="../../../Images/Shared/create_new_topic_and_link_btn.png" class="ReduceButtonSize" /> to create a new topic at the same time that you add a new<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> TOC</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> browse sequence</MadCap:conditionalText> entry—you’ll notice that the text is blue.</p>
+        <p MadCap:conditions="Snippets.Snippet1">
+            <img src="../../../Images/Flare/system_variables_tocs1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p MadCap:conditions="Snippets.Snippet2">
+            <img src="../../../Images/Flare/system_variables_browse_sequences1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>This doesn’t mean that the text will show up as blue in the output. Instead, what it means is that the<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> TOC</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> browse sequence</MadCap:conditionalText> entry contains a system variable<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../../../../Flare/Variables/About-Variables.htm#SystemVariables">System Variables</MadCap:xref>)</MadCap:conditionalText>. This variable is called “LinkedTitle.”</p>
+        <p>It means that the<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> TOC</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> browse sequence</MadCap:conditionalText> entry text is tied to the title for that topic. The title can be changed in the properties dialog for the topic.</p>
+        <p>
+            <img src="../../../Images/Flare/system_variables_browse_sequences_tocs1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>It can also be changed in the markup.</p>
+        <p>
+            <img src="../../../Images/Flare/system_variables_browse_sequences_tocs2.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p> If the title for the topic changes, the<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> TOC</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> browse sequence</MadCap:conditionalText> entry will automatically change too so that you don’t have to remember to do it manually.</p>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <p>If your topic doesn’t have a title (and it doesn’t have to), Flare will then use the first heading it finds in the topic instead.</p>
+        <p MadCap:conditions="Snippets.Snippet1">
+            <img src="../../../Images/Flare/system_variables_tocs2.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p MadCap:conditions="Snippets.Snippet2">
+            <img src="../../../Images/Flare/system_variables_browse_sequences2.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>And if it doesn’t find a heading, it will use the file name for the topic.</p>
+        <p MadCap:conditions="Snippets.Snippet1">
+            <img src="../../../Images/Flare/system_variables_tocs3.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p MadCap:conditions="Snippets.Snippet2">
+            <img src="../../../Images/Flare/system_variables_browse_sequences3.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>You can keep the<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> TOC</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> browse sequence</MadCap:conditionalText> entry associated with the <span class="Emphasis">LinkedTitle</span> variable. But you also have the option of forcing it to use something else instead.</p>
+        <p>In the Properties dialog for the entry, you can click <img src="../../../Images/Shared/insert_variable_btn.png" alt="" title="" class="ReduceButtonSize" /> next to the <span class="Emphasis">Label</span> field to open the Variables dialog. You can choose the <span class="Emphasis">LinkedHeader</span> variable if you want the<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> TOC</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> browse sequence</MadCap:conditionalText> entry to always use the heading instead of the title.</p>
+        <p>
+            <img src="../../../Images/Flare/system_variables_browse_sequences_tocs3.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <p>You also have the option of choosing the <span class="Emphasis">LinkedFile</span> variable if you want to force it to use the file name.</p>
+        <p>
+            <img src="../../../Images/Flare/system_variables_browse_sequences_tocs4.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <p>And finally, you might decide not to use a variable at all and simply type text manually for the label, in which case the text will be black in the<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> TOC</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> Browse Sequence</MadCap:conditionalText> Editor.</p>
+        <p MadCap:conditions="Snippets.Snippet1">
+            <img src="../../../Images/Flare/system_variables_tocs4.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p MadCap:conditions="Snippets.Snippet2">
+            <img src="../../../Images/Flare/system_variables_browse_sequences4.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

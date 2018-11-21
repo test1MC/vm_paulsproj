@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>Specify the number of pixels of kerning should be used incrementally on the entire paragraph until the desired effect is achieved. For example, if you enter 2, the kerning will occur in increments of 2 pixels. To use this option, click the down arrow in the upper-right corner and select <span class="Emphasis">Number</span>. Then enter a number in the field.</p>
+    </body>
+</html>

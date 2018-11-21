@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>When you enter a screen tip, it is added as a &lt;title&gt; tag in the markup. In addition, an &lt;alt&gt; (<MadCap:keyword term="Alternate text"></MadCap:keyword>alternate text) tag is added with the same text. This is useful when it comes to accessibility.</p>
+    </body>
+</html>

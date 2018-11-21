@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Capture,Products.Flare,Products.Contributor,Products.Lingo,Products.Mimic">
+    <body>
+        <p class="TableText">Displays the amount of blue in the selected color. (Each color is a combination of a certain amount of red, green, and blue.) You can manually change this number, which will result in a different color being selected.</p>
+    </body>
+</html>

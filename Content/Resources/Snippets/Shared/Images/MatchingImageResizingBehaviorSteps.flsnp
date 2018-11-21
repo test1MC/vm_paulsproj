@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <ol>
+            <li>Select <span class="Emphasis">File &gt; Options</span>.<p>The Options dialog opens.</p></li>
+            <li>Select the <span class="Emphasis">General</span> tab.</li>
+            <li>Select <span class="Emphasis">Automatically resize low DPI&#160;images</span> or remove the check mark, depending on which behavior you want to use:<ul><li><span class="SetOffFirstLevel">Selected </span>If this option is selected, the new, more precise behavior of Version 10 and later is used.</li><li><span class="SetOffFirstLevel">Not Selected </span>If this option is not selected, the older behavior of Version 9 and earlier is used.</li></ul></li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

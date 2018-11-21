@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="303" MadCap:lastWidth="1090" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p class="Subheading">Marker (Right-Click)</p>
+        <ol class="LowerAlpha">
+            <li>Hover over the appropriate marker in the content file until the cursor is an arrow <img src="../../../Images/Shared/arrow-cursor.png" class="ReduceButtonSize" />.</li>
+            <li>
+                <p>Right-click the marker and select <span class="Emphasis">Style Class &gt; [Name of Style]</span>.</p>
+                <p>If you want to choose an ID, you can select <span class="Emphasis">Style ID&gt;[Name of ID]</span>.</p>
+            </li>
+        </ol>
+        <p class="Subheading">Structure Bar (Right-Click)</p>
+        <ol class="LowerAlpha">
+            <li>At the top of the XML Editor, right-click the span bar representing the footnote. A span bar for a footnote has a "MadCap:footnote"&#160;label.</li>
+            <li>
+                <p>In the context menu, select <span class="Emphasis">Style Class &gt; [Name of Style]</span>.</p>
+                <p> If you want to choose a style ID, you can select <span class="Emphasis">Style ID&gt;[Name of ID]</span>.</p>
+            </li>
+        </ol>
+    </body>
+</html>

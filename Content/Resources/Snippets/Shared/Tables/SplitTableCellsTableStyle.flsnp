@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare">
+    <body>
+        <p>Lists the table stylesheets (if any) that have been added. Select a stylesheet to associate it with the split cell area, thus changing the appearance of the columns and rows. If you do not select a table stylesheet, a simple table style is added without borders or other appearance settings. If you want to associate a pre-designed style with the table to affect its look and feel, you must first add the table style to the Split Cells dialog (using the <span class="Emphasis">Add</span> button described below). After the style is added to the dialog, simply select it from the <span class="Emphasis">Table Style</span> area.</p>
+    </body>
+</html>

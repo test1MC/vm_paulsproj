@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartSection="false"
+    PageNumber="1"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="1"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakPageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="1"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Importing"
+    Link="/Content/Flare/Importing/About-Importing.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    PageNumberFormat="decimal"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 2 Converting Author-it Files"
+    Link="/Content/Flare/Importing/Converting-AuthorIt-Files.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright" />
+  <TocEntry
+    Title="CH 3 Importing CHM Files"
+    Link="/Content/Flare/Importing/Importing-CHM-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 4 Importing DITA File Content"
+    Link="/Content/Flare/Importing/Importing-DITA-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Additional DITA Tasks"
+      Link="/Content/Flare/Importing/More-DITA/Adding-DITA-Import-File.htm">
+      <TocEntry
+        Title="Opening a DITA Import File"
+        Link="/Content/Flare/Importing/More-DITA/Opening-DITA-Import-File.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Importing FrameMaker Documents"
+    Link="/Content/Flare/Importing/Importing-FM-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false">
+    <TocEntry
+      Title="Additional FrameMaker Tasks"
+      Link="/Content/Flare/Importing/More-FrameMaker/Adding-FM-Import-File.htm">
+      <TocEntry
+        Title="Opening a FrameMaker Import File"
+        Link="/Content/Flare/Importing/More-FrameMaker/Opening-FM-Import-File.htm" />
+      <TocEntry
+        Title="Creating Drop-Down Effects in FrameMaker Source Documents"
+        Link="/Content/Flare/Importing/More-FrameMaker/Creating-Drop-Down-Effects-in-FM.htm" />
+      <TocEntry
+        Title="Creating Hyperlinks in FrameMaker Source Documents"
+        Link="/Content/Flare/Importing/More-FrameMaker/Creating-Hyperlinks-in-FM-Source-Documents.htm" />
+      <TocEntry
+        Title="Creating Passthrough Markers in FrameMaker Source Documents"
+        Link="/Content/Flare/Importing/More-FrameMaker/Creating-Passthrough-Markers-in-FM.htm" />
+      <TocEntry
+        Title="Creating Topic Alias Markers in FrameMaker for Context-Sensitive Help"
+        Link="/Content/Flare/Importing/More-FrameMaker/Creating-Topic-Alias-Markers-for-CSH.htm" />
+      <TocEntry
+        Title="Specifying Custom File Names for FrameMaker Imports"
+        Link="/Content/Flare/Importing/More-FrameMaker/Specifying-Custom-Filenames-FM-Imports.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Importing HTML Files"
+    Link="/Content/Flare/Importing/Importing-HTML-Files.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Additional HTML Tasks"
+      Link="/Content/Flare/Importing/More-HTML/Adding-HTML-Import-File.htm">
+      <TocEntry
+        Title="Opening an HTML Import File"
+        Link="/Content/Flare/Importing/More-HTML/Opening-HTML-Import-File.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 7 Importing Word Documents"
+    Link="/Content/Flare/Importing/Importing-Word-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Additional Word Tasks"
+      Link="/Content/Flare/Importing/More-Word/Adding-Word-Import-File.htm">
+      <TocEntry
+        Title="Opening an MS Word Import File"
+        Link="/Content/Flare/Importing/More-Word/Opening-Word-Import-File.htm" />
+      <TocEntry
+        Title="Specifying Custom File Names for Word Imports"
+        Link="/Content/Flare/Importing/More-Word/Specifying-Custom-Filenames-for-Word-Imports.htm"></TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 8 Importing a RoboHelp Project"
+    Link="/Content/Flare/Importing/Importing-RH-Project.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="CH 9 Importing a Doc-To-Help Project"
+    Link="/Content/Flare/Importing/Importing-D2H-Project.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 10 Importing an HTML Help Project (HHP)"
+    Link="/Content/Flare/Importing/Importing-HTML-Help-Project.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 11 Importing a Project from Source Control"
+    Link="/Content/Shared/Source-Control/Linked-Topics/Importing-Projects.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Importing a Project from Subversion"
+      Link="/Content/Shared/Source-Control/Subversion/Importing-Project-from-Source-Control-svn.htm" />
+    <TocEntry
+      Title="Importing a Project from Git"
+      Link="/Content/Shared/Source-Control/Git/Importing-Project-from-Source-Control-git.htm" />
+    <TocEntry
+      Title="Importing a Project from Microsoft Team Foundation Server"
+      Link="/Content/Shared/Source-Control/TFS/Importing-Project-from-Source-Control-tfs.htm" />
+    <TocEntry
+      Title="Importing a Project from Microsoft Visual Studio Online"
+      Link="/Content/Shared/Source-Control/TFS/Importing-Project-from-Microsoft-Visual-Studio-Online.htm" />
+    <TocEntry
+      Title="Importing a Project from Microsoft Visual SourceSafe"
+      Link="/Content/Flare/Source-Control/VSS/Importing-Project-from-Source-Control-vss.htm" />
+    <TocEntry
+      Title="Importing a Project from Perforce"
+      Link="/Content/Shared/Source-Control/Perforce/Importing-Project-from-Source-Control-per.htm" />
+    <TocEntry
+      Title="Importing a Project from a Third-Party Source Control Provider"
+      Link="/Content/Flare/Source-Control/Third-Party-Plug-Ins/Importing-Project-from-Source-Control-api.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 12 Importing a Project from MadCap Central"
+    Link="/Content/Flare/Central/Importing-Projects.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 13 Importing Other Files"
+    Link="/Content/Flare/Importing/Importing-Individual-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Importing Alias Files"
+      Link="/Content/Flare/CSH/More-Alias-Files/Importing-Alias-Files.htm" />
+    <TocEntry
+      Title="Importing Browse Sequences"
+      Link="/Content/Flare/Browse-Sequences/More/Importing-Browse-Sequences.htm" />
+    <TocEntry
+      Title="Importing Condition Tag Sets"
+      Link="/Content/Flare/Conditions/More/Importing-Condition-Tag-Sets.htm" />
+    <TocEntry
+      Title="Importing Destinations"
+      Link="/Content/Flare/Output/More-Destinations/Importing-Destinations.htm" />
+    <TocEntry
+      Title="Importing Glossaries"
+      Link="/Content/Flare/Glossaries/More/Importing-Glossaries.htm" />
+    <TocEntry
+      Title="Importing Header Files"
+      Link="/Content/Flare/CSH/More-Header-Files/Importing-Header-Files.htm" />
+    <TocEntry
+      Title="Importing Page Layouts"
+      Link="/Content/Flare/Page-Layouts/Importing-Page-Layouts.htm" />
+    <TocEntry
+      Title="Importing Search Filter Sets"
+      Link="/Content/Flare/Search/Search-Filter-Sets/Importing-Search-Filter-Sets.htm" />
+    <TocEntry
+      Title="Importing Skins"
+      Link="/Content/Flare/Skins/More/Importing-Skins.htm" />
+    <TocEntry
+      Title="Importing Snippets"
+      Link="/Content/Flare/Snippets/Importing-Snippets.htm" />
+    <TocEntry
+      Title="Importing Style Sheets"
+      Link="/Content/Flare/Styles/More/Importing-Stylesheets.htm" />
+    <TocEntry
+      Title="Importing Styles"
+      Link="/Content/Flare/Styles/More/Importing-Styles.htm" />
+    <TocEntry
+      Title="Importing Tables of Contents"
+      Link="/Content/Flare/TOCs/More/Importing-TOCs.htm" />
+    <TocEntry
+      Title="Importing Targets"
+      Link="/Content/Flare/Targets/More/Importing-Targets.htm" />
+    <TocEntry
+      Title="Importing Topics"
+      Link="/Content/Flare/Topics/Importing-Topics.htm" />
+    <TocEntry
+      Title="Importing Variable Sets"
+      Link="/Content/Flare/Variables/Importing-Variable-Sets.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 14 Additional Importing Tasks"
+    Link="/Content/Flare/Global-Project-Linking/Adding-Project-Import-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    PageType="firstright">
+    <TocEntry
+      Title="Disabling Auto-Sync of Import Files"
+      Link="/Content/Flare/Importing/Disabling-AutoSync-of-Import-Files.htm" />
+    <TocEntry
+      Title="Overwriting Imported Documents"
+      Link="/Content/Flare/Importing/Overwriting-Imported-Documents.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

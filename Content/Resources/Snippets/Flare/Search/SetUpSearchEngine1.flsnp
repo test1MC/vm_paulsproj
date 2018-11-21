@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="97" MadCap:lastWidth="1458">
+    <body>
+        <p>For <MadCap:variable name="Outputs.HTML5" /> targets, you can choose the type of search engine you want people to use—MadCap Search or Google Search (for Top Navigation or skinless output). There are additional steps that you can follow to set up each of these engines. For MadCap Search, this includes setting the search result importance, including glossary terms in the results, setting the number of results per page, and setting the abstract character limit. For Google search, this includes creating a new search engine, verifying the URL, adding a sitemap, submitting the site for indexing, excluding the TOC from indexing, customizing the appearance of the results, and reviewing the indexing status.</p>
+    </body>
+</html>

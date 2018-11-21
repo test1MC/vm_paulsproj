@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="1580" MadCap:lastWidth="1003">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature_Supported/DotNet_Eclipse_HTMLHelp_HTML5_WebHelp_WHMobile_WHPlus.flsnp" />
+        <p>In <MadCap:variable name="Other.Product" /> you can merge projects in many ways.</p>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/ThisChapterDiscussesFollowing.flsnp" MadCap:conditions="FlareGuides.FlareProjectCreationGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">Ways to Merge Projects</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ul class="FirstLevel" MadCap:conditions="General.OnlineOnly,FlareGuides.FlareTablesOfContentsGuide">
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Linking:tables of contents;Tables of contents:linking;Projects:merging;Merging:projects;HTML Help:merging;DotNet Help:merging;WebHelp:merging" />Merging Flare Projects Using Targets (Recommended) </span>
+                        <MadCap:snippetText src="../../Shared/TOCs/TOCsMergingFlareProjectsTargets.flsnp" /> This is one of the easiest method to use for merging projects. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/TOCs/More/Merging-Flare-Projects-Using-Targets.htm">Merging Flare Projects Using Targets</MadCap:xref>.</MadCap:conditionalText><MadCap:snippetText src="../../Shared/ForMoreInfo/SeeOnlineHelp.flsnp" MadCap:conditions="FlareGuides.FlareTablesOfContentsGuide" /></li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Linking:HTML Help;Tables of contents:linking;Projects:merging;Merging:projects;External Help systems:tables of contents;HTML Help:merging" />Merging Output from <MadCap:variable name="Outputs.HTMLHelp" /> Projects </span>
+                            <MadCap:snippetText src="../../Shared/TOCs/TOCsMergingHTMLHelp.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/TOCs/More/Merging-Output-from-HTML-Help-Projects.htm">Merging Output from HTML Help Projects (CHM Files)</MadCap:xref>.</MadCap:conditionalText>
+                            <MadCap:snippetText src="../../Shared/ForMoreInfo/SeeOnlineHelp.flsnp" MadCap:conditions="FlareGuides.FlareTablesOfContentsGuide" />
+                        </p>
+                        <MadCap:snippetBlock src="../../Shared/TOCs/NoteCanLinkToCHMFiles.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Linking:DotNet Help;Tables of contents:linking;Projects:merging;Merging:projects;External Help systems:tables of contents;DotNet Help:merging" />Merging Output From <MadCap:variable name="Outputs.DotNetHelp" /> Projects </span>
+                        <MadCap:snippetText src="../../Shared/TOCs/TOCsMergingDotNetHelp.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/TOCs/More/Merging-Output-from-DotNet-Help-Projects.htm">Merging Output from DotNet Help DNH Projects</MadCap:xref>.</MadCap:conditionalText>
+                        <MadCap:snippetText src="../../Shared/ForMoreInfo/SeeOnlineHelp.flsnp" MadCap:conditions="FlareGuides.FlareTablesOfContentsGuide" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Linking:WebHelp;Tables of contents:linking;Projects:merging;Merging:projects;External Help systems:tables of contents;WebHelp:merging" />Merging Output From Flare <MadCap:variable name="Outputs.WebHelp" /> Projects </span>
+                        <MadCap:snippetText src="../../Shared/TOCs/TOCsMergeWebHelp.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/TOCs/More/Merging-Output-from-Flare-WebHelp-Projects.htm">Merging Output from Flare WebHelp Projects</MadCap:xref>.</MadCap:conditionalText>
+                        <MadCap:snippetText src="../../Shared/ForMoreInfo/SeeOnlineHelp.flsnp" MadCap:conditions="FlareGuides.FlareTablesOfContentsGuide" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Projects:merging;Merging:projects;WebHelp Plus:merging projects;Merging:WebHelp Plus;WebHelp Plus:merging" />Merging Output at Runtime Using Server-Based <MadCap:variable name="Outputs.HTML5" /> or <MadCap:variable name="Outputs.WebHelp Plus" /></span>Use this merging method if you are developing <MadCap:variable name="Outputs.HTML5" /> or <MadCap:variable name="Outputs.WebHelp Plus" /> and you are hosting the output files on a web server running Microsoft IIS. <MadCap:snippetText src="../../Shared/WHP/AutomaticRuntimeMerging.flsnp" /><MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Output/HTML5-Output/AutoMerge/Merging-Output-Runtime-Using-HTML5.htm">Merging Output at Runtime Using HTML5</MadCap:xref> and <MadCap:xref href="../../../../Flare/Output/WebHelp-Plus-Output/AutoMerge/Merging-Output-Runtime-Using-WebHelp-Plus.htm">Merging Output at Runtime Using WebHelp Plus</MadCap:xref>.</MadCap:conditionalText><MadCap:snippetText src="../../Shared/ForMoreInfo/SeeOnlineHelp.flsnp" MadCap:conditions="FlareGuides.FlareTablesOfContentsGuide" /></li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../../Shared/Importing/NoteImportingMergedCHMs.flsnp" MadCap:conditions="General.OnlineOnly,FlareGuides.FlareTablesOfContentsGuide" />
+                <MadCap:snippetBlock src="../NavLinks/NoteExternalLinks.flsnp" MadCap:conditions="General.OnlineOnly" />
+                <MadCap:snippetBlock src="../../Shared/TOCs/NoteMergedWebHelpPlus.flsnp" MadCap:conditions="General.OnlineOnly,FlareGuides.FlareTablesOfContentsGuide" />
+                <MadCap:snippetBlock src="../../Shared/TOCs/NoteMergeProjectsSynonyms.flsnp" MadCap:conditions="General.OnlineOnly,FlareGuides.FlareTablesOfContentsGuide" />
+                <p class="note" MadCap:conditions="FlareGuides.FlareTablesOfContentsGuide,General.OnlineOnly" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                    <MadCap:snippetText src="../PDF/PDFStitching1.flsnp" />
+                    <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Output/PDF-Output/Stitching-PDFs.htm">Stitching PDFs</MadCap:xref>.</MadCap:conditionalText>
+                </p>
+                <MadCap:snippetBlock src="../Search/TopNavSkinNoMergingNote.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.RemoveFromTopicsThenDeleteThis">
+            <MadCap:conceptLink term="TOCs" />
+        </p>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTablesOfContentsGuide" />
+    </body>
+</html>

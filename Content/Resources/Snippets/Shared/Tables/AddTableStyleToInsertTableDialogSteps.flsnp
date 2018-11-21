@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ol type="1" class="LowerAlpha">
+            <li>In the Insert Table dialog, the face of the <span class="Emphasis">Create New Table Style</span> button <img src="../../../Images/Shared/create_new_table_style_sheet_file_btn.png" class="ReduceButtonSize" />, not the down arrow. The Select Table Style Template dialog opens. </li>
+            <li>In the <span class="Emphasis">Template Folders</span> area, select a folder. </li>
+            <li>In the <span class="Emphasis">Templates</span> area, select one of the templates from the folder. You can see a preview of how the table will look in the Preview area below.</li>
+            <li>(Optional) You can type a new name in the <span class="Emphasis">New Style Name</span> field.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /> The style is added to the Insert Table dialog.</li>
+        </ol>
+    </body>
+</html>

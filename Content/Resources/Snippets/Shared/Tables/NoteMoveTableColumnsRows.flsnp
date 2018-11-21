@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can move table columns and rows only within the same table. If you want to move a column or row from one table to another, you need to use the copy and paste options, and then delete the column or row from the original table. To copy a column or row, right-click on the bar and select <span class="Emphasis">Copy</span>. To paste the column or row in the other table, right-click on a bar next to the column or row where you want to paste it and select <span class="Emphasis">Paste (Above)</span>, <span class="Emphasis">(Below)</span>, <span class="Emphasis">(Left)</span>, or <span class="Emphasis">(Right)</span>. There is no cut option.</p>
+        </div>
+    </body>
+</html>

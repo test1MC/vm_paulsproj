@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>
+            <MadCap:keyword term="Conditions:content;Content:condition tags" />Topics usually contain several blocks of XML content. For example, there are HTML blocks, body blocks, paragraph blocks, table blocks, and heading blocks. You can apply a condition tag to any block of content in your topics. </p>
+    </body>
+</html>

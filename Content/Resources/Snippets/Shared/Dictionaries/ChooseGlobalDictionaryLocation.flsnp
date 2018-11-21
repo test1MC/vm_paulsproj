@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare,Products.Lingo">
+    <body>
+        <p>Rather than using the default location, you can choose a custom location for global dictionaries. This is useful if you work on a team and want all writers to use the same dictionary.</p>
+    </body>
+</html>

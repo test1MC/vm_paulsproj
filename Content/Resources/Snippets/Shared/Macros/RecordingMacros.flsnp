@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>You can use macros in <MadCap:variable name="Other.Product" /> to automate frequently used commands or processes. You can record macros for almost any task that applies to the XML&#160;Editor. Macros save you time by streamlining the repetitive tasks you do every day, freeing you up for other tasks.</p>
+    </body>
+</html>

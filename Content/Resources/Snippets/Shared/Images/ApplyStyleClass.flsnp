@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>To apply a particular style class to an image (after you create it in the Stylesheet Editor), simply right-click the image where it is inserted. Then from the menu, select <span class="Emphasis">Style Class</span> and choose the appropriate style.</p>
+    </body>
+</html>

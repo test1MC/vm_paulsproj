@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <p>If you create pre- or post-build events in your Flare target, they will not function when building from MadCap Central.</p>
+    </body>
+</html>

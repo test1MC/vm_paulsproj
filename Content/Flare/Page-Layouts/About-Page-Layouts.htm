@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditionTagExpression="include[Snippets.Snippet10 or Snippets.Snippet19]exclude[Snippets.Snippet21 or Snippets.Snippet22 or Snippets.Snippet5]" MadCap:lastBlockDepth="11" MadCap:lastHeight="8592" MadCap:lastWidth="990" class="" style="mc-master-page: url('../../Resources/MasterPages/Shared/PDF_Topics/FlarePrintedOutput.flmsp');">
+    <head><title></title>
+        <meta name="description" content="Define page size, margins and more using the Page Layouts feature. Set of left- or right-facing layouts, empty pages, and more. " />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Page layouts" />
+            <MadCap:concept term="PageLayouts" />
+            <MadCap:concept term="FilterPageLayouts" />
+            <MadCap:concept term="FilterPrintedOutput" />
+            <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">About </MadCap:conditionalText>Page Layouts</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Banners/Feature_Supported/AllPrint.flsnp" />
+        <snippetBlock src="../../Resources/Snippets/Shared/PageLayouts/PageLayoutSummary1.flsnp" />
+        <p>
+            <img src="../../Resources/Images/Flare/page_layout_editor_overview.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PageLayouts/PageLayoutSummary2.flsnp" />
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <snippetBlock src="../../Resources/Snippets/Shared/PageLayouts/PageLayoutExample1.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide">
+            <MadCap:keyword term="Page layouts:page types;Page types" />Page Types</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Page layouts:page types;Page types" />page types</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Resources/Snippets/Shared/PageLayouts/PageTypes.flsnp" /> For each page in a page layout, you can designate one of the following types, which determines the behavior of the page. For details and graphics that show how page  types work with other elements to create output that flows the way you want, see <MadCap:xref href="../Output/Printed-Output/Page-Type-Flow-Scenarios.htm">Page Type Flow Scenarios</MadCap:xref>.</p>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PageLayouts/PageTypeOptionsList.flsnp" />
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example</p>
+                    <p>Let's say that you are creating a page layout to be used only for the title page that occurs at the very first page of your manual. In that case, your page layout might have one page that uses the Title page type. In addition, you can add an Empty page type to that layout. In the output, the Title page will automatically be followed by an empty page.</p>
+                    <p>Now let's say that you are creating a second page layout to be used for the chapters in your document. Suppose that on the first page of each chapter, you do not want any header, but you want a page number at the bottom-right of the page. You also want each chapter to begin on a right page. Therefore, you create one page with a page type of First Right.</p>
+                    <p>Next, suppose you want the pages that appear on the left side of the document to have the name of the manual in the upper-left corner and a page number in the lower-left corner. Therefore, you create another page with a page type of Left.</p>
+                    <p>Perhaps you want the pages that appear on the right side of the document to have the chapter name of the manual in the upper-right corner and a page number in the lower-right corner. Therefore, you create another page with a page type of Right.</p>
+                    <p>Finally, in order to ensure that the first page of each chapter starts on the right side of the manual, you create a fourth page with a page type of Empty Left. This allows an empty page to be forced (if necessary) on the left side immediately before the beginning of the next chapter.</p>
+                </div>
+                <p>
+                    <img src="../../Resources/Images/Shared/page_layout_example.png" class="MaxWidth90Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide">
+            <MadCap:keyword term="Frames:page layouts;Page layouts:frames" />Frames</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Frames:page layouts;Page layouts:frames" />frames</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PageLayouts/FramesSummary1.flsnp" />
+                <p>
+                    <img src="../../Resources/Images/Shared/page_layout_frames.png" class="MaxWidth100Percent" />
+                </p>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                <ul>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Frames:body frames" /><MadCap:keyword term="Body frames" />Body Frame </span>
+                            <MadCap:snippetText src="../../Resources/Snippets/Shared/PageLayouts/BodyFrameSummary1.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead class="OnlineOnly">
+                                <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PageLayouts/BodyFrameExample.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Frames:header frame;Header frame" />Header Frame </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/PageLayouts/HeaderFrameSummary1.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Frames:Footer frames;Footers: Frames" />Footer Frame </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/PageLayouts/FooterFrameSummary1.flsnp" />
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Frames:Decoration frames;Decoration frames:Frames" />Decoration Frame </span>
+                            <MadCap:snippetText src="../../Resources/Snippets/Shared/PageLayouts/DecorationFrameSummary1.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead class="OnlineOnly">
+                                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PageLayouts/NoteDecorationFramesNotSupportedWordFM.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Frames:Image frames;Image frames:Frames" />Image Frame </span>
+                            <MadCap:snippetText src="../../Resources/Snippets/Shared/PageLayouts/ImageFrameSummary.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead class="OnlineOnly">
+                                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PageLayouts/NoteImageFramesNotSupportedWordFM.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                </ul>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PageLayouts/PositionFrames.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide">
+            <MadCap:keyword term="Page layouts:templates;Templates:page layouts" />Page Layout Templates</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Page layouts:templates;Templates:page layouts" />page layout templates</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>When you add a new page layout to your project, you select a page layout template as the basis for the new layout. <MadCap:variable name="Other.Product" /> lets you choose from various factory templates, each of which is useful for different circumstances. After adding a new page layout based on a template, you are free to change it in any way you see fit. See <MadCap:xref href="Adding-Page-Layouts.htm">Adding Page Layouts</MadCap:xref> and <MadCap:xref href="Editing-Pages-and-Frames.htm">Editing Pages and Frames</MadCap:xref>.</p>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PageLayouts/FactoryPageLayoutTemplates.flsnp" MadCap:conditions="General.OnlineOnly" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.PrintOnly">
+            <MadCap:keyword term="Page layouts:default;Default page layout" />The Default Page Layout</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Page layouts:default;Default page layout" />the default page layout</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>You might notice a page layout in your project called "Default." This is a very basic page layout provided by Flare when you first create a project, depending on the template you select. Most people want to create their own page layouts, but if you don't, this page layout will be used instead.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+        <h2 MadCap:conditions="General.PrintOnly">The Page Layout Editor</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>the page layout editor</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>When you create and work on a page layout, you use the Page Layout Editor. This editor contains a few specific areas that let you do your work. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Interface/UI-Elements/Page-Layout-Editor.htm">Page Layout Editor</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>At the top of the editor is the local toolbar, with options that let you perform tasks such as creating new pages and frames, access properties for pages and frames, adjust the layout of frames, and show the bleed, crop marks, registration marks, margins, and padding.</p>
+                <p>
+                    <img src="../../Resources/Images/Flare/page_layout_editor1.png" class="MaxWidth80Percent" />
+                </p>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                <p>On the right side of the editor are small rectangles that represent each page that has been added to the page layout. When you click on one of these small rectangles a larger version of that page is shown to the left. This large area is where you draw and adjust frames.</p>
+                <p>
+                    <img src="../../Resources/Images/Shared/page_layout_editor2.png" class="MaxWidth100Percent" />
+                </p>
+                <p>
+                    <img src="../../Resources/Images/Flare/page_layout_editor3.png" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+        <h2 MadCap:conditions="General.PrintOnly">
+            <MadCap:keyword term="XML Editor:Page Layout view;Page layouts:XML Editor" />Page Layouts in the XML Editor</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="XML Editor:Page Layout view;Page layouts:XML Editor" />page layouts in the xml editor</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Resources/Snippets/Shared/XMLEditor/MultipleLayoutModes.flsnp" />
+                </p>
+                <p>
+                    <img src="../../Resources/Images/Flare/xml_editor_layout_modes.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>The Print Layout mode <MadCap:snippetText src="../../Resources/Snippets/Shared/XMLEditor/PrintLayoutModeDescription.flsnp" /> </p>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/XMLEditor/MultipleLayoutModes2.flsnp" />
+                <p>
+                    <img src="../../Resources/Images/Flare/xml_editor_print_layout_medium_synced.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>For more information about these features, see <MadCap:xref href="../Topics/About-Layout-Modes.htm">About Layout Modes</MadCap:xref>, <MadCap:xref href="../Styles/Mediums/Selecting-Mediums-Media-Queries.htm" target="" title="" alt="">Selecting Stylesheet Mediums</MadCap:xref>, and <MadCap:xref href="Selecting-Page-Layout-to-View-Content-XML-Editor.htm">Selecting a Page Layout to View Content in the XML Editor</MadCap:xref>.</p>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                <p>If you are viewing content using the Print Layout mode in the XML&#160;Editor, you can use another drop-down in the local toolbar to choose a specific page layout. See <MadCap:xref href="Selecting-Page-Layout-to-View-Content-XML-Editor.htm">Selecting a Page Layout to View Content in the XML Editor</MadCap:xref>.</p>
+                <p>
+                    <img src="../../Resources/Images/Flare/xml_editor_page_layout.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide">Steps for Using Page Layouts</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>steps for using page layouts</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are the main steps necessary for creating and using page layouts:</p>
+                <ol>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Page layouts:adding" />Add Page Layout </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/PageLayouts/AddPageLayoutSummary1.flsnp" /> See <MadCap:xref href="Adding-Page-Layouts.htm">Adding Page Layouts</MadCap:xref> and <MadCap:xref href="Copying-Renaming-Page-Layouts.htm">Copying and Renaming Page Layouts</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Page layouts:adding pages" />Add Pages </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/PageLayouts/AddPagesSummary1.flsnp" /> See <MadCap:xref href="Adding-Pages.htm">Adding Pages</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel">Add or Remove Frames </span>You can add more frames or remove existing frames as necessary. See <MadCap:xref href="Adding-Page-Layout-Frames.htm">Adding Page Layout Frames</MadCap:xref> and <MadCap:xref href="Frames/Removing-Page-Layout-Frames.htm">Removing Page Layout Frames</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Page layouts:editing" />Edit Pages and Frames </span>
+                        <snippetText src="../../Resources/Snippets/Shared/PageLayouts/EditFramesSummary1.flsnp" /> This might consist of various tasks, such as inserting page numbers or text, adding borders to frames, resizing frames, and more. See <MadCap:xref href="Editing-Pages-and-Frames.htm">Editing Pages and Frames</MadCap:xref>.</li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Page layouts:chapter breaks" />Specify Chapter and Page Layout Breaks </span>
+                            <snippetText src="../../Resources/Snippets/Shared/PageLayouts/AssociatePageLayoutsSummary1.flsnp" />
+                        </p>
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Page layouts:TOC entries" />Associate Page Layout With Outline TOC Entry (Most Common Method) </span>If you want different parts of a manual to use different page layouts (e.g., one layout for the front matter, another for chapters, another for the index), you would associate the appropriate page layouts with the outline TOC entries where you want those page layouts to start. See <MadCap:xref href="../Output/Printed-Output/Specifying-Chapter-Breaks.htm">Specifying Chapter and Page Layout Breaks</MadCap:xref>. Also see <MadCap:xref href="../TOCs/About-TOCs.htm" MadCap:conditions="Products.Flare">About Tables of Contents</MadCap:xref>.<p>OR</p></li>
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Page layouts:targets;Page layouts:projects;Projects:page layouts;Targets:Page layouts" />Associate Page Layout With Target and/or Project </span>If you want a page layout to be applied to all topics in the output or project, you would associate that page layout with the target that you are building or with the entire project. See <MadCap:xref href="Associating-Master-Page-Layouts-Targets.htm">Associating Master Page Layouts with Targets</MadCap:xref> and <MadCap:xref href="Associating-Master-Page-Layouts-Projects.htm">Associating Master Page Layouts with Projects</MadCap:xref>.</li>
+                        </ul>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/PageLayouts/NotePrecedencePageLayouts.flsnp" />
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">In order to apply styles to content that you add in a page layout, you need to apply a master stylesheet at either the target or project level. Stylesheets cannot be applied to individual page layouts (as they can with topics). <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Styles/Associating-Master-Stylesheets-with-All-Files.htm">Applying Master Stylesheets</MadCap:xref>.</MadCap:conditionalText><MadCap:snippetText src="../../Resources/Snippets/Shared/ForMoreInfo/ForMoreInfoSeeOnlineHelpOrStylesGuide.flsnp" MadCap:conditions="General.PrintOnly" /></p>
+                <p class="note" MadCap:conditions="General.OnlineOnly" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                    <MadCap:snippetText src="../../Resources/Snippets/Shared/MasterPages/DisableMasterPagesSummary.flsnp" /> See <MadCap:xref href="../Master-Pages/More/Disabling-Use-Master-Pages.htm">Disabling the Use of Master Pages</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+    </body>
+</html>

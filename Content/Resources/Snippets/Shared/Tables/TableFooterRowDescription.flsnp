@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p class="TableText">A footer row is the final series of horizontal cells in a table. A footer row is used to provide footnotes pertaining to the table and its content. This table does not contain a footer row. Including a footer row is optional. </p>
+    </body>
+</html>

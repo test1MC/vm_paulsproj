@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>
+            <MadCap:keyword term="Styles:cross-references;Cross-references:styles" />In the <span class="Emphasis">Enter format</span> field, provide the format for the class. This format can be a combination of text that you type and automated commands that you select. You can select commands from the list by double-clicking them. They are then added to the "Enter format" field.</p>
+    </body>
+</html>

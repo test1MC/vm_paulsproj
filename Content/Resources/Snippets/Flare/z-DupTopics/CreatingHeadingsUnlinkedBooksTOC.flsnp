@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="1376" MadCap:lastWidth="952">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature_Supported/AllPrint_EPUB.flsnp" />
+        <p>When creating print output, you can <MadCap:snippetText src="../../Shared/PrintOutput/DetermineHeadingLevelsSummary.flsnp" /></p>
+        <p>
+            <MadCap:snippetText src="../../Shared/PrintOutput/UseTOCDepthSummary.flsnp" /> See <MadCap:xref href="../../../../Flare/Output/Printed-Output/Determining-Heading-Levels-Print-TOC.htm">Determining Heading Levels for a Print TOC</MadCap:xref>.</p>
+        <p>
+            <MadCap:snippetText src="../../Shared/PrintOutput/CreateHeadingsUnlinkedBooksSummary.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTablesOfContentsGuide,FlareGuides.FlareTargetsGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/PrintTOCHeadingExample1.flsnp" />
+                    <p>If you use the TOC depth feature, the print TOC will look like this in the output:</p>
+                    <p>
+                        <img src="../../../Images/Flare/online_toc_structure_example3.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/PrintTOCHeadingExample2.flsnp" />
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTargetsGuide,FlareGuides.FlareTablesOfContentsGuide,FlareGuides.FlarePrintedOutputGuide" />
+                    <p>If you use the feature to include the unlinked books, the print TOC will look like this in the output:</p>
+                    <p>
+                        <img src="../../../Images/Flare/online_toc_structure_example4.png" class="MaxWidth90Percent" />
+                    </p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create headings for unlinked books in a generated toc</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>Open the target.</li>
+                    <li>In the Target Editor, select the <span class="Emphasis">Advanced</span> tab.</li>
+                    <li>In the <span class="Emphasis">Generated TOC</span> section, select <span class="Emphasis">Inject headings for unlinked books in TOC</span>. </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+    </body>
+</html>

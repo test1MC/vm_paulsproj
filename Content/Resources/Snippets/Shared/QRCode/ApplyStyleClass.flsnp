@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>To apply a particular style class to a QR code (after you create it in the Stylesheet Editor), simply right-click the QR code where it is inserted. Then from the menu, select <span class="Emphasis">Style Class</span> and choose the appropriate style.</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.HelpViewer,Products.Lingo,Products.Mimic,Products.MovieViewer,Products.Pulse">
+    <body>
+        <p>This window pane displays important information as you work. For example, if a necessary file is missing, this window pane lets you know. If you need further assistance, please contact the <MadCap:variable name="Other.CompanyName" /> technical support team (<a href="http://madcapsoftware.com/support/" target="_blank">http://madcapsoftware.com/support/</a>).</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>You can turn off the condition toggle button mentioned above. Then make sure this button (located at the bottom of the XML Editor) is enabled to show or hide the span bar above the topic. When the cursor is in the paragraph containing the applied tag, the span bar is shaded with a lighter version of the tag color. This is a good feature to use if you find the shading of the actual text distracting.</p>
+    </body>
+</html>

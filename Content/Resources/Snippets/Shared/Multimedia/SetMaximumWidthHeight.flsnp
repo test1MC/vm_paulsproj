@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="211" MadCap:lastWidth="736" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>If the original object is larger than the maximum width or height that is set, it will be reduced in size so that it is no greater than the maximum value. If the original object is smaller than the maximum width or height, it will not be resized.</p>
+        <ul class="FirstLevel">
+            <li>In the <span class="Emphasis">Width</span> and/or <span class="Emphasis">Height</span> field of the <span class="Emphasis">Maximum Size</span> section, provide the settings. <MadCap:snippetText src="../UIElements/FirstSelectLength.flsnp" /></li>
+        </ul>
+    </body>
+</html>

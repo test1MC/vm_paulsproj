@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ul class="FirstLevel">
+            <li>
+                <p><span class="SetOffFirstLevel">State </span>Select the initial display setting for the 3D model when you open the topic.</p>
+                <ul class="SecondLevel">
+                    <li><span class="SetOffSecondLevel">(Default) </span>Displays a gray box where the 3D model is located. If you have selected a background color or image, it will display instead of a gray box. The 3D model activates when you click the box.</li>
+                    <li><span class="SetOffSecondLevel">Active on document open </span>The 3D model activates when you open the output.</li>
+                    <li><span class="SetOffSecondLevel">Active on page view </span>The 3D model activates when you view the page where it is located. Until you view the page where it is located, the output displays a gray box or the 3D model's assigned background color or image.</li>
+                    <li><span class="SetOffSecondLevel">Active on click </span>Displays a gray box where the 3D model is located. If you have selected a background color or image, it will display. The 3D model activates when you click the box.</li>
+                </ul>
+                <MadCap:snippetBlock src="3DModelsLoadingPerformance.flsnp" />
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Display 3D Toolbar on Activation </span>When the 3D model activates, the toolbar displays. The toolbar allows you easily to change the model's properties, such as lighting or rendering, when viewing the model in the output.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">For more information about changing rendering modes using the 3D model toolbar, please refer to the Adobe Acrobat Help.</p>
+            </li>
+        </ul>
+    </body>
+</html>

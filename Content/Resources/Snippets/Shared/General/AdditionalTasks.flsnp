@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="113" MadCap:lastWidth="1081" MadCap:conditions="Products.AllProducts">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <MadCap:menuProxy data-mc-skin="/Project/Skins/Shared/TopicMenu.flskn" mc-linked-toc="/Project/TOCs/Capture/CaptureOnlineHelp.fltoc" style="mc-context-sensitive: True;mc-include-parent: False;mc-include-siblings: False;mc-include-children: True;" MadCap:conditions="Products.CaptureServerOnly" />
+        <MadCap:miniTocProxy style="mc-toc-depth: 1;" class="Online" MadCap:conditions="Products.CaptureLocalOnly" />
+        <MadCap:menuProxy data-mc-skin="/Project/Skins/Shared/TopicMenu.flskn" mc-linked-toc="/Project/TOCs/Lingo/LingoOnlineHelp.fltoc" style="mc-context-sensitive: True;mc-include-parent: False;mc-include-siblings: False;mc-include-children: True;" MadCap:conditions="Products.LingoServerOnly" />
+        <MadCap:miniTocProxy style="mc-toc-depth: 1;" class="Online" MadCap:conditions="Products.LingoLocalOnly" />
+    </body>
+</html>

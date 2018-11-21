@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Lingo">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Lingo/TitleLingo.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Lingo/TitleLingo.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    StartSection="false"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/Lingo/Termbase/About-Termbase.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ComputeToc="false"
+    ReplaceMergeNode="false"></TocEntry>
+  <TocEntry
+    Title="CH 2 Creating Termbases"
+    Link="/Content/Lingo/Termbase/Creating-Termbases.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    ChapterNumberReset="continue"
+    PageType="firstright"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 3 Adding Termbases"
+    Link="/Content/Lingo/Termbase/Adding-Termbases.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 4 Choosing a Termbase"
+    Link="/Content/Lingo/Termbase/Choosing-Termbase.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    ChapterNumberReset="continue"
+    PageType="firstright"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    StartSection="false"
+    PageNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="CH 5 Ranking a Termbase"
+    Link="/Content/Lingo/Termbase/Ranking-Termbases.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright" />
+  <TocEntry
+    Title="CH 6 Adding Terms to Termbases"
+    Link="/Content/Lingo/Termbase/Adding-Terms-to-Termbases.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 7 Editing Termbases"
+    Link="/Content/Lingo/Termbase/Editing-Termbases.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 8 Inserting Terms from a Termbase"
+    Link="/Content/Lingo/Termbase/Inserting-Terms-from-Termbase.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 9 Importing Termbase Files"
+    Link="/Content/Lingo/Termbase/Importing-TBX-Files.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 10 Exporting Termbase Files"
+    Link="/Content/Lingo/Termbase/Exporting-TBX-Files.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 11 Removing or Deleting Termbases"
+    Link="/Content/Print-Only-Topics/Lingo/Termbases/Removing-Deleting-Termbases.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Lingo/PDF-Guides/PDF-Guides-Lingo.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled" />
+</CatapultToc>

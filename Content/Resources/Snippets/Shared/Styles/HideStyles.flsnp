@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>If you don't want a style to be visible in the interface, but you also don't want to completely disable it, you can choose to hide it instead. This is slightly different from disabling a style because it is still accessible from the stylesheet, but it is still hidden in the interface.</p>
+    </body>
+</html>

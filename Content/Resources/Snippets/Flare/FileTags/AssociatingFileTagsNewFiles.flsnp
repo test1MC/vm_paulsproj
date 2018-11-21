@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="407" MadCap:lastWidth="970">
+    <body>
+        <p>When adding a new file to a project, you can<MadCap:conditionalText MadCap:conditions="Snippets.Snippet12"> now</MadCap:conditionalText> associate file tags with that file. This will save you time because you can make sure that all of your new files created from the Add File dialog are tagged when you create them. </p>
+        <p>In the Add File dialog, expand the <span class="Emphasis">Attributes</span> area at the bottom. Then next to the <span class="Emphasis">File Tags</span> field, click <img src="../../../Images/Shared/browse_ellipses.png" class="ReduceButtonSize" /> and select the relevant file tags.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Interface/UI-Elements/Add-File-Dialog.htm">Add File Dialog</MadCap:xref>, <MadCap:xref href="../../../../Flare/File-Tagging/About-File-Tagging.htm">About File Tagging</MadCap:xref>, and <MadCap:xref href="../../../../Flare/File-Tagging/Associating-Tags-with-Files.htm">Associating Tags with Files</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>
+            <img src="../../../Images/Flare/add_file_tags1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

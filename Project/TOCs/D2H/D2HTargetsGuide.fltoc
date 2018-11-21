@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  conditions="Products.D2H">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/D2H/TitleD2H.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartSection="false"
+    PageNumber="1"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/D2H/TitleD2H.flpgl"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/D2H/Output/About-Targets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 2 Output Types"
+    Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types1.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="NetHelp"
+      Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-NetHelp1.htm">
+      <TocEntry
+        Title="Benefits of NetHelp"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-NetHelp2.htm" />
+      <TocEntry
+        Title="Supported Browsers"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-NetHelp3.htm" />
+      <TocEntry
+        Title="Extending Targets"
+        Link="/Content/D2H/Output/NetHelp/Extending-Targets.htm">
+        <TocEntry
+          Title="Adding DISQUS Commenting to NetHelp Targets"
+          Link="/Content/D2H/Output/NetHelp/Adding-DISQUS-Commenting-to-NetHelp-Targets.htm" />
+        <TocEntry
+          Title="Embedding NetHelp Targets into Web Pages"
+          Link="/Content/D2H/Output/NetHelp/Embedding-NetHelp-Targets-into-Web-Pages.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Search Options for NetHelp"
+        Link="/Content/D2H/Output/NetHelp/Search-Options-NetHelp.htm" />
+      <TocEntry
+        Title="NetHelp Local Installation"
+        Link="/Content/D2H/Output/NetHelp/NetHelp-Local-Installation.htm" />
+      <TocEntry
+        Title="Additional Details"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-NetHelp4.htm"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLandscape.flpgl" />
+      <TocEntry
+        Title="Notes"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-NetHelp5.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Microsoft HTML Help"
+      Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-HTMLHelp1.htm"
+      BreakType="none"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"></TocEntry>
+    <TocEntry
+      Title="EPUB"
+      Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-EPUB1.htm"
+      BreakType="none"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Table"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-EPUB2.htm"
+        BreakType="none"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLandscape.flpgl"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Notes"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-EPUB3.htm"
+        BreakType="none"
+        PageNumberReset="continue" />
+    </TocEntry>
+    <TocEntry
+      Title="Eclipse Help"
+      Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-EclipseHelp1.htm"
+      BreakType="none"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Table"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-EclipseHelp2.htm"
+        BreakType="none"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLandscape.flpgl"
+        PageNumberReset="continue" />
+    </TocEntry>
+    <TocEntry
+      Title="JavaHelp"
+      Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-JavaHelp1.htm"
+      BreakType="none"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Table"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-JavaHelp2.htm"
+        BreakType="none"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLandscape.flpgl"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Notes"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-JavaHelp3.htm"
+        BreakType="none"
+        PageNumberReset="continue" />
+    </TocEntry>
+    <TocEntry
+      Title="Microsoft Help Viewer"
+      Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-HelpViewer1.htm"
+      BreakType="none"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Table"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-HelpViewer2.htm"
+        BreakType="none"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLandscape.flpgl"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Notes"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-HelpViewer3.htm"
+        BreakType="none"
+        PageNumberReset="continue" />
+    </TocEntry>
+    <TocEntry
+      Title="Microsoft Help 2.0"
+      Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-Help20_1.htm"
+      BreakType="none"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Table"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-Help20_2.htm"
+        BreakType="none"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLandscape.flpgl"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Note"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-Help20_3.htm"
+        BreakType="none"
+        PageNumberReset="continue" />
+    </TocEntry>
+    <TocEntry
+      Title="Manual"
+      Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-Manual1.htm"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+      <TocEntry
+        Title="Setting a Cover Image"
+        Link="/Content/D2H/Output/Manual/Setting-Cover-Image.htm" />
+      <TocEntry
+        Title="Setting Page Orientation"
+        Link="/Content/D2H/Output/Manual/Setting-Page-Orientation.htm" />
+      <TocEntry
+        Title="Additional Details"
+        Link="/Content/Print-Only-Topics/D2H/Targets/Output-Types-Manual2.htm"
+        BreakType="pageLayout"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLandscape.flpgl" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Creating and Deleting Targets"
+    Link="/Content/D2H/Output/Creating-Targets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 4 Editing Target Settings"
+    Link="/Content/D2H/Output/Editing-Target-Settings.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 5 Transformations"
+    Link="/Content/D2H/Output/Transformations/About-Transormations.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    PageType="firstright"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled">
+    <TocEntry
+      Title="Advanced XML Transformations"
+      Link="/Content/D2H/Output/Transformations/Advanced-XML-Transformations.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Building Targets"
+    Link="/Content/D2H/Output/Building-Target.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Building Targets in Batch Mode"
+      Link="/Content/D2H/Output/Building-Targets-Batch-Mode.htm" />
+    <TocEntry
+      Title="Building Targets Using Windows Services"
+      Link="/Content/D2H/Output/Building-Targets-Using-Windows-Services.htm" />
+    <TocEntry
+      Title="Scheduling Builds with the Build Scheduler"
+      Link="/Content/D2H/Output/Scheduling-Builds.htm"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/D2H/PDF-Guides/PDF-Guides-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled" />
+</CatapultToc>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Mimic">
+    <body>
+        <ol>
+            <li>Select <span class="Emphasis">File &gt; Options</span>. The Options dialog opens.</li>
+            <li>Select the <span class="Emphasis">Interface</span> tab.</li>
+            <li>Click in the <span class="Emphasis">Active Theme</span> and select a color scheme.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

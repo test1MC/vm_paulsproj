@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="20" MadCap:lastHeight="4045" MadCap:lastWidth="838">
+    <head>
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature_Supported/AllOnline_EPUB.flsnp" MadCap:conditions="FlareGuides.FlareNavigationLinksGuide" />
+        <p MadCap:conditions="FlareGuides.FlareNavigationLinksGuide">You can make images interactive through the use of hyperlinks and maps.</p>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/ThisChapterDiscussesFollowing.flsnp" MadCap:conditions="FlareGuides.FlareNavigationLinksGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlareNavigationLinksGuide">
+            <MadCap:keyword term="Images:hyperlinks;Linking:image hyperlinks" />Inserting Image Hyperlinks</h2>
+        <MadCap:snippetBlock src="../Banners/Feature_Supported/AllOnline_EPUB.flsnp" MadCap:conditions="FlareGuides.FlareImagesGuide,General.OnlineOnly" />
+        <p>
+            <MadCap:snippetText src="../../Shared/Images/ImagesHyperlinkSummary.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to insert an image hyperlink</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Topics/OpenContentFile.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/NavLinks/InsertImageHyperlinkStep.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/NavLinks/InsertImageHyperlinkStep2.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/NavLinks/InsertImageHyperlinkStep3.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>file in project&#160;</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/NavLinks/FileInProjectOption.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>place in this document </MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/NavLinks/PlaceInThisDocumentOption.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>external file&#160;</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/NavLinks/ExternalFileOption.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareImagesGuide,FlareGuides.FlareNavigationLinksGuide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>website</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/NavLinks/WebsiteOption.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>email&#160;</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/NavLinks/EmailOption.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareImagesGuide,FlareGuides.FlareNavigationLinksGuide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>html help file&#160;</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <MadCap:snippetBlock src="../../Shared/NavLinks/HTMLHelpFileOption.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/NavLinks/InsertImageHyperlinkStep4.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/NavLinks/InsertImageHyperlinkStep5.flsnp" />
+                    </li>
+                </ol>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareImagesGuide,FlareGuides.FlareNavigationLinksGuide" />
+                <ol MadCap:continue="true">
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/NavLinks/InsertImageHyperlinkStep6.flsnp" />
+                        </p>
+                        <MadCap:snippetBlock src="../../Shared/NavLinks/TargetFrameDescriptionsBullets.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/NavLinks/InsertImageHyperlinkStep7.flsnp" />
+                        </p>
+                        <MadCap:snippetBlock src="../../Shared/NavLinks/NoteInsertImageHyperlink.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/NavLinks/InsertImageHyperlinkStep8.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareImagesGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">warning</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="warning">
+                    <p class="warningInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Red;&quot; class=&quot;mcFormatColor&quot;&gt;Warning: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../../Shared/NavLinks/AvoidLinkingToSnippets1.flsnp" />&#160;<MadCap:snippetText src="../../Shared/NavLinks/AvoidLinkingToSnippets2.flsnp" /></p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <div class="note" MadCap:conditions="FlareGuides.FlareImagesGuide,General.OnlineOnly">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../../Shared/NavLinks/NoteImageMapOnPicture.flsnp" /> See <MadCap:xref href="../../../../Flare/Nav-Links/Image-Hyperlinks/Creating-Image-Maps.htm">Creating Image Maps</MadCap:xref>.</p>
+                </div>
+                <div class="note" MadCap:conditions="FlareGuides.FlareImagesGuide">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can edit image hyperlinks that you have inserted into a topic in the following ways: (1) edit the destination and properties of the hyperlink, and (2) remove the hyperlink from the image. <MadCap:snippetText src="../../Shared/ForMoreInfo/SeeOnlineHelp.flsnp" /></p>
+                </div>
+                <div class="note" MadCap:conditions="General.OnlineOnly">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can use the built-in Analyzer and reports to find broken links. See <MadCap:xref href="../../../../Flare/Nav-Links/Viewing-Broken-Links.htm">Viewing Broken Links</MadCap:xref> and <MadCap:xref href="../../../../Flare/Analyzer/Reports.htm">About Reports</MadCap:xref>.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

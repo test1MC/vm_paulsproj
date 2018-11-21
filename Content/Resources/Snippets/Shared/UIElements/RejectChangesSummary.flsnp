@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="84" MadCap:lastWidth="1111" MadCap:conditions="Products.Contributor,Products.Flare">
+    <head>
+    </head>
+    <body>
+        <p>Rejects tracked changes or annotations in the active document, removing them from that document. You can click the down arrow to reject a single change or all of them. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Reviews-Contributions/Track-Changes/Accepting-Rejecting-Tracked-Changes.htm">Accepting or Rejecting Tracked Changes</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Reviews-Contributions/Track-Changes/Accepting-Rejecting-Tracked-Changes.htm">Accepting or Rejecting Tracked Changes</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

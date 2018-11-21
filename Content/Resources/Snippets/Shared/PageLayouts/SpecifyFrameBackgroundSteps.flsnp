@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <ol>
+            <li value="3">Select the <span class="Emphasis">Background</span> tab.</li>
+            <li>Use the tab to specify the settings that you want for the background.<MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot><MadCap:keyword term="Color:background;Background:color" />set a color for the background</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><ol class="LowerAlpha"><li>In the <span class="Emphasis">Color</span> section, select a color direction for the frame background.</li><li>In the <span class="Emphasis">Fill Start</span> field, click the down arrow and select a color to use at the beginning of the background color gradient.</li><li>In the <span class="Emphasis">Fill End</span> field, click the down arrow and select a color to use at the end of the background color gradient.</li></ol></MadCap:dropDownBody></MadCap:dropDown><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot><MadCap:keyword term="Background:images;Images:background" />add an image to the background</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody class="Final"><ol class="LowerAlpha"><li>In the <span class="Emphasis">Image</span> section, click the <span class="Emphasis">Browse</span> button. The Insert Image dialog opens.</li><li><MadCap:snippetText src="../Images/ImagesInsertPictureStep1.flsnp" /></li><MadCap:snippetBlock src="../Images/ImagesInsertPictureStep2.flsnp" /><li><MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /></li><li>(Optional) In the <span class="Emphasis">Repeat</span> field, select whether you want the image to repeat in the background.</li><li>(Optional) In the <span class="Emphasis">X</span> field, select or enter the horizontal position of the background image in the frame. </li><li>(Optional) In the <span class="Emphasis">Y</span> field, select or enter the vertical position of the background image in the frame. </li><li><MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /></li></ol></MadCap:dropDownBody></MadCap:dropDown></li>
+            <li>In the Frame Properties dialog, click <span class="Emphasis">OK</span>.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

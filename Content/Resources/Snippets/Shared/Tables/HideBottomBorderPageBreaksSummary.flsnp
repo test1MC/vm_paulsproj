@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor">
+    <body>
+        <p>By default, if you have a table that crosses multiple pages in print-based output, the bottom border is shown before the table continues on the next page.</p>
+    </body>
+</html>

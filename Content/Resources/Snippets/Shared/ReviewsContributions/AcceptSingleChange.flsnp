@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul style="list-style-type: square;">
+            <li><span class="SetOffFirstLevel">Ribbon</span> Click on the change you want to accept. <MadCap:snippetText src="../UIElements/SelectReviewRibbon.flsnp" /> In the <span class="Emphasis">Changes</span> section select <span class="Emphasis">Accept Change</span>.</li>
+            <li><span class="SetOffFirstLevel">Right-Click</span> Right-click on the change you want to accept. From the context menu, select <span class="Emphasis">Accept [Type of Change]</span>.</li>
+        </ul>
+    </body>
+</html>

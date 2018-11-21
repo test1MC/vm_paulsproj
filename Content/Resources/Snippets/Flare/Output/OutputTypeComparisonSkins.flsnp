@@ -1,0 +1,2060 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="3558" MadCap:lastWidth="700">
+    <head>
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>Following are skin features supported in each output type:</p>
+        <table class="TableStyle-BasicAlternateRows" style="mc-table-style: url('../../../TableStyles/Shared/BasicAlternateRows.css');margin-left: 0;margin-right: auto;width: 100%;" cellspacing="0">
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 115px;" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-BasicAlternateRows-Head-Header1" MadCap:conditions="FlareGuides.NotOnlineOutputGuides">
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1" MadCap:conditions="">&#160;</th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1" MadCap:conditions="">
+                        <p class="TableTextHead">ONLINE</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1" colspan="3">
+                        <p class="TableTextHead">OTHER</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1" colspan="5" MadCap:conditions="">
+                        <p class="TableTextHead">ONLINE (LEGACY)</p>
+                    </th>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">&#160;</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Shared/html5Light.svg" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/clean_xhtml.svg" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/eclipse.svg" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/epub.svg" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/DotNetHelp.svg" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Shared/Microsoft HTML Help.svg" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Shared/WebHelp.svg" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Shared/WebHelp Mobile.svg" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Shared/WebHelp Plus.svg" class="TableIcons" />
+                        </p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/About-Skins.htm#types" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Skin Type</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenterSmall">HTML5</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenterSmall">Std</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenterSmall">Std</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenterSmall" style="text-align: center;">Std</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenterSmall" style="text-align: center;">Mobile</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenterSmall" style="text-align: center;">Std</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Selecting-Image-About-Box.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">About Box</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Excluding-Accordion-Titles-from-WebHelp-Output.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Accordion Titles (Exclude)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Browser-Settings.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Browser Settings</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck1.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Caption-Output-Window.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Caption for Output Window</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck1.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x2.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Default-Tab-Accordion-Item.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Elements Such as Tabs, Accordions (Specify Default Element)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck1.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Tabs-Accordion-Items-to-Include-Output-Window.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Elements Such as Tabs, Accordions (Specify Which to Include)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck1.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Fields-Feedback-Profile-Dialog.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Feedback Comments, Email Notifications, User Profile</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck1.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Targets/More/Setting-All-Skins-to-be-Generated.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Generate All</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Language-Support/About-Language-Skins.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Language Skins</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck3.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/HTML5-Skin-Styles/HTML5-Skin-Styles.htm#MenuSkinComponents" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Menu Skin Component</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Showing-Navigation-Links-Standalone-Topics.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Navigation Links in Standalone Topics</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck1.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Navigation-Pane-Settings-HTML5-WebHelp-Output.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Navigation Pane Settings</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Previewing-Skin-Specific-Output-Type.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Preview Skin for Output Type</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Enabling-Runtime-Skins.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Runtime Skins (Choose Different Skins at Runtime)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/HTML5-Skin-Styles/HTML5-Skin-Styles.htm#SearchBarSkinComponents" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Search Bar Skin Component</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck4.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/HTML5-Skin-Styles/HTML5-Skin-Styles.htm#SearchResultsComponents" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Search Results Skin Component</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck4.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Language-Support/Changing-Text-Strings-HTML5-Skins.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Separate UI Text Tab in Skin Editor for Localization</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck3.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Styles/Using-Styles/Skin-Styles.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Styles</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck5.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck5.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/TOCs/More/Selecting-Skin-TOC-Entry.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">TOC Entry (Select Skin For)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Nav-Links/Toolbars/About-Topic-Toolbars.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Topic Toolbar (Custom Settings)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint" style="text-align: center;">
+                            <img src="../../../Images/Shared/greencheck6.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck7.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Adding-Web-Toolbar-to-HTML-Help-Output.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Web Toolbar (Add via Skin)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Nav-Links/Toolbars/About-Web-Toolbars.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Web Toolbar (Custom Settings)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck1.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Size-Positioning-Output-Window.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Window (Size/Position)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck1.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Enabling-User-Defined-Window-Position-Size-HTML-Help-Output.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Window (User-defined Size/Position)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyA-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr class="TableStyle-BasicAlternateRows-Foot-Footer1">
+                    <td class="TableStyle-BasicAlternateRows-FootD-Regular-Footer1" colspan="10">
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">1</sup>This is available in the Tripane skin only. It is not available in the Top Navigation skin.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">2</sup>This is handled through the org.eclipse.help.base plug-in.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">3</sup>As an alternative to using language skins, you can use the UI Text tab in the Skin Editor to perform all of the localization tasks for HTML5 targets. Be aware that translations in the Skin Editor are prioritized over translations in a language skin, so you should try to perform your localization tasks in one place to avoid conflicts.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">4</sup>This is available in the Top Navigation skin only. It is not available in the Tripane skin.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">5</sup>Only some styles (e.g., Feedback, toolbar) are supported.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">6</sup>Topic toolbar settings can be controlled in a Topic Toolbar skin component, as well as in a Topic Toolbar proxy.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">7</sup>Limited settings are available.</p>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareDNHGuide,FlareGuides.FlareEclipseHelpGuide,FlareGuides.FlareHTML5Guide,FlareGuides.FlareHTMLHelpGuide,FlareGuides.FlareWebHelpGuide,FlareGuides.FlareTargetsGuide,General.OnlineOnly" />
+        <table class="TableStyle-BasicAlternateRows" style="mc-table-style: url('../../../TableStyles/Shared/BasicAlternateRows.css');margin-left: 0;margin-right: auto;width: 100%;" cellspacing="0" MadCap:conditions="FlareGuides.NotOnlineOutputGuides">
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 115px;" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">&#160;</th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1" colspan="2">
+                        <p class="TableTextHead">PRINT</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1" colspan="2">
+                        <p class="TableTextHead">PRINT (LEGACY)</p>
+                    </th>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">&#160;</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Shared/PDF.svg" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Shared/Word.svg" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/FM.svg" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/xhtml_book.svg" class="TableIcons" />
+                        </p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/About-Skins.htm#types" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Skin Type</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Selecting-Image-About-Box.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">About Box</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Excluding-Accordion-Titles-from-WebHelp-Output.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Accordion Titles (Exclude)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Browser-Settings.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Browser Settings</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Caption-Output-Window.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Caption for Output Window</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Default-Tab-Accordion-Item.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Elements Such as Tabs, Accordions (Specify Default Element)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Tabs-Accordion-Items-to-Include-Output-Window.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Elements Such as Tabs, Accordions (Specify Which to Include)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Fields-Feedback-Profile-Dialog.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Feedback Comments, Email Notifications, User Profile</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Targets/More/Setting-All-Skins-to-be-Generated.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Generate All</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Language-Support/About-Language-Skins.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Language Skins</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/HTML5-Skin-Styles/HTML5-Skin-Styles.htm#MenuSkinComponents" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Menu Skin Component</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Showing-Navigation-Links-Standalone-Topics.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Navigation Links in Standalone Topics</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Navigation-Pane-Settings-HTML5-WebHelp-Output.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Navigation Pane Settings</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Previewing-Skin-Specific-Output-Type.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Preview Skin for Output Type</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Enabling-Runtime-Skins.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Runtime Skins (Choose Different Skins at Runtime)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/HTML5-Skin-Styles/HTML5-Skin-Styles.htm#SearchBarSkinComponents" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Search Bar Skin Component</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/HTML5-Skin-Styles/HTML5-Skin-Styles.htm#SearchResultsComponents" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Search Results Skin Component</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Language-Support/Changing-Text-Strings-HTML5-Skins.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Separate UI Text Tab in Skin Editor for Localization</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Styles/Using-Styles/Skin-Styles.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Styles</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/TOCs/More/Selecting-Skin-TOC-Entry.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">TOC Entry (Select Skin For)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Nav-Links/Toolbars/About-Topic-Toolbars.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Topic Toolbar (Custom Settings)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Adding-Web-Toolbar-to-HTML-Help-Output.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Web Toolbar (Add via Skin)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Nav-Links/Toolbars/About-Web-Toolbars.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Web Toolbar (Custom Settings)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Specifying-Size-Positioning-Output-Window.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Window (Size/Position)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.OnlineOnly">
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Skins/More/Enabling-User-Defined-Window-Position-Size-HTML-Help-Output.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Window (User-defined Size/Position)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyA-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../../Images/Shared/x.png" class="ReduceButtonSize2" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p> When you are editing a stylesheet, you can select a medium<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareStylesGuide"> or media query</MadCap:conditionalText> in order to edit settings for it. You can also select a medium<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareStylesGuide"> or media query</MadCap:conditionalText> when you are viewing or editing a content file.</p>
+    </body>
+</html>

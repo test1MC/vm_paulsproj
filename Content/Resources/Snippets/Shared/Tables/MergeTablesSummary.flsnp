@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare">
+    <body>
+        <p>If you have two tables in a <MadCap:snippetText src="../Topics/ContentFileDocument.flsnp" /> that are positioned one after the other, you can merge those tables so that they become one. You can do this by using the paste icon <img src="../../../Images/Shared/paste_btn2.png" class="ReduceButtonSize" /> that may appear to the right of the tables.</p>
+    </body>
+</html>

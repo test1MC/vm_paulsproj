@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Let's say you have a stylesheet that you are using for <MadCap:conditionalText MadCap:conditions="Products.Flare">all topics in your project </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">your topic</MadCap:conditionalText>s. In this stylesheet, you have set the font color for the h2 style to blue. So every time you apply this style class to content in any of your topics, the font is blue. Now let's say that you have a topic called "Contact Our Company." In this topic, you have one instance where you are using the &lt;h2&gt; tag. You click on that line of text, and in the Formatting window pane, you change the font color to red. The line with the &lt;h2&gt; tag in that topic changes to red, but all other instances of an &lt;h2&gt; tag still use blue (unless they too have been overruled).</p>
+        </div>
+    </body>
+</html>

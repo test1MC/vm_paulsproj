@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>(Optional) If you have selected the General tab, you can also set widow and orphan properties for the table. By default, table widows and orphans are set at 1, which means that it is possible for there to be a single row from a table left at the top or bottom of a page or column (if you use multi-column page layouts). But you can change the setting in order to ensure that multiple rows are always shown at the top or bottom of a page or column.</p>
+    </body>
+</html>

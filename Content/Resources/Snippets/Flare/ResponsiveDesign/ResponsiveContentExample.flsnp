@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="1044" MadCap:lastWidth="1070">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Flare's online Help has a topic called "Get Started" that looks like the following when viewed on a large monitor or on a tablet-sized screen. Notice the three images at the bottom of the topic.</p>
+            <p>
+                <img src="../../../Images/Flare/responsive_content26.png" alt="" title="" class="MaxWidth80Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareHTML5Guide" />
+            <p>But when the browser is reduced to a mobile size, the images shift so that they display one on top of the other.</p>
+            <p>
+                <img src="../../../Images/Flare/responsive_content28.png" alt="" title="" class="MaxWidth40Percent" />
+            </p>
+        </div>
+    </body>
+</html>

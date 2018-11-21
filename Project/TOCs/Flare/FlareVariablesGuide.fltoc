@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Variables"
+    Link="/Content/Flare/Variables/About-Variables.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 2 Adding Variable Sets to Projects"
+    Link="/Content/Flare/Variables/Adding-Variable-Sets-to-Projects.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 3 Creating New Variables"
+    Link="/Content/Flare/Variables/Creating-New-Variables.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Editing Variables"
+      Link="/Content/Flare/Variables/Editing-Variables.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      BreakType="none" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Creating Custom Date/Time Variables"
+    Link="/Content/Flare/Variables/Creating-Date-Time-Variables.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Editing Date/Time Variables"
+      Link="/Content/Flare/Variables/Editing-Date-Time-Variables.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Updating Manual Date/Time Variables"
+      Link="/Content/Flare/Variables/Updating-Manual-Date-Time-Variables.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Inserting Variables into Topics"
+    Link="/Content/Flare/Variables/Inserting-Variables.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="CH 6 Inserting Chapter, Section, and Volume Number Variables into Frames"
+    Link="/Content/Flare/Page-Layouts/Frames/Inserting-Chapter-Section-Volume-Number-Variables-Frames.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 7 Inserting Custom Date/Time Variables Into Master Pages"
+    Link="/Content/Flare/Variables/Inserting-Custom-Date-Time-Variables-Into-Master-Pages.htm"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+  <TocEntry
+    Title="CH 8 Heading Variables"
+    Link="/Content/Flare/Variables/About-Heading-Variables.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Inserting Heading Variables Into Frames"
+      Link="/Content/Flare/Page-Layouts/Frames/Inserting-Heading-Variables-Frames.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Inserting Heading Variables Into Master Pages"
+      Link="/Content/Flare/Output/Printed-Output/Inserting-Heading-Variables-Master-Pages.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 9 Running Head Variables"
+    Link="/Content/Flare/Variables/About-Running-HF-Variables.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Inserting Running Head Variables into Frames"
+      Link="/Content/Flare/Page-Layouts/Frames/Inserting-Running-Head-Variables-Frames.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Inserting Running Head Variables Into Master Pages"
+      Link="/Content/Flare/Output/Printed-Output/Inserting-Running-Head-Variables-Master-Pages.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 10 Additional Variable Tasks"
+    Link="/Content/Flare/Variables/Converting-Variables-to-Text.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Deleting Variables"
+      Link="/Content/Flare/Variables/Deleting-Variables.htm"
+      MarkAsNew="False"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Hiding and Showing Variable Names"
+      Link="/Content/Flare/Variables/Hiding-Showing-Variable-Names.htm"
+      MarkAsNew="False"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing Variable Sets"
+      Link="/Content/Flare/Variables/Importing-Variable-Sets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Opening a Variable Set"
+      Link="/Content/Flare/Variables/Opening-Variable-Set.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Overriding Variable Definitions in Targets"
+      Link="/Content/Flare/Variables/Overriding-Variable-Definitions.htm"
+      MarkAsNew="False"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Overriding Variable Definitions in Snippets"
+      Link="/Content/Flare/Variables/Overriding-Variable-Definitions-Snippets.htm" />
+    <TocEntry
+      Title="Pinning Variables"
+      Link="/Content/Flare/Variables/Pinning-Variables.htm" />
+    <TocEntry
+      Title="Renaming Variable Sets"
+      Link="/Content/Flare/Variables/Renaming-Variable-Sets.htm"
+      MarkAsNew="False"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Using Variable Groups"
+      Link="/Content/Flare/Variables/Using-Variable-Groups.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

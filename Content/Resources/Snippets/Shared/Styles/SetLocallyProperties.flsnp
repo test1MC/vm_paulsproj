@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>Displays properties that have been set explicitly in the stylesheet. An "Add Property" field is also shown at the top of the properties. You can use this field to quickly add another property to the list so you can edit it.</p>
+    </body>
+</html>

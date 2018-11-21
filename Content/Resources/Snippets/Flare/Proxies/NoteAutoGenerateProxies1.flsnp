@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="81" MadCap:lastWidth="1442">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">In order for a glossary to be generated, you must have a glossary file in your project that is associated with the target. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Glossaries/More/Adding-Glossary.htm">Adding a Glossary File</MadCap:xref> and <MadCap:xref href="../../../../Flare/Glossaries/Associating-Glossaries-with-Targets.htm">Associating Glossaries with Targets</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

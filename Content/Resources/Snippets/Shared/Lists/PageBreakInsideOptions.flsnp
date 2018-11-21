@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">auto </span>A page break will neither be forced nor prevented inside the rendering box of the list item.</li>
+            <li><span class="SetOffFirstLevel">avoid </span>A page break will not occur inside the rendering box of the list item.</li>
+            <li><span class="SetOffFirstLevel">inherit </span>The page break setting of the parent tag is used.</li>
+        </ul>
+    </body>
+</html>

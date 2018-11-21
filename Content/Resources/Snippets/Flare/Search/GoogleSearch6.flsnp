@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="655" MadCap:lastWidth="1518">
+    <body>
+        <ol style="list-style-type: lower-alpha;">
+            <li>Either click <span class="Emphasis">Continue</span> under the congratulations message, or click <span class="Emphasis">Search Console</span> at the top of the browser page.</li>
+            <li>
+                <p>Navigate to <span class="Emphasis">Crawl &gt; Sitemaps</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/google_search9.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>Click <span class="Emphasis">Add/Test Sitemap</span>.</li>
+            <li>
+                <p>In the popup, enter <span class="TypedEntry">Sitemap.xml</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/google_search10.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>Click <span class="Emphasis">Submit</span>.</li>
+            <li>
+                <p>Refresh the page to see the results.</p>
+                <p>
+                    <img src="../../../Images/Flare/google_search11.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>Continue with the following steps to submit the site for indexing.</li>
+        </ol>
+    </body>
+</html>

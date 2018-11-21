@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="6" MadCap:lastHeight="340" MadCap:lastWidth="980">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../../Contributor/Documents/OpenDocumentTopic.flsnp" MadCap:conditions="Products.Contributor" />
+                <MadCap:snippetText src="../Topics/OpenContentFile.flsnp" MadCap:conditions="Products.Flare,Products.Analyzer" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p>Place your cursor in the tag where you want to remove the formatting. For example, if you have bold text in a sentence, you do not need to highlight that bold text; you only need to have your cursor somewhere in the tag.</p>
+                        <p>OR</p>
+                    </li>
+                    <li>Select the content with the formatting that you want to remove so that the content is highlighted. If you want to remove inline formatting throughout the <MadCap:snippetText src="../Topics/ContentFileDocument.flsnp" />, you can press <span class="Emphasis">CTRL+A</span> to select everything.</li>
+                </ul>
+            </li>
+            <li>
+                <MadCap:snippetText src="../UIElements/SelectHomeRibbon.flsnp" /> In the <span class="Emphasis">Font</span> section, click <img class="ReduceButtonSize" src="../../../Images/Shared/remove_inline_formatting_btn.png" />.<p>The inline formatting is removed. </p></li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

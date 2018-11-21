@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="1149" MadCap:lastWidth="958">
+    <body>
+        <MadCap:snippetBlock src="../Banners/z_DarkPrintBackground_SupportedInContributionWorkflow.flsnp" />
+        <MadCap:snippetBlock src="../../Shared/Styles/StylesCreateTableStylesPrintSummary.flsnp" />
+        <p MadCap:conditions="General.OnlineOnly">For more information see <MadCap:xref href="../../../../Contributor/Styles/About-Styles-Stylesheets.htm">About Styles and Stylesheets</MadCap:xref>.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create a table style for printed output—two mediums</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>The author should have already sent you a contribution template file that includes the table stylesheet.</li>
+                    <li>Set the properties to be used for the online output.<ol class="LowerAlpha"><li>In the local toolbar of the Table Style Editor, click in the <span class="Emphasis">Medium</span> field and make sure the medium for the your online output is selected.</li><li>Use the various tabs in the editor to set properties for that medium. </li></ol></li>
+                    <li>Set the properties to be used for the printed output as follows:<ol class="LowerAlpha"><li><p>In the local toolbar of the Table Style Editor, click the down arrow in the <span class="Emphasis">Medium</span> field and select <span class="Emphasis">Medium: print</span> or <span class="Emphasis">Medium: [name of print medium]</span>.</p></li><li>Use the various tabs in the editor to set properties for that medium.</li></ol></li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork2.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create a table style for printed output—two table stylesheets</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>The author should have already sent you a contribution template file that includes the table stylesheets.</li>
+                    <li>
+                        <p>Insert a table into a topic or edit an existing table.</p>
+                        <p MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Contributor/Tables/Inserting-Tables.htm">Inserting Tables</MadCap:xref> and <MadCap:xref href="../../../../Contributor/Tables/Editing-Table-Properties.htm">Editing Table Properties</MadCap:xref>.</p>
+                    </li>
+                    <li>In the Insert Table dialog (if inserting a new table) or the Table Properties dialog (if editing an existing table), click <span class="Emphasis">Table Style</span> and from the drop-down select the table style to be used for the online output.</li>
+                    <li>Click the down arrow next to the <span class="Emphasis">Create Table Style</span> button  <img src="../../../Images/Shared/table_style_select_btn2.png" class="ReduceButtonSize" /> and select <span class="Emphasis">Print Style</span>. Click <span class="Emphasis">OK</span> in the small dialog that opens. The Select Table Style dialog opens.</li>
+                    <li>From the list, select the table style to be used for the printed output.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                    <li>In the Insert Table or Table Properties dialog, click <span class="Emphasis">OK</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork2.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you used print table styles in the past and want to remove them now in favor of the medium method, you can use an option in the Apply Table Style dialog in the Table Style Editor. When this option is enabled, print table styles will be removed from any tables updated by this dialog. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Contributor/Styles/Applying-Table-Stylesheets-to-Tables.htm">Applying Table Stylesheets to Tables</MadCap:xref>.</MadCap:conditionalText></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

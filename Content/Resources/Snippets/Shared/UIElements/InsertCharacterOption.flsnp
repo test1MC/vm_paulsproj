@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="354" MadCap:lastWidth="924" MadCap:conditions="Products.Flare,Products.Contributor,Products.Lingo">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p class="TableText">Opens a submenu that lets you insert special characters or symbols into the editor. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../../Flare/Characters-and-Symbols/Inserting-Special-Characters-and-Symbols.htm">Inserting Special Characters and Symbols</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.ContributorOnlineOnly">See <MadCap:xref href="../../../../Contributor/Characters-and-Symbols/Inserting-Special-Characters-and-Symbols.htm">Inserting Characters and Symbols</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.LingoOnlineOnly">See <MadCap:xref href="../../../../Lingo/Characters-and-Symbols/Inserting-Special-Characters-and-Symbols.htm">Inserting Characters and Symbols</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:snippetBlock src="CharacterOptionsList.flsnp" />
+    </body>
+</html>

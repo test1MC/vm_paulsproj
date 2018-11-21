@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="109" MadCap:lastWidth="765" MadCap:conditions="Products.Contributor,Products.Flare">
+    <head>
+    </head>
+    <body>
+        <p>Opens the Screen Capture dialog, which lets you insert a screen capture image into a topic. You must have MadCap Capture installed on your computer in order to use this feature. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Images/Inserting-Screen-Captures.htm">Inserting Screen Capture Images into Topics</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Images/Inserting-Screen-Captures.htm">Inserting Screen Capture Images</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

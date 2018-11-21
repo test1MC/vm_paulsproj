@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <ul type="1" class="FirstLevel">
+            <li><span class="SetOffFirstLevel">General tab</span> This tab lets you set breaks for the entire table.</li>
+            <li><span class="SetOffFirstLevel">Rows tab</span> This tab lets you set breaks for regular rows in the table.</li>
+        </ul>
+    </body>
+</html>

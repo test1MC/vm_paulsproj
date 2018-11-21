@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor" MadCap:lastBlockDepth="8" MadCap:lastHeight="802" MadCap:lastWidth="1110">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="OpenPageInPageLayoutStep.flsnp" />
+            </li>
+            <li>
+                <p>Select the frame whose text you want to align.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can do this only for header, footer, or decoration frames. You cannot align text in body frames.</p>
+                </div>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                <ul class="FirstLevel">
+                    <li>In the local toolbar, click <img src="../../../Images/Shared/layout_btn.png" class="ReduceButtonSize" />. Then select <span class="Emphasis">Vertically Align</span> or <span class="Emphasis">Align</span>, depending on whether you want to align the text vertically or horizontally. </li>
+                    <li>Double-click the frame. In the Frame Properties dialog, select the <span class="Emphasis">Alignment</span> tab.</li>
+                </ul>
+            </li>
+            <li>Select one of the alignment options. <MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot><MadCap:keyword term="Alignment:Horizontal" />horizontal alignment</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><ul class="FirstLevel"><li><span class="SetOffFirstLevel">Left</span> Aligns the text horizontally along the left edge of the frame.</li><li><span class="SetOffFirstLevel">Center</span> Aligns the text horizontally at the center point of the frame.</li><li><span class="SetOffFirstLevel">Right</span> Aligns the text horizontally along the right edge of the frame.</li><li><span class="SetOffFirstLevel">Justify</span> Spaces the text in the frame so that both the left and right sides are aligned.</li><li><span class="SetOffFirstLevel">Default</span> Resets the alignment of the text in the frame to the default (inherited) setting.</li></ul></MadCap:dropDownBody></MadCap:dropDown><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot><MadCap:keyword term="Alignment:Vertical" />vertical alignment</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody class="Final"><ul class="FirstLevel"><li><span class="SetOffFirstLevel">Top</span> Aligns the text vertically along the top edge of the frame.</li><li><span class="SetOffFirstLevel">Middle</span> Aligns the text vertically at the middle point of the frame</li><li><span class="SetOffFirstLevel">Bottom</span> Aligns the text vertically along the bottom edge of the frame.</li></ul></MadCap:dropDownBody></MadCap:dropDown></li>
+            <li>If you have opened the Frame Properties dialog, click <span class="Emphasis">OK</span>.</li>
+            <li>
+                <snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

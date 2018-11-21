@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>Make sure you have specified the size and position of the frame by using the <span class="Emphasis">Left</span>, <span class="Emphasis">Top</span>, <span class="Emphasis">Width</span>, <span class="Emphasis">Height</span>, <span class="Emphasis">Right</span>, and <span class="Emphasis">Bottom</span> fields.</p>
+    </body>
+</html>

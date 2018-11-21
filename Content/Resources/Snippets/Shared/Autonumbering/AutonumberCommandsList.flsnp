@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Chapnum;Secnum;Volnum" />Chapter, Section, and Volume Number Commands </span>Commands such as ({chapnum}, {secnum}, {volnum}) let you organize your output into different areas and apply number sequences to them (e.g., Chapter 1, Chapter 2, Chapter 3).</li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:counters;Counters:auto-numbers" />Counters </span>These are commands (such as {n}, {n=1}, {n+}, {r}, {A}, and {Gn}) that provide information about what types of numbers should be used and how they should be incremented. </li>
+            <li>
+                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:series labels;Series labels:auto-numbers" />Series Labels </span>These are prefixes to a format (composed of one or two letters and a colon) that provide a way to limit numbering sequences for different purposes.</p>
+                <MadCap:dropDown class="ThirdLevel">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <div class="example">
+                            <p class="exampleHeadTextEmpty">example
+</p>
+                            <p>If you are creating autonumbers for procedures and figure captions in the same content flow, you do not want them to use the same numbering sequence. Otherwise, you might have something like:</p>
+                            <div class="IndentSmall">
+                                <p>Step 1.</p>
+                                <p>Step 2.</p>
+                                <p>Step 3.</p>
+                                <p>Figure 4.</p>
+                                <p>Figure 5.</p>
+                                <p>Figure 6.</p>
+                            </div>
+                            <p>When what you really want is:</p>
+                            <div class="IndentSmall">
+                                <p>Step 1.</p>
+                                <p>Step 2.</p>
+                                <p>Step 3.</p>
+                                <p>Figure 1.</p>
+                                <p>Figure 2.</p>
+                                <p>Figure 3.</p>
+                            </div>
+                            <p>To keep something like this from happening, you can add series labels to the format (e.g., start the step format with S: and start the figure format with F:).</p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <p>Although <MadCap:variable name="Other.Product" /> includes H: in the list of available commands, that is simply one example of a series label. The letter that you use as a series label is arbitrary. You can replace H and choose any letter of the alphabet, followed by a colon. The exception to this is a two-letter series label, in which the first letter represents a series that encompasses more than just one topic. For example, CH is an example of a series label that applies across an entire chapter. The H can be replaced with another letter, but you must keep the C in order to use this command. Finally, it's important to note that a series label must always be the first element in an autonumber format.</p>
+            </li>
+        </ul>
+    </body>
+</html>

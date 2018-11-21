@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="335" MadCap:lastWidth="978" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p class="InfoForDevelopers">Information for SharePoint Administrators</p>
+        <p>By default, both SharePoint 2010 and 2013 block the ability to open HTML documents directly from a document library. However, this can be changed by adjusting the browser file handling option.</p>
+        <ol>
+            <li>On the server running SharePoint, open <span class="Emphasis">SharePoint Central Administration.</span></li>
+            <li>Select <span class="Emphasis">Application Management &gt; Manage web applications</span>.</li>
+            <li>For the specified web application, select <span class="Emphasis">General Settings &gt; General Settings</span>.</li>
+            <li>
+                <p>For browser file handling, select <span class="Emphasis">Permissive</span>. </p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You may need to supply the SharePoint Administrator with the URL&#160;of the SharePoint site where your HTML file library is located.</p>
+            </li>
+        </ol>
+    </body>
+</html>

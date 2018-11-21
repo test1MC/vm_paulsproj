@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer" MadCap:lastBlockDepth="9" MadCap:lastHeight="1542" MadCap:lastWidth="1016">
+    <body>
+        <ol>
+            <li>After copying the text in the other program, open a <MadCap:snippetText src="ContentFileDocument.flsnp" /> in <MadCap:variable name="Other.Product" />.</li>
+            <li>Place your cursor where you want to paste the text.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Ribbon</span>&#160;<MadCap:snippetText src="../UIElements/SelectHomeRibbon.flsnp" /> In the <span class="Emphasis">Clipboard</span> section select <span class="Emphasis">Paste</span>.</p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Right-Click</span> Right-click and from the context menu select <span class="Emphasis">Paste</span>.</li>
+                    <li><span class="SetOffFirstLevel">Keyboard Shortcut</span> Press <span class="Emphasis">CTRL+V</span>.</li>
+                </ul>
+                <p>The content is pasted using the default behavior, and the paste icon <img src="../../../Images/Shared/paste_btn2.png" class="ReduceButtonSize" /> appears after it. The drop-down arrow is visible when you hover over the icon.</p>
+            </li>
+            <li>
+                <p>(Optional) If you want to change the way the content is added to the file, click the drop-down arrow in the paste icon and select the option that best suits your needs.</p>
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Paragraphs:pasting" />Paste Paragraphs </span>Select this option if you want to paste the text as regular paragraphs. The pasted text will take on the style of the location where its being pasted. New paragraphs will become default paragraphs.</li>
+                    <li><span class="SetOffFirstLevel">Paste Paragraph Block </span>Select this option if you want to paste the text as paragraph blocks, such as <MadCap:keyword term="DIV tag" />&lt;div&gt;, <MadCap:keyword term="Blockquote tag" />&lt;blockquote&gt;, or <MadCap:keyword term="Fieldset tag" />&lt;fieldset&gt;. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">For more information about these types of styles, see <MadCap:xref href="../../../../Flare/Styles/More/Creating-Tag-Groups.htm">Creating Tag Groups</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.ContributorOnlineOnly">For more information about these types of styles, see <MadCap:xref href="../../../../Contributor/Styles/More/Creating-Tag-Groups.htm">Creating Tag Groups</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Inline text" />Paste Inline Text </span>Select this option if you want to paste the text as inline text, so that it takes on the style of the location where it is being pasted. If you have copied multiple lines of text from the source document and use this option, the text will be pasted in one line, not multiple lines.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Tables:pasting text" />Paste Table </span>Select this option if you want to paste the text into a table.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Lists:pasting text" />Paste List </span>Select this option if you want to paste the text as a list.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="HTML:pasting lists" />Paste HTML </span>Select this option if you want to paste text from an HTML source, such as a website.</li>
+                    <li>
+                        <MadCap:snippetText src="../Pasting/SetDefaultOption.flsnp" />
+                    </li>
+                </ul>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <div class="example">
+                            <p class="exampleHeadTextEmpty">example</p>
+                            <p>Let's say you frequently copy text from Word documents into your<MadCap:conditionalText MadCap:conditions="Products.Flare,Products.Analyzer"> Flare topics</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> documents or topics</MadCap:conditionalText>. Normally you bring the text in as regular paragraphs, so you use that as the default behavior.</p>
+                            <p>
+                                <img src="../../../Images/Shared/content_paste_example1.png" class="MaxWidth90Percent" />
+                            </p>
+                            <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTopicsGuide" />
+                            <p>But suppose that in this case you want the content to be brought in as a list. In that case, you simply click on the paste icon and select <span class="Emphasis">Paste List</span>.</p>
+                            <p>
+                                <img src="../../../Images/Shared/content_paste_example2.png" class="MaxWidth90Percent" />
+                            </p>
+                            <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTopicsGuide" />
+                            <p>And here is the result.</p>
+                            <p>
+                                <img src="../../../Images/Shared/content_paste_example3.png" class="MaxWidth90Percent" />
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

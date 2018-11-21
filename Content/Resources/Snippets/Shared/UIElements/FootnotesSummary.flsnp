@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="84" MadCap:lastWidth="666" MadCap:conditions="Products.Flare,Products.Contributor">
+    <head>
+    </head>
+    <body>
+        <p>Opens the Footnotes window pane, which lets you see all of the footnotes that have been added in the active topic. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Footnotes/Viewing-Footnotes-in-Topics.htm" target="" title="" alt="">Viewing Footnotes in Topics</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Footnotes/Viewing-Footnotes-in-Topics.htm">Viewing Footnotes in Topics</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

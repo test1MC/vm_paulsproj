@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p><span class="SetOffFirstLevel">div</span>&#160;A &lt;div&gt; tag is used to define logical divisions in your topics or to hold objects that can be "floated" (such as text boxes). It is similar to a paragraph tag, but it divides the page into larger sections. You can use &lt;div&gt; tags to name those larger sections of a topic and then affect them with stylesheets. One common use of a &lt;div&gt; tag is to <MadCap:keyword term="Indent:div tag;DIV tag:indenting" />indent lots of content. For example, you might have a section of content containing four paragraphs, a numbered list, and an image. Rather than creating special style classes for all of those different elements with an indentation setting (e.g., margin-left or padding-left) on each, you can place your indentation setting on the &lt;div&gt; tag. That way, any content contained within that &lt;div&gt; tag will be indented accordingly.</p>
+    </body>
+</html>

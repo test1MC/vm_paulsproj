@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="321" MadCap:lastWidth="739" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>You can create simple lists that are numbered or bulleted. </p>
+        <p class="Subheading">numbered</p>
+        <ol>
+            <li>Step one.</li>
+            <li>Step two.</li>
+            <li>Step three.</li>
+        </ol>
+        <p class="Subheading">bulleted</p>
+        <ul>
+            <li>Item one.</li>
+            <li>Item two.</li>
+            <li>Item three.</li>
+        </ul>
+    </body>
+</html>

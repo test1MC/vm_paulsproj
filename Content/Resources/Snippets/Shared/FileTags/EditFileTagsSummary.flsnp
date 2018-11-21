@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare">
+    <body>
+        <p>You might need to edit a file tag set from time to time. For example, if you have a file tag set designed to hold author names and you hire a new writer, you need to open the file tag set and add that author's name. You also might decide to change the tag type (e.g., change "Author" to "Contributor").</p>
+    </body>
+</html>

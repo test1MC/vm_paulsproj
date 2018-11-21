@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="4" MadCap:lastHeight="201" MadCap:lastWidth="739" MadCap:conditions="Products.Align,Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.HelpViewer,Products.Lingo,Products.MovieViewer,Products.Mimic" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>You can save different layouts of the interface, in case you want to use them for different purposes.</p>
+        <ol>
+            <li>Configure the workspace how you want it.</li>
+            <li>
+                <MadCap:snippetText src="SelectWindowRibbon.flsnp" />  In the <span class="Emphasis">Window Layout</span> section select  <span class="Emphasis">Save Layout &gt; Save Window Layout As</span>.</li>
+            <li>In the Save Window Layout dialog, enter a name for the layout. </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

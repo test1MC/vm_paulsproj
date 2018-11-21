@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ol>
+            <li>Open your topic.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Ribbon </span>
+                            <MadCap:snippetText src="../UIElements/SelectHomeRibbon.flsnp" /> In the <span class="Emphasis">Styles</span> section select <span class="Emphasis">Formatting Window</span>. </p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Keyboard Shortcut </span>Press <span class="Emphasis">CTRL+F12</span>.</li>
+                </ul>
+                <p>The Formatting window pane opens to the right, with the style class name for the selected content displayed at the top-left of the window pane. </p>
+                <p MadCap:conditions="Products.FlareOnlineOnly">
+                    <img src="../../../Images/Flare/local_formatting_window.png" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>In the topic, select the content for which you want to change the style settings.</li>
+            <li>
+                <p>In the Formatting window pane, you can view style properties by group or alphabetically.</p>
+                <p>If the window pane is showing properties by group, you should see the <img src="../../../Images/Flare/styles_group_view_btn.png" alt="" title="" class="ReduceButtonSize" /> button in the local toolbar. If the window pane is showing properties alphabetically, you should see the <img src="../../../Images/Flare/styles_alphabetical_view_btn.png" alt="" title="" class="ReduceButtonSize" /> button in the local toolbar.</p>
+                <p>Click this toggle button to switch from one view to the other. If you are in the grouped view, expand the group you need to edit.</p>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example</p>
+                    <p>If you want to change the font color, you would expand the <span class="Emphasis">Font</span> property group.</p>
+                </div>
+                <p>You can also click <img src="../../../Images/Shared/select_parent_mode_btn.png" class="ReduceButtonSize" /> to select the parent style in the content file.</p>
+                <MadCap:snippetBlock src="../Styles/SelectParentNodeExample.flsnp" />
+                <p>You can also use the filter field on the right side of the local toolbar to limit the properties that are shown below in the window pane.</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Set (Locally) Properties </span>
+                        <MadCap:snippetText src="../Styles/SetLocallyProperties.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Assorted Relevant Properties </span>
+                        <MadCap:snippetText src="../Styles/AssortedRelevantProperties.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">All Properties </span>
+                        <MadCap:snippetText src="../Styles/AllProperties.flsnp" />
+                    </li>
+                </ul>
+            </li>
+            <li>Click in the field next to the property (e.g., color) to enter or select the new setting. The setting for the selected content changes.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

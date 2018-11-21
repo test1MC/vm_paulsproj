@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="3" MadCap:lastHeight="489" MadCap:lastWidth="967">
+    <body>
+        <p>You can see which other files contain links to the file that has focus.</p>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say you have a topic called "What's New" and in several other topics you have inserted a hyperlink to it. Unfortunately, you cannot remember exactly which topics. Furthermore, you've made changes to the "What's New" topic, so you want to see if any other topics linking to it also require modifications as a result. Therefore, you open the Link Viewer window pane. You then open the "What's New" topic. Because that topic is the file containing focus, the Link Viewer window pane provides a list of all the other topics and files (e.g., tables of contents) with links to it. Not only can you see a list of files with links to the "What's New" topic, but you can double-click each file to open it and work on it.</p>
+            <p>
+                <img src="../../../Images/Shared/link_viewer_window_pane_example1.png" class="MaxWidth55Percent" />
+            </p>
+        </div>
+    </body>
+</html>

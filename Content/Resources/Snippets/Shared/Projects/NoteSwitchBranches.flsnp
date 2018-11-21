@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you switch branches in Flare and try to push changes to Central, but the branch does not have a recognized Central ID&#160;associated with it, Flare will prompt you to reload your project. You will need to copy your changes to the master branch and push your changes again. </p>
+        </div>
+    </body>
+</html>

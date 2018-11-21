@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare,Products.Analyzer">
+    <body>
+        <p>You can cut entire columns and rows in a table. When you do this, a paste icon <img src="../../../Images/Shared/paste_btn2.png" class="ReduceButtonSize" /> displays after the table. This icon allows you to specify how you would like to handle the content when you cut the columns or rows. You can also set the default behavior for similar actions in the future.</p>
+    </body>
+</html>

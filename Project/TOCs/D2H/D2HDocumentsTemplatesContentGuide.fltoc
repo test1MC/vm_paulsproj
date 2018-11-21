@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  conditions="Products.D2H">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/D2H/TitleD2H.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartSection="false"
+    PageNumber="(multiple)"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/D2H/TitleD2H.flpgl"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/D2H/z-DupTopics/Documents-Templates-Content.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 2 Source Documents"
+    Link="/Content/D2H/Source-Documents/About-Source-Documents.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Adding, Renaming, and Removing Documents"
+      Link="/Content/D2H/Source-Documents/Adding-Document-to-Project.htm"
+      PageNumber="(multiple)"
+      BreakType="none"
+      StartSection="Unchecked"
+      PageType="normal" />
+    <TocEntry
+      Title="Converting DOC Files to DOCX"
+      Link="/Content/D2H/Source-Documents/Converting-DOC-Files-to-DOCX.htm" />
+    <TocEntry
+      Title="Converting Documents to HTML5"
+      Link="/Content/D2H/Source-Documents/Converting-Documents-to-HTML5.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Document Properties"
+      Link="/Content/D2H/Source-Documents/Setting-Document-Properties.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="Finding Projects Containing Documents"
+      Link="/Content/D2H/Source-Documents/Finding-Projects-Containing-Source-Document.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Templates and Styles"
+    Link="/Content/D2H/z-DupTopics/About-Templates-Styles-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Editing a Template"
+      Link="/Content/D2H/z-DupTopics/Editing-Template.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Selecting Templates"
+      Link="/Content/D2H/z-DupTopics/Selecting-Templates-D2H.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Copying Custom Styles"
+      Link="/Content/D2H/Templates/Copying-Styles-to-New-Template.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 ActiveX Controls"
+    Link="/Content/D2H/ActiveX-Controls/Inserting-an-HTML-Help-ActiveX-Control.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 5 Conditions"
+    Link="/Content/D2H/Conditions/About-Conditions-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Creating and Using Attributes"
+      Link="/Content/D2H/Conditions/Creating-Using-Attributes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Marking Text as Conditional"
+      Link="/Content/D2H/Conditions/Marking-Text-Conditional.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Setting Topic Conditions"
+      Link="/Content/D2H/Conditions/Setting-Topic-Conditions.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Glossaries"
+    Link="/Content/D2H/Glossaries/About-Glossaries-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Adding Terms to the Glossary"
+      Link="/Content/D2H/Glossaries/Adding-Terms-to-Glossary.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 7 Images"
+    Link="/Content/D2H/Images/About-Images-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Creating Image Maps"
+      Link="/Content/D2H/Images/Creating-Image-Maps.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="Splitting an Image into Equal Hot Regions"
+      Link="/Content/D2H/Images/Splitting-Image-into-Equal-Hot-Regions.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 8 Indexes"
+    Link="/Content/D2H/Indexes/About-Indexes-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    PageType="firstright"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled">
+    <TocEntry
+      Title="Creating Index Keywords in a Project"
+      Link="/Content/D2H/Indexes/Creating-Index-Keywords-in-Project.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating Index Keywords in a Source Document"
+      Link="/Content/D2H/Indexes/Creating-Index-Keywords-in-Source-Document.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 9 Margin Notes"
+    Link="/Content/D2H/Margin-Notes/Creating-Margin-Notes.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    PageType="firstright"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"></TocEntry>
+  <TocEntry
+    Title="CH 10 Multimedia"
+    Link="/Content/D2H/Multimedia/About-Multimedia-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    PageType="firstright"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"></TocEntry>
+  <TocEntry
+    Title="CH 11 Navigation Links"
+    Link="/Content/D2H/Nav-Links/About-Links-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    PageType="firstright"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled">
+    <TocEntry
+      Title="Cross-References"
+      Link="/Content/D2H/Nav-Links/Cross-References/Inserting-Cross-References.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Expanded, Drop-Down, or Popup Text"
+      Link="/Content/D2H/Nav-Links/Creating-Expanded-Dropdown-or-Popup-Text.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Expanding/Collapsing Section"
+      Link="/Content/D2H/Nav-Links/Creating-Expanding-Collapsing-Section.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Groups"
+      Link="/Content/D2H/Nav-Links/Groups/About-Groups.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Creating Groups"
+        Link="/Content/D2H/Nav-Links/Groups/Creating-Groups.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Adding a Topic to a Group"
+        Link="/Content/D2H/Nav-Links/Groups/Adding-Topic-to-Group.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Links"
+      Link="/Content/D2H/Nav-Links/Creating-Links.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Drag-and-Drop Linking"
+        Link="/Content/D2H/Nav-Links/Drag-Drop-Linking.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Link Tags"
+      Link="/Content/D2H/Nav-Links/Adding-Link-Tag.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Related Topics"
+      Link="/Content/D2H/Nav-Links/Managing-Related-Topics.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 12 Tables"
+    Link="/Content/D2H/Tables/Inserting-Standard-D2H-Table.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 13 Tables of Contents"
+    Link="/Content/D2H/TOCs/Creating-TOC.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 14 Topics"
+    Link="/Content/D2H/Topics/About-Topics-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Adding, Renaming, and Deleting Topics"
+      Link="/Content/D2H/Topics/Adding-Renaming-Deleting-Topics.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Printing and Exporting the Topic List"
+      Link="/Content/D2H/Topics/Printing-Exporting-Topic-List.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Exporting the Topic List"
+        Link="/Content/D2H/Topics/Exporting-Topic-List.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Printing the Topic List"
+        Link="/Content/D2H/Topics/Printing-Topic-List.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Setting D2HML Topic Properties"
+      Link="/Content/D2H/Topics/Setting-D2HML-Topic-Properties.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Viewing and Changing Topic Properties"
+      Link="/Content/D2H/Topics/Viewing-Changing-Topic-Properties.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 15 Variables"
+    Link="/Content/D2H/Variables/About-Variables-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Creating Text Variables"
+      Link="/Content/D2H/Variables/Creating-Text-Variables.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating Rich Content Variables"
+      Link="/Content/D2H/Variables/Creating-Rich-Content-Variables.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Inserting a Variable"
+      Link="/Content/D2H/Variables/Inserting-Variable.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/D2H/PDF-Guides/PDF-Guides-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled" />
+</CatapultToc>

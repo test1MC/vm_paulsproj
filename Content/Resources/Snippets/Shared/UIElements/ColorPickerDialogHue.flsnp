@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Capture,Products.Flare,Products.Contributor,Products.Lingo,Products.Mimic">
+    <body>
+        <p class="TableText">Displays the percentage of hue for the color in the RGB model. Hue is the wavelength within the visible light spectrum.</p>
+    </body>
+</html>

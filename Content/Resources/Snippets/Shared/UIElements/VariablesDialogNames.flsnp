@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p class="TableText">The name of the variable. Select the variable you want to include in your content<MadCap:conditionalText MadCap:conditions="Products.Analyzer"> or map to the undefined variable</MadCap:conditionalText>.</p>
+    </body>
+</html>

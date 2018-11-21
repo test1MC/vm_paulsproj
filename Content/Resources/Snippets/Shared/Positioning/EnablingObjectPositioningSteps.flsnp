@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="4" MadCap:lastHeight="114" MadCap:lastWidth="1006">
+    <body>
+        <ol type="1" class="Decimal">
+            <li>
+                <MadCap:snippetText src="../../Contributor/Documents/OpenDocumentTopic.flsnp" MadCap:conditions="Products.Contributor" />
+                <MadCap:snippetText src="../Topics/OpenContentFile.flsnp" MadCap:conditions="Products.Flare,Products.Analyzer" />
+            </li>
+            <li>In the local toolbar of the XML Editor, click the down arrow of the <span class="Emphasis">Show tags</span> button <img src="../../../Images/Shared/show_tags_btn.png" class="ReduceButtonSize" />. Then select <span class="Emphasis">Enable Object Positioning</span> to add the check mark next to it. (If you select this option and the check mark is removed, object positioning is disabled.)</li>
+        </ol>
+    </body>
+</html>

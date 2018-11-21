@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say you want to add the index keyword "Salad" to some topics in your project. One way to accomplish this is to open those topics and insert the index keyword into them. Another way is to open the Index window pane, right-click anywhere in the explorer area at the bottom of the window pane, and select <span class="Emphasis">Add Top-Level Keyword</span>.</p>
+            <p>
+                <img src="../../../Images/Shared/insert_index_keyword_example1.png" class="MaxWidth50Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Shared/insert_index_keyword_example2.png" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareIndexingGuide" />
+            <p>Now let's say that you want to create a subkeyword called "Cobb" under the top-level keyword "Salad." First, you right-click on <span class="Emphasis">Salad</span> and select <span class="Emphasis">Add Sub-Keyword</span>. </p>
+            <p>
+                <img src="../../../Images/Shared/insert_index_keyword_example7.png" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>You can see both online and print TOCs in action by looking at Flare's many project templates on the Start Page. Typically, the templates labeled as "Basic" use the easy auto-generation method for creating print TOCs<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../../../../Flare/Output/Printed-Output/Auto-Generating-TOCs-Print.htm">Auto-generating TOCs for Print</MadCap:xref>)</MadCap:conditionalText>, and the "Advanced" templates use the more robust method by making use of a combination of a TOC proxy, styles, and page layouts<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../../../../Flare/Output/Printed-Output/Creating-TOC-Manually-Print.htm">Creating a TOC Manually for Print</MadCap:xref>)</MadCap:conditionalText>.</p>
+    </body>
+</html>

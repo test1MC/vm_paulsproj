@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare,Products.Lingo">
+    <body>
+        <ol>
+            <li>On your desktop, click the <span class="Emphasis">Start</span> button.</li>
+            <li>In the search field, type <span class="TypedEntry">%appdata%</span> and press <span class="Emphasis">Enter</span>.</li>
+            <li>Open the <span class="Emphasis">MadCap Software</span> subfolder, then <span class="Emphasis">Dictionaries</span>, and finally <span class="Emphasis">Installed</span>.</li>
+        </ol>
+    </body>
+</html>

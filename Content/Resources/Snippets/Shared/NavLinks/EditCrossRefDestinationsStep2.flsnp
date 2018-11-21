@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>(Optional) <MadCap:keyword term="Framesets;Target frames" />In the <span class="Emphasis">Target Frame</span> field of the Insert Cross-Reference dialog, click the drop-down arrow to select the way the linked destination will open. This option can be used to open the destination topic or file in a popup.</p>
+    </body>
+</html>

@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Capture" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Capture/TitleCapture.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Capture/TitleCapture.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="1"
+    StartPageLayout="false" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    StartSection="false"
+    StartChapter="true"
+    Link="/Content/Capture/Capturing-Images/Capturing-an-Image.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartPageLayout="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue">
+    <TocEntry
+      Title="Creating New Images"
+      Link="/Content/Capture/Creating-Images/Creating-Images.htm"
+      StartChapter="false"
+      StartPageLayout="false"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue" />
+    <TocEntry
+      Title="Opening Images"
+      Link="/Content/Capture/Capturing-Images/More/Opening-Images.htm"
+      StartChapter="false"
+      StartPageLayout="false"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 2 Profiles"
+    Link="/Content/Capture/Profiles/About-Profiles.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="Creating Profiles"
+      Link="/Content/Capture/Profiles/Creating-Profiles.htm" />
+    <TocEntry
+      Title="Cloning Profiles"
+      Link="/Content/Capture/Profiles/Cloning-Profiles.htm" />
+    <TocEntry
+      Title="Editing Profiles"
+      Link="/Content/Capture/Profiles/Editing-Profiles.htm" />
+    <TocEntry
+      Title="Linking to External Profiles"
+      Link="/Content/Capture/Profiles/Linking-to-External-Profiles.htm" />
+    <TocEntry
+      Title="Selecting a Profile for Capturing"
+      Link="/Content/Capture/Profiles/Selecting-Profile-Capturing.htm" />
+    <TocEntry
+      Title="Applying Profiles to Images"
+      Link="/Content/Capture/Profiles/Applying-Profiles-to-Images.htm" />
+    <TocEntry
+      Title="Detaching Profiles from Images"
+      Link="/Content/Capture/Profiles/Detaching-Profiles-from-Images.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Ch 3 Capture Methods"
+    Link="/Content/Capture/Capturing-Images/Capture-Methods.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Capturing an Active Window"
+      Link="/Content/Capture/Capturing-Images/Capturing-an-Active-Window.htm" />
+    <TocEntry
+      Title="Capturing an Active Window Without the Frame"
+      Link="/Content/Capture/Capturing-Images/Capturing-an-Active-Window-Without-the-Frame.htm" />
+    <TocEntry
+      Title="Capturing a Full Screen"
+      Link="/Content/Capture/Capturing-Images/Capturing-a-Full_Screen.htm" />
+    <TocEntry
+      Title="Capturing a Full Screen Without the Taskbar"
+      Link="/Content/Capture/Capturing-Images/Capturing-a-Full-Screen-Without-the-Taskbar.htm" />
+    <TocEntry
+      Title="Capturing a Region"
+      Link="/Content/Capture/Capturing-Images/Capturing-a-Region.htm" />
+    <TocEntry
+      Link="/Content/Capture/Capturing-Images/Capturing-Regions-Consecutively.htm"
+      Title="Capturing Regions Consecutively" />
+    <TocEntry
+      Title="Capturing a Shape Area"
+      Link="/Content/Capture/Capturing-Images/Capturing-a-Shape-Area.htm" />
+    <TocEntry
+      Title="Capturing a Window"
+      Link="/Content/Capture/Capturing-Images/Capturing-a-Window.htm" />
+    <TocEntry
+      Title="Capturing a Window With Auto-Scroll"
+      Link="/Content/Capture/Capturing-Images/Capturing-a-Window-With-Auto-Scroll.htm" />
+    <TocEntry
+      Title="Capturing an Image from the Windows Clipboard"
+      Link="/Content/Capture/Capturing-Images/Capturing-an-Image-from-the-Windows-Clipboard.htm" />
+    <TocEntry
+      Title="Recapturing Images"
+      Link="/Content/Capture/Capturing-Images/Recapturing-Images.htm" />
+    <TocEntry
+      Title="Recapturing the Last Capture"
+      Link="/Content/Capture/Capturing-Images/Recapturing-the-Last-Capture.htm" />
+    <TocEntry
+      Title="Restoring the Last Capture Region"
+      Link="/Content/Capture/Capturing-Images/Restoring-the-Last-Capture-Region.htm" />
+    <TocEntry
+      Title="Enabling the Time Delay Feature"
+      Link="/Content/Capture/Capturing-Images/More/Enabling-the-Time-Delay-Feature.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Ch 4 Creating Single-Source Images"
+    Link="/Content/Capture/Profiles/Creating-Single-Source-Images.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Using Mediums"
+      Link="/Content/Capture/Appearance/Setting-Image-Properties-Using-Mediums.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Capture/PDF-Guides/PDF-Guides-Capture.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

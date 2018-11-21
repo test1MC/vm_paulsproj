@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <ul class="FirstLevel">
+            <li MadCap:conditions=""><span class="SetOffFirstLevel">Local </span> Select this option if you want to select a TM that resides on your computer or network. Next to the Select existing Translation Memory field, click <b>Browse</b>. A dialog opens where you can locate the TM. Click <b>Open</b>.</li>
+            <li MadCap:conditions="">
+                <p><span class="SetOffFirstLevel">Server </span> Select this option if you want to use a TM that resides on your SQL Server. This opens a dialog with fields for the name, server, and security information related to the database.</p>
+                <MadCap:snippetBlock src="../Termbase/SQLCompatability.flsnp" MadCap:conditions="General.OnlineOnly" />
+            </li>
+        </ul>
+    </body>
+</html>

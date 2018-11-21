@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="1518" MadCap:lastWidth="1139" class="" style="mc-master-page: url('../../../Resources/MasterPages/Shared/PDF_Topics/FlarePrintedOutput.flmsp');">
+    <head><title></title>
+        <meta name="description" content="Follow these steps to insert chapter, section, or volume numbers into a page layout frame. " />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Frames:page layouts;Page layouts:frames" />
+            <MadCap:concept term="FilterPageLayouts" />
+            <MadCap:concept term="FilterVariables" />
+            <MadCap:concept term="FilterAutoNumbers" />
+            <MadCap:concept term="Variables" />
+            <MadCap:keyword term="Variables:system variables" /><span class="Emphasis"><MadCap:keyword term="Volumes:auto-numbers;Autonumbers:volumes;Chapters:auto-numbers;Autonumbers:chapters;Sections:auto-numbers;Autonumbers:sections" /></span>
+            <MadCap:keyword term="Page layouts:Chapter Number variables;Page layouts:section number variables;Page layouts:Volume Number variables;Variables:chapter number variables;Variables:section number variables;Variables:volume number variables" />
+            <MadCap:keyword term="Headers:Chapter Number variables;Footers:chapter number variables;Variables:heading variables;Page layouts:Chapter Number variables;Headers:Section Number variables;Headers:Volume Number variables;Footers:section number variables;Footers:Volume Number variables;Page layouts:section number variables;Page layouts:Volume Number variables;Chapters:variables;Sections:variables;Volumes:variables" />Inserting Chapter, Section, and Volume Number Variables into Frames</h1>
+        <p>
+            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Variables/ChapSecVolInFramesIntro.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to insert a chapter, section, or volume number variable into a page layout frame</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <snippetBlock src="../../../Resources/Snippets/Shared/PageLayouts/OpenFrameContentsWindowSteps.flsnp" />
+                    <li value="5">
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/PageLayouts/ClickFrameContentsWindow.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../../Resources/Snippets/Shared/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        </p>
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">Ribbon</span>
+                                <MadCap:snippetText src="../../../Resources/Snippets/Shared/UIElements/SelectInsertRibbon.flsnp" /> In the <span class="Emphasis">Single-Source</span> section select <span class="Emphasis">Variable</span>. </li>
+                            <li><span class="SetOffFirstLevel">Local Toolbar</span> Click <img src="../../../Resources/Images/Shared/insert_variable_btn.png" class="ReduceButtonSize" />.</li>
+                            <li><span class="SetOffFirstLevel">Keyboard Shortcut</span> On your keyboard press <span class="Emphasis">CTRL+SHIFT+V</span>.</li>
+                        </ul>
+                        <p>The Variables dialog opens, with the variable set(s) on the left and the variables associated with the selected set on the right. </p>
+                    </li>
+                    <li>Select the <span class="Emphasis">System</span> variable set.</li>
+                    <li>
+                        <p>Select the appropriate variable: <span class="Emphasis">ChapterNumber</span>, <span class="Emphasis">SectionNumber</span>, or <span class="Emphasis">VolumeNumber</span>. </p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/StepsGeneral/ClickOK.flsnp" /> The variable is added to the Frame Contents window pane.</li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/StepsGeneral/SaveYourWork.flsnp" /> The variable can now be seen in the frame.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>In addition to completing the these steps, make sure you also perform the necessary tasks for creating the autonumbers in your topics and specifying where new chapters, sections, or volumes should begin.</p>
+                <ul class="Square">
+                    <li>To generate <span class="Emphasis">chapter</span> numbers, you need to create an autonumber format that includes the {chapnum} command. Then you need to specify chapter breaks in the outline TOC. </li>
+                    <li>To generate <span class="Emphasis">section</span> numbers, you need to create an autonumber format that includes the {secnum} command. Then specify section breaks in the outline TOC. </li>
+                    <li>To generate <span class="Emphasis">volume</span> numbers, you need to create an autonumber format that includes the {volnum} command. Second, you need to specify chapter breaks in the outline TOC. Third, you need to specify the autonumber flow for each volume, resetting the volume number to a specific number. </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

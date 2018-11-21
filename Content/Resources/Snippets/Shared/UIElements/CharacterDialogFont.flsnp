@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p class="TableText">When you first open the Character dialog, the characters and symbols are shown in the font you are currently using. So this field displays (normal text), which is probably what you want most of the time. However, you can use the drop-down field at the top-left of the dialog to switch to a different font. Also, you can begin to type a font in the field, and as you do, the list shortens accordingly.</p>
+    </body>
+</html>

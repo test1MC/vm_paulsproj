@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul type="1" class="FirstLevel">
+            <li>On the left side of the dialog, select the stylesheet(s) that you want to associate with the file. Then click <img src="../../../Images/Shared/move_item_to_right_btn.png" class="ReduceButtonSize" /> to add the stylesheet(s) to the Current Links section on the right.</li>
+            <li>Double-click the stylesheet(s) that you want to associate with the topic. The stylesheet is added to the Current Links section on the right.</li>
+        </ul>
+    </body>
+</html>

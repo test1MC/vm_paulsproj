@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>The following image shows four p tags grouped into a &lt;blockquote&gt; tag in the XML Editor. The structure bars on the left side of the content provide a visual representation of the grouping.</p>
+            <p>
+                <img src="../../../Images/Shared/blockquote_example.png" class="MaxWidth100Percent" />
+            </p>
+        </div>
+    </body>
+</html>

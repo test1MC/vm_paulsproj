@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  conditions="Products.D2H">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/D2H/TitleD2H.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartSection="false"
+    PageNumber="1"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/D2H/TitleD2H.flpgl"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/D2H/z-DupTopics/Look-Good.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 2 Styles"
+    Link="/Content/D2H/Styles/About-Styles-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Applying Styles in Microsoft Word"
+      Link="/Content/D2H/Styles/Applying-Styles-in-Microsoft-Word.htm" />
+    <TocEntry
+      Title="Templates and Styles"
+      Link="/Content/D2H/Templates/About-Templates-Styles-D2H.htm">
+      <TocEntry
+        Title="Editing a Template"
+        Link="/Content/D2H/Templates/Editing-Template.htm" />
+      <TocEntry
+        Title="Selecting Templates"
+        Link="/Content/D2H/Templates/Selecting-Templates-D2H.htm" />
+      <TocEntry
+        Title="Copying Custom Styles"
+        Link="/Content/D2H/Templates/Copying-Styles-to-New-Template.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Doc-To-Help Markup Language"
+      Link="/Content/D2H/Styles/About-D2HML-DocToHelp-Markup-Language.htm">
+      <TocEntry
+        Title="Clearing Doc-To-Help Markup Language Styles"
+        Link="/Content/D2H/Styles/Clearing-D2HML-Styles.htm" />
+      <TocEntry
+        Title="Showing Hidden Hotspots"
+        Link="/Content/D2H/Styles/Showing-Hidden-Hotspots.htm" />
+      <TocEntry
+        Title="Using Doc-To-Help Markup Language Hotspots in XML Comments"
+        Link="/Content/D2H/Styles/Using-D2HML-Hot-Spots-in-XML-Comments.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Project Styles and Topic Types"
+      Link="/Content/D2H/Styles/About-Project-Styles-and-Topic-Types.htm">
+      <TocEntry
+        Title="Character Styles"
+        Link="/Content/D2H/Styles/Character-Styles.htm" />
+      <TocEntry
+        Title="Paragraph Styles"
+        Link="/Content/D2H/Styles/Paragraph-Styles.htm" />
+      <TocEntry
+        Title="Topic Types"
+        Link="/Content/D2H/Styles/Topic-Types.htm" />
+      <TocEntry
+        Title="Working with Scripts"
+        Link="/Content/D2H/Styles/Working-with-Scripts.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Themes"
+    Link="/Content/D2H/Themes/About-Themes.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Adding a Theme or Theme Configuration"
+      Link="/Content/D2H/Themes/Adding-Theme-or-Theme-Configuration.htm" />
+    <TocEntry
+      Title="Eclipse Help and EPUB Themes"
+      Link="/Content/D2H/Themes/Customizing-Eclipse-Help-EPUB-Themes.htm">
+      <TocEntry
+        Title="Theme Editor"
+        Link="/Content/D2H/Themes/Using-Theme-Editor.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="HTML Help, Help Viewer, Help 2.0, and JavaHelp Themes"
+      Link="/Content/D2H/Themes/Customizing-HTML-Help-Help-Viewer-Help-20-JavaHelp-Themes.htm">
+      <TocEntry
+        Title="Including Custom HTML Content in Themes"
+        Link="/Content/D2H/Themes/Including-Custom-HTML-Content-Themes.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="NetHelp Themes"
+      Link="/Content/D2H/Themes/Customizing-NetHelp-Themes.htm">
+      <TocEntry
+        Title="Creating and Adding New Theme Stylesheets"
+        Link="/Content/D2H/Themes/Creating-Adding-Stylesheets.htm" />
+      <TocEntry
+        Title="NetHelp Theme Designer"
+        Link="/Content/D2H/Themes/Using-NetHelp-Theme-Designer.htm">
+        <TocEntry
+          Title="Custom Icons"
+          Link="/Content/D2H/Themes/Adding-Custom-Icons-to-NetHelp-Theme.htm" />
+        <TocEntry
+          Title="Settings List Editor for Localization and More"
+          Link="/Content/D2H/Themes/Using-Settings-List-Editor-for-Localization-More.htm" />
+        <TocEntry
+          Title="Theme Designer Settings (Responsive)"
+          Link="/Content/D2H/Themes/NetHelp-Theme-Designer-Settings-Responsive.htm" />
+        <TocEntry
+          Title="Theme Designer Settings (Tabs and Accordion)"
+          Link="/Content/D2H/Themes/NetHelp-Theme-Designer-Settings-Tabs-Accordion.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="NetHelp Theme Wizard"
+        Link="/Content/D2H/Themes/NetHelp-Theme-Wizard.htm" />
+      <TocEntry
+        Title="Additional Theme Customizations"
+        Link="/Content/D2H/Themes/Additional-Theme-Customizations.htm"></TocEntry>
+      <TocEntry
+        Title="FAQs"
+        Link="/Content/D2H/Themes/Theme-Configuration-FAQ.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Window Display"
+    Link="/Content/D2H/Interface/Window-Display/Setting-Help-Window-Display.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 5 Legacy Projects Using HTML5 and CSS"
+    Link="/Content/D2H/Styles/Legacy-D2H-Projects.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright">
+    <TocEntry
+      Title="Editing a CSS"
+      Link="/Content/D2H/Styles/Editing-CSS.htm"></TocEntry>
+    <TocEntry
+      Title="Style List Dialog"
+      Link="/Content/D2H/Styles/Style-List-Dialog.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/D2H/PDF-Guides/PDF-Guides-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled" />
+</CatapultToc>

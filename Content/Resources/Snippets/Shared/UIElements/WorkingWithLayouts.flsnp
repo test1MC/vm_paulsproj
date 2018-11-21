@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.Lingo,Products.Mimic,Products.MovieViewer">
+    <body>
+        <p>When you move window panes around in the interface, the configuration (or "layout") of the workspace is changed. <MadCap:variable name="Other.Product" /> lets you save different layouts of the interface, in case you want to use one layout for a certain purpose and a different layout for another purpose. </p>
+    </body>
+</html>

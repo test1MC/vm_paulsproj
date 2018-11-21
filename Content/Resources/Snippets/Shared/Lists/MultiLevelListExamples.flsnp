@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="649" MadCap:lastWidth="713" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>You can create multi-level lists that are numbered, bulleted, or both.</p>
+        <p class="Subheading">numbered</p>
+        <ol>
+            <li>Step one.</li>
+            <ol class="LowerAlpha">
+                <li>Substep one.</li>
+                <li>Substep two.</li>
+            </ol>
+            <li>Step two.</li>
+            <li>Step three.</li>
+        </ol>
+        <p class="Subheading">bulleted</p>
+        <ul>
+            <li>Item one.<ul class="SecondLevel"><li>Subitem one.</li><li>Subitem two. </li></ul></li>
+            <li>Item two.</li>
+            <li>
+                <p>Item three.</p>
+            </li>
+        </ul>
+        <p class="Subheading">numbered and bulleted</p>
+        <ol>
+            <li>Item one.</li>
+            <ul class="FirstLevel">
+                <li>Subitem one.</li>
+                <li>Subitem two. </li>
+            </ul>
+            <li>Item two.</li>
+            <li>
+                <p>Item three.</p>
+            </li>
+        </ol>
+    </body>
+</html>

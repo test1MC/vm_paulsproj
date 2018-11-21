@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare">
+    <body>
+        <p>(Optional) In the <span class="Emphasis"><MadCap:keyword term="Images:tab index;Tab index" /><MadCap:keyword term="Text hyperlinks:tab index;Tab index" />Tab Index</span> field you can enter a value to specify the order in which users can tab through hyperlinks in a topic. So when a user presses the Tab key the first time in a topic, the hyperlink with an index value of 1 will be selected first, the hyperlink with a value of 2 will be selected next, and so on. If you want to skip a hyperlink, enter -1 in that field.</p>
+    </body>
+</html>

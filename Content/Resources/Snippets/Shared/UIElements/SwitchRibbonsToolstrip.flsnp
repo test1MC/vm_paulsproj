@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.MovieViewer">
+    <body>
+        <p>By default ribbons are used when you install and launch <MadCap:variable name="Other.Product" /> for the first time. However, you can use the Options dialog to switch back to the classic  tool strip.</p>
+    </body>
+</html>

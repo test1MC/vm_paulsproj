@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="Stylesheets;basic.css&quot;);fancy.css&quot;);automatically.);s" MadCap:searchable="True" MadCap:lastBlockDepth="10" MadCap:lastHeight="2497" MadCap:lastWidth="932" class="" style="mc-master-page: url('../../Resources/MasterPages/Shared/PDF_Topics/FlareStyles.flmsp');">
+    <head><title></title>
+        <meta name="template" content="Flare.htt" />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterSingleSourcePublishing" />
+            <MadCap:concept term="Styles" />
+            <MadCap:concept term="FilterStyles" />
+            <MadCap:keyword term="Topics:stylesheets;Styles:stylesheets;Cascading stylesheets;Local stylesheets;Styles:local stylesheets;Stylesheets:local;Master pages:stylesheets;Snippets:stylesheets" />Associating Stylesheets Locally with Specific Files</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Styles/ApplyStyleSheetsToTopicsSummary.flsnp" />
+        <ul MadCap:conditions="General.PrintOnly">
+            <li><span class="SetOffFirstLevel">Associate Stylesheet with a Single Content File </span>If a content file is associated with multiple stylesheets, it has access to any of the styles in all of those stylesheets. If there are conflicting style definitions, the file will use the values from the most recently associated stylesheet.</li>
+            <li><span class="SetOffFirstLevel">Associate Stylesheet with Multiple Content Files </span>This is accomplished by using the File List window pane.</li>
+        </ul>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+        <MadCap:dropDown MadCap:conditions="General.ServerOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>see the movie</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <object src="https://youtu.be/_hx8lh-AspM" style="width: 560px;height: 315px;">
+                    </object>
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to Associate stylesheets with a single File</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol type="1" class="Decimal">
+                    <li>Open the content file (e.g., topic, master page, snippet) to with which you want to associate the stylesheet.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/UIElements/SelectHomeRibbon.flsnp" /> In the <span class="Emphasis">Styles</span> section select <span class="Emphasis">Stylesheet Links</span>. The Stylesheet Links dialog opens, showing all the regular stylesheets in your project.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Styles/AssociateStylesheetFileOptions.flsnp" />
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Styles/NoteAssociateStylesheetFile1.flsnp" />
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Styles/NoteAssociateStylesheetFile2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/ClickOK.flsnp" /> The stylesheet is now associated with the file, and the look of the content file changes in the XML Editor accordingly.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to Associate Stylesheets with multiple Files</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol type="1" class="Decimal">
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        </p>
+                        <ul type="1" class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">Ribbon </span>
+                                <MadCap:snippetText src="../../Resources/Snippets/Shared/UIElements/SelectViewRibbon.flsnp" /> In the <span class="Emphasis">Explorer</span> section select <span class="Emphasis">File List</span>.</li>
+                            <li><span class="SetOffFirstLevel">Keyboard Shortcut</span> Press <span class="Emphasis">CTRL+SHIFT+J</span>.</li>
+                        </ul>
+                        <p>The File List window pane opens.</p>
+                    </li>
+                    <li>(Optional) From the <span class="Emphasis">Filter</span> drop-down list in the local toolbar, you can select topic, master page, or snippet files to limit the results in the grid.</li>
+                    <li>Select the files to which you want to apply a stylesheet. <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/YouCanHoldShiftCtrlKeys.flsnp" /> However, if you select multiple files, they must be of the same type (e.g., only topic files, only master pages).</li>
+                    <li>In the local toolbar, click <img src="../../Resources/Images/Shared/run_properties2_btn.png" class="ReduceButtonSize" />. The Properties dialog opens.</li>
+                    <li>Do one of the following, depending on whether you are associating the stylesheet with topics, master pages, or snippets:<ul type="1"><li><span class="SetOffFirstLevel">Topics </span>Click the <span class="Emphasis">Topic Properties</span> tab. Then in the <span class="Emphasis">Stylesheet</span> field, click <span class="Emphasis">Select</span>. The Stylesheet Links dialog opens.</li><li><span class="SetOffFirstLevel">Master Pages or Snippets </span>Click the <span class="Emphasis">Stylesheet Links</span> tab.</li></ul></li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Styles/AssociateStylesheetFileOptions.flsnp" />
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Styles/NoteAssociateStylesheetFile1.flsnp" />
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Styles/NoteAssociateStylesheetFile2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/ClickOK.flsnp" /> If you are working with master pages or snippets, this is the last step.</li>
+                    <li>(Optional for Topics) If you have a master stylesheet at the project or target level and no longer want to use it, you can select <span class="Emphasis">Disable project and target stylesheets</span>.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> For more about how master and local stylesheets work in the same project, see <MadCap:xref href="About-Regular-Stylesheets.htm#LocalMasterStylesheetsOnline">Local and Master Stylesheets</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.PrintOnly"> For more about how master and local stylesheets work in the same project, see <MadCap:xref href="About-Regular-Stylesheets.htm#LocalMasterStylesheetsPrint">Local and Master Stylesheets</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Styles/NoteMultipleStylesheetsPerTopicExcept.flsnp" />
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Styles/ReasonToAssociateSnippetWithCSS.flsnp" />
+                    </p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.OnlineOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>After you associate a stylesheet with a file, you can apply styles from the stylesheet to content in the file. You can also create new styles, adding them to the stylesheet. See <MadCap:xref href="Applying-Styles-to-Content.htm">Applying Styles to Content</MadCap:xref> and <MadCap:xref href="Creating-Selectors.htm">Creating Selectors</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+    </body>
+</html>

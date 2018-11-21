@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p class="TableText">Lists the properties relevant to the style that is selected to the left. If the properties are displayed in group view, expand the group to see the actual properties. The property name is displayed on the left. Use the options on the right to specify the value settings for the property. Depending on the property, you might set the value by typing an entry, selecting an option from a drop-down list, or specifying settings in a small popup. </p>
+    </body>
+</html>

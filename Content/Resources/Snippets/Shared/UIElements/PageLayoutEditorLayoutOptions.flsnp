@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="1350" MadCap:lastWidth="953" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p class="TableText">Opens a submenu that lets you select from the following options.</p>
+        <ul>
+            <li>
+                <p class="SetOffFirstLevel">Rotate</p>
+                <ul class="SecondLevel">
+                    <li><span class="SetOffSecondLevel">Rotate Clockwise</span> Turns the frame 1 degree clockwise.</li>
+                    <li><span class="SetOffSecondLevel">Rotate 45 Clockwise</span> Turns the frame 45 degrees clockwise.</li>
+                    <li><span class="SetOffSecondLevel">Rotate 90 Clockwise</span> Turns the frame 90 degrees clockwise.</li>
+                    <li><span class="SetOffSecondLevel">Rotate Counter Clockwise</span> Turns the frame 1 degree counter clockwise.</li>
+                    <li><span class="SetOffSecondLevel">Rotate 45 Counter Clockwise</span> Turns the frame 45 degrees counter clockwise.</li>
+                    <li><span class="SetOffSecondLevel">Rotate 90 Clockwise</span> Turns the frame 90 degrees counter clockwise.</li>
+                    <li><span class="SetOffSecondLevel">Reset Rotation</span> Returns the frame to its original setting before it was rotated.</li>
+                </ul>
+            </li>
+            <li>
+                <p class="SetOffFirstLevel">Depth</p>
+                <ul class="SecondLevel">
+                    <li><span class="SetOffSecondLevel">Float</span> Floats the selected frame, bringing it forward one level if at least one other frame overlaps it (above it).</li>
+                    <li><span class="SetOffSecondLevel">Sink</span> Sinks the selected frame, sending it backward one level if at least one other frame overlaps it (below it).</li>
+                    <li><span class="SetOffSecondLevel">Sink To Bottom</span> Sinks the selected frame, sending it backward to the bottom level if at least one other frame overlaps it (below it).</li>
+                    <li><span class="SetOffSecondLevel">Float To Top</span> Floats the selected frame, bringing it forward to the top level if at least one other frame overlaps it (above it).</li>
+                </ul>
+            </li>
+            <li>
+                <p class="SetOffFirstLevel">Align on Canvas</p>
+                <ul class="SecondLevel">
+                    <li><span class="SetOffSecondLevel">Center on Canvas </span>Centers the selected frame(s) both vertically and horizontally on the canvas.</li>
+                    <li><span class="SetOffSecondLevel">Vertically Center on Canvas </span>Centers the selected frame(s) vertically on the canvas.</li>
+                    <li><span class="SetOffSecondLevel">Horizontally Center on Canvas </span>Centers the selected frame(s) horizontally on the canvas.</li>
+                </ul>
+            </li>
+            <li>
+                <p class="SetOffFirstLevel">Make Same</p>
+                <ul class="SecondLevel">
+                    <li><span class="SetOffSecondLevel">Same Left </span>Horizontally aligns the frames so the left border is at the same location.</li>
+                    <li><span class="SetOffSecondLevel">Same Right </span>Horizontally aligns the frames so the right border is at the same location.</li>
+                    <li><span class="SetOffSecondLevel">Same Top </span>Vertically aligns the frames so the top border is at the same location.</li>
+                    <li><span class="SetOffSecondLevel">Same Bottom </span>Vertically aligns the frames so the bottom border is at the same location.</li>
+                    <li><span class="SetOffSecondLevel">Same Width</span> Resizes the width of the selected frames so that they are all the same. The resizing is based on the width of the first frame that you select. </li>
+                    <li><span class="SetOffSecondLevel">Same Height</span> Resizes the height of the selected frames so that they are all the same. The resizing is based on the height of the first frame that you select. </li>
+                    <li><span class="SetOffSecondLevel">Same Size</span> Resizes the width and height of the selected frames so that they are all the same. The resizing is based on the width and height of the first frame that you select. </li>
+                    <li><span class="SetOffSecondLevel">Same Center</span> Vertically aligns the selected frames so that the center of each is at the same location. The alignment is based on the center of the first frame that you select. </li>
+                    <li><span class="SetOffSecondLevel">Same Middle</span> Horizontally aligns the selected frames so that the middle of each is at the same location. The alignment is based on the middle of the first frame that you select.</li>
+                </ul>
+            </li>
+            <li>
+                <p class="SetOffFirstLevel">Vertically Align </p>
+                <ul class="SecondLevel">
+                    <li><span class="SetOffSecondLevel">Top</span> Aligns the text vertically along the top edge of the frame.</li>
+                    <li><span class="SetOffSecondLevel">Middle</span> Aligns the text vertically at the middle point of the frame</li>
+                    <li><span class="SetOffSecondLevel">Bottom</span> Aligns the text vertically along the bottom edge of the frame.</li>
+                </ul>
+            </li>
+            <li>
+                <p class="SetOffFirstLevel">Align </p>
+                <ul class="SecondLevel">
+                    <li><span class="SetOffSecondLevel">Left</span> Aligns the text horizontally along the left edge of the frame.</li>
+                    <li><span class="SetOffSecondLevel">Center</span> Aligns the text horizontally at the center point of the frame.</li>
+                    <li><span class="SetOffSecondLevel">Right</span> Aligns the text horizontally along the right edge of the frame.</li>
+                    <li><span class="SetOffSecondLevel">Justify</span> Spaces the text in the frame so that both the left and right sides are aligned.</li>
+                    <li><span class="SetOffSecondLevel">Default</span> Resets the alignment of the text in the frame to the default (inherited) setting.</li>
+                </ul>
+            </li>
+        </ul>
+    </body>
+</html>

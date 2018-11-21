@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="84" MadCap:lastWidth="1018">
+    <head>
+    </head>
+    <body>
+        <p>Converts a table to text. This option is enabled only if you have placed the cursor within an existing table. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Tables/Converting-Tables-to-Text.htm">Converting Tables to Text</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Tables/Converting-Tables-to-Text.htm">Converting Tables to Text</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

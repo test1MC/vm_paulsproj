@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare" MadCap:lastBlockDepth="6" MadCap:lastHeight="330" MadCap:lastWidth="1144">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="OpenPageInPageLayoutStep.flsnp" />
+            </li>
+            <li>Click on the frame(s) that you want to align on the canvas. To select multiple frames, hold down the <span class="Emphasis">CTRL</span> key and click the frames.</li>
+            <li>In the local toolbar, click <img src="../../../Images/Shared/layout_btn.png" class="ReduceButtonSize" />.</li>
+            <li>
+                <p>Select <span class="Emphasis">Align on Canvas</span>. Then select one of the following options.</p>
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel">Center on Canvas </span>Centers the selected frame(s) both vertically and horizontally on the canvas.</li>
+                    <li><span class="SetOffFirstLevel">Vertically Center on Canvas </span>Centers the selected frame(s) vertically on the canvas.</li>
+                    <li><span class="SetOffFirstLevel">Horizontally Center on Canvas </span>Centers the selected frame(s) horizontally on the canvas.</li>
+                </ul>
+            </li>
+            <li>
+                <snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

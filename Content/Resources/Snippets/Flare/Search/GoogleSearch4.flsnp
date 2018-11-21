@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="536" MadCap:lastWidth="1518">
+    <body>
+        <ol style="list-style-type: lower-alpha;">
+            <li>Return to the HTML5 target (Search tab) in the Flare project.</li>
+            <li>
+                <p>In the <span class="Emphasis">Google Search Context Key</span> field, paste the ID that you copied from cse.google.com.</p>
+                <p>
+                    <img src="../../../Images/Flare/google_search1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p>To assist with indexing, we also recommend that you create a sitemap. So Click <span class="Emphasis">Generate Sitemap</span> and enter the same URL that you provided on your Google account page (make sure you include http:.// before the path; also, make sure you end the path with a closing /).</p>
+                <p>
+                    <img src="../../../Images/Flare/google_search4.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+            <li>Generate the target and upload the output files to your URL.</li>
+            <li>Continue with the following steps  to verify your URL.</li>
+        </ol>
+    </body>
+</html>

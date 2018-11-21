@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p><span class="SetOffFirstLevel">form</span> This tag is used to create a form for user input. After you create the group with the &lt;form&gt; tag, you can open the topic in the Internal Text Editor to supply the necessary code for the form fields. </p>
+    </body>
+</html>

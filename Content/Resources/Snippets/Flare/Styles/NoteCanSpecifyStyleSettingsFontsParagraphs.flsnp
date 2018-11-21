@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="81" MadCap:lastWidth="1221">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">You can also specify other style settings that can normally be done for fonts or paragraphs. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Fonts/Editing-Font-Properties.htm">Editing Font Properties</MadCap:xref> and <MadCap:xref href="../../../../Flare/Paragraphs/About-Paragraph-Formatting.htm">About Paragraph Formatting</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

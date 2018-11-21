@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>You can create named destinations for use in <MadCap:variable name="Outputs.PDF" /> outputs. A named destination lets you point to a specific place in a PDF. In the Insert Hyperlink dialog, you can create links to named destinations when using the <MadCap:conditionalText MadCap:conditions="Products.Flare">"File in Project" option (if the PDF has been added to your project) or </MadCap:conditionalText>"External File" option<MadCap:conditionalText MadCap:conditions="Products.Flare"> (if the PDF file exists outside of your project)</MadCap:conditionalText>.</p>
+    </body>
+</html>

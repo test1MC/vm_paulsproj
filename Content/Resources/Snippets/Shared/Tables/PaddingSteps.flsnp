@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ol class="LowerAlpha">
+            <li>Select the <span class="Emphasis">Borders</span> tab.</li>
+            <li>
+                <p>Set the options in the <span class="Emphasis">Padding</span> section. <MadCap:snippetText src="../Formatting/FormattingPaddingStep1.flsnp" /></p>
+                <p>
+                    <MadCap:snippetText src="../Formatting/FormattingPaddingStep2.flsnp" />
+                </p>
+            </li>
+        </ol>
+    </body>
+</html>

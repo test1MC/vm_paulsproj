@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ol>
+            <li>Open the<MadCap:conditionalText MadCap:conditions="Products.Flare"> topic</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> document</MadCap:conditionalText> where you want insert a named destination (i.e., hyperlinks in another file will point to the PDF holding this destination).</li>
+            <li>Click in the <MadCap:conditionalText MadCap:conditions="Products.Flare"> topic</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> document</MadCap:conditionalText> where you want to insert a named destination (e.g., in front of a subheading or a specific paragraph).</li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="../UIElements/SelectInsertRibbon.flsnp" /> In the <span class="Emphasis">Links</span> section, select <span class="Emphasis">Named Destination</span>.</p>
+                <p>The Named Destination dialog opens.</p>
+            </li>
+            <li>In the <span class="Emphasis">Name</span> field, type a name for destination (do not use spaces).</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /> An icon <img src="../../../Images/Shared/named_destination_btn_small.png" class="ReduceButtonSize" /> is displayed at the appropriate location in the document (as long as your markers are turned on).</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+            <li MadCap:conditions="Products.Flare">Generate and publish the PDF containing that topic.</li>
+        </ol>
+    </body>
+</html>

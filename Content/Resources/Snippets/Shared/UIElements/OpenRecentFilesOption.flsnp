@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="110" MadCap:lastWidth="979" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor,Products.Capture,Products.Lingo,Products.Mimic,Products.Align">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p value="1">Displays a list of recently opened files. You can select one from the list to open it. You can also select <span class="Emphasis">Manage Recent Files</span>. This opens the Recent Files dialog, which lets you remove files from the list of recently opened files. This allows you to keep the list shorter and more manageable. When you use this feature, the file is merely removed from the list, but the actual file is not deleted.</p>
+    </body>
+</html>

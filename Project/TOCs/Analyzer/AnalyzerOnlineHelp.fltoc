@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Analyzer">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/Analyzer/Introduction/Home-Analyzer.htm"
+    conditions="Products.AnalyzerLocalOnly"></TocEntry>
+  <TocEntry
+    Title="Get Started"
+    Link="/Content/Analyzer/Introduction/Get-Started-Analyzer.htm">
+    <TocEntry
+      Title="Enabling Analyzer Scans"
+      Link="/Content/Analyzer/Introduction/Enabling-Scans-Analyzer.htm"
+      StartSection="false" />
+    <TocEntry
+      Title="Opening Projects"
+      Link="/Content/Analyzer/Introduction/Opening-Projects-Analyzer.htm" />
+    <TocEntry
+      Title="Viewing Current Issues"
+      Link="/Content/Analyzer/Introduction/Viewing-Current-Issues.htm" />
+    <TocEntry
+      Title="Viewing Issues for Specific Files"
+      Link="/Content/Analyzer/Introduction/Viewing-Issues-Specific-Files.htm" />
+    <TocEntry
+      Title="What's New?"
+      Link="/Content/Analyzer/Introduction/Whats-New-Analyzer.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Features"
+    Link="/Content/Analyzer/Introduction/Features/Key-Features-Analyzer.htm">
+    <TocEntry
+      Title="Project Information and Issues"
+      Link="/Content/Analyzer/Introduction/Features/Project-Information-Issues.htm">
+      <TocEntry
+        Title="Accessibility"
+        Link="/Content/Analyzer/Accessibility/About-Accessibility-Analyzer.htm">
+        <TocEntry
+          Title="Empty Alt Text"
+          Link="/Content/Analyzer/Accessibility/Applying-Empty-Alt-Text-Analyzer.htm" />
+        <TocEntry
+          Title="Issues—Resolving"
+          Link="/Content/Analyzer/Accessibility/Resolving-Accessibility-Issues.htm" />
+        <TocEntry
+          Title="Suggestions—Viewing"
+          Link="/Content/Analyzer/Accessibility/Viewing-Accessibility-Suggestions.htm" />
+        <TocEntry
+          Title="Suggestions Shown—Customizing"
+          Link="/Content/Analyzer/Accessibility/Customizing-Accessibility-Suggestions-Shown.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Annotations"
+        Link="/Content/Analyzer/Reviews-Contributions/Viewing-Files-With-Annotations.htm" />
+      <TocEntry
+        Title="Bookmarks"
+        Link="/Content/Analyzer/Nav-Links/Bookmarks/Bookmarks.htm">
+        <TocEntry
+          Title="Unused Bookmarks"
+          Link="/Content/Analyzer/Nav-Links/Bookmarks/Viewing-Unused-Bookmarks.htm" />
+        <TocEntry
+          Title="Used Bookmark Links"
+          Link="/Content/Analyzer/Nav-Links/Bookmarks/Viewing-Used-Bookmarks.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Concepts"
+        Link="/Content/Analyzer/Concepts/Concepts.htm">
+        <TocEntry
+          Title="Concepts Within Concept Links"
+          Link="/Content/Analyzer/Concepts/Viewing-and-Renaming-Concept-Links.htm" />
+        <TocEntry
+          Title="Topics Without Concepts"
+          Link="/Content/Analyzer/Concepts/Viewing-Topics-Without-Concepts.htm" />
+        <TocEntry
+          Title="Used Concepts"
+          Link="/Content/Analyzer/Concepts/Viewing-and-Renaming-Concepts.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Condition Tags"
+        Link="/Content/Analyzer/Conditions/About-Condition-Tags-Analyzer.htm">
+        <TocEntry
+          Title="Undefined Condition Tags"
+          Link="/Content/Analyzer/Conditions/Viewing-Undefined-Condition-Tags.htm" />
+        <TocEntry
+          Title="Unused Condition Tags"
+          Link="/Content/Analyzer/Conditions/Viewing-Unused-Condition-Tags.htm" />
+        <TocEntry
+          Title="Used Condition Tags"
+          Link="/Content/Analyzer/Conditions/Viewing-Renaming-Used-Condition-Tags.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Context-Sensitive Help IDs"
+        Link="/Content/Analyzer/CSH/CSH-IDs.htm">
+        <TocEntry
+          Title="Topics Not Linked by a Map ID"
+          Link="/Content/Analyzer/CSH/Viewing-Topics-Not-Linked-by-Map-ID.htm" />
+        <TocEntry
+          Title="Unused CSH IDs"
+          Link="/Content/Analyzer/CSH/Viewing-Unused-CSH-IDs.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Database Errors"
+        Link="/Content/Analyzer/Database-Errors/Viewing-Database-Errors.htm" />
+      <TocEntry
+        Title="File Tags"
+        Link="/Content/Analyzer/File-Tagging/File-Tags.htm">
+        <TocEntry
+          Title="Files Without File Tags"
+          Link="/Content/Analyzer/File-Tagging/Viewing-Files-Without-File-Tags.htm" />
+        <TocEntry
+          Title="Undefined File Tags"
+          Link="/Content/Analyzer/File-Tagging/Viewing-Undefined-File-Tags.htm" />
+        <TocEntry
+          Title="Unused File Tags"
+          Link="/Content/Analyzer/File-Tagging/Viewing-Unused-File-Tags.htm" />
+        <TocEntry
+          Title="Used File Tags"
+          Link="/Content/Analyzer/File-Tagging/Viewing-Renaming-Used-File-Tags.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Frequent Segments"
+        Link="/Content/Analyzer/Frequent-Segments/About-Frequent-Segments.htm">
+        <TocEntry
+          Title="Frequent Segments—Converting to Snippets"
+          Link="/Content/Analyzer/Frequent-Segments/Converting-Frequent-Segments-to-Snippets.htm" />
+        <TocEntry
+          Title="Frequent Segments—Converting to Variables"
+          Link="/Content/Analyzer/Frequent-Segments/Converting-Frequent-Segments-to-Variables.htm" />
+        <TocEntry
+          Title="Frequent Segments—Viewing"
+          Link="/Content/Analyzer/Frequent-Segments/Viewing-Frequent-Segments.htm" />
+        <TocEntry
+          Title="Frequent Segments Shown—Customizing"
+          Link="/Content/Analyzer/Frequent-Segments/Customizing-Frequent-Segments-Shown.htm" />
+        <TocEntry
+          Title="Similar Segments—Viewing"
+          Link="/Content/Analyzer/Frequent-Segments/Viewing-Similar-Segments.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Glossaries"
+        Link="/Content/Analyzer/Glossaries/Viewing-Undefined-Glossary-Term-Links.htm" />
+      <TocEntry
+        Title="Images"
+        Link="/Content/Analyzer/Images/Images.htm">
+        <TocEntry
+          Title="Unused Content Files"
+          Link="/Content/Analyzer/Topics/Viewing-Unused-Content-Files.htm" />
+        <TocEntry
+          Title="Unused Images"
+          Link="/Content/Analyzer/Images/Viewing-Unused-Images.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Indexes"
+        Link="/Content/Analyzer/Indexes/Indexes.htm">
+        <TocEntry
+          Title="Index Keyword Links"
+          Link="/Content/Analyzer/Indexes/Viewing-Renaming-Index-Keyword-Links.htm" />
+        <TocEntry
+          Title="Index Keyword Suggestions"
+          Link="/Content/Analyzer/Indexes/Viewing-Index-Keyword-Suggestions.htm" />
+        <TocEntry
+          Title="Topics Not Indexed"
+          Link="/Content/Flare/Topics/Viewing-Topics-Not-Indexed.htm" />
+        <TocEntry
+          Title="Used Index Keywords"
+          Link="/Content/Analyzer/Indexes/Viewing-Renaming-Used-Index-Keywords.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Language Tags"
+        Link="/Content/Analyzer/Language-Support/Viewing-Used-Language-Tags.htm" />
+      <TocEntry
+        Title="Links"
+        Link="/Content/Analyzer/Nav-Links/Links.htm">
+        <TocEntry
+          Title="Absolute Links"
+          Link="/Content/Analyzer/Nav-Links/Viewing-Absolute-Links.htm" />
+        <TocEntry
+          Title="Broken Bookmarks"
+          Link="/Content/Analyzer/Nav-Links/Bookmarks/Viewing-Broken-Bookmarks.htm" />
+        <TocEntry
+          Title="Broken Links"
+          Link="/Content/Analyzer/Nav-Links/Viewing-Broken-Links.htm" />
+        <TocEntry
+          Title="Cross-Reference Suggestions"
+          Link="/Content/Analyzer/Nav-Links/Cross-References/Viewing-Converting-Cross-Reference-Suggestions.htm" />
+        <TocEntry
+          Title="External Links"
+          Link="/Content/Analyzer/Nav-Links/Viewing-External-Links.htm" />
+        <TocEntry
+          Title="File Links"
+          Link="/Content/Analyzer/Folders-Files/Viewing_File_Links.htm" />
+        <TocEntry
+          Title="Named Destinations"
+          Link="/Content/Analyzer/Nav-Links/Named-Destinations/Viewing-Named-Destinations.htm" />
+        <TocEntry
+          Title="Topics Not Linked"
+          Link="/Content/Analyzer/Nav-Links/Viewing-Topics-Not-Linked.htm" />
+        <TocEntry
+          Title="Unused Bookmarks"
+          Link="/Content/Analyzer/Nav-Links/Bookmarks/Viewing-Unused-Bookmarks.htm" />
+        <TocEntry
+          Title="Used Bookmark Links"
+          Link="/Content/Analyzer/Nav-Links/Bookmarks/Viewing-Used-Bookmarks.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Markup Suggestions"
+        Link="/Content/Analyzer/Markup-Suggestions/Markup-Suggestions.htm">
+        <TocEntry
+          Title="Customizing"
+          Link="/Content/Analyzer/Markup-Suggestions/Customizing-Markup-Suggestions-Shown.htm" />
+        <TocEntry
+          Title="Viewing and Applying"
+          Link="/Content/Analyzer/Markup-Suggestions/Viewing-Applying-Markup-Suggestions.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Snippets"
+        Link="/Content/Analyzer/Snippets/About-Snippets-Analyzer.htm">
+        <TocEntry
+          Title="Frequent Segments—Converting to Snippets"
+          Link="/Content/Analyzer/Frequent-Segments/Converting-Frequent-Segments-to-Snippets.htm" />
+        <TocEntry
+          Title="Replacing Snippets"
+          Link="/Content/Analyzer/Snippets/Replacing-Snippets.htm" />
+        <TocEntry
+          Title="Snippet Suggestions"
+          Link="/Content/Analyzer/Snippets/Viewing-Snippet-Suggestions.htm" />
+        <TocEntry
+          Title="Topics with Snippet Conditions"
+          Link="/Content/Analyzer/Snippets/Viewing-Topics-With-Snippet-Conditions.htm" />
+        <TocEntry
+          Title="Unused Content Files"
+          Link="/Content/Analyzer/Topics/Viewing-Unused-Content-Files.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Styles"
+        Link="/Content/Analyzer/Styles/Styles.htm">
+        <TocEntry
+          Title="Duplicate Styles"
+          Link="/Content/Analyzer/Styles/Viewing-Duplicate-Styles.htm" />
+        <TocEntry
+          Title="Local Style Suggestions"
+          Link="/Content/Analyzer/Styles/Viewing-Replacing-Local-Style-Suggestions.htm" />
+        <TocEntry
+          Title="New Style Suggestions"
+          Link="/Content/Analyzer/Styles/Viewing-Style-Suggestions.htm" />
+        <TocEntry
+          Title="Undefined Styles"
+          Link="/Content/Analyzer/Styles/Viewing-Undefined-Styles.htm" />
+        <TocEntry
+          Title="Unused Content Files"
+          Link="/Content/Analyzer/Topics/Viewing-Unused-Content-Files.htm" />
+        <TocEntry
+          Title="Unused Styles"
+          Link="/Content/Analyzer/Styles/Viewing-Unused-Styles.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Tables of Contents"
+        Link="/Content/Analyzer/TOCs/Tables-of-Contents.htm">
+        <TocEntry
+          Title="Duplicate Items in a TOC"
+          Link="/Content/Analyzer/TOCs/Viewing-Duplicate-Items-TOC.htm" />
+        <TocEntry
+          Title="TOCs—Finding and Fixing Issues"
+          Link="/Content/Analyzer/TOCs/Finding-Fixing-Issues-TOC.htm" />
+        <TocEntry
+          Title="Topics Not in a TOC"
+          Link="/Content/Analyzer/TOCs/Viewing-Topics-Not-In-TOC.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Topics"
+        Link="/Content/Analyzer/Topics/Topics.htm">
+        <TocEntry
+          Title="Empty Content Folders"
+          Link="/Content/Analyzer/Folders-Files/Viewing-Empty-Content-Folders.htm" />
+        <TocEntry
+          Title="Non-XML Topics"
+          Link="/Content/Analyzer/Topics/Viewing-Non-XML-Topics.htm" />
+        <TocEntry
+          Title="Topics for a Selected Item"
+          Link="/Content/Analyzer/Topics/Viewing-Topics-for-Selected-Item.htm" />
+        <TocEntry
+          Title="Topics Not in a TOC"
+          Link="/Content/Analyzer/TOCs/Viewing-Topics-Not-In-TOC.htm" />
+        <TocEntry
+          Title="Topics Not Indexed"
+          Link="/Content/Flare/Topics/Viewing-Topics-Not-Indexed.htm" />
+        <TocEntry
+          Title="Topics Not Linked"
+          Link="/Content/Analyzer/Nav-Links/Viewing-Topics-Not-Linked.htm" />
+        <TocEntry
+          Title="Topics Not Linked by a Map ID"
+          Link="/Content/Analyzer/CSH/Viewing-Topics-Not-Linked-by-Map-ID.htm" />
+        <TocEntry
+          Title="Topics With Snippet Conditions"
+          Link="/Content/Analyzer/Snippets/Viewing-Topics-With-Snippet-Conditions.htm" />
+        <TocEntry
+          Title="Topics Without Concepts"
+          Link="/Content/Analyzer/Concepts/Viewing-Topics-Without-Concepts.htm" />
+        <TocEntry
+          Title="Unused Content Files"
+          Link="/Content/Analyzer/Topics/Viewing-Unused-Content-Files.htm" />
+        <TocEntry
+          Title="XML Files—Validating"
+          Link="/Content/Analyzer/Folders-Files/Validating-XML-Files.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Track Changes"
+        Link="/Content/Analyzer/Reviews-Contributions/Viewing-Files-With-Changes.htm" />
+      <TocEntry
+        Title="Variables"
+        Link="/Content/Analyzer/Variables/About-Variables-Analyzer.htm">
+        <TocEntry
+          Title="Frequent Segments—Converting to Variables"
+          Link="/Content/Analyzer/Frequent-Segments/Converting-Frequent-Segments-to-Variables.htm" />
+        <TocEntry
+          Title="Undefined Variables"
+          Link="/Content/Analyzer/Variables/Viewing-Undefined-Variables.htm" />
+        <TocEntry
+          Title="Unused Variables"
+          Link="/Content/Analyzer/Variables/Viewing-Unused-Variables.htm" />
+        <TocEntry
+          Title="Used Variables"
+          Link="/Content/Analyzer/Variables/Viewing-Renaming-Used-Variables.htm" />
+        <TocEntry
+          Title="Variable Suggestions"
+          Link="/Content/Analyzer/Variables/Viewing-Variable-Suggestions.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Writing Suggestions"
+        Link="/Content/Analyzer/Writing-Suggestions/Writing-Suggestions.htm">
+        <TocEntry
+          Title="Writing Suggestions—Viewing"
+          Link="/Content/Analyzer/Writing-Suggestions/Viewing-Writing-Suggestions.htm" />
+        <TocEntry
+          Title="Writing Suggestions—Customizing"
+          Link="/Content/Analyzer/Writing-Suggestions/Customizing-Writing-Suggestions-Shown.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Reports"
+      Link="/Content/Analyzer/Reports/About-Reports-Analyzer.htm">
+      <TocEntry
+        Title="Generating"
+        Link="/Content/Analyzer/Reports/Generating-Reports-Analyzer.htm" />
+      <TocEntry
+        Title="Opening"
+        Link="/Content/Analyzer/Reports/Opening-Reports.htm" />
+      <TocEntry
+        Title="Saving"
+        Link="/Content/Analyzer/Reports/Saving-Reports.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Statistics and Charts"
+      Link="/Content/Analyzer/Statistics/Viewing-Statistics.htm">
+      <TocEntry
+        Title="About Charts"
+        Link="/Content/Analyzer/Charts/About-Charts.htm" />
+      <TocEntry
+        Title="Creating Charts"
+        Link="/Content/Analyzer/Charts/Creating-Charts.htm" />
+      <TocEntry
+        Title="Editing Chart Styles"
+        Link="/Content/Analyzer/Charts/Editing-Chart-Styles.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Additional Features"
+      Link="/Content/Analyzer/Introduction/Features/Additional-Features.htm">
+      <TocEntry
+        Title="Auto Suggestion"
+        StartSection="false"
+        StartChapter="false"
+        Link="/Content/Analyzer/Auto-Suggestion/About-Auto-Suggestion.htm">
+        <TocEntry
+          Title="Details—Specifying"
+          Link="/Content/Analyzer/Auto-Suggestion/Specifying-Auto-Suggestion-Details.htm" />
+        <TocEntry
+          Title="Enabling and Disabling"
+          Link="/Content/Analyzer/Auto-Suggestion/Enabling-and-Disabling-Auto-Suggestion.htm" />
+        <TocEntry
+          Title="Inserting"
+          Link="/Content/Analyzer/Auto-Suggestion/Inserting-Auto-Suggestions-Into-Content.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Backups"
+        Link="/Content/Analyzer/Backups/About-Backups.htm">
+        <TocEntry
+          Title="Differences—Setting Color Options"
+          Link="/Content/Analyzer/Backups/Setting-Color-Options-for-Backup-Differences.htm" />
+        <TocEntry
+          Title="Files—Backing Up"
+          Link="/Content/Analyzer/Backups/Backing-Up-Files.htm" />
+        <TocEntry
+          Title="Files—Restoring"
+          Link="/Content/Analyzer/Backups/Restoring-Backup-Files.htm" />
+        <TocEntry
+          Title="Files—Viewing"
+          Link="/Content/Analyzer/Backups/Viewing-Backup-Files.htm" />
+        <TocEntry
+          Title="Files—Viewing Differences"
+          Link="/Content/Analyzer/Backups/Viewing-Differences-in-Backup-Files.htm" />
+        <TocEntry
+          Title="Folder—Clearing"
+          Link="/Content/Analyzer/Backups/Clearing-the-Backups-Folder.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Drag and Drop"
+        Link="/Content/Analyzer/Drag-Drop/Enabling-Disabling-Drag-Drop.htm" />
+      <TocEntry
+        Title="Exporting Analyzer Data to a CSV File"
+        Link="/Content/Analyzer/Exporting/Exporting-Analyzer-Data-to-CSV-File.htm" />
+      <TocEntry
+        Title="Find and Replace"
+        Link="/Content/Analyzer/Find-Replace/About_Find_and_Replace.htm">
+        <TocEntry
+          Title="Find and Replace in Files"
+          Link="/Content/Analyzer/Find-Replace/Using_the_Find_and_Replace_in_Files_Feature.htm" />
+        <TocEntry
+          Title="Find Elements"
+          Link="/Content/Analyzer/Find-Replace/Using-Find-Elements-Feature.htm" />
+        <TocEntry
+          Title="Quick Find and Quick Replace Widgets"
+          Link="/Content/Analyzer/Find-Replace/Using-Quick-Find-Replace-Widgets.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Printing"
+        Link="/Content/Analyzer/Printing/Printing.htm">
+        <TocEntry
+          Title="Window Pane Data"
+          Link="/Content/Analyzer/Printing/Printing-Window-Pane-Data.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Shortcuts"
+        Link="/Content/Analyzer/Shortcuts/Keyboard-Shortcuts-Analyzer.htm" />
+      <TocEntry
+        Title="Spell Check"
+        Link="/Content/Analyzer/Spell-Check/About-Spell-Check.htm">
+        <TocEntry
+          Title="Ignore Spell Check List"
+          Link="/Content/Analyzer/Spell-Check/Adding-Words-to-Ignore-Spell-Check-List.htm" />
+        <TocEntry
+          Title="Spell Checking Manually"
+          Link="/Content/Analyzer/Spell-Check/Spell-Checking-Manually.htm" />
+        <TocEntry
+          Title="Spell Checking While Typing"
+          Link="/Content/Analyzer/Spell-Check/Spell-Checking-While-Typing.htm" />
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Interface"
+    Link="/Content/Analyzer/Interface/Touring-Workspace-Analyzer.htm">
+    <TocEntry
+      Title="Customizing the Workspace"
+      Link="/Content/Analyzer/Interface/Customizing-Workspace.htm">
+      <TocEntry
+        Title="Color Theme for Interface"
+        Link="/Content/Analyzer/Interface/Selecting-Interface-Color-Theme.htm" />
+      <TocEntry
+        Title="Column Information—Customizing"
+        Link="/Content/Analyzer/Interface/Customizing-Column-Information.htm" />
+      <TocEntry
+        Title="Ribbons—Minimizing"
+        Link="/Content/Analyzer/Interface/Minimizing-Ribbons.htm" />
+      <TocEntry
+        Title="Ribbons and Toolstrip—Switching"
+        Link="/Content/Analyzer/Interface/Switching-Ribbon-Menu.htm" />
+      <TocEntry
+        Title="Window Layouts"
+        Link="/Content/Analyzer/Interface/Window-Layouts.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Options Dialog"
+      Link="/Content/Analyzer/Interface/UI-Elements/Options-Dialog-Analyzer.htm" />
+    <TocEntry
+      Title="Quick Launch Bar"
+      Link="/Content/Analyzer/Interface/UI-Elements/Quick-Launch-Bar.htm" />
+    <TocEntry
+      Title="Primary Window Panes"
+      Link="/Content/Analyzer/Interface/UI-Elements/Primary-Window-Panes.htm">
+      <TocEntry
+        Title="Analyzer Summary Window Pane"
+        Link="/Content/Analyzer/Interface/UI-Elements/Analyzer-Summary-Window-Pane.htm" />
+      <TocEntry
+        Title="File List Window Pane"
+        Link="/Content/Analyzer/Interface/UI-Elements/File-List-Window-Analyzer.htm" />
+      <TocEntry
+        Title="Frequent Segments Window Pane"
+        Link="/Content/Analyzer/Interface/UI-Elements/Frequent-Segments-Window.htm"></TocEntry>
+      <TocEntry
+        Title="Unused Items Window Pane"
+        Link="/Content/Analyzer/Interface/UI-Elements/Unused-Items-Window-Pane.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Ribbons, Menus, and Toolbars"
+      Link="/Content/Analyzer/Interface/UI-Elements/Ribbons-Menus-Toolbars.htm">
+      <TocEntry
+        Title="Menus"
+        Link="/Content/Analyzer/Interface/Menus-Analyzer.htm" />
+      <TocEntry
+        Title="Quick Access Toolbar"
+        Link="/Content/Analyzer/Interface/Quick-Access-Toolbar.htm" />
+      <TocEntry
+        Title="Ribbons"
+        Link="/Content/Analyzer/Interface/Ribbons-Analyzer.htm" />
+      <TocEntry
+        Title="Toolbars"
+        Link="/Content/Analyzer/Interface/Global-Toolbars-Analyzer.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Start Page"
+      Link="/Content/Analyzer/Interface/UI-Elements/Start-Page-Analyzer.htm" />
+    <TocEntry
+      Title="XML Editor"
+      Link="/Content/Analyzer/Interface/UI-Elements/XML-Editor.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="PDF Guides"
+    Link="/Content/Analyzer/PDF-Guides/PDF-Guides-Analyzer.htm" />
+</CatapultToc>

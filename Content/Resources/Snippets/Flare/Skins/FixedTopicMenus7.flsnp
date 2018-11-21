@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="859" MadCap:lastWidth="1218">
+    <body>
+        <ol>
+            <li>
+                <p>In the temporary project that you created in the previous set of steps, open the primary stylesheet. Depending on the template that you used to create the temporary project, the stylesheet will be named either “MainStyles” or “Styles.” Open this stylesheet in the Internal Text Editor by right-clicking it in the Content Explorer and selecting <span class="Emphasis">Open with &gt; Internal Text Editor</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/fixed_menu16.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" />
+            <li>
+                <p>Scroll down until you see the styles that begin with <span class="Emphasis">div.ContentRow</span>. There should be six of these styles. Select all of them, including the properties within brackets under them. Then copy them.</p>
+                <p>
+                    <img src="../../../Images/Flare/fixed_menu17.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>In your regular project, open the stylesheet that your master page is using. Open it in the Internal Text Editor.</li>
+            <li>Paste the copied div.ContentRow styles into the stylesheet. Just make sure you do not paste them within any existing curly brackets that are holding properties for other styles. To make it easy, you can scroll all the way to the bottom of the Internal Text Editor and paste them after the last bracket.</li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

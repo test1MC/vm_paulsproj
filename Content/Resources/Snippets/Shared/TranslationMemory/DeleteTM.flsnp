@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <p>You can delete a TM database by selecting the row and clicking <span class="Emphasis">Delete</span>. This not only removes the TM from the grid, but it deletes it entirely.</p>
+    </body>
+</html>

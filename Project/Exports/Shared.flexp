@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultExportProjectFile
+  DestinationType="Target"
+  SourceProjectPath="C:\TeamProjects\Shared\Shared.flprj"
+  DestinationName="Shared"
+  DestinationPath="C:\Users\lokamoto\Desktop\Delete"
+  ExportType="Files"
+  TargetPath="Lingo\LingoAlignmentGuide.fltar"
+  TargetConvertVariables="false"
+  TargetConvertSnippets="false">
+  <SelectedContentFiles />
+  <SelectedProjectFiles />
+</CatapultExportProjectFile>

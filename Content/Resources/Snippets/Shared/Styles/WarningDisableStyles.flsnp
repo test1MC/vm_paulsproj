@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>Even if you have some styles that you never modify, you may want to avoid disabling them in your stylesheet. The reason for this is that disabling a style in a stylesheet also disables its use in the rest of the interface.</p>
+    </body>
+</html>

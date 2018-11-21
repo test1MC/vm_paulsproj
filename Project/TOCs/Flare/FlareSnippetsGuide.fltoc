@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="1"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="1"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Snippets"
+    Link="/Content/Flare/Snippets/About-Snippets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumberReset="continue"
+    PageNumber="1"
+    StartSection="false"
+    PageType="firstright"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 2 Creating New Snippets from Existing Content"
+    Link="/Content/Flare/Snippets/Creating-New-Snippets-from-Content.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 3 Adding New Snippets"
+    Link="/Content/Flare/Snippets/Adding-New-Snippets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 4 Inserting Snippets into Topics"
+    Link="/Content/Flare/Snippets/Inserting-Snippets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 5 Editing Snippets"
+    Link="/Content/Flare/Snippets/Editing-Snippets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 6 Opening Snippets"
+    Link="/Content/Flare/Snippets/Opening-Snippets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 7 Additional Snippet Tasks"
+    Link="/Content/Flare/Snippets/Converting-Snippets-to-Text.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Deleting Snippets"
+      Link="/Content/Flare/Snippets/Deleting-Snippets.htm"
+      MarkAsNew="False" />
+    <TocEntry
+      Title="Importing Snippets"
+      Link="/Content/Flare/Snippets/Importing-Snippets.htm"
+      MarkAsNew="False" />
+    <TocEntry
+      Title="Inserting Page Numbers into Frames"
+      Link="/Content/Flare/Page-Layouts/Frames/Inserting-Page-Numbers-Frames.htm" />
+    <TocEntry
+      Title="Pinning Snippets"
+      Link="/Content/Flare/Snippets/Pinning-Snippets.htm" />
+    <TocEntry
+      Title="Replacing Snippets"
+      Link="/Content/Flare/Snippets/Replacing-Snippets.htm" />
+    <TocEntry
+      Title="Using Snippet Conditions"
+      Link="/Content/Flare/Snippets/Using-Snippet-Conditions.htm" />
+    <TocEntry
+      Title="Using Snippet Groups"
+      Link="/Content/Flare/Snippets/Using-Snippet-Groups.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

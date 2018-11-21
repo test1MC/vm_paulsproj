@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="84" MadCap:lastWidth="1017" MadCap:conditions="Products.Contributor,Products.Flare">
+    <head>
+    </head>
+    <body>
+        <p>Opens the Insert Cross-Reference dialog, which lets you insert a cross-reference into a <MadCap:snippetText src="../Topics/ContentFileDocument.flsnp" />. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Nav-Links/Cross-References/Inserting-Cross-References.htm">Inserting Cross-References</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Nav-Links/Cross-References/Inserting-Cross-References.htm">Inserting Cross-References</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

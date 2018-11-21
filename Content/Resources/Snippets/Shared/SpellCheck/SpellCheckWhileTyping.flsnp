@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Lingo,Products.Flare,Products.Contributor">
+    <body>
+        <p>This is a feature that lets you keep a close eye on your spelling as you type in your content files<MadCap:conditionalText MadCap:conditions="Products.Flare"> (e.g., topics, snippets)</MadCap:conditionalText>. </p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>In the explorer area at the bottom of the window pane, right-click on the index keyword or subkeyword that you want to rename. From the context menu select <span class="Emphasis">Rename Keyword</span>. The keyword is renamed in all topics where it had been inserted.</p>
+    </body>
+</html>

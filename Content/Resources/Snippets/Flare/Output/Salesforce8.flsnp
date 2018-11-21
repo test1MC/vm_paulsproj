@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1199">
+    <body>
+        <p>If you decide to use the publishing destination feature, there are different ways that you can publish the output (e.g., FTP, SFTP, source control). One of the unique methods is Salesforce Connect. With this integration, you can set up a destination file in Flare so that your Clean XHTML output is published directly to Salesforce.</p>
+    </body>
+</html>

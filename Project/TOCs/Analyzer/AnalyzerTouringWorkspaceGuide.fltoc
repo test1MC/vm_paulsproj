@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Analyzer">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Analyzer/TitleAnalyzer.flpgl"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Analyzer/TitleAnalyzer.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    conditions="General.Future" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    conditions="General.Future" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    conditions="General.Future" />
+  <TocEntry
+    Title="CH 1 Touring the Workspace"
+    Link="/Content/Analyzer/Interface/Touring-Workspace-Analyzer.htm"
+    StartSection="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"></TocEntry>
+  <TocEntry
+    Title="CH 2 Customizing the Workspace"
+    Link="/Content/Analyzer/Interface/Customizing-Workspace.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Window Layouts"
+      Link="/Content/Analyzer/Interface/Window-Layouts.htm"
+      BreakType="none"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Minimizing Ribbons"
+      Link="/Content/Analyzer/Interface/Minimizing-Ribbons.htm" />
+    <TocEntry
+      Title="Selecting an Interface Color Theme"
+      Link="/Content/Analyzer/Interface/Selecting-Interface-Color-Theme.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Analyzer/PDF-Guides/PDF-Guides-Analyzer.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+</CatapultToc>

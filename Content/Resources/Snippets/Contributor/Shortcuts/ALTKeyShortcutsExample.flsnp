@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="646" MadCap:lastWidth="688">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Let's say you want to insert a cross-reference using the option in the Insert ribbon. First, you press and release the <span class="Emphasis">ALT</span> key, which shows floating letters over each ribbon tab.</p>
+            <p>
+                <img src="../../../Images/Contributor/alt_shortcut_keys_ribbon1_contributor.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>Press the <span class="Emphasis">N</span> key to open the Insert ribbon.</p>
+            <p>
+                <img src="../../../Images/Contributor/alt_shortcut_keys_ribbon2_contributor.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>Press the <span class="Emphasis">R</span> key, followed by the <span class="Emphasis">F</span> key.</p>
+            <p>
+                <img src="../../../Images/Contributor/alt_shortcut_keys_ribbon3_contributor.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>The Insert Cross-Reference dialog opens.</p>
+        </div>
+    </body>
+</html>

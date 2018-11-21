@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Skins"
+    Link="/Content/Flare/Skins/About-Skins.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="Ch 2 Adding Skins to a Project"
+    Link="/Content/Flare/Skins/Adding-Skins-to-Project.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 3 Opening Existing Skins"
+    Link="/Content/Flare/Skins/More/Opening-Skins.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="CH 4 Editing Skin Settings"
+    Link="/Content/Flare/Skins/Editing-Skin-Settings.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 5 Associating Skins with Targets"
+    Link="/Content/Flare/Skins/Associating-Skins-with-Targets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 6 Skin Styles"
+    Link="/Content/Flare/Styles/Using-Styles/Skin-Styles.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="HTML5"
+      Link="/Content/Flare/Skins/HTML5-Skin-Styles/HTML5-Skin-Styles.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Main Page in HTML5"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Main-Page-HTML5-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Headers in HTML5"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Header-HTML5-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Menus in HTML5 Skins"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Menus-HTML5-Skins.htm" />
+      <TocEntry
+        Title="Navigation in HTML5"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Navigation-HTML5-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Topics in HTML5"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Topics-HTML5-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Search Results in HTML5"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Search-Results-HTML5-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Feedback in HTML5"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Feedback-HTML5-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Topic Toolbars in HTML5 Skin Components"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Topic-Toolbars-HTML5-Skins.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Standard"
+      Link="/Content/Flare/Skins/Standard-Skin-Styles/Standard-Skin-Styles.htm"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Accordion Items"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Accordion-Items-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Controls"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Controls-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Dialogs"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Dialogs-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Feedback User Profile Items"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Feedback-User-Profile-Items-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Formats"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Formats-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Frames"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Frames-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Index Entries"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Index-Entries-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Index Entry Popups"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Index-Entry-Popups-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="TOC Entries"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/TOC-Entries-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Toolbar Items"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Specifying-Style-Settings-Toolbar-Items.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Mobile"
+      Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/WebHelp-Mobile-Skin-Styles.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Headers"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Headers-WebHelp-Mobile-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Home Buttons"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Home-Buttons-WebHelp-Mobile-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Item Counts"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Item-Counts-WebHelp-Mobile-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Navigation Elements"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Navigation-Elements-WebHelp-Mobile-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Search Bars"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Search-Bars-WebHelp-Mobile-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Search Buttons"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Search_Buttons_in_WebHelp_Mobile_Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Toolbar Items"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Toolbar-Items-WebHelp-Mobile-Skins.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 7 Additional Skin Tasks"
+    Link="/Content/Print-Only-Topics/Flare/Skins/Additional-Skin-Tasks.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters2Gray.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Importing Skins"
+      Link="/Content/Flare/Skins/More/Importing-Skins.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Previewing the Skin for a Specific Output Type"
+      Link="/Content/Flare/Skins/More/Previewing-Skin-Specific-Output-Type.htm"
+      PageNumber="(multiple)"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Renaming Skins"
+      Link="/Content/Flare/Skins/More/Renaming-Skins.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="All Skins—Generate"
+      Link="/Content/Flare/Targets/More/Setting-All-Skins-to-be-Generated.htm"></TocEntry>
+    <TocEntry
+      Title="Browse Sequences—Select Skin"
+      Link="/Content/Flare/z-DupTopics/Selecting-a-Skin-for-a-Browse-Sequence-Entry.htm"></TocEntry>
+    <TocEntry
+      Title="Browser Settings"
+      Link="/Content/Flare/Skins/More/Specifying-Browser-Settings.htm" />
+    <TocEntry
+      Title="Caption"
+      Link="/Content/Flare/Skins/More/Specifying-Caption-Output-Window.htm" />
+    <TocEntry
+      Title="Default Tab or Accordion Item"
+      Link="/Content/Flare/Skins/More/Specifying-Default-Tab-Accordion-Item.htm"></TocEntry>
+    <TocEntry
+      Title="Feedback—Display Comments"
+      Link="/Content/Flare/Feedback/Comments/Displaying-Comments-Feedback.htm"></TocEntry>
+    <TocEntry
+      Title="Feedback—Display Notification Options"
+      Link="/Content/Flare/Feedback/Comments/Displaying-Feedback-Notification-Options-to-Users.htm"></TocEntry>
+    <TocEntry
+      Title="Feedback—Fields for Profile Dialog"
+      Link="/Content/Flare/Skins/More/Specifying-Fields-Feedback-Profile-Dialog.htm"></TocEntry>
+    <TocEntry
+      Title="HTML Help—Buttons"
+      Link="/Content/Flare/Skins/Specifying-Buttons-HTML-Help-Output.htm" />
+    <TocEntry
+      Title="HTML Help—Navigation Pane Settings"
+      Link="/Content/Flare/Skins/More/Specifying-Navigation-Pane-Settings-HTML-Help-Output.htm" />
+    <TocEntry
+      Title="HTML Help—TOC"
+      Link="/Content/Flare/Skins/More/Specifying-How-TOC-Looks-HTML-Help-Output.htm" />
+    <TocEntry
+      Title="HTML Help—Web Toolbar (Adding)"
+      Link="/Content/Flare/Skins/More/Adding-Web-Toolbar-to-HTML-Help-Output.htm" />
+    <TocEntry
+      Title="HTML Help—Web Toolbar (Custom Settings)"
+      Link="/Content/Flare/Skins/More/Web-Toolbar-Settings-HTML-Help-Output.htm" />
+    <TocEntry
+      Title="HTML Help—Window Position and Size"
+      Link="/Content/Flare/Skins/More/Enabling-User-Defined-Window-Position-Size-HTML-Help-Output.htm" />
+    <TocEntry
+      Title="HTML5—Favicons"
+      Link="/Content/Flare/Skins/More/Adding-Favicons.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="HTML5—Fixed Header"
+      Link="/Content/Flare/Skins/More/Setting-Fixed-Header.htm"></TocEntry>
+    <TocEntry
+      Title="HTML5—Fixed Topic Menu"
+      Link="/Content/Flare/Skins/More/Setting-Fixed-Topic-Menu.htm"></TocEntry>
+    <TocEntry
+      Title="HTML5—Partial-Word Search for Glossaries"
+      Link="/Content/Flare/Skins/More/Enabling-Disabling-Partial-Search-Glossaries.htm" />
+    <TocEntry
+      Title="HTML5—Partial-Word Search for Indexes"
+      Link="/Content/Flare/Skins/More/Enabling-Disabling-Partial-Search-Indexes.htm" />
+    <TocEntry
+      Title="HTML5—Runtime Skins"
+      Link="/Content/Flare/Skins/More/Enabling-Runtime-Skins.htm"></TocEntry>
+    <TocEntry
+      Title="HTML5—Slide-Out Menu Style"
+      Link="/Content/Flare/Skins/More/Setting-Slideout-Menu-Style.htm"></TocEntry>
+    <TocEntry
+      Title="HTML5—Text Strings"
+      Link="/Content/Flare/Language-Support/Changing-Text-Strings-HTML5-Skins.htm" />
+    <TocEntry
+      Title="HTML5—Web Toolbar (Custom Settings)"
+      Link="/Content/Flare/Skins/More/Web-Toolbar-Settings-HTML5-Output.htm"></TocEntry>
+    <TocEntry
+      Title="Images—About Box"
+      Link="/Content/Flare/Skins/More/Selecting-Image-About-Box.htm" />
+    <TocEntry
+      Title="Images—Removing Unreferenced"
+      Link="/Content/Flare/z-DupTopics/Removing-Embedded-Images-in-Skins.htm" />
+    <TocEntry
+      Title="Indexes—Binary"
+      Link="/Content/Flare/Skins/More/Creating-Binary-Index.htm"></TocEntry>
+    <TocEntry
+      Title="Indexes—Bookmarks"
+      Link="/Content/Flare/Skins/More/Including-Bookmarks-Index-Entries.htm" />
+    <TocEntry
+      Title="Navigation Elements"
+      Link="/Content/Flare/Skins/More/Specifying-Tabs-Accordion-Items-to-Include-Output-Window.htm" />
+    <TocEntry
+      Title="Navigation Pane"
+      Link="/Content/Flare/Skins/More/Specifying-Navigation-Pane-Settings-HTML5-WebHelp-Output.htm" />
+    <TocEntry
+      Title="Size and Position of the Output Window"
+      Link="/Content/Flare/Skins/More/Specifying-Size-Positioning-Output-Window.htm" />
+    <TocEntry
+      Title="Skin Components—Associating with Targets"
+      Link="/Content/Flare/Skins/Associating-Skin-Components-with-Targets.htm" />
+    <TocEntry
+      Title="Standalone Topics—Navigation Links"
+      Link="/Content/Flare/Skins/More/Showing-Navigation-Links-Standalone-Topics.htm" />
+    <TocEntry
+      Title="TOCs—Binary"
+      Link="/Content/Flare/Skins/More/Creating-Binary-TOC.htm"></TocEntry>
+    <TocEntry
+      Title="TOCs—Select Skin"
+      Link="/Content/Flare/z-DupTopics/Selecting-Skin-TOC-Entry.htm"></TocEntry>
+    <TocEntry
+      Title="TOCs—Synchronize Open Topics"
+      Link="/Content/Flare/Skins/More/Synchronizing-TOC-with-Open-Topics.htm"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="WebHelp—Excluding Accordion Titles"
+      Link="/Content/Flare/Skins/More/Excluding-Accordion-Titles-from-WebHelp-Output.htm" />
+    <TocEntry
+      Title="WebHelp—Topic Toolbar"
+      Link="/Content/Flare/Skins/More/Topic-Toolbars-WebHelp-Output.htm" />
+    <TocEntry
+      Title="WebHelp—Web Toolbar (Custom Settings)"
+      Link="/Content/Flare/Skins/More/Web-Toolbar-Settings-WebHelp-Output.htm" />
+    <TocEntry
+      Title="WebHelp Mobile—Number of TOC, Browse Sequence, or Index Items"
+      Link="/Content/Flare/Skins/More/Specifying-Number-Items-Next-to-TOC-Browse-Sequence-Index-Entries.htm" />
+    <TocEntry
+      Title="WebHelp Mobile—Topic Toolbar"
+      Link="/Content/Flare/Skins/More/Topic-Toolbars-WebHelp-Mobile-Output.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 8 Language Skins"
+    Link="/Content/Flare/Language-Support/About-Language-Skins.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Creating User-Defined Language Skins"
+      Link="/Content/Flare/Language-Support/Creating-User-Defined-Language-Skins.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Editing Language Skins"
+      Link="/Content/Flare/Language-Support/Editing-Language-Skins.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="Changing Text Strings in HTML5 Skins"
+      Link="/Content/Flare/Language-Support/Changing-Text-Strings-HTML5-Skins.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

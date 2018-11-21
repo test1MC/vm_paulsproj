@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="111" MadCap:lastWidth="1006">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../../Contributor/Documents/OpenDocumentTopic.flsnp" MadCap:conditions="Products.Contributor" />
+                <MadCap:snippetText src="../Topics/OpenContentFile.flsnp" MadCap:conditions="Products.Flare,Products.Analyzer" />
+            </li>
+            <li>Right-click on the image.</li>
+            <li>From the drop-down list, select <span class="Emphasis">Image Properties</span>. The Image Properties dialog opens.</li>
+        </ol>
+    </body>
+</html>

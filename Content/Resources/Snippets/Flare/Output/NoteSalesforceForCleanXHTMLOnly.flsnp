@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="377" MadCap:lastWidth="1186">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Salesforce does not support JavaScript or external stylesheets. Therefore, only the Clean XHTML format is fully supported. Also, it is recommended that you enable the option <span class="Emphasis">Convert stylesheet styles to inline styles</span>, which can be found on the General tab of the Target Editor. This will ensure that your styling is maintained when you publish the Clean XHTML output to Salesforce.</p>
+            <p>
+                <img src="../../../Images/Flare/clean-xhtml-convert-stylesheet-to-inline-styles.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>In addition, it is normally recommended that you set certain global properties (e.g., font size and type) on the body style in your stylesheet. That way, the settings trickle down to all of your other styles. However, the &lt;body&gt; tag will not be retained when you publish to Salesforce. Therefore, anything that you have originally set on your body style will need to instead be set on lower styles in the hierarchy (e.g., p, ul, div).</p>
+        </div>
+    </body>
+</html>

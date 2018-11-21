@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Pulse">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Pulse/TitlePulse.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Pulse/TitlePulse.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 1 Moderating (Approving/Rejecting) Posts"
+    Link="/Content/Shared/Pulse-Features/Moderation/Moderating-Posts.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberFormat="decimal">
+    <TocEntry
+      Title="Configuring Moderation—Rejection Reasons"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Moderation.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 2 Subscribing to Topics"
+    Link="/Content/Print-Only-Topics/Pulse/Whats-New/Subscribing-Communities.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+  <TocEntry
+    Title="CH 3 Published URL—Links Open Feeds in Context"
+    Link="/Content/Print-Only-Topics/Pulse/Whats-New/Published-URL.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+  <TocEntry
+    Title="CH 4 Files App Allows File Sharing"
+    Link="/Content/Print-Only-Topics/Pulse/Whats-New/Files-App.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+  <TocEntry
+    Title="CH 5 Profile Enhancements"
+    Link="/Content/Print-Only-Topics/Pulse/Whats-New/Profile-Enhancements.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+  <TocEntry
+    Title="CH 6 Other New Pulse Features"
+    Link="/Content/Print-Only-Topics/Pulse/Whats-New/Other-New-Pulse-Features.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"></TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Pulse/PDF-Guides/PDF-Guides-Pulse.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"></TocEntry>
+</CatapultToc>

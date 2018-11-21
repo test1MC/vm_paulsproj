@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Use the <span class="Emphasis">Format</span> field to select the format for the footnote number that is displayed in the text. If you want to use a different format for the number displayed next to the footnote comment, you can use the <span class="Emphasis">Format for number in comment</span> field. If you complete only the "Format" field, your setting will be used for both footnote numbers in the content. </p>
+    </body>
+</html>

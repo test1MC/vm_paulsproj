@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <ol class="LowerAlpha">
+            <li>In a cell containing multiple items (topic references), hold your <span class="Emphasis">CTRL</span> key and click the items that you want to group.</li>
+            <li>
+                <p>In the local toolbar click <img src="../../../Images/Shared/group_selected_items2_btn.png" class="ReduceButtonSize" />. The word "Group" is added to the cell.</p>
+                <p>
+                    <img src="../../../Images/Shared/relationship_table_example4.png" class="MaxWidth90Percent" />
+                </p>
+                <p>
+                    <img src="../../../Images/Shared/relationship_table_example_graph2.png" class="MaxWidth90Percent" />
+                </p>
+                <p>
+                    <img src="../../../Images/Shared/relationship_table_example5.png" class="MaxWidth90Percent" />
+                </p>
+                <p>
+                    <img src="../../../Images/Shared/relationship_table_example_graph3.png" class="MaxWidth90Percent" />
+                </p>
+            </li>
+        </ol>
+    </body>
+</html>

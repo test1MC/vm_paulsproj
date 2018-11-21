@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 1 About Reviews and Contributions"
+    Link="/Content/Flare/Reviews-Contributions/About-Reviews-Contributions.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="CH 2 Review Workflow-Sending to Others"
+    Link="/Content/Flare/Reviews-Contributions/Review-Workflow-Sending.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartSection="false">
+    <TocEntry
+      Title="Sending Files for Review"
+      Link="/Content/Flare/Reviews-Contributions/Reviews/Sending-Files-for-Review.htm" />
+    <TocEntry
+      Title="Viewing Reviewed Topics in the Inbox"
+      Link="/Content/Flare/Reviews-Contributions/Reviews/Viewing-Reviewed-Files-Inbox.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Accepting Reviewed Topics"
+      Link="/Content/Flare/Reviews-Contributions/Reviews/Accepting-Reviewed-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Merging Reviewed Topics"
+      Link="/Content/Flare/Reviews-Contributions/Reviews/Merging-Reviewed-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Viewing Topics Sent for Review"
+      Link="/Content/Flare/Reviews-Contributions/Reviews/Viewing-Files-Sent-for-Review.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing Reviewed Topics"
+      Link="/Content/Flare/Reviews-Contributions/Reviews/Importing-Reviewed-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Locking Elements"
+      Link="/Content/Flare/Locks/Locking-Elements.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Unlocking Elements"
+      Link="/Content/Flare/Locks/Unlocking-Elements.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3  ReviewWorkflow-Receiving from Others"
+    Link="/Content/Flare/Reviews-Contributions/Review_Workflow.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Returning Documents to Authors"
+      Link="/Content/Flare/Reviews-Contributions/Returning-Documents-to-Authors.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Contribution Workflow"
+    Link="/Content/Flare/Reviews-Contributions/Contribution-Workflow-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Creating and Sending Contribution Templates"
+      Link="/Content/Flare/Reviews-Contributions/Contributions/Creating-Sending-Contribution-Templates.htm" />
+    <TocEntry
+      Title="Sending Contribution Templates"
+      Link="/Content/Flare/Reviews-Contributions/Contributions/Sending-Contribution-Templates.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Viewing Contribution Files"
+      Link="/Content/Flare/Reviews-Contributions/Contributions/Viewing-Contribution-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Accepting Contribution Files"
+      Link="/Content/Flare/Reviews-Contributions/Contributions/Accepting-Contribution-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Viewing Contribution Templates"
+      Link="/Content/Flare/Reviews-Contributions/Contributions/Viewing-Contribution-Templates.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing Contribution Files"
+      Link="/Content/Flare/Reviews-Contributions/Contributions/Importing-Contribution-Files.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Annotations"
+    Link="/Content/Flare/Reviews-Contributions/Annotations/Inserting-Annotations.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Editing Annotations"
+      Link="/Content/Flare/Reviews-Contributions/Annotations/Editing-Annotations.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Hiding and Showing Changes and Annotations"
+      Link="/Content/Flare/Reviews-Contributions/Track-Changes/Hiding-Showing-Changes-Annotations.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Viewing Files with Annotations"
+      Link="/Content/Flare/Reviews-Contributions/Annotations/Viewing-Files-With-Annotations.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Deleting Annotations"
+      Link="/Content/Flare/Reviews-Contributions/Annotations/Deleting-Annotations.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Changing the User Color for Reviews"
+      Link="/Content/Flare/Reviews-Contributions/Changing-User-Color-for-Reviews.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Changing Your User Name and Initials"
+      Link="/Content/Flare/Reviews-Contributions/Changing-User-Name-Initials.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Finding Changes"
+      Link="/Content/Flare/Reviews-Contributions/Finding-Changes.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Track Changes"
+    Link="/Content/Flare/Reviews-Contributions/Track-Changes/About-Track-Changes.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Enabling Track Changes"
+      Link="/Content/Flare/Reviews-Contributions/Track-Changes/Enabling-Track-Changes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Accepting or Rejecting Tracked Changes"
+      Link="/Content/Flare/Reviews-Contributions/Track-Changes/Accepting-Rejecting-Tracked-Changes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Changing the Display of Tracked Changes"
+      Link="/Content/Flare/Reviews-Contributions/Track-Changes/Changing-Display-Tracked-Changes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Preserving Tracked Changes in PDF or Word Output"
+      Link="/Content/Flare/Reviews-Contributions/Track-Changes/Preserving-Tracked-Changes.htm" />
+    <TocEntry
+      Title="Viewing Files with Changes"
+      Link="/Content/Flare/Reviews-Contributions/Track-Changes/Viewing-Files-With-Changes.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

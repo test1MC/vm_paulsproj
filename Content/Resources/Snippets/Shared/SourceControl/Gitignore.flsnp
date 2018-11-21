@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="1" MadCap:lastHeight="51" MadCap:lastWidth="1274" MadCap:conditions="Products.Flare,Products.Central">
+    <body>When you bind a project to <MadCap:conditionalText MadCap:conditions="Snippets.Snippet15">Central</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet14">Flare using Git</MadCap:conditionalText>, a .gitignore text file is automatically created in your local project folder. Advanced users can edit the .gitignore file with a text editor to control which files or folders can be pushed to your Git repository. You can also specify which files and folders are ignored by Git, and are not pushed to the repository.</body>
+</html>

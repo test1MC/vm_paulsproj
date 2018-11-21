@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="581" MadCap:lastWidth="549">
+    <body>
+        <p>For most output types, you can adjust the positioning of content in the following ways:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Element positioning;Positioning:elements;Absolute positioning;Positioning:absolute" />Absolute Positioning </span>
+                <MadCap:snippetText src="../../Shared/Positioning/AbsolutePositioningSummaryShort.flsnp" /> See <MadCap:xref href="../../../../Flare/Positioning-Elements/Using-Absolute-Positioning-Elements.htm">Using Absolute Positioning on Elements</MadCap:xref>.</li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Floating:objects;Element positioning:floating" />Floats </span>
+                <MadCap:snippetText src="../../Shared/Positioning/FloatsSummaryShort.flsnp" /> See <MadCap:xref href="../../../../Flare/Positioning-Elements/Using-Floats-Positioning-Elements.htm">Using Floats for Positioning Elements</MadCap:xref>.</li>
+        </ul>
+        <p MadCap:conditions="General.OnlineOnly">
+            <MadCap:snippetText src="../../Shared/Positioning/EnablingObjectPositioningSummary.flsnp" /> See <MadCap:xref href="../../../../Flare/Positioning-Elements/Enabling-Object-Positioning.htm">Enabling Object Positioning</MadCap:xref>.</p>
+        <MadCap:dropDown MadCap:conditions="General.OnlineOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also position paragraphs and autonumbers. See <MadCap:xref href="../../../../Flare/Autonumbers/Creating-Auto-Number-Formats-for-Styles.htm">Creating Autonumber Formats for Styles</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareStylesGuide" />
+    </body>
+</html>

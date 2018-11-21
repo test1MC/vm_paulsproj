@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="1085" MadCap:lastWidth="1218">
+    <body>
+        <p>In the Skin Editor, you can change the color and size for the arrows used for the tree format.</p>
+        <ol>
+            <li>Open an HTML5 Top Navigation skin.</li>
+            <li>Select the <span class="Emphasis">Styles</span> tab.</li>
+            <li>
+                <p>At the top of the Skin Editor, select either <span class="Emphasis">Tablet Medium</span> or <span class="Emphasis">Mobile Medium</span>.</p>
+                <p>If you want the same style to be used for both tablet and mobile outputs, make your edits in the Tablet medium. Your changes will then be inherited by the Mobile medium.</p>
+                <p>If you want different styles for the two outputs. make your changes in one medium, then switch to the other medium and make different selections.</p>
+                <p>
+                    <img src="../../../Images/Flare/slide_out_tree_view6.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" />
+            <li>
+                <p>On the left side of the editor, in the <span class="Emphasis">Navigation</span> section, expand <span class="Emphasis">Navigation Panel Item</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/slide_out_tree_view7.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" />
+            <li>
+                <p>Click the arrow next to <span class="Emphasis">Expander Icon</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/slide_out_tree_view8.png" alt="" title="" class="MaxWidth80Percent" />
+                </p>
+            </li>
+            <li>To change the color of the arrows, expand <span class="Emphasis">Color</span>. Then use the fields to choose a color.</li>
+            <li>To change the size of the arrows, expand <span class="Emphasis">Width</span>. Then use the fields to set the width. The height will be adjusted automatically.</li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

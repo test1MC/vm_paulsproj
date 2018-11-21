@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="658" MadCap:lastWidth="914">
+    <body>
+        <MadCap:snippetBlock src="../../Shared/Tables/ResetLocalCellFormattingSummary.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to reset local cell formatting</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol type="1" class="Decimal">
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Topics/OpenContentFile.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        <MadCap:snippetBlock src="../../Shared/Tables/ResetLocalCellFormattingOptions.flsnp" />
+                        <MadCap:snippetBlock src="../../Shared/Tables/ResetLocalCellFormattingExample.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp">
+                        </MadCap:snippetText>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../../Shared/Tables/NoteResetLocalCellFormatting.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Local-Formatting/Removing-Inline-Formatting.htm">Removing Inline Formatting</MadCap:xref>.</MadCap:conditionalText></p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo">
+    <body>
+        <p>This dialog may open if you are binding your <MadCap:variable name="Other.Product" /> project to source control. Use the dialog to enter the user name and password required for accessing the server where the source control files are located.</p>
+    </body>
+</html>

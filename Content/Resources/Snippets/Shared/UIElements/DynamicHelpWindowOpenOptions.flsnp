@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.HelpViewer,Products.Lingo,Products.Mimic,Products.MovieViewer,Products.Pulse">
+    <body>
+        <ul>
+            <li><span class="SetOffFirstLevel">Ribbon </span>Select the <span class="Emphasis">Help</span> ribbon. In the <span class="Emphasis">Topics</span> section, select <span class="Emphasis">Dynamic Help</span>.</li>
+            <li><span class="SetOffFirstLevel">Keyboard Shortcut </span>Press <span class="Emphasis">CTRL+F3</span> on your keyboard.</li>
+        </ul>
+    </body>
+</html>

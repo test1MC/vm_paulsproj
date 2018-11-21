@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/Flare/FrameMaker/Moving-from-FM-to-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="(multiple)"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="CH 2 About Flare and FrameMaker"
+    Link="/Content/Flare/FrameMaker/About-MadCap-and-FrameMaker.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 3 Before You Import"
+    Link="/Content/Flare/FrameMaker/Before-You-Import.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Creating Drop-Down Effects in FrameMaker Source Documents"
+      Link="/Content/Flare/Importing/More-FrameMaker/Creating-Drop-Down-Effects-in-FM.htm" />
+    <TocEntry
+      Title="Creating Hyperlinks in FrameMaker Source Documents"
+      Link="/Content/Flare/Importing/More-FrameMaker/Creating-Hyperlinks-in-FM-Source-Documents.htm" />
+    <TocEntry
+      Title="Creating Passthrough Markers in FrameMaker Source Documents"
+      Link="/Content/Flare/Importing/More-FrameMaker/Creating-Passthrough-Markers-in-FM.htm" />
+    <TocEntry
+      Title="Creating Topic Alias Markers in FrameMaker for Context-Sensitive Help"
+      Link="/Content/Flare/Importing/More-FrameMaker/Creating-Topic-Alias-Markers-for-CSH.htm" />
+    <TocEntry
+      Title="Specifying Custom File Names for FrameMaker Imports"
+      Link="/Content/Flare/Importing/More-FrameMaker/Specifying-Custom-Filenames-FM-Imports.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 As You Import"
+    Link="/Content/Flare/FrameMaker/As-You-Import.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="CH 5 Importing FrameMaker Documents"
+    Link="/Content/Flare/Importing/Importing-FM-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 6 After You Import"
+    Link="/Content/Flare/FrameMaker/After-You-Import.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 7 FAQs for FrameMaker Users"
+    Link="/Content/Print-Only-Topics/Flare/FAQs-FM.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

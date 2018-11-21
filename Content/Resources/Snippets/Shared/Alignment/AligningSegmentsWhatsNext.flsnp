@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <p>After you align segments, you should upload them to your translation memory database. If you select specific segments and click <img src="../../../Images/Shared/upload_file_btn.png" class="ReduceButtonSize" /> in the local toolbar, only those translations will be uploaded. If you click <img src="../../../Images/Shared/upload_selected_btn.png" class="ReduceButtonSize" /> in the local toolbar, all translations in the file will be uploaded.</p>
+    </body>
+</html>

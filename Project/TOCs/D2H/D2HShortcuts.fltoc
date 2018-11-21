@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  conditions="Products.D2H">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/D2H/TitleD2H.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Shortcuts"
+    Link="/Content/Print-Only-Topics/D2H/Shortcuts/Keyboard-Shortcuts.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/CheatSheetLetterFirstPage2Columns2.flpgl"></TocEntry>
+  <TocEntry
+    Title="Shortcuts2"
+    Link="/Content/Print-Only-Topics/D2H/Shortcuts/Keyboard-Shortcuts2.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/CheatSheetLetter1Column2.flpgl" />
+</CatapultToc>

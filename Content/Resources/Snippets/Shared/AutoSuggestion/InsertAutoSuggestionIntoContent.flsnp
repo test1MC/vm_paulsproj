@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>When you begin typing in a content file, the Auto Suggestion popup opens if <MadCap:variable name="Other.Product" /> finds matching text in an auto suggestion list file, snippet, or variable. You can then choose a match from the popup and insert it into your document.</p>
+    </body>
+</html>

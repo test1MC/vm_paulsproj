@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="9" MadCap:lastHeight="391" MadCap:lastWidth="908">
+    <body>
+        <p class="Subheading">Two Doc-To-Help Ribbons</p>
+        <p>When I&#160;open a document in Word, I see two Doc-To-Help ribbons.</p>
+        <p class="Subheading">Cause</p>
+        <p>
+            <MadCap:snippetText src="../2Ribbons1.flsnp" />
+        </p>
+        <p>
+            <MadCap:snippetText src="../2Ribbons2.flsnp" />
+        </p>
+        <p class="Subheading">Solution</p>
+        <p>Update your document's source template and your project's target template to a DOTX&#160;template.  You can use the Word Organizer to import your styles from your old template to your new template. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../D2H/Templates/Selecting-Templates-D2H.htm">Selecting Templates</MadCap:xref> and <MadCap:xref href="../../../../D2H/Templates/Copying-Styles-to-New-Template.htm">Copying Custom Styles to a New Template</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

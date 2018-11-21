@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="1858" MadCap:lastWidth="932">
+    <body>
+        <p>
+            <MadCap:snippetText src="../../Shared/Styles/ApplyTableStylesSummary1.flsnp" />&#160;<MadCap:snippetText src="../../Shared/Styles/ApplyTableStylesSummary2.flsnp" /></p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Tables:styles;Styles:tables" />how to apply a table stylesheet—one table at a time</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Shared/Styles/ApplyTableStylesheetOneTableAtTime.flsnp" />
+                </p>
+                <ol type="1" class="Decimal">
+                    <li>Open the topic where a table has been inserted.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/UIElements/EnableTagBlockBarsStep.flsnp" />
+                    </li>
+                    <li>
+                        <p>Right-click the <span class="Emphasis">table</span> tag bar.</p>
+                        <p>
+                            <img src="../../../Images/Flare/table_block_bar.png" class="MaxWidth90Percent" />
+                        </p>
+                    </li>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        <ul type="1" class="FirstLevel">
+                            <li>
+                                <p>
+                                    <MadCap:snippetText src="../../Shared/Styles/ApplyTableStylesheetOneTableAtTimeStep.flsnp" />
+                                </p>
+                                <p>OR</p>
+                            </li>
+                        </ul>
+                        <MadCap:snippetBlock src="../../Shared/Styles/ApplyTableStylesheetOneTableAtTimeStep2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to apply a table stylesheet—multiple tables and files</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../../Shared/Styles/ApplyTableStylesheetMultipleTables.flsnp" />
+                <ol type="1" class="Decimal">
+                    <li>Open the table stylesheet that you want to apply.</li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Styles/ApplyTableStylesheetMultipleTablesStep.flsnp" />
+                        </p>
+                        <p>
+                            <img src="../../../Images/Shared/apply-table-stylesheet-example1.png" class="MaxWidth100Percent" />
+                        </p>
+                        <MadCap:snippetBlock src="../../Shared/Styles/ApplyTableStylesheetMultipleTablesStep2.flsnp" />
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareTablesGuide" />
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Styles/ApplyTableStylesheetMultipleTablesStep3.flsnp" /> </p>
+                        <p>You can also select either of the following options in the dialog.</p>
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">Overwrite existing table styles </span>
+                                <MadCap:snippetText src="../../Shared/Styles/ApplyTableStylesheetMultipleTablesStep4.flsnp" />&#160;<MadCap:snippetText src="../../Shared/Styles/ApplyTableStylesheetMultipleTablesStep5.flsnp" /><MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../../../../Flare/Output/Printed-Output/Setting-Table-Styles-Print-Output.htm">Creating Table Styles for Print Output</MadCap:xref> and <MadCap:xref href="../../../../Flare/Styles/Mediums/About-Mediums-Media-Queries.htm">About Stylesheet Mediums</MadCap:xref>)</MadCap:conditionalText>. <MadCap:snippetText src="../../Shared/Styles/ApplyTableStylesheetMultipleTablesStep6.flsnp" /></li>
+                            <li><span class="SetOffFirstLevel">Remove local formatting </span>
+                                <MadCap:snippetText src="../../Shared/Styles/ApplyTableStylesheetMultipleTablesStep7.flsnp" />
+                            </li>
+                        </ul>
+                        <p>
+                            <img src="../../../Images/Shared/apply-table-stylesheet-example2.png" class="MaxWidth50Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

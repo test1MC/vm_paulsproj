@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li>Place your cursor in the table where you want to insert the column. Doing this will insert only one column.</li>
+            <li>In a table, click and drag to select the number of columns you want to add (e.g., if you want to insert three columns, select three in the table). You do not need to select entire columns, just portions of them.</li>
+        </ul>
+    </body>
+</html>

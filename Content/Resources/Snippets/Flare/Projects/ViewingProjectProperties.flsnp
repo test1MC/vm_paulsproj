@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="493" MadCap:lastWidth="882">
+    <body>
+        <ol>
+            <li>Open the project in MadCap Flare.</li>
+            <li>Open the MadCap Central window pane (<span class="Emphasis">View &gt; MadCap Central</span>).</li>
+            <li>
+                <p>If you are not already logged in to Central, log in to your account. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Central/Logging-In-and-Out-of-Central.htm">Logging In and Out of Central in Flare</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>Once you are logged in, the project's properties appear in the MadCap Central window pane. You can view the following properties:</p>
+                <MadCap:snippetBlock src="../../Shared/Projects/CentralProjectProperties.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

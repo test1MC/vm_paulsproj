@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1141">
+    <body>
+        <p>(Optional) If you plan to use the publishing destination feature to automatically copy your generated output files to a specific location, make sure you have already created the destination file and associated it with your target.<MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Output/Creating-Publishing-Destinations.htm">Creating Publishing Destinations</MadCap:xref> and <MadCap:xref href="../../../../Flare/Output/Associating-Publishing-Destinations-Targets.htm">Associating Publishing Destinations with Targets</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

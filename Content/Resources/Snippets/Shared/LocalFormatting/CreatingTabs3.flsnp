@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>If you are in a paragraph—but not at the very beginning of it—and you press the Tab key, the Create Group dialog opens. This allows you to select one of the available block tags (blockquote, div, fieldset, form). These tags let you create block-level content in a unique "container" for different purposes.</p>
+    </body>
+</html>

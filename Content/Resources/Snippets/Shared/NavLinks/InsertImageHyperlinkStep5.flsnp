@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>(Optional) Next to the<span class="Emphasis"> Style Class</span> field, click the <span class="Emphasis">Select</span> button. This opens the Select Class dialog, which lets you apply one of the defined hyperlink styles (a.NameOfStyleClass) from your stylesheet to the link. After you select a style class in the dialog, click <span class="Emphasis">OK</span>. The Style Class field displays the selected style. (If you do not specify a style class, <MadCap:variable name="Other.Product" /> uses the parent "a" style.)</p>
+    </body>
+</html>

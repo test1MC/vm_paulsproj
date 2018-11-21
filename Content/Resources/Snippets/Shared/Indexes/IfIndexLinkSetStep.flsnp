@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>If you already have an index link set in your project, skip to step 11. The index links you create at this point will be added to the first index link set listed in the Advanced folder of the Project Organizer (if there is more than one index link set).</p>
+    </body>
+</html>

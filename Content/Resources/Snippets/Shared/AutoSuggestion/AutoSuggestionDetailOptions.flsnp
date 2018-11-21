@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Max Suggestions</span> Enter the maximum number of suggestions that you want to be displayed in the popup at any given time. You can enter a number from 1 to 25.</li>
+            <li><span class="SetOffFirstLevel">Min Character Length</span> Enter the minimum number of characters that must be typed before the popup opens to display matching phrases, variables, or snippets. You can enter a number from 3 to 12.</li>
+        </ul>
+    </body>
+</html>

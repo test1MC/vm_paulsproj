@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <ul>
+            <li><span class="SetOffFirstLevel">Simple Sort </span>You can sort rows in ascending or descending order, numerically and alphabetically (numbers are first, then letters).</li>
+            <li><span class="SetOffFirstLevel">Advanced Sort </span>
+                <MadCap:snippetText src="AdvancedSorting.flsnp" />
+            </li>
+        </ul>
+    </body>
+</html>

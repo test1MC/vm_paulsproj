@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="109" MadCap:lastWidth="572" MadCap:conditions="Products.Flare,Products.Contributor">
+    <head>
+    </head>
+    <body>
+        <p>Opens the Insert Rule dialog, which lets you insert a rule (horizontal line) into a <MadCap:snippetText src="../Topics/ContentFileDocument.flsnp" />. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Horizontal-Rules/Inserting-Horizontal-Rules.htm" target="" title="" alt="">Inserting Horizontal Rules</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Horizontal-Rules/Inserting-Horizontal-Rules.htm">Inserting Horizontal Rules</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

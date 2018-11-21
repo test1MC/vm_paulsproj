@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo">
+    <body>
+        <p>You can scan a project when you open it to see if it has any bindings to source control. If a binding is detected, you can apply the binding and commit the project to source control.</p>
+    </body>
+</html>

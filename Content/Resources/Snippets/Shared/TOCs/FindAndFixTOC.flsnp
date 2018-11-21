@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>What if you do not want it to find the unlinked books, but rather the broken items only? In that case, simply click the <span class="Emphasis">Show Unlinked Books</span> button <img src="../../../Images/Shared/show_unlinked_books_btn.png" class="ReduceButtonSize" />. This hides the unlinked book icons. Therefore, when you click the Find Previous Warning or Find Next Warning button, it will skip over the unlinked books and move to the previous or next broken item.</p>
+    </body>
+</html>

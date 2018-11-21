@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo">
+    <body>
+        <p>Use the following steps if you have already created a <MadCap:variable name="Other.Product" /> project and want to bind ("connect") it to Git. You can also automatically detect existing source control bindings if your project has been previously connected to Git.</p>
+    </body>
+</html>

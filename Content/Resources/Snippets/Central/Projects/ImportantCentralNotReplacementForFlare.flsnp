@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="251" MadCap:lastWidth="642">
+    <body>
+        <div class="warning">
+            <p class="importantInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Red;&quot; class=&quot;mcFormatColor&quot;&gt;Important: &lt;/span&gt;&lt;/b&gt;">Central is not a replacement for your desktop Flare application. You continue to author your project content locally in Flare. If you are working in a single-bound model, you then commit your files and synchronize (pull, push) your changes with the cloned project on Central. If you are working in a dual-bound model, you use your normal (third-party) source control tool to synchronize your files and then use Flare to push those changes to Central. Whichever method you use, this ensures that your files are up-to-date in Central before you build output. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Central/Projects/Committing-Synchronizing-Single-Bound.htm">Committing and Synchronizing (Pull, Push) in a Single-bound Model</MadCap:xref> and <MadCap:xref href="../../../../Central/Projects/Pushing-Dual-Bound-Model.htm">Pushing in a Dual-bound Model</MadCap:xref>.</MadCap:conditionalText></p>
+        </div>
+    </body>
+</html>

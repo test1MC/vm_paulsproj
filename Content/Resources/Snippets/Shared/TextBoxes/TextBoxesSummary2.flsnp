@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>When you insert a text box, you can make selections to affect the look of the box (e.g., border background, size). In addition, text boxes are based on <MadCap:keyword term="DIV tag" />div styles that you can select when inserting them. Therefore, you can always change the settings on a div style to automatically modify the look of all text boxes using that same div style.</p>
+    </body>
+</html>

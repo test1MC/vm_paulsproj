@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare">
+    <body>
+        <p>You might use standard HTML table tags in a regular stylesheet if you want all tables to follow the same behavior when it comes to breaks. On the other hand, you might use table style settings if you have complex tables and patterns requiring some table elements to break in a certain way and other elements to behave differently.</p>
+    </body>
+</html>

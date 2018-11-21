@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>A table stylesheet lets you create a look that can be applied to several tables throughout your project. If you need to change the look of general topic content, you can use a regular stylesheet instead. In fact, a regular stylesheet is another way to control the look of tables.</p>
+    </body>
+</html>

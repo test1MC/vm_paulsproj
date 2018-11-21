@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <ol>
+            <li value="3">Select the <span class="Emphasis">General</span> tab.</li>
+            <li>
+                <MadCap:snippetText src="SelectAllForPageSettingsStep.flsnp" />
+            </li>
+            <li>Use the <span class="Emphasis">Page Size</span> section to enter settings.<ul class="FirstLevel"><li><span class="SetOffFirstLevel">Page Size </span><MadCap:snippetText src="PageSizeDescription.flsnp" /></li><li><span class="SetOffFirstLevel">Custom Width </span><MadCap:snippetText src="CustomWidthDescription.flsnp" /></li><li><span class="SetOffFirstLevel">Custom Height </span><MadCap:snippetText src="CustomHeightDescription.flsnp" /></li><li><span class="SetOffFirstLevel">Orientation </span><MadCap:snippetText src="OrientationDescription.flsnp" /></li></ul></li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

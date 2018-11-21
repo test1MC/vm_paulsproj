@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="82" MadCap:lastWidth="979" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Select this if you want a web page to open in the end user's browser. After selecting this option, complete the following.</p>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Content</span> Type the website path (e.g., http://mycompany.com).</li>
+        </ul>
+    </body>
+</html>

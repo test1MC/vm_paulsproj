@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="284" MadCap:lastWidth="979" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Following are some possible uses for QR codes.</p>
+        <ul>
+            <li>You create a PDF manual that includes links directing users to your company's website. But you want users to be able to quickly open those links without having to type in the entire URL. So instead of regular hyperlinks, in your PDF you use QR codes.</li>
+            <li>You create a quick start guide and are limited to a couple pages. At the bottom of each page, step, or procedure, there is a QR code that people can use to access more detailed information on that topic. </li>
+            <li MadCap:conditions="Products.Flare">You publish your entire Help system on a website. You have users who need access to that information when they are "out in the field." So they scan a QR code that opens the URL where your Help system is published.</li>
+            <li>You have a procedures manual with QR codes that, when scanned, open movies showing the procedures in action. </li>
+            <li>You have a QR code at the bottom of a document takes users straight to a website where they can purchase a particular part or product.</li>
+        </ul>
+    </body>
+</html>

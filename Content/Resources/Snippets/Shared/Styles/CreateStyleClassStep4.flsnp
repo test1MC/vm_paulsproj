@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>If you want the new style to immediately be applied to the content selected in the topic, select <span class="Emphasis">Create style and update the source element</span>. If you do not want the new style to immediately be applied to the content selected in the topic, select <span class="Emphasis">Create style without updating the source element</span>.</p>
+    </body>
+</html>

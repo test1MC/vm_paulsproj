@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Pulse,Products.Flare" MadCap:lastBlockDepth="6" MadCap:lastHeight="98" MadCap:lastWidth="605" MadCap:fileTags="Pulse/PulseTopicAuthor.Kate">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="PulseDashLoginAdmin.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Shared/Pulse-Features/Getting-Started/Logging-in-Pulse.htm">Logging In to Pulse</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>Select <span class="Emphasis">Administration &gt; Settings</span>. The Settings page opens.</li>
+        </ol>
+    </body>
+</html>

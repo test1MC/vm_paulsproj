@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare">
+    <body>
+        <p>The first step in using styles in your topics is to add a new stylesheet. However, if a stylesheet was included in the template when you created the project, you can use that one instead of creating a new one.</p>
+    </body>
+</html>

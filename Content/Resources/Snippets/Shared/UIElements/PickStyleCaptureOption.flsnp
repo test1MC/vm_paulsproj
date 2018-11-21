@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture,Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="169" MadCap:lastWidth="704">
+    <head>
+    </head>
+    <body>
+        <p>Lets you pick a style for the selected shape. You can choose from factory styles or from any styles you've added to your palettes. <MadCap:conditionalText MadCap:conditions="Products.Capture">See <MadCap:xref href="../../../../Capture/Appearance/Look-of-Objects/Selecting-Styles-for-Objects-Capture.htm" target="" title="" alt="">Selecting Styles for Objects</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic">See <MadCap:xref href="../../../../Mimic/Appearance/Look-of-Objects/Selecting-Styles-for-Objects-Mimic.htm">Selecting Styles for Objects</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

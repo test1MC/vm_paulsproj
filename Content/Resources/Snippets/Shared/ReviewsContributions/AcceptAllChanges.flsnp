@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul style="list-style-type: square;">
+            <li>
+                <MadCap:snippetText src="../UIElements/SelectReviewRibbon.flsnp" /> In the <span class="Emphasis">Changes</span> section select <span class="Emphasis">Accept Change &gt; Accept All Changes</span>.</li>
+        </ul>
+    </body>
+</html>

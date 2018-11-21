@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Let's say you are generating a sensitive legal document, and the names of individuals and other personal information need to be hidden. In that case, you can perform redaction for those areas so that they are blacked out when you build the output.</p>
+            <p>Here is what a topic with redacted text might look like in the output:</p>
+            <p>
+                <img src="../../../Images/Shared/redacted_text_example.png" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

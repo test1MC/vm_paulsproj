@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.AllProducts" MadCap:lastBlockDepth="3" MadCap:lastHeight="404" MadCap:lastWidth="1484">
+    <body>
+        <p>See the following for general information about <MadCap:variable name="Other.CompanyName" /> and this release of <MadCap:variable name="Other.Product" />.</p>
+        <p style="font-weight: bold;"><MadCap:variable name="Other.CompanyName" />
+        </p>
+        <div class="IndentSmall">
+            <p class="NoMargin"><MadCap:variable name="Other.Address1" />
+            </p>
+            <p class="NoMargin"><MadCap:variable name="Other.Address2" />
+            </p>
+            <p class="NoMargin">Toll Free: <MadCap:variable name="Other.PhoneNumber1" /></p>
+            <p class="NoMargin">Tel: <MadCap:variable name="Other.PhoneNumber2" /></p>
+            <p class="NoMargin">Fax: <MadCap:variable name="Other.FaxNumber" /></p>
+            <p class="NoMargin"><a href="http://www.madcapsoftware.com/" target="_blank">www.madcapsoftware.com</a>
+            </p>
+        </div>
+        <p style="font-weight: bold;">MadCap <MadCap:variable name="Other.Product" /> <MadCap:variable name="Other.VersionNumberDot" /></p>
+        <div class="IndentSmall">
+            <p class="NoMargin">Copyright © <MadCap:variable name="Other.Yr" />&#160;<MadCap:variable name="Other.CompanyName" /></p>
+            <p class="NoMargin">Help System Last Updated on <MadCap:variable name="Other.LastUpdated" /></p>
+        </div>
+    </body>
+</html>

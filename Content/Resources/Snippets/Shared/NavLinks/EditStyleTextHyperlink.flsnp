@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>The second way to edit a text hyperlink is to edit the style (e.g., font, color) of the hyperlink. When you edit the style for a text hyperlink, the style changes for all text hyperlinks<MadCap:conditionalText MadCap:conditions="Products.Flare"> in any topics in your project</MadCap:conditionalText>. </p>
+    </body>
+</html>

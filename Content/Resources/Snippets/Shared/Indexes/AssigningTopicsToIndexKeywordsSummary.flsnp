@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="139" MadCap:lastWidth="739" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>After you add index keywords or subkeywords in the Index window pane, you can assign topics to them. There are two methods for doing this.</p>
+        <ul>
+            <li>Context menu in Index window pane</li>
+            <li>Drag from Content Explorer</li>
+        </ul>
+    </body>
+</html>

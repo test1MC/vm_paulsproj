@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="184" MadCap:lastWidth="848">
+    <body>
+        <p>Specify the length at which a line is considered "long enough." For example, let's say you have specified 8 characters as the length of a short line, and you have specified 15 characters as the length of a long line. In that case, <MadCap:variable name="Other.Product" /> will not allow the final line in a paragraph to have only 8 characters, and when you type content so that the text wraps around to a new line, the paragraph is automatically adjusted so that the new line always starts at a minimum of 15 characters.</p>
+    </body>
+</html>

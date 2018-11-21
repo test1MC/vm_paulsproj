@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartSection="false"
+    PageNumber="1"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageNumberReset="reset"
+    PageNumber="1"
+    PageType="normal"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="1"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 1 About HTML Help Output"
+    Link="/Content/Flare/Output/HTML-Help-Output/About-HTML-Help-Output.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    StartSection="false"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartPageLayout="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    PageNumberFormat="decimal"></TocEntry>
+  <TocEntry
+    Title="CH 2 CSH Calls for HTML Help"
+    Link="/Content/Flare/CSH/HTML-Help-CSH-Calls/CSH-Calls-HTML-Help.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="CSH Calls for HTML Help—Developers"
+      Link="/Content/Flare/CSH/HTML-Help-CSH-Calls/CSH-Calls-HTML-Help-Developers.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Linking Tasks for HTML Help"
+    Link="/Content/Flare/TOCs/More/Linking-to-CHM-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Merging Output from HTML Help Projects"
+      Link="/Content/Flare/TOCs/More/Merging-Output-from-HTML-Help-Projects.htm" />
+    <TocEntry
+      Title="Selecting an Icon for a TOC Entry in HTML Help Output"
+      Link="/Content/Flare/TOCs/More/Selecting-Icon-TOC-Entry-HTML-Help-Output.htm" />
+    <TocEntry
+      Title="Selecting an Icon for a Browse Sequence Entry in HTML Help Output"
+      Link="/Content/Flare/Browse-Sequences/More/Selecting-an-Icon-for-a-Browse-Sequence-Entry-in-HTML-Help-Output.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Skin Tasks for HTML Help"
+    Link="/Content/Flare/Skins/More/Adding-Web-Toolbar-to-HTML-Help-Output.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Specifying Custom Toolbar Settings for HTML Help Output"
+      Link="/Content/Flare/Skins/More/Web-Toolbar-Settings-HTML-Help-Output.htm" />
+    <TocEntry
+      Title="Specifying Buttons for HTML Help Output"
+      Link="/Content/Flare/Skins/Specifying-Buttons-HTML-Help-Output.htm" />
+    <TocEntry
+      Title="Specifying Navigation Pane Settings for HTML Help Output"
+      Link="/Content/Flare/Skins/More/Specifying-Navigation-Pane-Settings-HTML-Help-Output.htm" />
+    <TocEntry
+      Title="Specifying How the TOC Looks in the HTML Help Output"
+      Link="/Content/Flare/Skins/More/Specifying-How-TOC-Looks-HTML-Help-Output.htm" />
+    <TocEntry
+      Title="Enabling User-Defined Window Position and Size for HTML Help Output"
+      Link="/Content/Flare/Skins/More/Enabling-User-Defined-Window-Position-Size-HTML-Help-Output.htm" />
+    <TocEntry
+      Title="Including Bookmarks in Index Entries"
+      Link="/Content/Flare/Skins/More/Including-Bookmarks-Index-Entries.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Target Tasks for HTML Help"
+    Link="/Content/Flare/Targets/More/Displaying-Merged-Navigation-HTML-Help.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Patching Style Sheets and Image Links for HTML Help"
+      Link="/Content/Flare/Targets/More/Patching-Stylesheets-Image-Links-HTML-Help.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="APPENDIX Output_Type_Tables"
+    Link="/Content/Print-Only-Topics/Flare/Output-Type-Tables.htm"
+    StartPageLayout="false"
+    BreakPageLayout="/Content/Resources/PageLayouts/ChaptersLandscapeGreen.flpgl"
+    StartSection="false"
+    StartChapter="true"
+    BreakPageType="normal"
+    PageLayout="/Content/Resources/PageLayouts/Shared/AppendixLandscape.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    AutoEndOnLeftPage="disabled"
+    PageType="firstright" />
+</CatapultToc>

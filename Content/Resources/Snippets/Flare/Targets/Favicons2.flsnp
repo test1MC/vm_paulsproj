@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="13" MadCap:lastHeight="792" MadCap:lastWidth="1373">
+    <head>
+    </head>
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul>
+                    <li><span class="SetOffFirstLevel">Ribbon </span>
+                        <MadCap:snippetText src="../../Shared/UIElements/SelectProjectRibbon.flsnp" /> In the <span class="Emphasis">Content</span> section select <span class="Emphasis">New &gt; Skin</span>. </li>
+                    <li><span class="SetOffFirstLevel">Right-Click </span>In the Project Organizer, right-click on the <span class="Emphasis">Skins</span> folder and from the context menu select <span class="Emphasis">Add Skin</span>.</li>
+                </ul>
+                <p>The Add File dialog opens.</p>
+            </li>
+            <li>In the <span class="Emphasis">File Type</span> field at the top, make sure <span class="Emphasis">Skin</span> is selected.</li>
+            <li>In the <span class="Emphasis">Source</span> area select <span class="Emphasis">New from template</span>.</li>
+            <li>
+                <p>Under <span class="Emphasis">Factory Templates</span>, select <span class="Emphasis">HTML5 Component - Favicons</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/favicon3.png" alt="" title="" class="MaxWidth90Percent" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/SelectSubfolderProjectOrganizerStep.flsnp" />
+            </li>
+            <li>In the <span class="Emphasis">File Name</span> field, type a new name for the skin component.</li>
+            <li>(Optional) <MadCap:snippetText src="../Conditions/SelectRelevantConditionTags.flsnp" /> <MadCap:snippetText src="../../Shared/StepsGeneral/ClickOK.flsnp" /><MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Conditions/Applying-Condition-Tags-to-Content.htm">Applying Conditions to Content</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>(Optional) <MadCap:snippetText src="../FileTags/SelectRelevantFileTags.flsnp" />&#160;<MadCap:snippetText src="../../Shared/StepsGeneral/ClickOK.flsnp" /><MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/File-Tagging/Associating-Tags-with-Files.htm">Associating Tags with Files</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>Click <span class="Emphasis">Add</span>. The skin component is added to the Skins folder in the Project Organizer. The Favicon Skin Editor opens to the right. Continue with the steps for editing the skin component.</li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo">
+    <body>
+        <p>Because <MadCap:variable name="Other.Product" /> uses an open architecture,  <MadCap:variable name="Other.Product" /> projects are compatible with all source control systems. In addition to this native support for all source control applications, <MadCap:variable name="Other.Product" /> provides integrated support with some source control applications. </p>
+    </body>
+</html>

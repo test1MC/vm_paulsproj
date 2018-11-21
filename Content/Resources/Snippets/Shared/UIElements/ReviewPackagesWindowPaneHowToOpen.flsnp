@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="113" MadCap:lastWidth="979" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>
+            <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowing.flsnp" />
+        </p>
+        <ul>
+            <li>Open a review package file received from an author.</li>
+            <li>
+                <MadCap:snippetText src="SelectReviewRibbon.flsnp" /> In the <span class="Emphasis">Packages</span> section select <span class="Emphasis">Review Packages</span>.</li>
+        </ul>
+    </body>
+</html>

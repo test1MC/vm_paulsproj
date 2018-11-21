@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>SharePoint is like a scaled-down version of a source control tool, with the ability to check out and check in files. Many organizations use a source control tool to manage files that are part of products and will be shipped to customers, while using SharePoint mostly for internal files to be shared among colleagues. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">For more information see <a href="http://sharepoint.microsoft.com/" target="_blank">www.sharepoint.microsoft.com</a>.</MadCap:conditionalText></p>
+    </body>
+</html>

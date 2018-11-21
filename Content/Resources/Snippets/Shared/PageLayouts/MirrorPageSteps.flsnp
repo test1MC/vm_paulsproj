@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="OpenPageLayoutStep.flsnp" />
+            </li>
+            <li>Open the page that you want to mirror. (You can click a small rectangle to the right of the layout to open its different pages.)</li>
+            <li>In the local toolbar, click the down arrow next to the <span class="Emphasis">Page Properties</span> button <img src="../../../Images/Shared/page_properties_btn.png" class="ReduceButtonSize" />.</li>
+            <li>From the drop-down select <span class="Emphasis">Mirror Page</span>.A new page is added to the page layout. A small rectangle is added to the right of the page layout, which can be used to open the new page.</li>
+        </ol>
+    </body>
+</html>

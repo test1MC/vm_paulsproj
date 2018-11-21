@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="522" MadCap:lastWidth="1076">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature_Supported/DotNet_HTMLHelp_HTML5_WebHelp_WHPlus_WHAIR.flsnp" />
+        <p>
+            <MadCap:snippetText src="../../Shared/Skins/SkinSynchronizeSummary.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to synchronize the toc with open topics</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open a Standard or <MadCap:variable name="Outputs.HTML5" /> skin.</li>
+                    <li>On the <span class="Emphasis">General</span> tab of the Skin Editor, select the check box next to <span class="Emphasis">Automatically Synchronize TOC</span>. </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../HTML5/NoteFeatureNotSupportedInTopNavSkins.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.OnlineOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>Make sure that you associate the skin with the target. See <MadCap:xref href="../../../../Flare/Skins/Associating-Skins-with-Targets.htm" target="" title="" alt="">Associating Skins with Targets</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.RemoveFromTopicsThenDeleteThis">
+            <MadCap:conceptLink term="Skins" />
+        </p>
+    </body>
+</html>

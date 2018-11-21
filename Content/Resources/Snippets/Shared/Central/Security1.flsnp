@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Central,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="273" MadCap:lastWidth="1244">
+    <body>
+        <p MadCap:conditions="Snippets.Snippet1">MadCap Central leverages the security, power, and flexibility of the cloud to mitigate or eliminate many of the technical hurdles faced by both content creators and information technology professionals. The overhead traditionally associated with managing complex systems can hinder the ability to create content and deliver content efficiently. The goal of this<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> topic</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.PrintOnly"> document</MadCap:conditionalText> is to provide a high-level overview of the ways that Central addresses these challenges.</p>
+        <p>Security and privacy are top priorities at MadCap Software, especially when providing customers with a cloud-based system in Central. We are committed to keeping your files, data, and communications secure. Therefore, in choosing Microsoft® Azure as a partner, we focused on selecting a security center that understands the importance of privacy and complies with the highest international and industry-specific compliance standards and uptime guarantees. Microsoft Azure regularly undergoes rigorous third-party audits to ensure and verify the highest level of security controls.</p>
+        <p>For more information, see the following:</p>
+        <p><a href="https://www.microsoft.com/en-us/TrustCenter/Security/default.aspx" target="_blank">https://www.microsoft.com/en-us/TrustCenter/Security/default.aspx</a>
+        </p>
+    </body>
+</html>

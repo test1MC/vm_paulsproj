@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Mimic">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Mimic/TitleMimic.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Mimic/TitleMimic.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 1 Tour of the Workspace"
+    Link="/Content/Mimic/Interface/Touring-Workspace-Mimic.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 2 Customizing the Workspace"
+    Link="/Content/Mimic/Interface/Customizing-Workspace.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    PageType="firstright">
+    <TocEntry
+      Title="Window Layouts"
+      Link="/Content/Mimic/Interface/Window-Layouts.htm" />
+    <TocEntry
+      Title="Minimizing Ribbons"
+      Link="/Content/Mimic/Interface/Minimizing-Ribbons.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Selecting an Interface Color Theme"
+      Link="/Content/Mimic/Interface/Selecting-Interface-Color-Theme.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Mimic/PDF-Guides/PDF-Guides-Mimic.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright" />
+</CatapultToc>

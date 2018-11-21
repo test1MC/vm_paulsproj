@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p class="TableText">Opens the Stylesheet Links dialog, which lets you link another stylesheet to the current stylesheet. The style classes within the linked stylesheet are therefore copied into the current stylesheet.</p>
+    </body>
+</html>

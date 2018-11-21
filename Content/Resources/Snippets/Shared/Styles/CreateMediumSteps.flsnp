@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ol>
+            <li>From the Content Explorer, open a stylesheet.</li>
+            <li>
+                <p>In the local toolbar of the Stylesheet Editor, click <img src="../../../Images/Shared/options_btn2.png" class="ReduceButtonSize" /> and select <span class="Emphasis">Add Medium</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/media_query1.png" alt="" title="" class="MaxWidth100Percent">
+                    </img>
+                </p>
+                <p>The New Medium dialog opens.</p>
+            </li>
+            <li>Select <span class="Emphasis">Medium</span>.</li>
+            <li>Enter a name for the medium (with no spaces).</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

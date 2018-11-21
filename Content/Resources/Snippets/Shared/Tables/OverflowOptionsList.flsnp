@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <ul class="SecondLevel">
+            <li><span class="SetOffSecondLevel">Visible </span>The overflow is not clipped. It renders outside the table. This is default.</li>
+            <li><span class="SetOffSecondLevel">Hidden </span>The overflow is clipped, and the rest of the content will be invisible. If you are using border-radius properties on the table, you must select this option for the rounded corners to be seen properly.</li>
+            <li><span class="SetOffSecondLevel">Scroll </span>The overflow is clipped, but a scroll-bar is added to see the rest of the content.</li>
+            <li><span class="SetOffSecondLevel">Auto </span>If overflow is clipped, a scroll-bar should be added to see the rest of the content.</li>
+            <li><span class="SetOffSecondLevel">Inherit </span>The value of the overflow property is inherited from the parent element.</li>
+        </ul>
+    </body>
+</html>

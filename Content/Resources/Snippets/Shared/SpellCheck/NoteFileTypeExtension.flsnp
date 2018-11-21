@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>In addition to selecting a file type from the list, you can type the file type extension in the field directly. This can be especially useful for file types not included in the drop-down. For example, if you want to look in all target files in the project, you can type <span class="TypedEntry">*.fltar</span> in the field.</p>
+    </body>
+</html>

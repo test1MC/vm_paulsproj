@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="468" MadCap:lastWidth="908">
+    <body>
+        <ol style="list-style-type: lower-alpha;">
+            <li>In your browser, open a new tab and go to <a href="https://www.google.com/webmasters/tools/" target="_blank">https://www.google.com/webmasters/tools/</a>.</li>
+            <li>Click <span class="Emphasis">Add a Property</span>.</li>
+            <li>
+                <p>In the popup, enter the URL for your site, and click <span class="Emphasis">Add</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/google_search7.png" alt="" title="" class="MaxWidth70Percent" />
+                </p>
+                <p>A page opens with steps for verifying your site.</p>
+                <p>
+                    <img src="../../../Images/Flare/google_search8.png" alt="" title="" class="MaxWidth70Percent" />
+                </p>
+            </li>
+            <li>Complete the steps on the page.</li>
+            <li>After you have successfully verified the site, continue with the following steps to add your sitemap.</li>
+        </ol>
+    </body>
+</html>

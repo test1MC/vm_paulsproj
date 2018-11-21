@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>In addition, although users can click hyperlinks if viewing your output on screen, cross-references are even more useful for print-based output. The reason for this is that you can create commands where cross-references are translated to page numbers. For example, a link can be displayed as "See page 36" in print-based output, rather than merely "See My Topic."</p>
+    </body>
+</html>

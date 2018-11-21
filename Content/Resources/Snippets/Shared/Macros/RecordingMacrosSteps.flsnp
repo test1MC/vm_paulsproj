@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="7" MadCap:lastHeight="492" MadCap:lastWidth="967">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../../Contributor/Documents/OpenDocumentTopic.flsnp" MadCap:conditions="Products.Contributor" />
+                <MadCap:snippetText src="../Topics/OpenContentFile.flsnp" MadCap:conditions="Products.Flare" />
+            </li>
+            <li>Select the <span class="Emphasis">Tools</span> ribbon. In the <span class="Emphasis">Macros</span> section, click <span class="Emphasis">Record</span>. The New Macro dialog opens.</li>
+            <li>
+                <p>In the New Macro dialog, enter a name for the new macro.</p>
+                <MadCap:snippetBlock src="MacroUniqueName.flsnp" />
+            </li>
+            <li>
+                <p>Click <span class="Emphasis">Start</span>. This begins the recording.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The <span class="Emphasis">Record</span> option in the ribbon or menu changes to <span class="Emphasis">Stop</span> as soon as you begin recording.</p>
+            </li>
+            <li>Perform the steps you want to record for the macro. <MadCap:variable name="Other.Product" /> captures each of the steps to create the macro.</li>
+            <li>
+                <p>When you are finished recording your macro, select <span class="Emphasis">Tools &gt; Stop</span>. </p>
+                <p>This stops the recording.</p>
+                <p>
+                    <img src="../../../Images/Shared/macros9.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also stop the recording by closing the active topic.</p>
+            </li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <ol>
+            <li>Open the browse sequence. If the browse sequence contains unlinked items or broken links, it will be indicated in the local toolbar.</li>
+            <li>Click <img src="../../../Images/Shared/next_warning_btn.png" class="ReduceButtonSize" /> to find and highlight the next issue in the browse sequence. To move to the previous issue, you can click <img src="../../../Images/Shared/previous_warning_btn.png" class="ReduceButtonSize" />.</li>
+            <li>After you find an issue, you can take action, such as removing the item or clicking <img src="../../../Images/Shared/run_properties2_btn.png" class="ReduceButtonSize" /> to open the properties where you can link the item to a file.</li>
+        </ol>
+    </body>
+</html>

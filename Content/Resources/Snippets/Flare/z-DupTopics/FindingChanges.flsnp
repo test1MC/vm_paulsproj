@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="175" MadCap:lastWidth="1046">
+    <body>
+        <MadCap:snippetBlock src="../../Shared/ReviewsContributions/FindingChangesSummary.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to find changes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Topics/OpenContentFile.flsnp" />
+                    </li>
+                    <li>Make sure you have changes set to be displayed. See <MadCap:xref href="../../../../Flare/Reviews-Contributions/Track-Changes/Hiding-Showing-Changes-Annotations.htm">Hiding and Showing Changes and Annotations</MadCap:xref>.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/UIElements/SelectReviewRibbon.flsnp" /> In the <span class="Emphasis">Changes</span> section select <span class="Emphasis">Next Change</span> or <span class="Emphasis">Previous Change</span>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

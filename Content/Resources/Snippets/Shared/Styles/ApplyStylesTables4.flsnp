@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>You can manually apply specific styles to tables by selecting the table cells, clicking <span class="Emphasis">Table &gt; Cell Content Style</span>, and choosing the style to be used for those cells.</p>
+    </body>
+</html>

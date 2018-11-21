@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Another way to make use of autonumbering is to apply them to headings for tables<MadCap:conditionalText MadCap:conditions="Products.Flare"> in your project</MadCap:conditionalText> (e.g., Table 1, Table 2, Table 3).</p>
+    </body>
+</html>

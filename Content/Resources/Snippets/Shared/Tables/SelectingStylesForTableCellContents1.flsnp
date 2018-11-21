@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>There are a couple of different ways to use styles to affect the look of tables that you insert. First, you can use standard table styles (e.g., table, td, th, tr). You can modify these styles in your regular stylesheet. A second option is to use the custom table stylesheets that <MadCap:variable name="Other.Product" /> lets you create. These table stylesheets let you create patterns and different looks for tables.</p>
+    </body>
+</html>

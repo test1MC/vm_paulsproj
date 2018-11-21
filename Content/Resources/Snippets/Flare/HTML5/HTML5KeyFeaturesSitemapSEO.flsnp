@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="84" MadCap:lastWidth="1154">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>
+            <MadCap:snippetText src="../Targets/GenerateSitemap.flsnp" />
+            <MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Targets/More/Generating-Sitemaps-for-Search-Engine-Optimization.htm" target="" title="" alt="">Generating Sitemaps for Search Engine Optimization</MadCap:xref>.</MadCap:conditionalText>
+        </p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>If you create an index link to another term, you must make sure that you have added that other term to the index (by manually inserting index markers or creating an auto-index). If a linked term is not found when the index is generated, a warning is issued and the link is skipped. Also, if a link term (the one pointing to a linked term) has been added to the index, a warning is issued and the link is skipped.</p>
+    </body>
+</html>

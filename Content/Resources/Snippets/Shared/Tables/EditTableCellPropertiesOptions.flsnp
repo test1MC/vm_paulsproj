@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ul class="FirstLevel">
+            <li>
+                <p><span class="SetOffFirstLevel">Ribbon </span>
+                    <MadCap:snippetText src="../UIElements/SelectHomeRibbon.flsnp" /> At the bottom of the <span class="Emphasis">Paragraph</span> section click <img src="../../../Images/Shared/arrow-btn.png" class="ReduceButtonSize" />.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Keyboard Shortcut</span> Press <span class="Emphasis">CTRL+ALT+B</span>. </p>
+                <p>The Cell Properties dialog opens.</p>
+            </li>
+        </ul>
+    </body>
+</html>

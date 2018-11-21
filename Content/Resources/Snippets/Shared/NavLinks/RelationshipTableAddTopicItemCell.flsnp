@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <ol class="LowerAlpha">
+            <li>Click a cell where you want to insert a topic reference.</li>
+            <li>In the local toolbar click <img src="../../../Images/Shared/new_item3_btn.png" class="ReduceButtonSize" />.</li>
+            <li>In the Open dialog, locate and double-click the topic. The topic file name is added to that cell. The square next to the file name is used to show any condition tags applied to the link.</li>
+        </ol>
+    </body>
+</html>

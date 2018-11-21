@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="1359" MadCap:lastWidth="1503">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Let’s say you have a topic called “Lists” that is linked in two places in your TOC:</p>
+            <p>
+                <img src="../../../Images/Flare/sync-nav-elements-toc3.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTablesOfContentsGuide,FlareGuides.FlareTargetsGuide" />
+            <p>With the synchronization option disabled, you generate HTML5 Top Navigation output. You open the Lists topic under the “Links and Lists” menu, the first place that it occurs in the TOC file:</p>
+            <p>
+                <img src="../../../Images/Flare/sync-nav-elements-toc4.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTablesOfContentsGuide,FlareGuides.FlareTargetsGuide" />
+            <p>The topic opens, and initially everything seems fine. But if you look at a couple of navigation elements—the breadcrumbs and side menu—you will notice that the topic was opened in the second TOC location (under “All Features”). This is the default behavior; the last instance of the topic in the TOC will be shown, not necessarily the one you selected.</p>
+            <p>
+                <img src="../../../Images/Flare/sync-nav-elements-toc5.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTablesOfContentsGuide,FlareGuides.FlareTargetsGuide" />
+            <p>Therefore, you open the target and enable the option to synchronize navigation elements with TOC entries.</p>
+            <p>
+                <img src="../../../Images/Flare/sync-nav-elements-toc6.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTablesOfContentsGuide,FlareGuides.FlareTargetsGuide" />
+            <p>After generating the target once more, you open the output and select the Lists topic in the same way. When you do this, notice that both the breadcrumbs and side menu are in sync with that location:</p>
+            <p>
+                <img src="../../../Images/Flare/sync-nav-elements-toc7.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

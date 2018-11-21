@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Central,Products.Flare">
+    <body>
+        <ul>
+            <li>
+                <p><span class="SetOffFirstLevel">Commit </span>To commit a changed file is to record it to the repository. Essentially you are saying, “I’m ready to transfer this content up to the cloned project on Central.” Committing files gives you the opportunity to organize them into different groups when you add them to Central. You can also add a unique comment to each commit.</p>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <div class="example">
+                            <p class="exampleHeadTextEmpty">Example</p>
+                            <p>Let’s say you’ve made changes to 23 files in your Flare project. Maybe 17 of the files are related to Feature A that you are documenting and the other 6 are related to Feature B. </p>
+                            <p>Suppose your company policy is that you must add a comment each time you upload changes and provide a summary of what you did. To keep the summary for Feature A separate from Feature B, you decide to do two commits.</p>
+                            <p>First, you use the Pending Changes window pane to select the 17 changed files related to Feature A. Then you perform the commit and add a relevant comment.</p>
+                            <p>After this, you select the 6 changed files related to Feature B and perform another commit with a different comment.</p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li><span class="SetOffFirstLevel">Synchronize </span>To synchronize means to pull any changes in the cloned Central project to your local Flare project. These are changes that other writers have uploaded to Central from their local projects. Then you push the committed files from your local project up to the project on Central, where other writers can retrieve them.</li>
+        </ul>
+    </body>
+</html>

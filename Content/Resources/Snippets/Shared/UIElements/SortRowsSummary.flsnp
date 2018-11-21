@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="183" MadCap:lastWidth="992">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Opens a submenu, which lets you select options for sorting table rows <MadCap:conditionalText MadCap:conditions="Products.Flare">(see <MadCap:xref href="../../../../Flare/Tables/Sorting-Tables.htm">Sorting Tables</MadCap:xref>)</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">(see <MadCap:xref href="../../../../Contributor/Tables/Sorting-Tables.htm">Sorting Tables</MadCap:xref>)</MadCap:conditionalText>. Menu options include:</p>
+        <ul>
+            <li value="1"><span class="SetOffFirstLevel">Ascending </span>Sorts the selected table rows in ascending order.</li>
+            <li value="3"><span class="SetOffFirstLevel">Descending </span>Sorts the selected table rows in descending order. </li>
+            <li><span class="SetOffFirstLevel">Advanced Sorting Options </span>Opens the Advanced Sorting Options dialog. <MadCap:snippetText src="../Tables/AdvancedSorting.flsnp" /></li>
+        </ul>
+    </body>
+</html>

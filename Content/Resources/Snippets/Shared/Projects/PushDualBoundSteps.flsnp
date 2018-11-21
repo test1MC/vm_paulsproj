@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Central,Products.Flare">
+    <body>
+        <ol>
+            <li>Open the project in MadCap Flare.</li>
+            <li>Get the latest version of the files from your third-party source control provider.<MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Shared/Source-Control/Linked-Topics/Getting-Latest-Version.htm">Updating or Getting the Latest Version of Source Control Files</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Central,FlareGuides.FlareMadCapCentralIntegrationGuide"> For more information, see the Flare online Help.</MadCap:conditionalText></li>
+            <li>
+                <MadCap:snippetText src="SelectViewMadCapCentral.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="IfNotYetLoggedIn.flsnp" />
+            </li>
+            <li>
+                <p>In the local toolbar of the MadCap Central window pane, click <img src="../../../Images/Shared/central_push_btn.png" alt="" title="" />. </p>
+                <p>A progress dialog shows you the status of the push. If the changes are pushed successfully, a confirmation will appear.</p>
+            </li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile conditions="Products.HelpViewer">
+    <Map Name="Messages_Window" Link="/Content/HelpViewer/Interface/UI-Elements/Messages-Window.htm" />
+    <Map Name="Manage_Windows_Dialog" Link="/Content/HelpViewer/Interface/UI-Elements/Manage-Windows-Dialog.htm" />
+    <Map Name="Manage_Window_Layouts_Dialog" Link="/Content/HelpViewer/Interface/UI-Elements/Manage-Window-Layouts-Dialog.htm" />
+    <Map Name="New_Updates_Available_Dialog" Link="/Content/HelpViewer/Interface/UI-Elements/New-Updates-Available-Dialog.htm" />
+    <Map Name="Options_Dialog_General_Tab" Link="/Content/HelpViewer/Interface/Options-Dialog-HelpViewer.htm" />
+    <Map Name="Welcome" Link="/Content/HelpViewer/Introduction/Welcome-Help-Viewer.htm" />
+    <Map Name="Select_UI_Language_Dialog" Link="/Content/HelpViewer/Language-Support/Selecting-Language-Help-Viewer-Interface.htm" />
+    <Map Name="Crash" Link="/Content/HelpViewer/Crash-Reporting-System/Sending-Crash-Report.htm" />
+    <Map Name="Start_Page" Link="/Content/HelpViewer/Interface/Start-Page-Help-Viewer.htm" />
+</CatapultAliasFile>

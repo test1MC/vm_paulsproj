@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="1619" MadCap:lastWidth="1217">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature_Supported/PDF_XHTML_XPS.flsnp" />
+        <p>
+            <snippetText src="../../Shared/PageLayouts/PageNumberSummary1.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to insert a page number into a frame</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/PageLayouts/OpenPageInPageLayoutStep.flsnp" />
+                    </li>
+                    <li>
+                        <p>Click on the frame to which you want to add a page number.</p>
+                        <MadCap:snippetBlock src="../../Shared/PageLayouts/NoteInsertPageNumber.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        </p>
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">Local Toolbar</span> In the local toolbar, click <img src="../../../Images/Shared/select_frame_text_btn.png" class="ReduceButtonSize" />.</li>
+                            <li><span class="SetOffFirstLevel">Right-Click</span> Right-click the frame and select <span class="Emphasis">Select Frame Text</span>.</li>
+                        </ul>
+                        <p>The Select Frame Text dialog opens. </p>
+                    </li>
+                    <li>
+                        <p>In the <span class="Emphasis">Template Folders</span> section, select a template.</p>
+                        <div class="note">
+                            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can click the <span class="Emphasis">Manage Templates</span> button <img src="../../../Images/Flare/manage_templates_btn.png" class="ReduceButtonSize" /> if you want to open the Template Manager. This lets you manage any of your template files (e.g., add new templates, enter descriptions for templates). <MadCap:conditionalText MadCap:conditions="General.PrintOnly">For more information see the online Help.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Templates/Managing-Templates.htm">Managing Templates</MadCap:xref>.</MadCap:conditionalText></p>
+                        </div>
+                    </li>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareSnippetsGuide" />
+                    <li>
+                        <p>In the <span class="Emphasis">Templates</span> section, select one of the page number snippets.</p>
+                        <MadCap:snippetBlock src="../../Shared/PageLayouts/PageNumberSnippetList.flsnp" />
+                        <MadCap:snippetBlock src="../../Shared/PageLayouts/InsertPageNumberTip.flsnp" />
+                    </li>
+                    <li>
+                        <snippetText src="../../Shared/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                    <li>
+                        <snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.OnlineOnly">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">In addition to inserting page numbers, you can add regular text, Heading variables, and Running Head variables into frames. See <xref href="../../../../Flare/Page-Layouts/Frames/Adding-Text-Content-Frames.htm">Adding Text and Content to Frames</xref>, <MadCap:xref href="../../../../Flare/Page-Layouts/Frames/Inserting-Heading-Variables-Frames.htm">Inserting Heading Variables Into Frames</MadCap:xref>, and <xref href="../../../../Flare/Page-Layouts/Frames/Inserting-Running-Head-Variables-Frames.htm">Inserting Running Head Variables into Frames</xref>.</p>
+                </div>
+                <MadCap:snippetBlock src="../../Shared/Indexes/NoteIndexAutoNumbers.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.OnlineOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>After you insert a page number into a frame, you can specify the format of the number (e.g., decimal, lowercase Roman, uppercase alpha). You can also specify whether the numbering should begin at a certain number. Both of these tasks can be accomplished when you associate the page layout with a TOC entry. See <xref href="../../../../Flare/Output/Printed-Output/Specifying-Chapter-Breaks.htm">Specifying Chapter Breaks and Page Layouts</xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+    </body>
+</html>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="7" MadCap:lastHeight="239" MadCap:lastWidth="971">
+    <body>
+        <ol style="list-style-type: lower-alpha;">
+            <li>
+                <MadCap:snippetText src="../UIElements/EnableTagBlockBarsStep.flsnp" />
+            </li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="CreateStyleClassStructureBarsStep.flsnp" />
+                </p>
+                <MadCap:snippetBlock src="CreateStyleClassStructureBarsExample.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="CreateStyleClassStructureBarsStep2.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="9" MadCap:lastHeight="1090" MadCap:lastWidth="1016">
+    <body>
+        <p>
+            <MadCap:snippetText src="../../Shared/XMLEditor/MultipleLayoutModes.flsnp" />
+        </p>
+        <p>
+            <img src="../../../Images/Flare/xml_editor_layout_modes.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Web Layout Mode</span> This mode <MadCap:snippetText src="../../Shared/XMLEditor/WebLayoutModeDescription.flsnp" /></li>
+            <li><span class="SetOffFirstLevel">Web Layout (Tablet)&#160;Mode</span> This mode <MadCap:snippetText src="../../Shared/XMLEditor/TabletLayoutMode.flsnp" /></li>
+            <li><span class="SetOffFirstLevel">Web Layout (Mobile)&#160;Mode</span> This mode <MadCap:snippetText src="../../Shared/XMLEditor/MobileLayoutMode.flsnp" /></li>
+            <li><span class="SetOffFirstLevel">Print Layout Mode</span> This mode <MadCap:snippetText src="../../Shared/XMLEditor/PrintLayoutModeDescription.flsnp" /></li>
+        </ul>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>pages</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Topics/Pages.flsnp" />
+                <p>
+                    <MadCap:snippetText src="../../Shared/PrintOutput/XMLEditorPageCountSummary.flsnp" />
+                </p>
+                <p>
+                    <img src="../../../Images/Shared/xml_editor_page_label.png" class="MaxWidth80Percent" />
+                </p>
+                <p MadCap:conditions="General.OnlineOnly">For more information see <MadCap:xref href="../../../../Contributor/Interface/UI-Elements/XML-Editor-Contributor.htm">XML Editor</MadCap:xref> and <MadCap:xref href="../../../../Contributor/Page-Layouts/About-Page-Layouts.htm">About Page Layouts</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../../Shared/Topics/NoteAbsolutePositioningLayoutMode.flsnp" /> </p>
+                </div>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../../Shared/Topics/NoteOSRenderText.flsnp" /> </p>
+                </div>
+                <MadCap:snippetBlock src="../../Shared/Topics/NoteTableSpecificHeight.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

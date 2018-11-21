@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="139" MadCap:lastWidth="739" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>Use this method to quickly insert an index keyword that already exists in your project. </p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Advantage </span>It is extremely fast.</li>
+            <li><span class="SetOffFirstLevel">Disadvantage </span>The index keyword that you want to insert must already exist in the project. This means you must first insert the index keyword into a topic using one of the other methods.</li>
+        </ul>
+    </body>
+</html>

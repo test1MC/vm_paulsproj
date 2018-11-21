@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>The process for creating file tag expressions is essentially the same as that for condition tag expressions. Therefore, for details and examples, you can refer to <MadCap:xref href="../../../../Flare/Conditions/Creating-Basic-Advanced-Tag-Expressions.htm">Basic Versus Advanced Conditions</MadCap:xref> and substitute file tags wherever condition tags are mentioned.</p>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>
+            <MadCap:keyword term="Autonumbers:cross-references;Cross-references:auto-numbers" />If you are using autonumbers in your content (e.g., for figure or table numbers), you can create cross-reference formats that include the autonumbers.</p>
+    </body>
+</html>

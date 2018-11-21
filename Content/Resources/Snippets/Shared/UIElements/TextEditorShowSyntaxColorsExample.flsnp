@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>In the following image, you can see that the tags appear in brown/dark red, attributes (e.g., class, src) appear in red, and values (e.g., style names, paths to links) appear in blue.</p>
+            <p>
+                <img src="../../../Images/Shared/syntax_coloring_example.png" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

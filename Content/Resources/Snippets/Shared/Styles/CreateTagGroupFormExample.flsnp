@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>The following image shows multiple &lt;p&gt; tags grouped into a form tag in the XML Editor. We also grouped the content into a &lt;fieldset&gt; tag, in order to place the form fields in a box. The structure bars on the left side of the content provide a visual representation of the grouping.</p>
+            <p>
+                <img src="../../../Images/Shared/form_example.png" class="MaxWidth100Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Shared/form_example2.png" class="MaxWidth100Percent" />
+            </p>
+        </div>
+    </body>
+</html>

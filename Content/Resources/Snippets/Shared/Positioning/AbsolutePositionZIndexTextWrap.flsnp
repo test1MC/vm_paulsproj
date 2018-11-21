@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="834" MadCap:lastWidth="526" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>The most important property for this feature is "position" with a value of "absolute." As already mentioned, this property removes the element from the main flow of the document content. If you are using a style to control absolute positioning, you can set this property in your stylesheet.</p>
+        <p>
+            <img src="../../../Images/Shared/absolute-positioning8.png" alt="" title="" class="MaxWidth100Percent">
+            </img>
+        </p>
+        <p>In conjunction with the absolute position setting, the z-index property is used to control the stacking order of elements. When you use absolute positioning, you will find that there are three primary ways that absolutely positioned elements are displayed with the other content: Square, Behind Text, and In Front of Text.</p>
+        <p>If you are using a stylesheet, you can set the z-index property in the Positioning property group.</p>
+        <p>If you are editing a topic locally, you can right-click on the element (in the case of objects such as images or QR codes) or right-click on the structure bar (in the case of paragraphs, lists, and other content), and from the context menu select <span class="Emphasis">Text Wrap</span>. Then from the submenu, select one of the three options: <span class="Emphasis">Square</span>, <span class="Emphasis">Behind Text</span>, or <span class="Emphasis">In Front of Text</span>. After you select an option, the absolute and z-index settings are automatically placed on the element locally. </p>
+        <p>
+            <img src="../../../Images/Shared/absolute-positioning25.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

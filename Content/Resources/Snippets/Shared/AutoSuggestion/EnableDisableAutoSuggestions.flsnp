@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>You can enable and disable auto suggestions from the Options dialog. You can enable or disable the suggestions from particular files (i.e., those from a specific auto suggestions word list, those from specific variable sets), in case you want to use some types of suggestions but not others. You can also enable or disable suggestions from all snippets.</p>
+    </body>
+</html>

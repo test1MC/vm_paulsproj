@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The following MadCap Flare project files are only segmented based on their units from Flare and not based on regular segmentation rules (periods and other punctuation rules): .liindexmap, .liconceptmap, .flaix, and .flixl files.    Therefore, rules from the Segmentation Editor are not applied to these files.</p>
+        </div>
+    </body>
+</html>

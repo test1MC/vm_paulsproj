@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="139" MadCap:lastWidth="979" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Select this if you want to create an SMS (Short Message Service) message. After scanning the QR code, the end user will be able to quickly send a text message to the specified phone number. After selecting this option, complete the following.</p>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Phone number</span> Type the phone number where the text message is to be sent.</li>
+            <li><span class="SetOffFirstLevel">Message</span> Type the text message.</li>
+        </ul>
+    </body>
+</html>

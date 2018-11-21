@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="n;b" MadCap:lastBlockDepth="6" MadCap:lastHeight="246" MadCap:lastWidth="953" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>
+            <MadCap:snippetText src="Autonumbering2.flsnp" /> </p>
+        <MadCap:snippetBlock src="AutoNumberFormatExample.flsnp" />
+    </body>
+</html>

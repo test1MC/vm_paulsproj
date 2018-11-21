@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare" MadCap:lastBlockDepth="12" MadCap:lastHeight="2757" MadCap:lastWidth="902">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../../Contributor/Documents/OpenDocumentTopic.flsnp" MadCap:conditions="Products.Contributor" />
+                <MadCap:snippetText src="../Topics/OpenContentFile.flsnp" MadCap:conditions="Products.Flare" />
+            </li>
+            <li>In the XML Editor, place your cursor where you want to insert the image.</li>
+            <li>Select <span class="Emphasis">Insert &gt; Screen Capture</span>. The Screen Capture dialog opens. </li>
+            <li>Complete the appropriate setup fields in the dialog.<ul type="1" class="FirstLevel"><li><span class="SetOffFirstLevel">File name </span>Enter a name for the image that you are capturing, or you can use the default name provided.</li><li><span class="SetOffFirstLevel">Folder </span>Select the folder where you want the captured image to be stored. </li><li><span class="SetOffFirstLevel">Profile or Format </span>Select the profile or file format that you would like to use when capturing the image. A profile (created in MadCap Capture) lets you capture the image with many additional settings applied to the image in advance.</li><li><span class="SetOffFirstLevel">Launch MadCap Capture Editor </span>Select this check box if you want MadCap Capture to be launched when you capture an image. The image will be displayed in MadCap Capture. This is a useful option if you want to edit the image (e.g., add callouts, lines, borders) after you capture it. When you edit and save the image in Capture, the changes will automatically be reflected in <MadCap:variable name="Other.Product" />.</li></ul></li>
+            <li>Select the capture option that you want to use, and complete the steps for each one as necessary.<ul type="1" class="FirstLevel"><li><p><span class="SetOffFirstLevel">Capture UI element </span>Captures a fixed area of a window (e.g., menu bar, toolbar, editor, individual button, entire window), depending on where you move your mouse and click. As you move the mouse in an application, a red border surrounds each separate region.</p></li><li><p><span class="SetOffFirstLevel">Capture application </span> Captures an open application. When you click this button, the Select window opens, displaying a list of all open applications. You can select the application that you want to capture.</p></li><li><p><span class="SetOffFirstLevel">Capture region </span>Captures a rectangular region of your computer screen. When you click this button, a rectangle with a red border displays over your screen. You can move and resize this rectangle in several ways.</p><MadCap:snippetBlock src="AdjustCaptureRegionOptions.flsnp" /><MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareImagesGuide" /><p>To capture the region, click the red capture button on the task bar. </p><p><img src="../../../Images/Shared/task_bar_capture2.png" class="MaxWidth100Percent" /></p></li></ul></li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

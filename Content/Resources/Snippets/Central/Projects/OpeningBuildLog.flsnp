@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Anytime you build a target, a build log is automatically created. <MadCap:snippetText src="../../Shared/Output/BuildLog1.flsnp" /></p>
+    </body>
+</html>

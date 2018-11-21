@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture" MadCap:lastBlockDepth="2" MadCap:lastHeight="97" MadCap:lastWidth="701">
+    <body>
+        <p>Normally, <MadCap:variable name="Other.Product" />'s hot keys override identical ones from other open applications. However, you can disable the hot keys in <MadCap:variable name="Other.Product" /> so that you can use any identical hot key in another application.</p>
+    </body>
+</html>

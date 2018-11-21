@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ul type="1" class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Ribbon </span>
+                <MadCap:snippetText src="../UIElements/SelectInsertRibbon.flsnp" /> In the <span class="Emphasis">Links</span> section, select <span class="Emphasis">Bookmark</span>.</li>
+            <li><span class="SetOffFirstLevel">Keyboard Shortcut </span>Press <span class="Emphasis">SHIFT+CTRL+K</span> on your keyboard.</li>
+        </ul>
+    </body>
+</html>

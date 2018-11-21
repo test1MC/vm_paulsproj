@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Flare">
+    <body>
+        <ul>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:bind;Projects:source control" />Bind </span>This means to connect your project to Git. After doing this, you can then take advantage of all the automated source control tasks (such as commit, revert, pull, push, and so on). </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:commit;Commit" />Commit </span>This means to record your <MadCap:variable name="Other.Product" /> files to the local Git repository.</li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:revert;Revert" />Revert </span>This means to undo changes you have made to a <MadCap:variable name="Other.Product" /> file. Changes are reverted to the way they were at the last commit.</li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:synchronize;Synchronize" />Synchronize </span>This pulls the files from the remote Git repository and merges them with your local database, then pushes your local changes back to the remote Git repository.</li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:pull;Pull" />Pull </span>This retrieves commits from the remote Git repository and merges them with the files in your local database.</li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:push" />Push </span>This sends commits from your local database to the remote Git repository.</li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:branch;Branch:source control" />Branch </span>This creates a new path for commits. This lets you create new versions of a file while keeping the original file unchanged (e.g., for documenting a new feature, testing page layouts, or rewriting existing information). You can create as many branches as you want.</li>
+        </ul>
+    </body>
+</html>

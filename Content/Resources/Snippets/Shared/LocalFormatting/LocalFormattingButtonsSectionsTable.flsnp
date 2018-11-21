@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="13" MadCap:lastHeight="4970" MadCap:lastWidth="964">
+    <head>
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="caption-side: top;width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../TableStyles/Shared/BasicAlternateRows.css');" cellspacing="0" class="TableStyle-BasicAlternateRows">
+            <col style="width: 1.5in;" class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <tbody>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/paste_btn_big.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="../UIElements/PasteOption.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/cut_btn_ribbon.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="../UIElements/CutOption.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/copy_btn_ribbon.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="../UIElements/CopyOption.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/delete_btn_ribbon.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="../UIElements/DeleteOption.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/font_type_btn_ribbon.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetText src="../UIElements/FontTypeSummary.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/font_size_btn_ribbon.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText"> Lets you select a font size, applying it to the content selected in the topic<MadCap:conditionalText MadCap:conditions="Products.Contributor"> or document</MadCap:conditionalText>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/bold_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="../UIElements/BoldOption.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/italic_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="../UIElements/ItalicOption.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/underline_btn1.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="../UIElements/UnderlineOption.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/superscript_btn1.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Raises the selected content in the topic<MadCap:conditionalText MadCap:conditions="Products.Contributor"> or document</MadCap:conditionalText> above the normal line of text (e.g., X<sup>2</sup>).</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/subscript_btn1.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Lowers the selected content in the topic<MadCap:conditionalText MadCap:conditions="Products.Contributor"> or document</MadCap:conditionalText> below the normal line of text (e.g., X<sub>2</sub>).</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/remove_inline_formatting_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Removes local formatting in a selection or even an entire topic<MadCap:conditionalText MadCap:conditions="Products.Contributor"> or document</MadCap:conditionalText>. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Local-Formatting/Removing-Inline-Formatting.htm">Removing Inline Formatting</MadCap:xref>.</MadCap:conditionalText></p>
+                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;"> Clicking this button also removes any &lt;span&gt; tags in the selection.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/color_btn2.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="../UIElements/ColorOption.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/background_color_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="../UIElements/BackgroundColorOption.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/redact_text_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="../RedactedText/RedactionTypesOfContent.flsnp" />&#160;<MadCap:snippetText src="../RedactedText/RedactedTextSummary2.flsnp" /><MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Redacted-Text/About-Redacted-Text.htm" target="" title="" alt="">About Redacted Text</MadCap:xref> and <MadCap:xref href="../../../../Flare/Redacted-Text/Setting-Redacted-Text.htm">Setting Redacted Text on Content</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Redacted-Text/About-Redacted-Text.htm">About Redacted Text</MadCap:xref> and <MadCap:xref href="../../../../Contributor/Redacted-Text/Setting-Redacted-Text.htm">Setting Redacted Text on Content</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/arrow-btn.png" /> (at bottom of Font section)</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Opens the Font Properties dialog, which lets you edit the font properties for topic content directly. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Fonts/Editing-Font-Properties.htm">Editing Font Properties</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Fonts/Editing-Font-Properties.htm">Editing Font Properties</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/lists_btn_bullet_list.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Lets you select one of several kinds of bullet or numbered lists, applying it to the selected content. </p>
+                        <ul>
+                            <li><span class="SetOffFirstLevel">Bullet List</span> Applies a bulleted list to the selected content.</li>
+                            <li>
+                                <MadCap:snippetText src="../UIElements/CircleBulletListOption.flsnp" />
+                            </li>
+                            <li>
+                                <MadCap:snippetText src="../UIElements/SquareBulletListOption.flsnp" />
+                            </li>
+                            <li>
+                                <MadCap:snippetText src="../UIElements/NumberedListOption.flsnp" />
+                            </li>
+                            <li>
+                                <MadCap:snippetText src="../UIElements/LowerAlphaNumberedListOption.flsnp" />
+                            </li>
+                            <li>
+                                <MadCap:snippetText src="../UIElements/UpperAlphaNumberedListOption.flsnp" />
+                            </li>
+                            <li>
+                                <MadCap:snippetText src="../UIElements/LowerRomanNumberedListOption.flsnp" />
+                            </li>
+                            <li>
+                                <MadCap:snippetText src="../UIElements/UpperRomanNumberedListOption.flsnp" />
+                            </li>
+                            <li value="11"><span class="SetOffFirstLevel">Custom Format </span>Opens a custom list format that lets you create a uniquely styled list up to 10 levels deep. You can also select an existing custom format from this submenu to apply it to the selected content in your topic or snippet. <MadCap:snippetText src="../Lists/MarkerPseudoElementNotSupportedInBrowsers.flsnp" /> <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Lists/Creating-Custom-List-Formats.htm">Creating Custom List Formats</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Lists/Creating-Custom-List-Formats.htm">Creating Custom List Formats</MadCap:xref>.</MadCap:conditionalText></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/outdent_items_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Removes the group tag from a paragraph, thus "outdenting" it.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/indent_items_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Lets you use a group tag such as &lt;div&gt; to indent content. Another method for indenting content is through the use of margin or padding settings on a style. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Paragraphs/Indenting-Paragraphs.htm" target="" title="" alt="">Indenting Paragraphs</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Paragraphs/Indenting-Paragraphs.htm">Indenting Paragraphs</MadCap:xref>.</MadCap:conditionalText></p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <MadCap:snippetBlock src="../Paragraphs/NoteIndenting.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/list_actions_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Lets you apply miscellaneous actions to selected content in a list. These actions are as follows.</p>
+                        <MadCap:snippetBlock src="../UIElements/ListActionsOptions.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/group_items_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Opens the Create Group dialog, which lets you create a group from selected content and apply one of the following tags to it: &lt;blockquote&gt;, &lt;div&gt;, &lt;fieldset&gt;, &lt;form&gt;. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Styles/More/Creating-Tag-Groups.htm">Creating Tag Groups</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Styles/More/Creating-Tag-Groups.htm">Creating Tag Groups</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/align-left-btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Aligns the selected content to the left.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/align-center-btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Aligns the selected content in the center. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/align-right-btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Aligns the selected content to the right. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/align-justified-btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Spaces the selected content so that both the left and right sides are aligned. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/default_command_align_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Resets the alignment of the selected text to the default (inherited) setting.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/arrow-btn.png" /> (at bottom of Paragraph section)</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Opens the Paragraph Properties dialog, which lets you edit the paragraph properties for topic content directly. This includes the ability to apply page breaks, column breaks, and widow/orphan control to a paragraph directly. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Paragraphs/About-Paragraph-Formatting.htm">About Paragraph Formatting</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Paragraphs/About-Paragraph-Formatting.htm">About Paragraph Formatting</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/style_window_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Opens the Styles window pane, which displays styles contained in the stylesheets that are associated with the current topic. The styles that are shown depend on the positioning of your cursor in the topic. For example, if the cursor is highlighting multiple paragraphs or is simply placed somewhere within a paragraph, the paragraph styles are shown in the Styles window pane. If the cursor is highlighting a portion of a paragraph, the character styles are shown. <MadCap:conditionalText MadCap:conditions="Products.Flare">For more information see <MadCap:xref href="../../../../Flare/Styles/About-Styles-Stylesheets.htm">About Styles and Stylesheets</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">For more information see <MadCap:xref href="../../../../Contributor/Styles/About-Styles-Stylesheets.htm">About Styles and Stylesheets</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/formatting_window_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Opens the Formatting window pane, which displays style properties for the selected content in a topic. You can then "overrule" the style settings for that specific content, without changing the style settings globally. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/style_field.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p>Lets you select a style from a style sheet, applying that style to the content selected in the topic<MadCap:conditionalText MadCap:conditions="Products.Contributor"> or document</MadCap:conditionalText>. <MadCap:conditionalText MadCap:conditions="Products.Flare">You can also select a style class for content from the Styles window pane. For more information see <MadCap:xref href="../../../../Flare/Styles/About-Styles-Stylesheets.htm" target="" title="" alt="">About Styles and Stylesheets</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/create_style_class_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Opens the Create Style dialog, which lets you create a new style for the content selected in the topic. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Styles/Creating-Selectors.htm">Creating Selectors</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Styles/Creating-Selectors.htm">Creating Selectors</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/stylesheet_links_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Opens the Stylesheet Links dialog, which lets you apply one or more stylesheets to the active topic. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Styles/Associating-Stylesheets-with-Specific-Files.htm">Associating Stylesheets Locally with Specific Files</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Styles/Associating-Stylesheets-with-Specific-Files.htm">Associating Stylesheets Locally with Specific Files</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/create_snippet_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Opens the Create Snippet dialog, which lets you create a new snippet from the content selected in the topic. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Snippets/Creating-New-Snippets-from-Content.htm">Creating New Snippets from Existing Content</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Snippets/Creating-New-Snippets-from-Content.htm">Creating New Snippets from Existing Content</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/attributes-window-btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Opens the Attributes window pane, which is used to set attributes for a tag. Attributes let you provide additional information about tagged content and how that content should behave. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Interface/UI-Elements/Attributes-Window.htm">Attributes Window Pane</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Interface/UI-Elements/Attributes-Window.htm">Attributes Window Pane</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/conditions_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Opens the Condition tags dialog, which lets you apply condition tags to content in the topic. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Conditions/Applying-Condition-Tags-to-Content.htm">Applying Conditions to Content</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/language_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Opens the Select Language dialog, which lets you choose a language for the selected content.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="Products.Flare">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/name_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">Opens the Manage Named Elements, which you can use to name content when creating togglers. See <MadCap:xref href="../../../../Flare/Nav-Links/Togglers/Inserting-Togglers.htm">Inserting Togglers</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/quick_find_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="../UIElements/QuickFindDescriptionRibbons.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/quick_replace_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="../UIElements/QuickReplaceDescriptionRibbons.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/find_and_replace_in_files_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="../UIElements/FindReplaceDescriptionRibbons.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/properties_btn_ribbon.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyA-Regular-LightRows">
+                        <MadCap:snippetBlock src="../UIElements/OpenPropertiesDialogOption.flsnp" class="TableText" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

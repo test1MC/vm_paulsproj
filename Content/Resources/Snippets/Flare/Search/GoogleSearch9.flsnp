@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="501" MadCap:lastWidth="962">
+    <body>
+        <p>By default, search results are overlayed on top of your output.  You can change this look if you want.</p>
+        <ol style="list-style-type: lower-alpha;">
+            <li>Click <span class="Emphasis">Look and feel</span>.</li>
+            <li>
+                <p> On the <span class="Emphasis">Layout</span> tab, select an option.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">In your Flare output, the results layout that you select may not look precisely the way that Google presents them in the layout thumbnails. It is recommended that you try different layouts and test the output to see which one best meets your needs.</p>
+                </div>
+                <div class="tip">
+                    <p class="tipInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #564c05;&quot; class=&quot;mcFormatColor&quot;&gt;Tip: &lt;/span&gt;&lt;/b&gt;">To make the search results appear the way that they normally do in Top Navigation output, select <span class="Emphasis">Results Only</span>.</p>
+                    <p>
+                        <img src="../../../Images/Flare/google_search17.png" alt="" title="" class="MaxWidth75Percent" />
+                    </p>
+                </div>
+            </li>
+            <li>Click <span class="Emphasis">Save</span>.</li>
+        </ol>
+    </body>
+</html>

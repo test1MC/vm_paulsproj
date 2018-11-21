@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Align">
+  <TocEntry
+    Title="Alignment"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    Link="/Content/Align/Alignment/About-Alignment.htm">
+    <TocEntry
+      Title="Opening Projects"
+      Link="/Content/Align/Projects/Opening-Lingo-Projects.htm" />
+    <TocEntry
+      Title="Creating Projects"
+      Link="/Content/Align/Projects/Creating-Alignment-Projects.htm" />
+    <TocEntry
+      Title="Aligning Files"
+      Link="/Content/Align/Alignment/Aligning-Files.htm" />
+    <TocEntry
+      Title="Aligning Segments"
+      Link="/Content/Align/Alignment/Aligning-Segments.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Features"
+    Link="/Content/Align/Introduction/Key-Features-Align.htm">
+    <TocEntry
+      Title="Segmentation Rules"
+      Link="/Content/Align/Segmentation-Split-Join/About-Segmentation-Rules.htm" />
+    <TocEntry
+      Title="Translation Memory"
+      Link="/Content/Align/Translation-Memory/Choosing-TM-Database.htm" />
+    <TocEntry
+      Title="Find in Files"
+      Link="/Content/Align/Find-Replace/Using-Find-in-Files-Feature-Align.htm">
+      <TocEntry
+        Title="Quick Find"
+        Link="/Content/Align/Find-Replace/Using-Quick-Find-Widget-Align.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Shortcuts"
+      Link="/Content/Align/Shortcuts/Keyboard-Shortcuts-Align.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Interface"
+    Link="/Content/Align/Interface/Touring-Workspace-Align.htm">
+    <TocEntry
+      Title="Start Page"
+      Link="/Content/Align/Interface/Start-Page-Align.htm" />
+    <TocEntry
+      Title="Alignment Tool"
+      Link="/Content/Align/Alignment/Aligning-Segments.htm"></TocEntry>
+    <TocEntry
+      Title="Customizing the Workspace"
+      Link="/Content/Align/Interface/Customizing-Workspace.htm">
+      <TocEntry
+        Title="Color Theme for Interface"
+        Link="/Content/Align/Interface/Selecting-Interface-Color-Theme.htm" />
+      <TocEntry
+        Title="Ribbons—Minimizing"
+        Link="/Content/Align/Interface/Minimizing-Ribbons.htm" />
+      <TocEntry
+        Title="Window Layouts"
+        Link="/Content/Align/Interface/Window-Layouts.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="File Map Window Pane"
+      Link="/Content/Align/Alignment/Aligning-Files.htm" />
+    <TocEntry
+      Title="Ribbons"
+      Link="/Content/Align/Interface/Ribbons-Align.htm" />
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1174">
+    <body>
+        <p>If you add HTML5 skin components, you also have the option of associating them with proxies and targets. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Proxies/Creating-Topic-Menu.htm">Using the Menu Proxy</MadCap:xref>, <MadCap:xref href="../../../../Flare/Proxies/Creating-Search-Bar.htm">Using the Search Bar Proxy</MadCap:xref>, <MadCap:xref href="../../../../Flare/Proxies/Creating-Search-Results.htm">Using the Search Results Proxy</MadCap:xref>, <MadCap:xref href="../../../../Flare/Proxies/Inserting-Editing-Topic-Toolbar.htm">Inserting Topic Toolbar Proxies</MadCap:xref>, and <MadCap:xref href="../../../../Flare/Skins/Associating-Skin-Components-with-Targets.htm">Associating Skin Components with Targets</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

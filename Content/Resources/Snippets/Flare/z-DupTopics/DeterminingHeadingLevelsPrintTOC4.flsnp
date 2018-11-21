@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="132" MadCap:lastWidth="991">
+    <body>
+        <MadCap:dropDown MadCap:conditions="General.OnlineOnly,FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesOfContentsGuide">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>Make sure you apply the styles to be used in the generated TOC to the appropriate headings in your content. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareStylesGuide">See <MadCap:xref href="../../../../Flare/Styles/Applying-Styles-to-Content.htm">Applying Styles to Content</MadCap:xref>.</MadCap:conditionalText><MadCap:snippetText src="../../Shared/ForMoreInfo/SeeOnlineHelp.flsnp" MadCap:conditions="FlareGuides.FlareTablesOfContentsGuide" /></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareStylesGuide" />
+    </body>
+</html>

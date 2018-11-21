@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>Gridlines are the gray lines that indicate the edges of cells in a table. They appear in the XML Editor so that you can distinguish where rows, columns, and cells are located. Gridlines do not appear in the final output unless you add borders to the table.</p>
+    </body>
+</html>

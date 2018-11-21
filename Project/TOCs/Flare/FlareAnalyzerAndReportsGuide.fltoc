@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)"
+    BreakType="pageLayout" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartPageLayout="false"
+    BreakType="chapter" />
+  <TocEntry
+    Title="CH 1 About Analyzer"
+    Link="/Content/Flare/Analyzer/About-Analyzer-and-Reports.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="CH 2 Enabling Analyzer Scans"
+    Link="/Content/Flare/Analyzer/Enabling-Analyzer-Scans.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="CH 3 Viewing and Fixing Broken Links"
+    Link="/Content/Flare/Nav-Links/Viewing-Broken-Links.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    BreakType="chapter" />
+  <TocEntry
+    Title="CH 4 Viewing and Fixing Broken Bookmarks"
+    Link="/Content/Flare/Nav-Links/Bookmarks/Viewing-Broken-Bookmarks.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="CH 5 Viewing Database Errors"
+    Link="/Content/Flare/Database-Errors/Viewing-Database-Errors.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="CH 6 Viewing Files with Changes"
+    Link="/Content/Flare/Reviews-Contributions/Track-Changes/Viewing-Files-With-Changes.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="CH 7 Viewing Files with Annotations"
+    Link="/Content/Flare/Reviews-Contributions/Annotations/Viewing-Files-With-Annotations.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    BreakType="chapter" />
+  <TocEntry
+    Title="CH 8 Viewing Topics Not Indexed"
+    Link="/Content/Flare/Topics/Viewing-Topics-Not-Indexed.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    BreakType="chapter" />
+  <TocEntry
+    Title="CH 9 Viewing Topics Not in a TOC"
+    Link="/Content/Flare/TOCs/Viewing-Topics-Not-In-TOC.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    BreakType="chapter" />
+  <TocEntry
+    Title="CH 10 Reports"
+    Link="/Content/Flare/Analyzer/Reports.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    BreakType="chapter">
+    <TocEntry
+      Title="Adding Report Files"
+      Link="/Content/Flare/Analyzer/Adding-Report-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Generating Reports"
+      Link="/Content/Flare/Analyzer/Generating-Reports.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Opening Reports"
+      Link="/Content/Flare/Analyzer/Opening-Reports.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Saving Reports"
+      Link="/Content/Flare/Analyzer/Saving-Reports.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

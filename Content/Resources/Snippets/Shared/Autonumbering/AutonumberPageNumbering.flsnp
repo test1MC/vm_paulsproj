@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>You can easily include page numbers in content for print-based output without creating autonumber formats. However, if you want to incorporate volume, chapter, or section numbers into your pages numbers, you can so by using autonumber formats.</p>
+    </body>
+</html>

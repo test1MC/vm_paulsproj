@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>In the Simplified view of the Stylesheet Editor, as well as in the Table Style Editor, selecting a medium<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareStylesGuide"> or media query</MadCap:conditionalText> does not change the editor, except to indicate the chosen medium<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareStylesGuide"> or media query</MadCap:conditionalText> in the drop-down field. Whichever medium<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareStylesGuide"> or media query</MadCap:conditionalText> appears in that field is the one you are changing when you make modifications to styles in the editor.</p>
+    </body>
+</html>

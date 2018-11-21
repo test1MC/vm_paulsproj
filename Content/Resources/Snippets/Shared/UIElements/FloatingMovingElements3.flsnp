@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.Lingo,Products.Mimic,Products.MovieViewer">
+    <body>
+        <p>You can move window panes displayed in accordion view by clicking the "Drag Pane" section <img src="../../../Images/Shared/drag_pane_btn.png" class="ReduceButtonSize" />. To drag all of the window panes grouped together, click this button in the upper-left corner of the window pane. To drag a single window pane, click this button in the accordion bar for that window pane. Hold down your mouse and drag the window panes where you want them. If you drop a window pane at a random location in the program window, it becomes a "floating" window. </p>
+    </body>
+</html>

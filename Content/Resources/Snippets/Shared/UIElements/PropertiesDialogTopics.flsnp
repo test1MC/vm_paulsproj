@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>This dialog displays basic properties (name, location, size, date created, date last modified) of the topic file. It also lets you set various properties for the topic file.</p>
+    </body>
+</html>

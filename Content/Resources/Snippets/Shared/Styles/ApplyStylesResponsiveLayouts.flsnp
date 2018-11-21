@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="174" MadCap:lastWidth="1091" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>The main reason that you might apply a style to the responsive layout grid itself is to choose a different div style that was created by another responsive layout. Applying the other div style will likely change the configuration of the current responsive layout.</p>
+        <ol class="LowerAlpha">
+            <li>Right-click the appropriate <span class="Emphasis">div</span> structure bar.</li>
+            <li>
+                <p>&#160;Select <span class="Emphasis">Style Class &gt; [Name of Style]</span>.</p>
+                <p>If you want to choose an ID, you can select <span class="Emphasis">Style ID&gt;[Name of ID]</span>.</p>
+            </li>
+        </ol>
+    </body>
+</html>

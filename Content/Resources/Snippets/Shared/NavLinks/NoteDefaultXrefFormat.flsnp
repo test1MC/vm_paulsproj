@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer" MadCap:lastBlockDepth="3" MadCap:lastHeight="245" MadCap:lastWidth="1004">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                <MadCap:snippetText src="DefaultXrefFormat1.flsnp" /> <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../../Flare/Nav-Links/Cross-References/Editing-Cross-Reference-Style-Formats.htm">Editing Cross-Reference Style Formats</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Nav-Links/Cross-References/Editing-Cross-Reference-Style-Formats.htm">Editing Cross-Reference Style Formats</MadCap:xref>.</MadCap:conditionalText></p>
+            <p>
+                <MadCap:snippetText src="DefaultXrefFormat2.flsnp" />
+            </p>
+        </div>
+    </body>
+</html>

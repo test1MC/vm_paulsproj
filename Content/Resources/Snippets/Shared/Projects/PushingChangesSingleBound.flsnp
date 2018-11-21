@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="506" MadCap:lastWidth="1209" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <ol>
+            <li>Open the project in MadCap Flare.</li>
+            <li>
+                <MadCap:snippetText src="SelectViewMadCapCentral.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="IfNotYetLoggedIn.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p>
+                            <span class="SetOffFirstLevel">Ribbon </span>
+                            <MadCap:snippetText src="../UIElements/SelectSourceControlRibbon.flsnp" /> In the <span class="Emphasis">Project</span> section select <span class="Emphasis">Push</span>.</p>
+                    </li>
+                    <li>
+                        <span class="SetOffFirstLevel">Right-Click </span>If you have the Content Explorer, Project Organizer, Pending Changes window pane, or File List open, right-click on any file and select <span class="Emphasis">Source Control &gt; Project &gt; Push</span>.</li>
+                    <li>
+                        <span class="SetOffFirstLevel">Local Toolbar </span>In the local toolbar of the MadCap Central window pane, click <img src="../../../Images/Shared/central_push_btn.png" alt="" title="" />.</li>
+                </ul>
+            </li>
+            <li>
+                <p>(Optional) If you did not commit your files before starting the push, a dialog asks if you want to commit your files. Click <span class="Emphasis">Yes</span> to continue. Then in the Commit dialog, you can enter an optional comment and click <span class="Emphasis">Commit</span>.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You must commit <span class="EmphasisItalic">all</span> modified files to proceed with the push.</p>
+            </li>
+            <li>In the Select Remote for Push dialog, make a selection from the <span class="Emphasis">Remote</span> field (in most cases only one option is available). Then click <span class="Emphasis">OK</span>.</li>
+        </ol>
+        <MadCap:snippetBlock src="../SourceControl/SingleBoundConflictResolution.flsnp" />
+    </body>
+</html>

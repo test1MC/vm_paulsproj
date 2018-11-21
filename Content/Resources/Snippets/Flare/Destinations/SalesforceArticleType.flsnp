@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <span class="SetOffFirstLevel">Article Type </span>Select the article type that you create in Salesforce. Remember that the article type you select should contain a rich text field. </p>
+    </body>
+</html>

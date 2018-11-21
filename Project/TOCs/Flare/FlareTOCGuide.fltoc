@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="1"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="1"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Tables of Contents"
+    Link="/Content/Flare/TOCs/About-TOCs.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 2 Adding a Table of Contents"
+    Link="/Content/Flare/TOCs/More/Adding-TOC.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 3 Opening a Table of Contents"
+    Link="/Content/Flare/TOCs/More/Opening-TOC.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 4 Creating a Table of Contents Manually"
+    Link="/Content/Flare/TOCs/Creating-TOC-Manually.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 5 Creating a Table of Contents Automatically"
+    Link="/Content/Flare/TOCs/Auto-generating-TOC.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 6 Editing Tables of Contents"
+    Link="/Content/Flare/TOCs/Editing-TOCs.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="CH 7 Enabling Tables of Contents in Skins"
+    Link="/Content/Flare/TOCs/Enabling-TOCs-Skins.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 8 Associating TOCs"
+    Link="/Content/Print-Only-Topics/Flare/TOCs/Associating-TOCs.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Associating a Master Table of Contents with a Project"
+      Link="/Content/Flare/TOCs/Associating-Master-TOC-with-Project.htm"
+      BreakType="none"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Associating a Master Table of Contents with a Target"
+      Link="/Content/Flare/TOCs/Associating-Master-TOC-with-Target.htm"
+      StartChapter="false"
+      PageType="first"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 9 Additional TOC Tasks"
+    Link="/Content/Print-Only-Topics/Flare/TOCs/Additional-TOC-Tasks.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters2Gray.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Automatically Set the Title for a TOC Entry"
+      Link="/Content/Flare/TOCs/More/Automatically-Set-Title-for-TOC-Entry.htm"
+      BreakType="pageLayout"
+      PageType="right"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Changing the Label for TOC Entries"
+      Link="/Content/Flare/TOCs/More/Changing-Label-TOC-Entries.htm" />
+    <TocEntry
+      Title="Creating a Binary TOC"
+      Link="/Content/Flare/Skins/More/Creating-Binary-TOC.htm" />
+    <TocEntry
+      Title="Creating New Topics from the TOC Editor"
+      Link="/Content/Flare/Topics/Creating-Topics-from-TOC-Editor.htm" />
+    <TocEntry
+      Title="Creating TOC Entries"
+      Link="/Content/Flare/TOCs/More/Creating-TOC-Entries.htm" />
+    <TocEntry
+      Title="Deleting Tables of Contents"
+      Link="/Content/Flare/TOCs/More/Deleting-TOCs.htm" />
+    <TocEntry
+      Title="Finding and Fixing Issues in a Table of Contents"
+      Link="/Content/Flare/TOCs/Finding-Fixing-Issues-TOC.htm" />
+    <TocEntry
+      Title="Importing Tables of Contents"
+      Link="/Content/Flare/TOCs/More/Importing-TOCs.htm" />
+    <TocEntry
+      Title="Inserting Movie Links into TOCs"
+      Link="/Content/Flare/Multimedia/Movies/Inserting-Movie-Links-TOCs.htm" />
+    <TocEntry
+      Title="Linking TOC Entries"
+      Link="/Content/Flare/TOCs/More/Linking-TOC-Entries.htm" />
+    <TocEntry
+      Title="Locating Topics in TOCs"
+      Link="/Content/Flare/TOCs/More/Locating-Topics-in-TOCs.htm" />
+    <TocEntry
+      Title="Marking a TOC Entry as New"
+      Link="/Content/Flare/TOCs/More/Marking-TOC-Entry-New.htm" />
+    <TocEntry
+      Title="Merging Projects"
+      Link="/Content/Flare/TOCs/Merging-Projects.htm" />
+    <TocEntry
+      Title="Renaming Tables of Contents"
+      Link="/Content/Flare/TOCs/More/Renaming-TOC.htm" />
+    <TocEntry
+      Title="Selecting a Skin for a TOC Entry"
+      Link="/Content/Flare/TOCs/More/Selecting-Skin-TOC-Entry.htm" />
+    <TocEntry
+      Title="Selecting a Style Class for a TOC Entry"
+      Link="/Content/Flare/TOCs/More/Selecting-Style-Class-TOC-Entry.htm" />
+    <TocEntry
+      Title="Selecting an Icon for a TOC Entry in HTML Help Output"
+      Link="/Content/Flare/TOCs/More/Selecting-Icon-TOC-Entry-HTML-Help-Output.htm" />
+    <TocEntry
+      Title="Specifying Style Settings for TOC Entries"
+      Link="/Content/Flare/Skins/Standard-Skin-Styles/TOC-Entries-Standard-Skins.htm" />
+    <TocEntry
+      Title="Specifying the Auto-Merge Location in a TOC"
+      Link="/Content/Flare/Output/WebHelp-Plus-Output/AutoMerge/Specifying-Auto-Merge-Location-TOC.htm" />
+    <TocEntry
+      Title="Specifying the Browser Frame for a TOC Entry"
+      Link="/Content/Flare/TOCs/More/Specifying-Browser-Frame-TOC-Entry.htm" />
+    <TocEntry
+      Title="Stitching PDFs"
+      Link="/Content/Flare/Output/PDF-Output/Stitching-PDFs.htm" />
+    <TocEntry
+      Title="Synchronizing Navigation Elements with TOC Entries"
+      Link="/Content/Flare/z-DupTopics/Synchronizing-Navigation-Elements-with-TOC-Entries.htm"></TocEntry>
+    <TocEntry
+      Title="Synchronizing the TOC with Open Topics"
+      Link="/Content/Flare/Skins/More/Synchronizing-TOC-with-Open-Topics.htm" />
+    <TocEntry
+      Title="Viewing Topics Not in a TOC"
+      Link="/Content/Flare/TOCs/Viewing-Topics-Not-In-TOC.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 10 Printed Output TOC Tasks"
+    Link="/Content/Flare/Output/Printed-Output/Creating-TOC-Manually-Print.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Auto-generating TOCs for Print"
+      Link="/Content/Flare/Output/Printed-Output/Auto-Generating-TOCs-Print.htm" />
+    <TocEntry
+      Title="Specifying Chapter Breaks and Page Layouts"
+      Link="/Content/Flare/Output/Printed-Output/Specifying-Chapter-Breaks.htm" />
+    <TocEntry
+      Title="Specifying Section Breaks and Master Pages"
+      Link="/Content/Flare/Output/Printed-Output/Specifying-Section-Breaks-Master-Pages.htm" />
+    <TocEntry
+      Title="Including Print Topics in an Outline TOC"
+      Link="/Content/Flare/Output/Printed-Output/Adding-Print-Topics-Outline-TOC.htm" />
+    <TocEntry
+      Title="Specifying Auto-Numbering Flow for Output"
+      Link="/Content/Flare/Autonumbers/Specifying-Auto-Numbering-Flow-for-Output.htm" />
+    <TocEntry
+      Title="Creating a Mini-TOC for Print Output"
+      Link="/Content/Flare/Proxies/Creating-Mini-TOC.htm" />
+    <TocEntry
+      Title="Creating Headings for Unlinked Books in a Generated TOC"
+      Link="/Content/Flare/Output/Printed-Output/Creating-Headings-Unlinked-Books-Generated-TOC.htm" />
+    <TocEntry
+      Title="Determining Heading Levels for a Print TOC"
+      Link="/Content/Flare/Output/Printed-Output/Determining-Heading-Levels-Print-TOC.htm" />
+    <TocEntry
+      Title="Using Styles to Determine the Look of a Print TOC"
+      Link="/Content/Flare/Output/Printed-Output/Using-Styles-Determine-Look-Print-TOC.htm" />
+    <TocEntry
+      Title="Using Styles to Determine the Look of a Mini-TOC"
+      Link="/Content/Flare/Proxies/Using-Styles-Determine-Look-MiniTOC.htm" />
+    <TocEntry
+      Title="Removing Images from Headings in a Generated TOC"
+      Link="/Content/Flare/Output/Printed-Output/Removing-Images-Headings-Generated-TOC.htm" />
+    <TocEntry
+      Title="Suppressing Page Numbers in a Print TOC"
+      Link="/Content/Flare/Output/Printed-Output/Suppressing-Page-Numbers-Print-TOC.htm" />
+    <TocEntry
+      Title="Suppressing Page Numbers in a Print Mini-TOC"
+      Link="/Content/Flare/Output/Printed-Output/Suppressing-Page-Numbers-Print-MiniTOC.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

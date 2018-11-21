@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="97" MadCap:lastWidth="1275">
+    <body>
+        <p><MadCap:variable name="Outputs.CleanXHTML" /> produces basic HTML files that are free of MadCap-specific tags and not dependent upon other MadCap-generated files. The output does not include any skins, search, navigation, or other extra features; it is simply your single-sourced content. This allows you to re-purpose your output in many flexible ways (e.g., you can embed the output files into other applications, such as project management tools, wikis, or eLearning systems). You might also perform other types of post-processing tasks with the output.</p>
+    </body>
+</html>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="625" MadCap:lastWidth="1231">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Without a fixed header, a long topic might start out like this, with the search and menu items shown at the top:</p>
+            <p>
+                <img src="../../../Images/Flare/fixed_header1.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" />
+            <p>When a user scrolls down, the header disappears from view:</p>
+            <p>
+                <img src="../../../Images/Flare/fixed_header2.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" />
+            <p>But if you fix the header, it will continue to be visible when scrolling, like this:</p>
+            <p>
+                <img src="../../../Images/Flare/fixed_header3.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

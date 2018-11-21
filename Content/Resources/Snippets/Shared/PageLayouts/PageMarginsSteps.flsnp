@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <ol>
+            <li value="3">Select the <span class="Emphasis">General</span> tab.</li>
+            <li>
+                <MadCap:snippetText src="SelectAllForPageSettingsStep.flsnp" />
+            </li>
+            <li>Use the <span class="Emphasis">Page Margins</span> section to enter settings.<ul class="FirstLevel"><li><span class="SetOffFirstLevel">Left </span><MadCap:snippetText src="PageMarginLeftDescription.flsnp" /></li><li><span class="SetOffFirstLevel">Right </span><MadCap:snippetText src="PageMarginRightDescription.flsnp" /></li><li><span class="SetOffFirstLevel">Top </span><MadCap:snippetText src="PageMarginTopDescription.flsnp" /></li><li><span class="SetOffFirstLevel">Bottom </span><MadCap:snippetText src="PageMarginBottomDescription.flsnp" /></li></ul></li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

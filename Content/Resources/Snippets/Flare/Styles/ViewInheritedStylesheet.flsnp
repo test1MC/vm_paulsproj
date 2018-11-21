@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="837">
+    <body>
+        <p>If you have created a link from one stylesheet to another, you can double-click on an inherited property to open that other stylesheet. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Interface/UI-Elements/Stylesheet-Editor.htm">Stylesheet Editor</MadCap:xref> and <MadCap:xref href="../../../../Flare/Styles/More/Linking-Stylesheets.htm">Linking Stylesheets</MadCap:xref>. </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet1">See <MadCap:xref href="../../../../Flare/Styles/More/Linking-Stylesheets.htm">Linking Stylesheets</MadCap:xref>. </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2">See <MadCap:xref href="../../../../Flare/Interface/UI-Elements/Stylesheet-Editor.htm">Stylesheet Editor</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

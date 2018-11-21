@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare,Products.Lingo">
+    <body>
+        <p>If you select Global, spellings of words are added to a dictionary that can be used by any projects pointing to it.<MadCap:conditionalText MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo"> If you select Project, spellings of words are added to a dictionary that can be used only by the current project. </MadCap:conditionalText></p>
+    </body>
+</html>

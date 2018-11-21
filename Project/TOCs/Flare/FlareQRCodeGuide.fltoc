@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="CH 1 About QR Code"
+    Link="/Content/Flare/QR-Codes/About-QR-Codes.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 2 Inserting QR Codes"
+    Link="/Content/Flare/QR-Codes/Inserting-QR-Codes.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 3 Editing QR Codes"
+    Link="/Content/Flare/QR-Codes/Editing-QR-Codes.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Adding Backgrounds to QR Codes"
+      Link="/Content/Flare/QR-Codes/Adding-Backgrounds-QR-Codes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding Borders to QR Codes"
+      Link="/Content/Flare/QR-Codes/Adding-Borders-QR-Codes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding Margins to QR Codes"
+      Link="/Content/Flare/QR-Codes/Adding-Margins-QR-Codes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding Padding to QR Codes"
+      Link="/Content/Flare/QR-Codes/Adding-Padding-QR-Codes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Positioning with Absolute Positioning"
+      Link="/Content/Flare/Positioning-Elements/Using-Absolute-Positioning-Elements.htm" />
+    <TocEntry
+      Title="Positioning with Floats"
+      Link="/Content/Flare/Positioning-Elements/Using-Floats-Positioning-Elements.htm" />
+    <TocEntry
+      Title="Resizing QR Codes"
+      Link="/Content/Flare/QR-Codes/Resizing-QR-Codes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Moving QR Codes in Topics"
+      Link="/Content/Flare/QR-Codes/Moving-QR-Codes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Deleting QR Codes from Topics"
+      Link="/Content/Flare/QR-Codes/Deleting-QR-Codes.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

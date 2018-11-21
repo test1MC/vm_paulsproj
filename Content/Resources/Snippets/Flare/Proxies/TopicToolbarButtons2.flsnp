@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>The following table does not list Pulse-related toolbar buttons, such as Edit User Profile and Topic Ratings. These kinds of buttons must be added either via the web toolbar (for HTML5 Tripane, WebHelp, or WebHelp Plus outputs) or the Topic Toolbar skin component (for all HTML5 outputs).</p>
+    </body>
+</html>

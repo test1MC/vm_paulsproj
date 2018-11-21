@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Bold</span> Use the <span class="Emphasis">font-weight</span> property.</li>
+            <li><span class="SetOffFirstLevel">Color</span> Use the <span class="Emphasis">color</span> property.</li>
+            <li><span class="SetOffFirstLevel">Font family (e.g., Arial)</span> Use the <span class="Emphasis">font-family</span> property.</li>
+            <li><span class="SetOffFirstLevel">Italic</span> Use the <span class="Emphasis">font-style</span> property.</li>
+            <li><span class="SetOffFirstLevel">Size</span> Use the <span class="Emphasis">font-size</span> property.</li>
+            <li><span class="SetOffFirstLevel">Small caps</span> Use the <span class="Emphasis">font-variant</span> property.</li>
+            <li><span class="SetOffFirstLevel">Underline</span> Use the <span class="Emphasis">text-decoration</span> property. You need to type the word <span class="TypedEntry">underline</span> in the value column.</li>
+            <li><span class="SetOffFirstLevel">Uppercase/lowercase</span> Use the <span class="Emphasis">text-transform</span> property.</li>
+        </ul>
+    </body>
+</html>

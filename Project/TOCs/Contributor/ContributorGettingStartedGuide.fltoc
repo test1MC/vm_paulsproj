@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Contributor">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Contributor/TitleContributor.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Contributor/TitleContributor.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    StartSection="false" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="1"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/Print-Only-Topics/Contributor/Getting-Started/Welcome-Contributor.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 2 Review Workflow"
+    Link="/Content/Contributor/Reviews-Contributions/Review-Workflow-Contributor.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled">
+    <TocEntry
+      Title="Inserting Annotations"
+      Link="/Content/Contributor/Reviews-Contributions/Annotations/Inserting-Annotations.htm" />
+    <TocEntry
+      Title="Returning Documents to Authors"
+      Link="/Content/Contributor/Reviews-Contributions/Returning-Documents-to-Authors-Contributor.htm"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Contribution Workflow"
+    Link="/Content/Contributor/Reviews-Contributions/Contribution-Workflow.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled">
+    <TocEntry
+      Title="Saving Contribution Templates"
+      Link="/Content/Contributor/Reviews-Contributions/Saving-Contribution-Templates.htm" />
+    <TocEntry
+      Title="Creating New Documents"
+      Link="/Content/Contributor/Reviews-Contributions/Creating-New-Documents.htm" />
+    <TocEntry
+      Title="Sending New Documents To Authors"
+      Link="/Content/Contributor/Reviews-Contributions/Sending-New-Documents-To-Authors.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Contributor/PDF-Guides/PDF-Guides-Contributor.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

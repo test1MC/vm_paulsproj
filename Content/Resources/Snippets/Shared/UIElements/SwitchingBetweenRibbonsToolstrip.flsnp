@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.HelpViewer,Products.Pulse" MadCap:lastBlockDepth="6" MadCap:lastHeight="494" MadCap:lastWidth="713">
+    <body>
+        <p>By default ribbons are used when you install and launch <MadCap:variable name="Other.Product" /> for the first time. However, you can use the Options dialog to switch back to the classic tool strip, where toolbars and menus are shown.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to switch from ribbons to tool strip</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Select <span class="Emphasis">File &gt; Options</span>.<p>The Options dialog opens.</p></li>
+                    <li>Select the <span class="Emphasis">Interface</span> tab.</li>
+                    <li>In the <span class="Emphasis">Menu Style</span> section, select <span class="Emphasis">Tool Strip</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to switch from Tool Strip to Ribbons</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>Select <span class="Emphasis">Tools &gt; Options</span>.<p>The Options dialog opens.</p></li>
+                    <li>Select the <span class="Emphasis">Interface</span> tab.</li>
+                    <li>In the <span class="Emphasis">Menu Style</span> section, select <span class="Emphasis">Ribbon</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare,Products.Analyzer">
+    <body>
+        <ol>
+            <li>Open a page layout. The Page Layout Editor opens.</li>
+            <li>
+                <p>If you have multiple pages in the layout, select the page you want to work with. To do this, click the small rectangle to the right of the editor that represents the appropriate page. (If you do not see the rectangles, click the <span class="Emphasis">View</span> menu at the top of the Page Layout Editor and select <span class="Emphasis">Page Overview Bar</span>.)</p>
+                <p>
+                    <img src="../../../Images/Shared/page_layout_rectangles_example.png" class="MaxWidth60Percent" />
+                </p>
+            </li>
+        </ol>
+    </body>
+</html>

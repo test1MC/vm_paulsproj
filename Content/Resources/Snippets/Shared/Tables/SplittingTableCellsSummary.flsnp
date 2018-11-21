@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>You can turn one cell in a table into many smaller cells by splitting the cell. When you split a cell, you are essentially inserting a smaller table into that cell.</p>
+    </body>
+</html>

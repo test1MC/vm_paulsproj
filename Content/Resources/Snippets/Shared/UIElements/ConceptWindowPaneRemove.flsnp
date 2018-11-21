@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>You can use either the top or bottom area of the window pane to remove concepts. The difference is that deleting a concept from the top section removes that concept from the active topic only. On the other hand, deleting a concept from the bottom section removes that concept from all topics where it is inserted.</p>
+    </body>
+</html>

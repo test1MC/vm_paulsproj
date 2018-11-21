@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;"> Although the <span class="Emphasis">hr</span> tag is supported in all browsers, it may render differently from browser to browser.  For a more consistent look across all browsers, it is a good idea to set both the <span class="Emphasis">color</span> and the <span class="Emphasis">background-color</span> properties of the <span class="Emphasis">hr</span> tag.</p>
+        </div>
+    </body>
+</html>

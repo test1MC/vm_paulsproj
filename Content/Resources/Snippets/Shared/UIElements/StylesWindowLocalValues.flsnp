@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p class="TableText">This area displays any local formatting values applied to the selected content in the XML Editor. This is an indication that those local values will override values set on the style. </p>
+    </body>
+</html>

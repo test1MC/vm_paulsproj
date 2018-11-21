@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <span class="SetOffFirstLevel">Exclusions </span>If there are certain topics that you want to exclude from public view, you can enter them in this field. You can also use wildcards (asterisks) to exclude many topics sharing a similar name (e.g., *Interface.htm would exclude topics with names such as ModuleInterface.htm, SetupInterface.htm, and ReferenceInterface.htm).</p>
+    </body>
+</html>

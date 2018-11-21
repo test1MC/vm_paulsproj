@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>You can create a table using the Insert Table dialog, which lets you specify various properties and settings for the table while you create it. Another option is to use the Insert Table grid, which lets you create a simple table by quickly selecting squares displayed from the Insert Table button; this method is faster but does not let you specify properties and settings for the table at the point of creation.</p>
+    </body>
+</html>

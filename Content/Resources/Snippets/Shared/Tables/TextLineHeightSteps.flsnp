@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ol class="LowerAlpha">
+            <li>Select the <span class="Emphasis">Text</span> tab.</li>
+            <li>In the <span class="Emphasis">Line height</span> section, click the down arrow in the upper-right corner and select <span class="Emphasis">Length</span>.</li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="../Styles/EnterNumberSelectUOM.flsnp" />
+                </p>
+                <p>This is the amount of space that will be added between lines.</p>
+            </li>
+        </ol>
+    </body>
+</html>

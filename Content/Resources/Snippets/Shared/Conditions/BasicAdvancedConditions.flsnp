@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="151" MadCap:lastWidth="780" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>When you create tag expressions, you have the choice of working with conditions in Basic or Advanced mode. You can switch between the two modes by clicking <span class="Emphasis">Basic</span> or <span class="Emphasis">Advanced</span> in the user interface. You can use Basic if you are newer to condition tag expressions, or you can use the Advanced mode if you are experienced at writing condition tag expressions by hand.</p>
+    </body>
+</html>

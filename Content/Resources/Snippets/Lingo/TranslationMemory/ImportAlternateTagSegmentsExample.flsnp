@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Let’s say you are importing a TMX file that was previously used for a third-party translation tool. That tool might have treated the &lt;strong&gt; tag differently than Lingo, so after you import the TMX file you might discover that some match results are not what you expect. By selecting this new option, Lingo will consolidate those tags, which will produce better match results.</p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>This option exports the project files to your templates folder (e.g., Documents\My Templates\Projects). By being placed in this location, the project files become available as a template selection when you create a new project. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Templates/About-Templates.htm">About Templates</MadCap:xref> and <MadCap:xref href="../../../../Flare/Templates/Creating-Templates.htm">Creating Templates</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

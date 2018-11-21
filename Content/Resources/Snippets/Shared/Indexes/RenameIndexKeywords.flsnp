@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>You can use either the top or bottom area of the window pane to create index keywords and subkeywords. The difference is that renaming a keyword in the top section renames that keyword in the active topic or snippet only. On the other hand, renaming a keyword in the bottom section renames that keyword in all topics or snippets where it is inserted.</p>
+    </body>
+</html>

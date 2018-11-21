@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>If you are on one type of list and want to switch to the other kind of list (e.g., you are on a numbered list and want to change to bullets), right-click on the <span class="Emphasis">ol</span> or <span class="Emphasis">ul</span> structure bar to the left, and from the context menu select <span class="Emphasis">Type</span>. Then either click one of the list types or select <span class="Emphasis">Custom List Format</span> and choose a style from the submenu.</p>
+    </body>
+</html>

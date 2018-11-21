@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="1130">
+    <body>
+        <p class="TableText">Opens the Analyzer Summary window pane, which is&#160;<MadCap:snippetText src="../../Analyzer/UIElements/AnalyzerWindowSummary.flsnp" /> See <MadCap:xref href="../../../../Analyzer/Interface/UI-Elements/Analyzer-Summary-Window-Pane.htm">Summary Window Pane</MadCap:xref>&#160;and&#160; <MadCap:xref href="../../../../Analyzer/Introduction/Viewing-Current-Issues.htm">Viewing Current Issues</MadCap:xref>.</p>
+    </body>
+</html>

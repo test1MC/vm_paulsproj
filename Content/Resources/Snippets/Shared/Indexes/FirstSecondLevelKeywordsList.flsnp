@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <ul class="FirstLevel">
+            <li>
+                <p><span class="SetOffFirstLevel">First-Level Keyword </span>Right-click the explorer area at the bottom of the window pane, and select <span class="Emphasis">Add Top-Level Keyword</span> from the context menu.</p>
+                <p>OR</p>
+            </li>
+            <li><span class="SetOffFirstLevel">Second-Level Subkeyword </span>In the explorer area at the bottom of the window pane, right-click an existing top-level keyword. From the context menu select <span class="Emphasis">Add Sub-Keyword</span>.</li>
+        </ul>
+    </body>
+</html>

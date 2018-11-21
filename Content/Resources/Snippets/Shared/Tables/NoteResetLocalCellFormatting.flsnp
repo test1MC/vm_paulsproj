@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>This option resets formatting placed on the entire cell (e.g., a background color added to cells would be removed). However, local formatting on content (e.g., bold text) is not affected. If you would like to remove local formatting for cells as well as cell content, you can use the Remove Inline Formatting button <img src="../../../Images/Shared/remove_inline_formatting_btn.png" class="ReduceButtonSize" /> instead.</p>
+    </body>
+</html>

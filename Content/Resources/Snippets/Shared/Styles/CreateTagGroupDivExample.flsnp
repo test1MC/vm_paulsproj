@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>The following image shows two &lt;div&gt; tags. Each of these tags represents a logical grouping, containing a heading tag and an unordered list with multiple li tags. The structure bars on the left side of the content provide a visual representation of the grouping. </p>
+            <p>
+                <img src="../../../Images/Shared/div_example.png" class="MaxWidth100Percent" />
+            </p>
+        </div>
+    </body>
+</html>

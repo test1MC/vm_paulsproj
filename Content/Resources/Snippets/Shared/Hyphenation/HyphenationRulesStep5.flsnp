@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>This creates a file with an <MadCap:keyword term="MCHYPH file" />.mchyph extension and places it in the Advanced folder of the Project Organizer. You can make changes to existing rules by opening this file. Also, you can have one MCHYPH file for each language that you need.</p>
+    </body>
+</html>

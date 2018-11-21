@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ol class="LowerAlpha">
+            <li>Select the <span class="Emphasis">Background</span> tab.</li>
+            <li>Use the tab to specify the settings that you want for the background.<p class="Subheading"><MadCap:keyword term="Color:background;Background:color" />set a color for the background</p><ul class="FirstLevel"><li>In the <span class="Emphasis">Color</span> field, click <MadCap:snippetText src="../Formatting/FormattingSetColorStep.flsnp" /></li></ul><p class="Subheading">add an image to the background</p><ol class="LowerRoman"><li>Next to the <span class="Emphasis">Image</span> field, click the <span class="Emphasis">Browse</span> button. The Insert Image dialog opens.</li><li><MadCap:snippetText src="../Images/ImagesInsertPictureStep1.flsnp" /></li><MadCap:snippetBlock src="../Images/ImagesInsertPictureStep2.flsnp" /><li><MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /></li><li><MadCap:snippetText src="../Backgrounds/RepeatImageBackgroundStep.flsnp" /></li></ol></li>
+        </ol>
+    </body>
+</html>

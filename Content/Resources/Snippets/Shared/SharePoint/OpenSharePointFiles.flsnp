@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>You can open a file from the SharePoint Explorer by simply double-clicking it. When you do this, you are opening the actual file existing on the SharePoint site. If it is a file type not supported in <MadCap:variable name="Other.Product" />, you will be directed to open the file in its default application.</p>
+    </body>
+</html>

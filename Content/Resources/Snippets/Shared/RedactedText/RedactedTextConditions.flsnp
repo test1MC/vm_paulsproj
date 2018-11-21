@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>Whereas condition tags allow you to remove text from output, redacting text lets you black out the necessary information but show that the original document once contained that information. If necessary, you could retrieve the redacted content<MadCap:conditionalText MadCap:conditions="Products.Flare"> in your project</MadCap:conditionalText>. This may be important for legal purposes.</p>
+    </body>
+</html>

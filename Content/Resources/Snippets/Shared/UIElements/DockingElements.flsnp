@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.Lingo,Products.Mimic,Products.MovieViewer">
+    <body>
+        <p>Docking an element that is floating means to attach it to a particular part of the program window. To do this, click in the title bar, drag it to the edge where you want to dock it, and drop it onto one of the small squares that appear in the interface. The portion of the square that has color indicates where the window pane will be docked.</p>
+    </body>
+</html>

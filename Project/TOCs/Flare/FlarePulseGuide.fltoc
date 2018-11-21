@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 1 About MadCap Pulse"
+    Link="/Content/Flare/Pulse-Features/About-Pulse.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 2 Installation"
+    Link="/Content/Shared/Pulse-Features/Install/Introduction.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Pulse System Requirements for Windows Server 2012"
+      Link="/Content/Shared/Pulse-Features/Install/2012/Pulse-Requirements-2012.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Installing the Prerequisites for Windows Server 2012"
+        Link="/Content/Shared/Pulse-Features/Install/2012/Installing-Prerequisites-2012.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Pulse System Requirements for Windows Server 2008R2"
+      Link="/Content/Shared/Pulse-Features/Install/2008R2/Pulse-Requirements-2008R2.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Installing the Prerequisites for Windows Server 2008R2"
+        Link="/Content/Shared/Pulse-Features/Install/2008R2/Installing-Prerequisites-2008R2.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Pulse System Requirements for Windows Server 2008"
+      Link="/Content/Shared/Pulse-Features/Install/2008/Pulse-Requirements-2008.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Installing the Prerequisites for Windows Server 2008"
+        Link="/Content/Shared/Pulse-Features/Install/2008/Installing-Prerequisites-2008.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Installing Microsoft SQL Server"
+      Link="/Content/Shared/Pulse-Features/Install/Installing-SQL-Server.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Installing and Activating Pulse"
+      Link="/Content/Shared/Pulse-Features/Install/Installing_Pulse.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Pulse Server Configuration"
+      Link="/Content/Shared/Pulse-Features/Install/Pulse-Server-Configuration.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Integrating Flare and Pulse"
+      Link="/Content/Shared/Pulse-Features/Install/Integrating-Flare-Pulse.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Pulse Installation Frequently Asked Questions"
+      Link="/Content/Shared/Pulse-Features/Install/Installation-FAQ.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 About the Pulse Dashboard"
+    Link="/Content/Shared/Pulse-Features/Dashboard/About-Pulse-Dashboard.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Using the Pulse Menu"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Pulse/Using-Pulse-Menu.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Using the People Menu"
+      Link="/Content/Shared/Pulse-Features/Dashboard/People/Using-People-Menu.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Using the Groups Menu"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Groups/Using-Groups-Menu.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Using the Tags Menu"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Tags/Using-Tags-Menu.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Using the Systems Menu"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Systems/Using-Systems-Menu.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Using the Administration Menu"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Using-Administration-Menu.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Pulse Database"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Database.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="General Settings"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-General-Settings.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Managing Groups"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Managing-Groups.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Suggested Feeds"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Suggested-Feeds.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Managing Users"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Managing-Users.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Configuring Profile Settings"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Profile-Settings.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Configuring Moderation—Rejection Reasons"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Moderation.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Event Log"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Viewing-Log.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Communities"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Managing-Communities.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Managing Synonyms"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Managing-Synonyms.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Reports"
+        Link="/Content/Shared/Pulse-Features/Dashboard/Reports/About-Reports.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Searching the Pulse Dashboard"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Searching-Pulse-Dashboard.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Pulse Dashboard Frequently Asked Questions"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Dashboard-FAQs.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 User Tasks"
+    Link="/Content/Print-Only-Topics/Flare/User-Tasks.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Registering for a Pulse Account"
+      Link="/Content/Shared/Pulse-Features/Getting-Started/Registering-Account.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Logging In to Pulse"
+      Link="/Content/Shared/Pulse-Features/Getting-Started/Logging-in-Pulse.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Editing Your Profile"
+      Link="/Content/Shared/Pulse-Features/Getting-Started/Creating-Editing-Profiles.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Posting Content"
+      Link="/Content/Shared/Pulse-Features/Posting-Content/Posting-Content.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Posting Status Updates"
+        Link="/Content/Shared/Pulse-Features/Posting-Content/Posting-Status-Updates.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Posting Questions"
+        Link="/Content/Shared/Pulse-Features/Posting-Content/Posting-Questions.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Posting Articles"
+        Link="/Content/Shared/Pulse-Features/Posting-Content/Posting-Articles.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Assigning Tasks"
+        Link="/Content/Shared/Pulse-Features/Posting-Content/Assigning-Tasks.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Responding to Posts"
+      Link="/Content/Shared/Pulse-Features/Responding-Posts/Responding-Posts.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Adding Comments"
+        Link="/Content/Shared/Pulse-Features/Responding-Posts/Adding-Comments.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Following Posts"
+        Link="/Content/Shared/Pulse-Features/Responding-Posts/Following-Posts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Liking and Unliking Activity"
+        Link="/Content/Shared/Pulse-Features/Responding-Posts/Liking-Unliking-Posts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Tagging Posts"
+        Link="/Content/Shared/Pulse-Features/Responding-Posts/Tagging-Posts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Mentioning Documents, People, and Groups"
+        Link="/Content/Shared/Pulse-Features/Responding-Posts/Mentioning-Documents-People-Groups.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Messaging"
+      Link="/Content/Shared/Pulse-Features/Messaging/Messaging.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Messaging Tasks"
+        Link="/Content/Shared/Pulse-Features/Messaging/Messaging-Tasks.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Checking Your Notifications"
+        Link="/Content/Shared/Pulse-Features/Messaging/Checking-Notifications.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Sending Chat Messages"
+        Link="/Content/Shared/Pulse-Features/Messaging/Sending-Chat-Messages.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Moderating Pulse"
+      Link="/Content/Shared/Pulse-Features/Moderation/Moderating-Pulse.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Moderating (Approving/Rejecting) Posts"
+        Link="/Content/Shared/Pulse-Features/Moderation/Moderating-Posts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Contacting Registered Users"
+        Link="/Content/Shared/Pulse-Features/Moderation/Contacting-Registered-Users.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Customizing the Your Apps Menu"
+        Link="/Content/Shared/Pulse-Features/Your-Apps/Customizing-Your-Apps.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Articles"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Articles.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Files"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Files.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Mentions"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Mentions.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Messages"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Messages.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Moderation"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Moderation.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Most Recent"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Most-Recent.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Notifications"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Notifications.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Profile"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Profile.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Questions"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Questions.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Read It Later"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Read-Later.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Statuses"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Statuses.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Tasks"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Tasks.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Top News"
+          Link="/Content/Shared/Pulse-Features/Your-Apps/Top-News.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Finding Experts"
+        Link="/Content/Shared/Pulse-Features/Moderation/Finding-Topic-Leaders.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Following Community Activities"
+        Link="/Content/Shared/Pulse-Features/Moderation/Following-Community-Activities.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Inviting People"
+        Link="/Content/Shared/Pulse-Features/Moderation/Inviting-People.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Read it Later"
+        Link="/Content/Shared/Pulse-Features/Moderation/Reading-Later.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Responding to Status Updates"
+        Link="/Content/Shared/Pulse-Features/Moderation/Responding-Status-Updates.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Responding to Questions"
+        Link="/Content/Shared/Pulse-Features/Moderation/Responding-Questions.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Responding to Articles"
+        Link="/Content/Shared/Pulse-Features/Moderation/Responding-Articles.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Responding to Tasks"
+        Link="/Content/Shared/Pulse-Features/Moderation/Responding-Tasks.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Sharing Posts"
+        Link="/Content/Shared/Pulse-Features/Moderation/Sharing-Posts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Subscribing to Feeds"
+        Link="/Content/Shared/Pulse-Features/Moderation/Subscribing-Topics.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Using Mentions"
+        Link="/Content/Shared/Pulse-Features/Moderation/Using-Mentions.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Working With Favorites"
+        Link="/Content/Shared/Pulse-Features/Moderation/Working-Favorites.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Searching for Community Results"
+      Link="/Content/Shared/Pulse-Features/Searching-Pulse/Searching-Pulse.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageNumber="(multiple)" />
+</CatapultToc>

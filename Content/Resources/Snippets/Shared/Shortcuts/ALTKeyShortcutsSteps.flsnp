@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture,Products.Lingo,Products.Mimic,Products.Flare,Products.Contributor">
+    <body>
+        <ol>
+            <li>Press and release the <span class="Emphasis">ALT</span> key on your keyboard. You’ll see letters (representing keyboard keys) floating above different ribbon tabs.</li>
+            <li>Press a key (not case-sensitive) to open the corresponding ribbon (even if the desired ribbon is already open). You'll see additional floating letters above the various options on that ribbon.</li>
+            <li>Press the key(s) corresponding to the option you want to access.</li>
+        </ol>
+    </body>
+</html>

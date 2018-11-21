@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say that you test the topic containing the text hyperlink and you notice that the wrong destination topic is opening when you click the hyperlink. So you use the steps below to associate the correct destination topic with the hyperlink.</p>
+        </div>
+    </body>
+</html>

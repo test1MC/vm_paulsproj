@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Central,Products.Flare">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Ribbon </span>
+                            <MadCap:snippetText src="../UIElements/SelectSourceControlRibbon.flsnp" /> In the <span class="Emphasis">Project</span> section select <span class="Emphasis">Synchronize</span>.</p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Right-Click </span>If you have the Content Explorer, Project Organizer, Pending Changes window pane, or File List open, right-click any file and select <span class="Emphasis">Source Control &gt; Project &gt; Synchronize</span>.</li>
+                </ul>
+            </li>
+            <li>
+                <p>(Optional) If you did not commit your files before starting the synchronize, a dialog asks if you want to commit your files. Click <span class="Emphasis">Yes</span> to continue. See <MadCap:xref href="#HowToCommit">How to Commit Files in a Single-bound Project</MadCap:xref>.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You must commit <span class="EmphasisItalic">all</span> modified files to proceed with the synchronize.</p>
+            </li>
+            <li>
+                <p>In the Select Remote for Synchronize dialog, click <span class="Emphasis">OK</span>.</p>
+                <p>If no conflicts were discovered during the synchronization, you do not need to continue with the following steps; you are finished.</p>
+                <p>If conflicts were found (i.e., a remote file is different from the version in your local repository), the Resolve Conflicts dialog opens. Continue with the following steps.</p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                <ul>
+                    <li>If you want to accept all of the differences between the remote and local files, thus merging them, click <span class="Emphasis">Auto Merge All</span>. If this step is a success, you do not need to continue with these steps.</li>
+                    <li>If you want to review the differences in the files side by side and resolve each conflict (or if auto-merging is not possible due to conflicts occurring in the same paragraph), click <span class="Emphasis">Resolve</span>. The Resolve Version Conflict dialog opens.</li>
+                </ul>
+            </li>
+            <li>From the Resolve Version Conflict dialog you can choose from the following options:<ul class="FirstLevel"><li><span class="SetOffFirstLevel">Merge changes in merge tool </span>Opens a merging interface, which lets you see exactly what changes were made and choose which to keep.<br /></li><li><span class="SetOffFirstLevel">Undo my local changes </span>Automatically removes your changes and keeps changes from other authors.</li><li><span class="SetOffFirstLevel">Discard external changes </span>Automatically removes changes from other authors and keeps your changes.</li></ul></li>
+            <li>If you selected the option to use the merge tool, the Merge Changes dialog opens. Use this dialog to view and select changes. You can take actions in the following ways. <ul class="FirstLevel"><li><p><span class="SetOffFirstLevel">Click a Change </span>Use the key at the top of the dialog, as well as the color coding on the local and server sides, to determine if a change has been added (new), deleted, changed, moved, or is in conflict (difference occur in the same paragraph). For conflicts in the same paragraph (i.e., areas where a diagonal line is shown), you can click the icon next to either the local or server change and choose <span class="Emphasis">Keep Change</span>. This will copy that change to the text area at the bottom of the dialog.</p></li><li><span class="SetOffFirstLevel">Type Content </span>If you want to use your changes as well as those from another author, and even tweak the paragraph a bit more, you can click in the area at the bottom of the dialog and simply type content.</li><li><span class="SetOffFirstLevel">Previous/Next Conflict </span>When you are finished resolving the first conflict, you can use the "Previous Conflict" and "Next Conflict" buttons at the bottom of the dialog to work on other conflicts in the file.</li></ul><p class="note" MadCap:conditions="Products.Flare" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you selected "Merge as Text" in the local toolbar and are working in the code, you can click on text with a hatched background to keep the change in it. After you click on text with a hatched background, the hatched lines are removed, leaving a solid color.</p></li>
+            <li>After all conflicts have been resolved, click <span class="Emphasis">OK</span>. A message lets you know that a backup of the file has been created in case you need to roll back to it. Click <span class="Emphasis">OK</span>.</li>
+            <li>Click <span class="Emphasis">OK</span> in any remaining dialogs.</li>
+            <li>Because you encountered conflicts, your changes were not pushed up to Central. Therefore, click the <span class="Emphasis">Synchronize</span> option again to complete the process.</li>
+        </ol>
+    </body>
+</html>

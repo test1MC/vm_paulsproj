@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>The following steps show you how to create an autonumber format for a single paragraph. You also have the option of creating an autonumber format for a style. It is recommended that you use the style method whenever possible. A style allows you to apply the same format to multiple paragraphs throughout your project, and any changes to the format are applied automatically to all the paragraphs using that style. </p>
+    </body>
+</html>

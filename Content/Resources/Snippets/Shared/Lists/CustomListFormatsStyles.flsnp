@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>When you create a custom list format, a complex selector (a special type of style)&#160;is added to your stylesheet. In the Stylesheet Editor, you can see your custom list formats under (Complex Selectors), as well as under (Custom Lists).</p>
+    </body>
+</html>

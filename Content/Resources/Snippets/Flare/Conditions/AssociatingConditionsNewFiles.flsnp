@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="374" MadCap:lastWidth="746">
+    <body>
+        <p>When adding a new file to a project, you can <MadCap:conditionalText MadCap:conditions="Snippets.Snippet12">now </MadCap:conditionalText>associate conditions and/or file tags with that file. This will save you time because you will be able to make sure that all of your new files created from the Add File dialog are conditioned or have file tags when you create them, rather than having to go back and apply them later.</p>
+        <p>In the Add File dialog, expand the <span class="Emphasis">Attributes</span> area at the bottom. Then next to the <span class="Emphasis">Condition Tags</span> or <span class="Emphasis">File Tags</span> field, click <img src="../../../Images/Shared/browse_ellipses.png" class="ReduceButtonSize" /> and select the relevant conditions or file tags.</p>
+        <p>
+            <img src="../../../Images/Flare/add_file_dialog_conditions_file_tags.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

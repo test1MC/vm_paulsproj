@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="233" MadCap:lastWidth="1046" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>In addition to the Row Name, a relationship table has three additional columns, each named after three basic topic types—Concept, Task, and Reference. You can add more columns if you want.</p>
+        <ul>
+            <li>
+                <p>In the local toolbar click <img src="../../../Images/Shared/insert_column_btn.png" class="ReduceButtonSize" />.</p>
+                <p>
+                    <img src="../../../Images/Shared/relationship_table_example1.png" class="MaxWidth100Percent" />
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>

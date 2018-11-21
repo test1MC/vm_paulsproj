@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="123" MadCap:lastWidth="1220">
+    <body>
+        <p>For <MadCap:variable name="Outputs.CleanXHTML" /> output, MadCap-injected JavaScript is removed. In other words, features such as drop-downs, Help controls, text popups, and footnotes rely on JavaScript to work. Therefore, with <MadCap:variable name="Outputs.CleanXHTML" /> output, these elements are converted to text. However, custom scripts that you might have added to topics<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../../../../Flare/Scripts/About-Scripts.htm">About Scripts</MadCap:xref>)</MadCap:conditionalText> will not automatically be removed when you generate <MadCap:variable name="Outputs.CleanXHTML" />; if you want to exclude these custom scripts, you must do so manually (i.e., by deleting them or using conditions).</p>
+    </body>
+</html>

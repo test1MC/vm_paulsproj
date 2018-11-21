@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <p>Whereas the File Map window pane can be used to perform alignment at the file level, the Alignment Tool can be used to do the same at the segment level. In most cases, you probably will not need to align segments. However, there may be situations when it is necessary.</p>
+        <p>To open the Alignment Tool, first open the File Map window pane in the MadCap Align utility (<span class="Emphasis">View &gt; File Map</span>). Then double-click on the associated pair of files. Like the File Map window pane, the Alignment Tool lets you shift selected cells up and down, or swap two selected cells. In addition, you can split and join segments. </p>
+    </body>
+</html>

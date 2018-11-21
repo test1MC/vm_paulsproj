@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="1768" MadCap:lastWidth="1218">
+    <body>
+        <p>If you include a side menu that is floating, with content wrapping under the menu—as is the case in Flare’s Top Navigation project templates—your content will likely be obstructed by the menu when users scroll down.</p>
+        <p>
+            <img src="../../../Images/Flare/fixed_menu5.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" />
+        <p>To solve this issue, you can change to a two-column format, where the content stays in one column while the menu resides in the other. To assist with this, Flare’s Top Navigation project templates contain a few extra files:</p>
+        <ul>
+            <li>
+                <p><span class="SetOffFirstLevel">Skin Component </span>For example, in the following template it is named “SideMenuFixed.”</p>
+                <p>
+                    <img src="../../../Images/Flare/fixed_menu6.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" />
+            <li>
+                <p><span class="SetOffFirstLevel">Master Page </span>For example in the following template it is named “OtherTopicsFixedSideMenu.”</p>
+                <p>
+                    <img src="../../../Images/Flare/fixed_menu8.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" />
+            <li>
+                <p><span class="SetOffFirstLevel">Target </span>For example in the following template it is named “HTML5 - Top Navigation FixedSideMenu.”</p>
+                <p>
+                    <img src="../../../Images/Flare/fixed_menu7.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+        </ul>
+        <p>These files were added to make it easier for you to switch from a floating menu format to the two-column format. The skin component and master page mentioned are already edited and associated with the appropriate target. So if you create a new project based on one of Flare’s Top Navigation project templates, you can just use these files (instead of the related skin, master page, and target files that are not using a fixed menu) to take advantage of the two column format.</p>
+        <p>
+            <img src="../../../Images/Flare/fixed_menu9.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>
+            <img src="../../../Images/Flare/fixed_menu10.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

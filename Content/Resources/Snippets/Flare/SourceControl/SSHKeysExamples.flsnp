@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="386" MadCap:lastWidth="1205">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Use the following as guides when setting up your URLs and keys.</p>
+            <p><span class="SetOffFirstLevel">SSH URL</span>  </p>
+            <p>git@gitlabomnibus.mycompany.corp:MyUserName/myproject.git</p>
+            <p><span class="SetOffFirstLevel">HTTP URL</span>  </p>
+            <p>http://gitlabomnibus.mycompany.corp/MyUserName/myproject.git</p>
+            <p><span class="SetOffFirstLevel">SSH Private Key</span>  </p>
+            <p>mycompanySSHkey_id_rsa</p>
+            <p><span class="SetOffFirstLevel">SSH Public Key</span>  </p>
+            <p>mycompanySSHkey_id_rsa.pub</p>
+        </div>
+    </body>
+</html>

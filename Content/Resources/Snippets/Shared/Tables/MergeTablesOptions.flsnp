@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Merge Table Up</span> Select this option to merge the tables, with the table on top having precedence. Therefore, the merged table will use the table stylesheet from that table.</li>
+            <li><span class="SetOffFirstLevel">Merge Table Down</span> Select this option to merge the tables, with the table on the bottom having precedence. Therefore, the merged table will use the table stylesheet from that table.</li>
+            <li><span class="SetOffFirstLevel">Don't Merge Tables</span> Select this option to allow the tables to appear one after the other, without being merged into one table.</li>
+            <li><span class="SetOffFirstLevel">Paste Table</span> Select this option to paste the table as a whole. Therefore, you will actually have two separate tables next to each other.</li>
+            <li><span class="SetOffFirstLevel">Paste (Above)</span> Select this option to merge the rows and columns from the copied table into the existing one, above the rows from the other table. The table that was there first will have precedence. Therefore, the merged table will use the table stylesheet from that table.</li>
+            <li><span class="SetOffFirstLevel">Paste (Below)</span> Select this option to merge the rows and columns from the copied table into the existing one, below the rows from the other table. The table that was there first will have precedence. Therefore, the merged table will use the table stylesheet from that table.</li>
+            <li>
+                <MadCap:snippetText src="../Pasting/SetDefaultOption.flsnp" />
+            </li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>In the <span class="Emphasis">Data</span> section select <span class="Emphasis">Convert to Text</span>. The table is converted to text using the default method—convert to paragraphs, with commas, or with text string.</p>
+    </body>
+</html>

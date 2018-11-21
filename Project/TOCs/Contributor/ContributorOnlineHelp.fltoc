@@ -1,0 +1,1274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Contributor">
+  <TocEntry
+    Title="Get Started"
+    Link="/Content/Contributor/Introduction/Get-Started-Contributor.htm">
+    <TocEntry
+      Title="Review Workflow"
+      Link="/Content/Contributor/Reviews-Contributions/Review-Workflow-Contributor.htm">
+      <TocEntry
+        Title="Annotations"
+        Link="/Content/Contributor/Reviews-Contributions/Annotations/Annotations.htm">
+        <TocEntry
+          Title="Inserting"
+          Link="/Content/Contributor/Reviews-Contributions/Annotations/Inserting-Annotations.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Contributor/Reviews-Contributions/Annotations/Editing-Annotations.htm" />
+        <TocEntry
+          Title="Hiding and Showing"
+          Link="/Content/Contributor/Reviews-Contributions/Track-Changes/Hiding-Showing-Changes-Annotations.htm" />
+        <TocEntry
+          Title="Deleting"
+          Link="/Content/Contributor/Reviews-Contributions/Annotations/Deleting-Annotations.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Track Changes"
+        Link="/Content/Contributor/Reviews-Contributions/Track-Changes/About-Track-Changes.htm">
+        <TocEntry
+          Title="Enabling"
+          Link="/Content/Contributor/Reviews-Contributions/Track-Changes/Enabling-Track-Changes.htm" />
+        <TocEntry
+          Title="Finding"
+          Link="/Content/Contributor/Reviews-Contributions/Finding-Changes.htm" />
+        <TocEntry
+          Title="Accepting or Rejecting"
+          Link="/Content/Contributor/Reviews-Contributions/Track-Changes/Accepting-Rejecting-Tracked-Changes.htm" />
+        <TocEntry
+          Title="Color for Reviews"
+          Link="/Content/Contributor/Reviews-Contributions/Changing-User-Color-for-Reviews.htm" />
+        <TocEntry
+          Title="Display of Tracked Changes"
+          Link="/Content/Contributor/Reviews-Contributions/Track-Changes/Changing-Display-Tracked-Changes.htm" />
+        <TocEntry
+          Title="Hiding and Showing"
+          Link="/Content/Contributor/Reviews-Contributions/Track-Changes/Hiding-Showing-Changes-Annotations.htm" />
+        <TocEntry
+          Title="User Name and Initials"
+          Link="/Content/Contributor/Reviews-Contributions/Changing-User-Name-Initials.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Documents—Returning to Authors"
+        Link="/Content/Contributor/Reviews-Contributions/Returning-Documents-to-Authors-Contributor.htm"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Contribution Workflow"
+      Link="/Content/Contributor/Reviews-Contributions/Contribution-Workflow.htm">
+      <TocEntry
+        Title="Contribution Templates—Saving"
+        Link="/Content/Contributor/Reviews-Contributions/Saving-Contribution-Templates.htm" />
+      <TocEntry
+        Title="Documents—Creating"
+        Link="/Content/Contributor/Reviews-Contributions/Creating-New-Documents.htm" />
+      <TocEntry
+        Title="Documents—Printing"
+        Link="/Content/Contributor/Reviews-Contributions/Printing-Documents.htm" />
+      <TocEntry
+        Title="Documents—Saving as PDF Files"
+        Link="/Content/Contributor/Reviews-Contributions/Saving-Documents-PDF-Files.htm" />
+      <TocEntry
+        Title="Documents—Saving as XPS Files"
+        Link="/Content/Contributor/Reviews-Contributions/Saving-Documents-XPS-Files.htm" />
+      <TocEntry
+        Title="Documents—Saving as XHTML Files"
+        Link="/Content/Contributor/Reviews-Contributions/Saving-Documents-XHTML-Files.htm" />
+      <TocEntry
+        Title="Documents—Sending To Authors"
+        Link="/Content/Contributor/Reviews-Contributions/Sending-New-Documents-To-Authors.htm" />
+      <TocEntry
+        Title="Annotations—Inserting"
+        Link="/Content/Contributor/Reviews-Contributions/Annotations/Inserting-Annotations.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="What's New?"
+      Link="/Content/Contributor/Introduction/Whats-New-Contributor.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Features"
+    Link="/Content/Contributor/Introduction/Features/Key-Features-Contributor.htm"
+    StartSection="false">
+    <TocEntry
+      Title="Editor Tools"
+      Link="/Content/Contributor/Introduction/Features/Editor-Tools.htm">
+      <TocEntry
+        Title="Characters and Symbols"
+        Link="/Content/Contributor/Characters-and-Symbols/About-Characters-and-Symbols.htm">
+        <TocEntry
+          Title="Font Types"
+          Link="/Content/Contributor/Characters-and-Symbols/Character-Dialog-Font-Types.htm" />
+        <TocEntry
+          Title="Inserting"
+          Link="/Content/Contributor/Characters-and-Symbols/Inserting-Special-Characters-and-Symbols.htm" />
+        <TocEntry
+          Title="Quick Characters"
+          Link="/Content/Contributor/Characters-and-Symbols/Specifying-Quick-Characters.htm" />
+        <TocEntry
+          Title="Smart Quotes"
+          Link="/Content/Contributor/Characters-and-Symbols/Using-Smart-Quotes.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Drag and Drop"
+        Link="/Content/Contributor/Drag-Drop/Enabling-Disabling-Drag-Drop.htm" />
+      <TocEntry
+        Title="Find and Replace"
+        Link="/Content/Contributor/Find-Replace/About_Find_and_Replace.htm">
+        <TocEntry
+          Title="Find and Replace in Files Feature"
+          Link="/Content/Contributor/Find-Replace/Using_the_Find_and_Replace_in_Files_Feature.htm" />
+        <TocEntry
+          Title="Quick Find and Replace Widgets"
+          Link="/Content/Contributor/Find-Replace/Using-Quick-Find-Replace-Widgets.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Layout Modes"
+        Link="/Content/Contributor/Topics/About-Layout-Modes.htm" />
+      <TocEntry
+        Title="Macros"
+        Link="/Content/Contributor/Macros/About-Macros-Contributor.htm">
+        <TocEntry
+          Title="Managing Macros"
+          Link="/Content/Contributor/Macros/Managing-Macros-Contributor.htm" />
+        <TocEntry
+          Title="Playing Back Macros"
+          Link="/Content/Contributor/Macros/Playing-Back-Macros-Contributor.htm" />
+        <TocEntry
+          Title="Recording Macros"
+          Link="/Content/Contributor/Macros/Recording-Macros-Contributor.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Paste"
+        Link="/Content/Contributor/Topics/Paste.htm">
+        <TocEntry
+          Title="Paste Behavior—Default"
+          Link="/Content/Contributor/Topics/Setting-Default-Paste-Behavior.htm"></TocEntry>
+        <TocEntry
+          Title="Pasting Text from Other Programs"
+          Link="/Content/Contributor/Topics/Pasting-Text-from-Other-Programs.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Shortcuts"
+        Link="/Content/Contributor/Shortcuts/About-Shortcuts.htm">
+        <TocEntry
+          Title="ALT Key Shortcuts"
+          Link="/Content/Contributor/Shortcuts/ALT-Key-Shortcuts.htm" />
+        <TocEntry
+          Title="Changing Hot Keys"
+          Link="/Content/Contributor/Shortcuts/Changing-Hot-Keys.htm" />
+        <TocEntry
+          Title="Keyboard Shortcuts"
+          Link="/Content/Contributor/Shortcuts/Keyboard-Shortcuts-Contributor.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Spell Check"
+        Link="/Content/Contributor/Spell-Check/About-Spell-Check.htm">
+        <TocEntry
+          Title="Language—Selecting"
+          Link="/Content/Contributor/Language-Support/Selecting-Language.htm" />
+        <TocEntry
+          Title="Spell Checking Manually"
+          Link="/Content/Contributor/Spell-Check/Spell-Checking-Manually.htm" />
+        <TocEntry
+          Title="Spell Checking While Typing"
+          Link="/Content/Contributor/Spell-Check/Spell-Checking-While-Typing.htm" />
+        <TocEntry
+          Title="Dictionaries"
+          Link="/Content/Contributor/Dictionaries/About-Dictionaries.htm">
+          <TocEntry
+            Title="Importing"
+            Link="/Content/Contributor/Dictionaries/Importing-Dictionaries.htm" />
+          <TocEntry
+            Title="Location for Global Dictionaries"
+            Link="/Content/Contributor/Dictionaries/Choosing-Location-for-Global-Dictionaries.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Structure Bars"
+        Link="/Content/Contributor/Structure-Bars/About-Structure-Bars.htm">
+        <TocEntry
+          Title="Moving Paragraphs and Other Content"
+          Link="/Content/Contributor/Structure-Bars/Moving-Paragraphs-Content-with-Structure-Bars.htm" />
+        <TocEntry
+          Title="Moving Table Columns and Rows"
+          Link="/Content/Contributor/Tables/Moving-Table-Columns-Rows.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Zoom/Scale"
+        Link="/Content/Contributor/Topics/Using-Zoom-Scale-Feature.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Elements and Objects"
+      Link="/Content/Contributor/Introduction/Features/Add-Elements.htm">
+      <TocEntry
+        Title="Condition Tags"
+        Link="/Content/Contributor/Conditions/About-Condition-Tags-Contributor.htm">
+        <TocEntry
+          Title="Basic and Advanced Tag Expressions"
+          Link="/Content/Contributor/Conditions/Creating-Basic-Advanced-Tag-Expressions.htm" />
+        <TocEntry
+          Title="Applying to Content"
+          Link="/Content/Contributor/Conditions/Applying-Condition-Tags-to-Content.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Images"
+        Link="/Content/Contributor/Images/About-Images.htm">
+        <TocEntry
+          Title="Inserting"
+          Link="/Content/Contributor/Images/Inserting-Images.htm"></TocEntry>
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Contributor/Images/Editing-Images/Editing-Images.htm">
+          <TocEntry
+            Title="Backgrounds"
+            Link="/Content/Contributor/Images/Editing-Images/Adding-Backgrounds-to-Images.htm" />
+          <TocEntry
+            Title="Borders"
+            Link="/Content/Contributor/Images/Editing-Images/Adding-Borders-to-Images.htm" />
+          <TocEntry
+            Title="Margins"
+            Link="/Content/Contributor/Images/Editing-Images/Adding-Margins-to-Images.htm" />
+          <TocEntry
+            Title="Moving"
+            Link="/Content/Contributor/Images/Editing-Images/Moving-Images-in-Content-Files.htm" />
+          <TocEntry
+            Title="Positioning"
+            Link="/Content/Contributor/Positioning-Elements/About-Positioning-Elements.htm">
+            <TocEntry
+              Title="Positioning with Absolute Positioning"
+              Link="/Content/Contributor/Positioning-Elements/Using-Absolute-Positioning-Elements.htm" />
+            <TocEntry
+              Title="Positioning with Floats"
+              Link="/Content/Contributor/Positioning-Elements/Using-Floats-Positioning-Elements.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Padding"
+            Link="/Content/Contributor/Images/Editing-Images/Adding-Padding-to-Images.htm" />
+          <TocEntry
+            Title="Resizing"
+            Link="/Content/Contributor/Images/Editing-Images/Resizing-Images.htm"></TocEntry>
+          <TocEntry
+            Title="Thumbnail Images"
+            Link="/Content/Contributor/Images/Editing-Images/About-Thumbnail-Images.htm">
+            <TocEntry
+              Title="Previewing"
+              Link="/Content/Contributor/Images/Editing-Images/Previewing-Thumbnails.htm" />
+            <TocEntry
+              Title="Showing in Output"
+              Link="/Content/Contributor/Images/Editing-Images/Showing-Images-as-Thumbnails-in-Output.htm" />
+            <TocEntry
+              Title="Showing While Editing"
+              Link="/Content/Contributor/Images/Editing-Images/Showing-Images-as-Thumbnails-While-Editing.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Watermarks"
+            Link="/Content/Contributor/Images/Editing-Images/Creating-Watermarks.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Additional Image Tasks"
+          Link="/Content/Contributor/Images/Additional-Image-Tasks/Additional-Image-Tasks.htm">
+          <TocEntry
+            Title="Deleting"
+            Link="/Content/Contributor/Images/Additional-Image-Tasks/Deleting-Images-from-Content-Files.htm" />
+          <TocEntry
+            Title="Image Hyperlinks"
+            Link="/Content/Contributor/Nav-Links/Image-Hyperlinks/Inserting-Image-Hyperlinks.htm" />
+          <TocEntry
+            Title="Image Maps"
+            Link="/Content/Contributor/Nav-Links/Image-Hyperlinks/Creating-Image-Maps-Contributor.htm" />
+          <TocEntry
+            Title="Page Layout Frames"
+            Link="/Content/Contributor/Images/Additional-Image-Tasks/Adding-Images-to-Page-Layout-Frames.htm" />
+          <TocEntry
+            Title="Screen Capture Images"
+            Link="/Content/Contributor/Images/Inserting-Screen-Captures.htm" />
+          <TocEntry
+            Title="Web Images—Showing and Hiding"
+            Link="/Content/Contributor/Images/Additional-Image-Tasks/Showing-Hiding-Web-Images-in-XML-Editor.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Links"
+        Link="/Content/Contributor/Introduction/Features/Links.htm">
+        <TocEntry
+          Title="Bookmarks"
+          Link="/Content/Contributor/Nav-Links/Bookmarks/Inserting-Bookmarks.htm" />
+        <TocEntry
+          Title="Cross-References"
+          Link="/Content/Contributor/Nav-Links/Cross-References/About-Cross-References.htm">
+          <TocEntry
+            Title="Context-sensitive"
+            Link="/Content/Contributor/Nav-Links/Cross-References/Creating-Context-Sensitive-Cross-References.htm" />
+          <TocEntry
+            Title="Destinations"
+            Link="/Content/Contributor/Nav-Links/Cross-References/Editing-Cross-Reference-Destinations.htm" />
+          <TocEntry
+            Title="Editing"
+            Link="/Content/Contributor/Nav-Links/Cross-References/Editing-Cross-References.htm"></TocEntry>
+          <TocEntry
+            Title="Inserting"
+            Link="/Content/Contributor/Nav-Links/Cross-References/Inserting-Cross-References.htm" />
+          <TocEntry
+            Title="Style Formats"
+            Link="/Content/Contributor/Nav-Links/Cross-References/Editing-Cross-Reference-Style-Formats.htm" />
+          <TocEntry
+            Title="Updating"
+            Link="/Content/Contributor/Nav-Links/Cross-References/Updating-Cross-References.htm"></TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="External Links—HTML, PDF, Microsoft Office"
+          Link="/Content/Contributor/Nav-Links/External-Links/Inserting-Links-to-External-Files.htm" />
+        <TocEntry
+          Title="Named Destinations"
+          Link="/Content/Contributor/Nav-Links/Named-Destinations/Creating-Named-Destinations.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Multimedia"
+        Link="/Content/Contributor/Multimedia/About-Multimedia.htm">
+        <TocEntry
+          Title="Audio"
+          Link="/Content/Contributor/Multimedia/Audio/Inserting-Audio-Files.htm" />
+        <TocEntry
+          Title="Movies"
+          Link="/Content/Contributor/Multimedia/Movies/Inserting-Movies-Contributor.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Page Layouts"
+        Link="/Content/Contributor/Page-Layouts/About-Page-Layouts.htm">
+        <TocEntry
+          Title="Layout Modes"
+          Link="/Content/Contributor/z-DupTopics/About-Layout-Modes.htm" />
+        <TocEntry
+          Title="Opening"
+          Link="/Content/Contributor/Page-Layouts/Opening-Page-Layouts.htm" />
+        <TocEntry
+          Title="Selecting in the XML Editor"
+          Link="/Content/Contributor/Page-Layouts/Selecting-Page-Layout-to-View-Content-XML-Editor.htm"></TocEntry>
+        <TocEntry
+          Title="Pages and Frames"
+          Link="/Content/Contributor/Page-Layouts/Editing-Pages-and-Frames.htm">
+          <TocEntry
+            Title="Frames"
+            Link="/Content/Contributor/Page-Layouts/Adding-Page-Layout-Frames.htm">
+            <TocEntry
+              Title="Aligning"
+              Link="/Content/Contributor/Page-Layouts/Frames/Aligning-Page-Layout-Frames.htm" />
+            <TocEntry
+              Title="Aligning Text"
+              Link="/Content/Contributor/Page-Layouts/Frames/Aligning-Text-Frames.htm" />
+            <TocEntry
+              Title="Anchors—Setting"
+              Link="/Content/Contributor/Page-Layouts/Frames/Setting-Frame-Anchors.htm"></TocEntry>
+            <TocEntry
+              Title="Anchor—Showing Lines"
+              Link="/Content/Contributor/Page-Layouts/Frames/Showing-Frame-Anchor-Lines-Page-Layouts.htm" />
+            <TocEntry
+              Title="Background"
+              Link="/Content/Contributor/Page-Layouts/Frames/Specifying-Frame-Background.htm" />
+            <TocEntry
+              Title="Borders"
+              Link="/Content/Contributor/Page-Layouts/Frames/Specifying-Frame-Borders.htm" />
+            <TocEntry
+              Title="Breaks on Paragraphs and Headings"
+              Link="/Content/Contributor/Page-Layouts/Frames/Setting-Frame-Breaks.htm" />
+            <TocEntry
+              Title="Breaks on Tables"
+              Link="/Content/Contributor/Tables/Setting-Page-Column-Frame-Breaks-on-Tables.htm" />
+            <TocEntry
+              Title="Columns"
+              Link="/Content/Contributor/Page-Layouts/Frames/Creating-Columns.htm" />
+            <TocEntry
+              Title="Exporting Text"
+              Link="/Content/Contributor/Page-Layouts/Frames/Exporting-Frame-Text.htm" />
+            <TocEntry
+              Title="Floating and Sinking"
+              Link="/Content/Contributor/Page-Layouts/Frames/Floating-Sinking-Frames.htm" />
+            <TocEntry
+              Title="Flow"
+              Link="/Content/Contributor/Page-Layouts/Frames/Specifying-Frame-Flow.htm" />
+            <TocEntry
+              Title="Images"
+              Link="/Content/Shared/z-DupTopics/Adding-Images-to-Page-Layout-Frames.htm" />
+            <TocEntry
+              Title="Padding"
+              Link="/Content/Contributor/Page-Layouts/Frames/Specifying-Frame-Padding.htm" />
+            <TocEntry
+              Title="Page Numbers"
+              Link="/Content/Contributor/Page-Layouts/Frames/Inserting-Page-Numbers-Frames.htm" />
+            <TocEntry
+              Title="Removing"
+              Link="/Content/Contributor/Page-Layouts/Frames/Removing-Page-Layout-Frames.htm" />
+            <TocEntry
+              Title="Rotating"
+              Link="/Content/Contributor/Page-Layouts/Frames/Rotating-Frames.htm" />
+            <TocEntry
+              Title="Size"
+              Link="/Content/Contributor/Page-Layouts/Frames/Specifying-Frame-Size.htm" />
+            <TocEntry
+              Title="Text and Content"
+              Link="/Content/Contributor/Page-Layouts/Frames/Adding-Text-Content-Frames.htm" />
+            <TocEntry
+              Title="Variables—Chapter, Section, and Volume"
+              Link="/Content/Contributor/Page-Layouts/Frames/Inserting-Chapter-Section-Volume-Number-Variables-Frames.htm" />
+            <TocEntry
+              Title="Variables—Heading"
+              Link="/Content/Contributor/Page-Layouts/Frames/Inserting-Heading-Variables-Frames.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Pages"
+            Link="/Content/Contributor/Page-Layouts/Adding-Pages.htm">
+            <TocEntry
+              Title="Background"
+              Link="/Content/Contributor/Page-Layouts/Pages/Specifying-Page-Background-Settings.htm" />
+            <TocEntry
+              Title="Bleed, Crop, and Registration Marks"
+              Link="/Content/Contributor/Page-Layouts/Pages/Showing-Bleed-Crop-Reg-Marks-Page-Layouts.htm" />
+            <TocEntry
+              Title="Bleed Size"
+              Link="/Content/Contributor/Page-Layouts/Pages/Specifying-Page-Bleed-Size.htm" />
+            <TocEntry
+              Title="Copying"
+              Link="/Content/Contributor/Page-Layouts/Pages/Copying-Pages-in-Page-Layouts.htm" />
+            <TocEntry
+              Title="Duplicating"
+              Link="/Content/Contributor/Page-Layouts/Pages/Duplicating-Pages-in-Page-Layouts.htm" />
+            <TocEntry
+              Title="Inserting"
+              Link="/Content/Contributor/Page-Layouts/Pages/Inserting-Pages-in-Page-Layouts.htm" />
+            <TocEntry
+              Title="Labels"
+              Link="/Content/Contributor/Page-Layouts/Pages/Showing-Labels-Page-Layouts.htm" />
+            <TocEntry
+              Title="Margins—Showing"
+              Link="/Content/Contributor/Page-Layouts/Pages/Showing-Margins-Page-Layouts.htm" />
+            <TocEntry
+              Title="Margins—Specifying"
+              Link="/Content/Contributor/Page-Layouts/Pages/Specifying-Page-Margins.htm" />
+            <TocEntry
+              Title="Mirroring"
+              Link="/Content/Contributor/Page-Layouts/Pages/Mirroring-Pages-in-Page-Layouts.htm" />
+            <TocEntry
+              Title="Names"
+              Link="/Content/Contributor/Page-Layouts/Pages/Specifying-Page-Names.htm" />
+            <TocEntry
+              Title="Opening"
+              Link="/Content/Contributor/Page-Layouts/Pages/Opening-Pages-in-Layouts.htm" />
+            <TocEntry
+              Title="Padding"
+              Link="/Content/Contributor/Page-Layouts/Pages/Showing-Padding-Page-Layouts.htm" />
+            <TocEntry
+              Title="Page Overview Bar"
+              Link="/Content/Contributor/Page-Layouts/Pages/Showing-Page-Overview-Bar-Page-Layouts.htm" />
+            <TocEntry
+              Title="Removing"
+              Link="/Content/Contributor/Page-Layouts/Pages/Removing-Pages-from-Page-Layouts.htm" />
+            <TocEntry
+              Title="Size and Orientation"
+              Link="/Content/Contributor/Page-Layouts/Pages/Specifying-Page-Size-Orientation.htm" />
+            <TocEntry
+              Title="Snap"
+              Link="/Content/Contributor/Page-Layouts/Pages/Using-Snap-Feature-Page-Layouts.htm" />
+            <TocEntry
+              Title="Types"
+              Link="/Content/Contributor/Page-Layouts/Pages/Specifying-Page-Types.htm" />
+            <TocEntry
+              Title="Word Overlay"
+              Link="/Content/Contributor/Page-Layouts/Pages/Showing-Word-Overlay-Page-Layouts.htm" />
+          </TocEntry>
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Snippets"
+        Link="/Content/Contributor/Snippets/About-Snippets-Contributor.htm">
+        <TocEntry
+          Title="Creating"
+          Link="/Content/Contributor/Snippets/Creating-New-Snippets-from-Content.htm" />
+        <TocEntry
+          Title="Inserting"
+          Link="/Content/Contributor/Snippets/Inserting-Snippets.htm" />
+        <TocEntry
+          Title="Opening"
+          Link="/Content/Contributor/Snippets/Opening-Snippets-Contributor.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Contributor/Snippets/Editing-Snippets.htm" />
+        <TocEntry
+          Title="Snippet Conditions"
+          Link="/Content/Contributor/Snippets/Using-Snippet-Conditions.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Tables"
+        Link="/Content/Contributor/Tables/About-Tables.htm">
+        <TocEntry
+          Title="Inserting"
+          Link="/Content/Contributor/Tables/Inserting-Tables.htm"></TocEntry>
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Contributor/Tables/Editing-Tables.htm">
+          <TocEntry
+            Title="Bottom Border—Hiding When Crossing Page Breaks"
+            Link="/Content/Contributor/Tables/Hiding-Bottom-Border-on-Table-Page-Breaks.htm" />
+          <TocEntry
+            Title="Breaks"
+            Link="/Content/Contributor/Tables/Setting-Page-Column-Frame-Breaks-on-Tables.htm" />
+          <TocEntry
+            Title="Cells—Editing Properties"
+            Link="/Content/Contributor/Tables/Editing-Table-Cell-Properties.htm" />
+          <TocEntry
+            Title="Cells—Merging"
+            Link="/Content/Contributor/Tables/Merging-Table-Cells.htm" />
+          <TocEntry
+            Title="Cells—Pasting"
+            Link="/Content/Contributor/Tables/Pasting-Cells-Within-Table.htm" />
+          <TocEntry
+            Title="Cells—Resetting Local Formatting"
+            Link="/Content/Contributor/Tables/Resetting-Local-Cell-Formatting.htm" />
+          <TocEntry
+            Title="Cells—Selecting Styles for Contents"
+            Link="/Content/Contributor/Tables/Selecting-Styles-for-Table-Cell-Contents.htm" />
+          <TocEntry
+            Title="Cells—Splitting"
+            Link="/Content/Contributor/Tables/Splitting-Table-Cells.htm" />
+          <TocEntry
+            Title="Columns and Rows—Cutting"
+            Link="/Content/Contributor/Tables/Cutting-Table-Columns-Rows.htm" />
+          <TocEntry
+            Title="Columns and Rows—Inserting"
+            Link="/Content/Contributor/Tables/Inserting-Table-Columns-Rows.htm" />
+          <TocEntry
+            Title="Columns and Rows—Moving"
+            Link="/Content/Contributor/Tables/Moving-Table-Columns-Rows.htm" />
+          <TocEntry
+            Title="Converting—Tables to Text"
+            Link="/Content/Contributor/Tables/Converting-Tables-to-Text.htm" />
+          <TocEntry
+            Title="Converting—Text to Tables"
+            Link="/Content/Contributor/Tables/Converting-Text-to-Tables.htm" />
+          <TocEntry
+            Title="Merging"
+            Link="/Content/Contributor/Tables/Merging-Tables.htm" />
+          <TocEntry
+            Title="Resizing"
+            Link="/Content/Contributor/Tables/Resizing-Tables.htm" />
+          <TocEntry
+            Title="Rounded Borders"
+            Link="/Content/Contributor/Paragraphs/Creating-Rounded-Borders.htm" />
+          <TocEntry
+            Title="Sorting"
+            Link="/Content/Contributor/Tables/Sorting-Tables.htm" />
+          <TocEntry
+            Title="Styles—Editing in Regular Stylesheets"
+            Link="/Content/Contributor/Tables/Editing-Table-Styles-in-Regular-Stylesheets.htm" />
+          <TocEntry
+            Title="Table Properties—Editing"
+            Link="/Content/Contributor/Tables/Editing-Table-Properties.htm"
+            ReplaceMergeNode="false" />
+        </TocEntry>
+        <TocEntry
+          Title="Deleting"
+          Link="/Content/Contributor/Tables/Deleting-Tables.htm" />
+        <TocEntry
+          Title="Gridlines"
+          Link="/Content/Contributor/Tables/Hiding-Showing-Table-Gridlines.htm" />
+        <TocEntry
+          Title="Paste—Default Behavior"
+          Link="/Content/Contributor/Topics/Setting-Default-Paste-Behavior.htm" />
+        <TocEntry
+          Title="Selecting"
+          Link="/Content/Contributor/Tables/Selecting-Tables.htm" />
+        <TocEntry
+          Title="Styles—Print Output"
+          Link="/Content/Contributor/Styles/Setting-Table-Styles-Print-Output.htm" />
+        <TocEntry
+          Title="Table Stylesheets—Creating"
+          Link="/Content/Contributor/Styles/Creating-Table-Stylesheets-Contributor.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Variables"
+        Link="/Content/Contributor/Variables/Inserting-Variables.htm">
+        <TocEntry
+          Title="Chapter, Section, and Volume Number Variables in Frames"
+          Link="/Content/Contributor/Page-Layouts/Frames/Inserting-Chapter-Section-Volume-Number-Variables-Frames.htm"></TocEntry>
+        <TocEntry
+          Title="Heading Variables in Frames"
+          Link="/Content/Contributor/Page-Layouts/Frames/Inserting-Heading-Variables-Frames.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Additional Elements and Objects"
+        Link="/Content/Contributor/Introduction/Features/Additional-Elements-Objects.htm">
+        <TocEntry
+          Title="Concepts"
+          Link="/Content/Contributor/Concepts/Inserting-Concepts.htm" />
+        <TocEntry
+          Title="Equations"
+          Link="/Content/Contributor/Equations/About-Equations.htm">
+          <TocEntry
+            Title="Inserting"
+            Link="/Content/Contributor/Equations/Inserting-Equations.htm" />
+          <TocEntry
+            Title="Editing"
+            Link="/Content/Contributor/Equations/Editing-Equations.htm">
+            <TocEntry
+              Title="Borders"
+              Link="/Content/Contributor/Equations/More/Adding-Borders-Equations.htm" />
+            <TocEntry
+              Title="Margins"
+              Link="/Content/Contributor/Equations/More/Adding-Margins-Equations.htm" />
+            <TocEntry
+              Title="Padding"
+              Link="/Content/Contributor/Equations/More/Adding-Padding-Equations.htm" />
+          </TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="Footnotes and Endnotes"
+          Link="/Content/Contributor/Footnotes/About-Footnotes.htm"
+          StartSection="false">
+          <TocEntry
+            Title="Inserting"
+            Link="/Content/Contributor/Footnotes/Inserting-Footnotes.htm" />
+          <TocEntry
+            Title="Editing"
+            Link="/Content/Contributor/Footnotes/Editing-Footnotes/Editing-Footnotes.htm">
+            <TocEntry
+              Title="Border"
+              Link="/Content/Contributor/Footnotes/Editing-Footnotes/Editing-Border-Above-Footnotes.htm" />
+            <TocEntry
+              Title="Comment Font"
+              Link="/Content/Contributor/Footnotes/Editing-Footnotes/Editing-Footnote-Comment-Font-Settings.htm" />
+            <TocEntry
+              Title="Comment Position"
+              Link="/Content/Contributor/Footnotes/Editing-Footnotes/Editing-Footnote-Comment-Position.htm" />
+            <TocEntry
+              Title="Comment Spacing"
+              Link="/Content/Contributor/Footnotes/Editing-Footnotes/Editing-Footnote-Comment-Spacing.htm" />
+            <TocEntry
+              Title="Comment Text"
+              Link="/Content/Contributor/Footnotes/Editing-Footnotes/Editing-Footnote-Comment-Text.htm" />
+            <TocEntry
+              Title="Number Formats"
+              Link="/Content/Contributor/Footnotes/Editing-Footnotes/Editing-Footnote-Number-Formats.htm" />
+            <TocEntry
+              Title="Numbering—Restarting"
+              Link="/Content/Contributor/Footnotes/Editing-Footnotes/Restarting-Footnote-Numbering.htm" />
+            <TocEntry
+              Title="Numbers"
+              Link="/Content/Contributor/Footnotes/Editing-Footnotes/Editing-Look-Footnote-Numbers.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Viewing"
+            Link="/Content/Contributor/Footnotes/Viewing-Footnotes-in-Topics.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Indexes"
+          Link="/Content/Contributor/Indexes/Inserting-Index-Keywords.htm" />
+        <TocEntry
+          Title="QR Codes"
+          Link="/Content/Contributor/QR-Codes/About-QR-Codes.htm">
+          <TocEntry
+            Title="Inserting"
+            Link="/Content/Contributor/QR-Codes/Inserting-QR-Codes.htm" />
+          <TocEntry
+            Title="Editing"
+            Link="/Content/Contributor/QR-Codes/Editing-QR-Codes.htm">
+            <TocEntry
+              Title="Backgrounds"
+              Link="/Content/Contributor/QR-Codes/Adding-Backgrounds-QR-Codes.htm" />
+            <TocEntry
+              Title="Borders"
+              Link="/Content/Contributor/QR-Codes/Adding-Borders-QR-Codes.htm" />
+            <TocEntry
+              Title="Margins"
+              Link="/Content/Contributor/QR-Codes/Adding-Margins-QR-Codes.htm" />
+            <TocEntry
+              Title="Moving"
+              Link="/Content/Contributor/QR-Codes/Moving-QR-Codes.htm" />
+            <TocEntry
+              Title="Padding"
+              Link="/Content/Contributor/QR-Codes/Adding-Padding-QR-Codes.htm" />
+            <TocEntry
+              Title="Positioning with Absolute Positioning"
+              Link="/Content/Contributor/Positioning-Elements/Using-Absolute-Positioning-Elements.htm" />
+            <TocEntry
+              Title="Positioning with Floats"
+              Link="/Content/Contributor/Positioning-Elements/Using-Floats-Positioning-Elements.htm" />
+            <TocEntry
+              Title="Resizing"
+              Link="/Content/Contributor/QR-Codes/Resizing-QR-Codes.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Deleting"
+            Link="/Content/Contributor/QR-Codes/Deleting-QR-Codes.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Slideshows"
+          Link="/Content/Contributor/Slideshows/About-Slideshows.htm">
+          <TocEntry
+            Title="Inserting and Navigating in Slideshows"
+            Link="/Content/Contributor/Slideshows/Inserting-Slideshows.htm" />
+          <TocEntry
+            Title="Editing Slideshows"
+            Link="/Content/Contributor/Slideshows/Editing-Slideshows.htm" />
+          <TocEntry
+            Title="Editing Slideshow Styles"
+            Link="/Content/Contributor/Slideshows/Editing-Slideshow-Styles.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Text Boxes"
+          Link="/Content/Contributor/Text-Boxes/About-Text-Boxes.htm">
+          <TocEntry
+            Title="Inserting"
+            Link="/Content/Contributor/Text-Boxes/Inserting-Text-Boxes.htm" />
+          <TocEntry
+            Title="Editing"
+            Link="/Content/Contributor/Text-Boxes/Editing-Text-Boxes.htm">
+            <TocEntry
+              Title="Backgrounds"
+              Link="/Content/Contributor/Text-Boxes/Adding-Backgrounds-Text-Boxes.htm" />
+            <TocEntry
+              Title="Borders"
+              Link="/Content/Contributor/Text-Boxes/Adding-Borders-Text-Boxes.htm" />
+            <TocEntry
+              Title="Hyphenation"
+              Link="/Content/Contributor/Text-Boxes/Setting-Hyphenation-Text-Boxes.htm" />
+            <TocEntry
+              Title="Margins"
+              Link="/Content/Contributor/Text-Boxes/Adding-Margins-Text-Boxes.htm" />
+            <TocEntry
+              Title="Padding"
+              Link="/Content/Contributor/Text-Boxes/Adding-Padding-Text-Boxes.htm" />
+            <TocEntry
+              Title="Positioning with Absolute Positioning"
+              Link="/Content/Contributor/Positioning-Elements/Using-Absolute-Positioning-Elements.htm" />
+            <TocEntry
+              Title="Positioning with Floats"
+              Link="/Content/Contributor/Positioning-Elements/Using-Floats-Positioning-Elements.htm" />
+            <TocEntry
+              Title="Size"
+              Link="/Content/Contributor/Text-Boxes/Specifying-Size-Text-Boxes.htm" />
+          </TocEntry>
+        </TocEntry>
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Managing Your Files"
+      Link="/Content/Contributor/Introduction/Features/Managing-Files.htm">
+      <TocEntry
+        Title="External Resources"
+        Link="/Content/Contributor/External-Resources/About-External-Resources-Contribute.htm">
+        <TocEntry
+          Title="Files—Opening"
+          Link="/Content/Contributor/External-Resources/Opening-External-Resource-Files.htm" />
+        <TocEntry
+          Title="Folders—Adding"
+          Link="/Content/Contributor/External-Resources/Adding-Folders-to-External-Resources.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="File Tagging"
+        Link="/Content/Contributor/File-Tagging/About-File-Tagging.htm">
+        <TocEntry
+          Title="Associating"
+          Link="/Content/Contributor/File-Tagging/Associating-Tags-with-Files.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Contributor/File-Tagging/Editing-File-Tag-Sets.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="SharePoint Integration"
+        Link="/Content/Contributor/Sharepoint/About-SharePoint-Integration.htm">
+        <TocEntry
+          Title="Connecting to a SharePoint Server"
+          Link="/Content/Contributor/Sharepoint/Connecting-to-Sharepoint-Server.htm"></TocEntry>
+        <TocEntry
+          Title="Files—Checking In"
+          Link="/Content/Contributor/Sharepoint/Checking-In-SharePoint-Files.htm" />
+        <TocEntry
+          Title="Files—Checking Out"
+          Link="/Content/Contributor/Sharepoint/Checking-Out-SharePoint-Files.htm" />
+        <TocEntry
+          Title="Files—Opening"
+          Link="/Content/Contributor/Sharepoint/Opening-SharePoint-Files.htm" />
+        <TocEntry
+          Title="Files—Undoing a Check Out"
+          Link="/Content/Contributor/Sharepoint/Undoing-Check-Out-SharePoint-Files.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Styling, Formatting, and Skins"
+      Link="/Content/Contributor/Introduction/Features/Look-Good.htm">
+      <TocEntry
+        Title="Autonumbers"
+        Link="/Content/Contributor/Autonumbers/About-Autonumbers.htm">
+        <TocEntry
+          Title="Format Examples"
+          Link="/Content/Contributor/Autonumbers/AutoNumber-Format-Examples.htm" />
+        <TocEntry
+          Title="Formats for Paragraphs"
+          Link="/Content/Contributor/Autonumbers/Creating-Auto-Number-Formats-for-Paragraphs.htm" />
+        <TocEntry
+          Title="Formats for Styles"
+          Link="/Content/Contributor/Autonumbers/Creating-Auto-Number-Formats-for-Styles.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Color"
+        Link="/Content/Contributor/Color/About-Color.htm">
+        <TocEntry
+          Title="Text"
+          Link="/Content/Contributor/Fonts/Color/Setting-Color-for-Text.htm" />
+        <TocEntry
+          Title="Text Background"
+          Link="/Content/Contributor/Fonts/Color/Setting-Background-Color-for-Text.htm" />
+        <TocEntry
+          Title="Topic Background"
+          Link="/Content/Contributor/Color/Applying-Color-to-the-Background-for-Topics.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Fonts"
+        Link="/Content/Contributor/Fonts/About-Fonts.htm">
+        <TocEntry
+          Title="Selecting"
+          Link="/Content/Contributor/Fonts/Selecting-Fonts.htm" />
+        <TocEntry
+          Title="Pinning"
+          Link="/Content/Contributor/Fonts/Pinning-Fonts.htm" />
+        <TocEntry
+          Title="Font Groups"
+          Link="/Content/Contributor/Fonts/Using-Font-Groups.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Contributor/Fonts/Editing-Font-Properties.htm" />
+        <TocEntry
+          Title="Additional Font Tasks"
+          Link="/Content/Contributor/Fonts/Additional-Font-Tasks.htm">
+          <TocEntry
+            Title="Bold Text"
+            Link="/Content/Contributor/Fonts/Bold/Setting-Bold-Text.htm" />
+          <TocEntry
+            Title="Case of Text"
+            Link="/Content/Contributor/Fonts/Case/Setting-Case-of-Text.htm" />
+          <TocEntry
+            Title="Font Size"
+            Link="/Content/Contributor/Fonts/Size/Setting-Font-Size.htm" />
+          <TocEntry
+            Title="Italic Correction"
+            Link="/Content/Contributor/Fonts/Italic/Setting-Italic-Correction.htm" />
+          <TocEntry
+            Title="Italic Text"
+            Link="/Content/Contributor/Fonts/Italic/Setting-Italic-Text.htm" />
+          <TocEntry
+            Title="Letter Spacing"
+            Link="/Content/Contributor/Fonts/Spacing/Setting-Letter-Spacing.htm" />
+          <TocEntry
+            Title="Overline"
+            Link="/Content/Contributor/Fonts/Effects/Setting-Overline-on-Text.htm" />
+          <TocEntry
+            Title="Redacted Text"
+            Link="/Content/Contributor/Redacted-Text/About-Redacted-Text.htm">
+            <TocEntry
+              Title="Setting"
+              Link="/Content/Contributor/Redacted-Text/Setting-Redacted-Text.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Smallcaps"
+            Link="/Content/Contributor/Fonts/Effects/Setting-Smallcaps-on-Text.htm" />
+          <TocEntry
+            Title="Strikethrough"
+            Link="/Content/Contributor/Fonts/Effects/Setting-Strikethrough-Effect-on-Text.htm" />
+          <TocEntry
+            Title="Subscript"
+            Link="/Content/Contributor/Fonts/Effects/Setting-Subscript-Text.htm" />
+          <TocEntry
+            Title="Superscript"
+            Link="/Content/Contributor/Fonts/Effects/Setting-Superscript-Text.htm" />
+          <TocEntry
+            Title="Underlined"
+            Link="/Content/Contributor/Fonts/Effects/Setting-Underlined-Text.htm" />
+          <TocEntry
+            Title="Word Spacing"
+            Link="/Content/Contributor/Fonts/Spacing/Setting-Word-Spacing.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Horizontal Rules"
+        Link="/Content/Contributor/Horizontal-Rules/About-Horizontal-Rules.htm">
+        <TocEntry
+          Title="Deleting"
+          Link="/Content/Contributor/Horizontal-Rules/Deleting-Horizontal-Rules.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Contributor/Horizontal-Rules/Editing-Horizontal-Rules.htm" />
+        <TocEntry
+          Title="Inserting"
+          Link="/Content/Contributor/Horizontal-Rules/Inserting-Horizontal-Rules.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Lists"
+        Link="/Content/Contributor/Lists/About-Lists.htm">
+        <TocEntry
+          Title="Multi-level Lists"
+          Link="/Content/Contributor/Lists/Creating-MultiLevel-Lists.htm" />
+        <TocEntry
+          Title="Simple Lists"
+          Link="/Content/Contributor/Lists/Creating-Simple-Lists.htm" />
+        <TocEntry
+          Title="Custom List Formats—Creating"
+          Link="/Content/Contributor/Lists/Creating-Custom-List-Formats.htm" />
+        <TocEntry
+          Title="Custom List Formats—Editing"
+          Link="/Content/Contributor/Lists/Editing-Custom-List-Formats.htm"></TocEntry>
+        <TocEntry
+          Title="Editing List Styles"
+          Link="/Content/Contributor/Lists/Editng-List-Styles/Editing-List-Styles.htm">
+          <TocEntry
+            Title="Aligning"
+            Link="/Content/Contributor/Lists/Editng-List-Styles/Aligning-Lists.htm" />
+          <TocEntry
+            Title="Background"
+            Link="/Content/Contributor/Lists/Editng-List-Styles/Setting-Background-Lists.htm" />
+          <TocEntry
+            Title="Borders"
+            Link="/Content/Contributor/Lists/Editng-List-Styles/Setting-Borders-Lists.htm" />
+          <TocEntry
+            Title="Images—Selecting for List Bullets"
+            Link="/Content/Contributor/Lists/Editng-List-Styles/Selecting-Images-List-Bullets.htm" />
+          <TocEntry
+            Title="Indenting"
+            Link="/Content/Contributor/Lists/Editng-List-Styles/Indenting-Lists.htm" />
+          <TocEntry
+            Title="Line Spacing"
+            Link="/Content/Contributor/Lists/Editng-List-Styles/Setting-Line-Spacing-Lists.htm" />
+          <TocEntry
+            Title="List Type"
+            Link="/Content/Contributor/Lists/Editng-List-Styles/Specifying-List-Type-Style.htm" />
+          <TocEntry
+            Title="Page and Column Breaks"
+            Link="/Content/Contributor/Lists/Editng-List-Styles/Setting-Page-Column-Breaks-Lists.htm" />
+          <TocEntry
+            Title="Spacing Above and Below"
+            Link="/Content/Contributor/Lists/Editng-List-Styles/Setting-Spacing-Above-Below-Lists.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Additional List Tasks"
+          Link="/Content/Contributor/Lists/More/Additional-List-Tasks.htm">
+          <TocEntry
+            Title="Continuing the Sequence"
+            Link="/Content/Contributor/Lists/More/Continuing-Sequence-Lists.htm" />
+          <TocEntry
+            Title="Merging"
+            Link="/Content/Contributor/Lists/More/Merging-Lists.htm" />
+          <TocEntry
+            Title="Notes or Comments Between List Items"
+            Link="/Content/Contributor/Lists/More/Adding-Notes-Comments-Between-List-Items.htm" />
+          <TocEntry
+            Title="Restarting Numbering"
+            Link="/Content/Contributor/Lists/More/Restarting-Numbering-Lists.htm" />
+          <TocEntry
+            Title="Reversing"
+            Link="/Content/Contributor/Lists/More/Reversing-Lists.htm" />
+          <TocEntry
+            Title="Sorting"
+            Link="/Content/Contributor/Lists/More/Sorting-Lists.htm" />
+          <TocEntry
+            Title="Unbinding"
+            Link="/Content/Contributor/Lists/More/Unbinding-Lists.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Local Formatting"
+        Link="/Content/Contributor/Local-Formatting/Local-Formatting.htm">
+        <TocEntry
+          Title="Creating Tabs"
+          Link="/Content/Contributor/Local-Formatting/Creating-Tabs.htm" />
+        <TocEntry
+          Title="Inline Formatting—Removing"
+          Link="/Content/Contributor/Local-Formatting/Removing-Inline-Formatting.htm" />
+        <TocEntry
+          Title="Local Cell Formatting—Resetting"
+          Link="/Content/Contributor/Tables/Resetting-Local-Cell-Formatting.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Paragraph Formatting"
+        Link="/Content/Contributor/Paragraphs/About-Paragraph-Formatting.htm">
+        <TocEntry
+          Title="Hyphenation"
+          Link="/Content/Contributor/Paragraphs/Hyphenation.htm">
+          <TocEntry
+            Title="Custom Hyphenation Rules—Creating"
+            Link="/Content/Contributor/Paragraphs/Creating-Custom-Hyphenation-Rules.htm" />
+          <TocEntry
+            Title="Custom Hyphenation Rules—Managing"
+            Link="/Content/Contributor/Paragraphs/Managing-Custom-Hyphenation-Rules.htm" />
+          <TocEntry
+            Title="Setting"
+            Link="/Content/Contributor/Paragraphs/Setting-Hyphenation.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="About Widows and Orphans"
+          Link="/Content/Contributor/Paragraphs/About-Widows-Orphans.htm">
+          <TocEntry
+            Title="Enabling and Disabling"
+            Link="/Content/Contributor/Paragraphs/Enabling-Disabling-Widow-Oprhan-Control.htm" />
+          <TocEntry
+            Title="Setting"
+            Link="/Content/Contributor/Paragraphs/Setting-Widow-Orphan-Control.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Positioning Elements"
+        Link="/Content/Contributor/Positioning-Elements/About-Positioning-Elements.htm">
+        <TocEntry
+          Title="Enabling Object Positioning"
+          Link="/Content/Contributor/Positioning-Elements/Enabling-Object-Positioning.htm" />
+        <TocEntry
+          Title="Using Absolute Positioning on Elements"
+          Link="/Content/Contributor/Positioning-Elements/Using-Absolute-Positioning-Elements.htm" />
+        <TocEntry
+          Title="Using Floats for Positioning Elements"
+          Link="/Content/Contributor/Positioning-Elements/Using-Floats-Positioning-Elements.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Styles and Stylesheets"
+        Link="/Content/Contributor/Styles/About-Styles-Stylesheets.htm">
+        <TocEntry
+          Title="Styles"
+          Link="/Content/Contributor/Styles/About-Regular-Stylesheets.htm">
+          <TocEntry
+            Title="Regular Stylesheets—Applying"
+            Link="/Content/Contributor/Styles/Associating-Stylesheets-with-Specific-Files.htm" />
+          <TocEntry
+            Title="Regular Stylesheets—Creating"
+            Link="/Content/Contributor/Reviews-Contributions/Creating-New-Documents.htm" />
+          <TocEntry
+            Title="Selectors—Creating"
+            Link="/Content/Contributor/Styles/Creating-Selectors.htm" />
+          <TocEntry
+            Title="Styles—Applying"
+            Link="/Content/Contributor/Styles/Applying-Styles-to-Content.htm" />
+          <TocEntry
+            Title="Styles—Editing"
+            Link="/Content/Contributor/Styles/Editing-Styles-Contributor.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Table Stylesheets"
+          Link="/Content/Contributor/Styles/About-Table-Stylesheets.htm">
+          <TocEntry
+            Title="Table Stylesheets—Applying"
+            Link="/Content/Contributor/Styles/Applying-Table-Stylesheets-to-Tables.htm" />
+          <TocEntry
+            Title="Table Stylesheets—Editing"
+            Link="/Content/Contributor/Styles/Editing-Table-Stylesheets.htm" />
+          <TocEntry
+            Title="Table Stylesheets—Creating"
+            Link="/Content/Contributor/Styles/Creating-Table-Stylesheets-Contributor.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Editing Styles"
+          Link="/Content/Contributor/Styles/Editing-Styles-Contributor.htm">
+          <TocEntry
+            Title="Drop Caps Effect"
+            Link="/Content/Contributor/Paragraphs/Creating-Drop-Caps-Effects.htm" />
+          <TocEntry
+            Title="Frame Breaks"
+            Link="/Content/Contributor/Page-Layouts/Frames/Setting-Frame-Breaks.htm" />
+          <TocEntry
+            Title="Hanging Punctuation"
+            Link="/Content/Contributor/Paragraphs/Creating-Hanging-Punctuation.htm" />
+          <TocEntry
+            Title="Initial Caps Effect"
+            Link="/Content/Contributor/Paragraphs/Creating-Initial-Caps-Effects.htm" />
+          <TocEntry
+            Title="Line Breaks—Wrap Behavior"
+            Link="/Content/Contributor/Paragraphs/Determining-Wrap-Behavior-Line-Breaks.htm" />
+          <TocEntry
+            Title="Page and Column Breaks"
+            Link="/Content/Contributor/Paragraphs/Setting-Page-Column-Breaks.htm" />
+          <TocEntry
+            Title="Paragraphs—Aligning"
+            Link="/Content/Contributor/Paragraphs/Aligning-Paragraphs.htm" />
+          <TocEntry
+            Title="Paragraphs—Background"
+            Link="/Content/Contributor/Paragraphs/Setting-Background-Paragraphs.htm" />
+          <TocEntry
+            Title="Paragraphs—Borders"
+            Link="/Content/Contributor/Paragraphs/Setting-Borders-Paragraphs.htm"></TocEntry>
+          <TocEntry
+            Title="Paragraphs—Indentation"
+            Link="/Content/Contributor/Paragraphs/Indenting-Paragraphs.htm" />
+          <TocEntry
+            Title="Paragraphs—Line Spacing"
+            Link="/Content/Contributor/Paragraphs/Setting-Line-Spacing.htm" />
+          <TocEntry
+            Title="Paragraphs—Moving"
+            Link="/Content/Contributor/Structure-Bars/Moving-Paragraphs-Content-with-Structure-Bars.htm" />
+          <TocEntry
+            Title="Paragraphs—Positioning with Absolute Positioning"
+            Link="/Content/Contributor/Positioning-Elements/Using-Absolute-Positioning-Elements.htm" />
+          <TocEntry
+            Title="Paragraphs—Positioning with Floats"
+            Link="/Content/Contributor/Positioning-Elements/Using-Floats-Positioning-Elements.htm" />
+          <TocEntry
+            Title="Paragraphs—Short Line Elimination"
+            Link="/Content/Contributor/Paragraphs/Setting-Short-Line-Elimination.htm" />
+          <TocEntry
+            Title="Paragraphs—Spacing Above and Below"
+            Link="/Content/Contributor/Paragraphs/Setting-Paragraph-Spacing-Above-Below.htm" />
+          <TocEntry
+            Title="Rounded Borders"
+            Link="/Content/Contributor/Paragraphs/Creating-Rounded-Borders.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Mediums and Media Queries"
+          Link="/Content/Contributor/Styles/Mediums/About-Mediums-Media-Queries.htm">
+          <TocEntry
+            Title="Creating"
+            Link="/Content/Contributor/Styles/Mediums/Creating-Mediums.htm" />
+          <TocEntry
+            Title="Selecting"
+            Link="/Content/Contributor/Styles/Mediums/Selecting-Mediums-Media-Queries.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Additional Regular Stylesheet Tasks"
+          Link="/Content/Contributor/Styles/Additional-Regular-Stylesheet-Tasks.htm">
+          <TocEntry
+            Title="Selectors—Renaming"
+            Link="/Content/Contributor/Styles/More/Renaming-Selectors.htm" />
+          <TocEntry
+            Title="Styles—Comments"
+            Link="/Content/Contributor/Styles/More/Adding-Comments-to-Styles.htm" />
+          <TocEntry
+            Title="Styles—Disabling"
+            Link="/Content/Contributor/Styles/More/Disabling-Styles.htm" />
+          <TocEntry
+            Title="Styles—Importing"
+            Link="/Content/Contributor/Styles/More/Importing-Styles.htm" />
+          <TocEntry
+            Title="Stylesheets—Opening"
+            Link="/Content/Contributor/Styles/More/Opening-Stylesheets.htm" />
+          <TocEntry
+            Title="Tag Groups"
+            Link="/Content/Contributor/Styles/More/Creating-Tag-Groups.htm" />
+          <TocEntry
+            Title="Units of Measurement"
+            Link="/Content/Contributor/Styles/More/About-UOM-Contributor.htm" />
+        </TocEntry>
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Additional Features"
+      Link="/Content/Contributor/Introduction/Features/Additional-Features.htm">
+      <TocEntry
+        Title="Accessibility"
+        Link="/Content/Contributor/Accessibility/About-Accessibility-Contributor.htm">
+        <TocEntry
+          Title="Applying Empty Alt Text"
+          Link="/Content/Contributor/Accessibility/Applying-Empty-Alt-Text-Contributor.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Dictionaries"
+        Link="/Content/Contributor/Dictionaries/About-Dictionaries.htm">
+        <TocEntry
+          Title="Location for Global Dictionaries"
+          Link="/Content/Contributor/Dictionaries/Choosing-Location-for-Global-Dictionaries.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Language Support"
+        Link="/Content/Contributor/Language-Support/Selecting-Language.htm"></TocEntry>
+      <TocEntry
+        Title="Plug-In API"
+        Link="/Content/Contributor/Plugins/Plugin-API.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Interface"
+    Link="/Content/Contributor/Interface/Touring-Workspace-Contributor.htm">
+    <TocEntry
+      Title="Customizing the Workspace"
+      Link="/Content/Contributor/Interface/Customizing-Workspace.htm">
+      <TocEntry
+        Title="Color Theme for Interface"
+        Link="/Content/Contributor/Interface/Selecting-Interface-Color-Theme.htm" />
+      <TocEntry
+        Title="Column Information—Customizing"
+        Link="/Content/Contributor/Interface/Customizing-Column-Information.htm" />
+      <TocEntry
+        Title="Ribbons—Minimizing"
+        Link="/Content/Contributor/Interface/Minimizing-Ribbons.htm" />
+      <TocEntry
+        Title="Ribbons and Toolstrip—Switching"
+        Link="/Content/Contributor/Interface/Switching-Ribbon-Menu.htm" />
+      <TocEntry
+        Title="Window Layouts"
+        Link="/Content/Contributor/Interface/Window-Layouts.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Primary Editors"
+      Link="/Content/Contributor/Interface/UI-Elements/Primary-Editors-Contributor.htm">
+      <TocEntry
+        Title="XML Editor"
+        Link="/Content/Contributor/Interface/UI-Elements/XML-Editor-Contributor.htm" />
+      <TocEntry
+        Title="Internal Text Editor"
+        Link="/Content/Contributor/Interface/UI-Elements/Internal-Text-Editor-Contributor.htm" />
+      <TocEntry
+        Title="Stylesheet Editor"
+        Link="/Content/Contributor/Interface/UI-Elements/Stylesheet-Editor.htm" />
+      <TocEntry
+        Title="Page Layout Editor"
+        Link="/Content/Contributor/Interface/UI-Elements/Page-Layout-Editor.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Primary Window Panes"
+      Link="/Content/Contributor/Interface/UI-Elements/Primary-Window-Panes.htm"
+      StartSection="false">
+      <TocEntry
+        Title="Review Packages Window Pane"
+        Link="/Content/Contributor/Interface/UI-Elements/Review-Packages-Window-Pane.htm"></TocEntry>
+      <TocEntry
+        Title="Styles Window Pane"
+        Link="/Content/Contributor/Interface/UI-Elements/Styles-Window.htm" />
+      <TocEntry
+        Title="External Resources Window Pane"
+        Link="/Content/Contributor/External-Resources/About-External-Resources-Contribute.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Primary Dialogs"
+      Link="/Content/Contributor/Interface/UI-Elements/Primary-Dialogs.htm">
+      <TocEntry
+        Title="Character Dialog"
+        Link="/Content/Contributor/Interface/UI-Elements/Character-Dialog.htm" />
+      <TocEntry
+        Title="Options Dialog"
+        Link="/Content/Contributor/Interface/UI-Elements/Options-Dialog-Contributor.htm" />
+      <TocEntry
+        Title="Properties Dialog (Documents)"
+        Link="/Content/Contributor/Interface/UI-Elements/Properties-Dialog-Documents.htm" />
+      <TocEntry
+        Title="Properties Dialog (Style Classes)"
+        Link="/Content/Contributor/Interface/UI-Elements/Properties-Dialog-Style-Classes.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Quick Launch Bar"
+      Link="/Content/Contributor/Interface/UI-Elements/Quick-Launch-Bar.htm" />
+    <TocEntry
+      Title="Ribbons, Menus, and Toolbars"
+      Link="/Content/Contributor/Interface/UI-Elements/Ribbons-Menus-Toolbars.htm">
+      <TocEntry
+        Title="Menus"
+        Link="/Content/Contributor/Interface/Menus-Contributor.htm" />
+      <TocEntry
+        Title="Quick Access Toolbar"
+        Link="/Content/Contributor/Interface/Quick-Access-Toolbar.htm" />
+      <TocEntry
+        Title="Ribbons"
+        Link="/Content/Contributor/Interface/Ribbons-Contributor.htm" />
+      <TocEntry
+        Title="Toolbars"
+        Link="/Content/Contributor/Interface/Global-Toolbars-Contributor.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Start Page"
+      Link="/Content/Contributor/Interface/UI-Elements/Start-Page-Contributor.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="PDFs"
+    Link="/Content/Contributor/PDF-Guides/PDF-Guides-Contributor.htm" />
+</CatapultToc>

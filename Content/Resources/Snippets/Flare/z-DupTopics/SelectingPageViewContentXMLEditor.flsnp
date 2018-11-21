@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="9" MadCap:lastHeight="6577" MadCap:lastWidth="1096">
+    <body>
+        <p>
+            <MadCap:snippetText src="../../Shared/XMLEditor/MultipleLayoutModes.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Topics/About-Layout-Modes.htm">About Layout Modes</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>
+            <img src="../../../Images/Flare/xml_editor_layout_modes.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>The Print Layout mode <MadCap:snippetText src="../../Shared/XMLEditor/PrintLayoutModeDescription.flsnp" /></p>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTopicsGuide" />
+        <MadCap:snippetBlock src="../../Shared/XMLEditor/PrintLayoutMode2.flsnp" />
+        <p>
+            <img src="../../../Images/Flare/xml_editor_page_layout.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTopicsGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example</p>
+                    <p>Let's say you've created a topic designed to display your generated glossary in print-based outputs. If you open the topic in Web Layout view in the XML Editor, it might look something like this.</p>
+                    <p>
+                        <img src="../../../Images/Shared/page_layout_dropdown1.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTopicsGuide" />
+                    <p>Because this topic is to be used in print-based outputs only, you switch to the Page Layout view.</p>
+                    <p>
+                        <img src="../../../Images/Shared/page_layout_dropdown2.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTopicsGuide" />
+                    <p>To get a more accurate preview of how the topic will look in the output, we switch to the page layout that will be used for the glossary. We also choose a particular page type within that layout.</p>
+                    <p>
+                        <img src="../../../Images/Shared/page_layout_dropdown3.png" class="MaxWidth90Percent" />
+                    </p>
+                    <p>
+                        <img src="../../../Images/Flare/page_layout_dropdown4.png" alt="" title="" class="MaxWidth90Percent" />
+                    </p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/XMLEditor/PageTypeSelectionXMLEditor.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/XMLEditor/PageTypeSelectionExample.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTopicsGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to select a page layout and page type to view content</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Topics/OpenContentFile.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/PageLayouts/SelectPageLayoutAndTypeStep.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/PageLayouts/SelectPageLayoutAndTypeStep2.flsnp" />
+                        </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Because topics can end up anywhere in your output, based on your settings, Flare won't know exactly how a particular page will look until you generate the output. Once you generate the output, Flare takes all of the information that you've given it in different places (e.g., Target Editor, outline TOC) and puts it all together according to your rules.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can get an even more accurate look at how a topic will look in the output by associating conditions with it while you are editing. This is similar to the feature that you can use to preview a document with certain conditions set. The difference is that this associates the conditions to the document as you edit it in the XML Editor. See <MadCap:xref href="../../../../Flare/Conditions/Associating-Condition-Tags-to-File-While-Editing.htm">Associating Condition Tags to a File While Editing</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

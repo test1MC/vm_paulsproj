@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li>Click on the frame that you want to rotate. In the local toolbar, click <img src="../../../Images/Shared/layout_btn.png" class="ReduceButtonSize" /> and from the drop-down, select <span class="Emphasis">Rotate</span>.</li>
+            <li>Right-click on the frame that you want to rotate. From the context menu select <span class="Emphasis">Rotate</span>.</li>
+        </ul>
+    </body>
+</html>

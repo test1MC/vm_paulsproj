@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>If you associate a master stylesheet with an entire project, the styles will be available for the content in the project. If you have specified a master stylesheet at the project level and another at a target level, the stylesheet at the target will take precedence. If you are using different master stylesheets for different targets, the stylesheet associated with the primary target determines what you see in the XML Editor. You can set a target-level master stylesheet on the General tab of the Target Editor. Click in the field and select a stylesheet from your project to use as the "master." If you click the <span class="Emphasis">Edit</span> button, the selected stylesheet opens in the Stylesheet Editor.</p>
+    </body>
+</html>

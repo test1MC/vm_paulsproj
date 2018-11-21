@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>In the local toolbar at the bottom of the XML Editor, click one of the buttons <img src="../../../Images/Shared/toggle_show_blocks_btn.png" class="ReduceButtonSize" /><img src="../../../Images/Shared/toggle_show_spans_btn.png" class="ReduceButtonSize" /> to turn on the structure bars. Depending on the button that you click, structure bars are displayed either to the left of the topic or table content, or above it.</p>
+    </body>
+</html>

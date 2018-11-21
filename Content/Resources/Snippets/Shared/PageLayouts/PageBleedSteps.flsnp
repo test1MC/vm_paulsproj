@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <ol>
+            <li value="3">Select the <span class="Emphasis">Print Marks</span> tab.</li>
+            <li>
+                <MadCap:snippetText src="SelectAllForPageSettingsStep.flsnp" />
+            </li>
+            <li>Use the <span class="Emphasis">Bleeds</span> section to enter settings:<ul class="FirstLevel"><li><span class="SetOffFirstLevel">Left </span>Enter the length of the left bleed area for the page. <MadCap:snippetText src="../UIElements/FirstSelectLength.flsnp" /><MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Flare/Styles/More/About-UOM-Flare.htm">About Units of Measurement</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Analyzer"> See <MadCap:xref href="../../../../Analyzer/Styles/More/About-UOM-Analyzer.htm">About Units of Measurement</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> See <MadCap:xref href="../../../../Contributor/Styles/More/About-UOM-Contributor.htm">About Units of Measurement</MadCap:xref>.</MadCap:conditionalText></li><li><span class="SetOffFirstLevel">Right </span>Enter the length of the right bleed area for the page. <MadCap:snippetText src="../UIElements/FirstSelectLength.flsnp" />&#160;</li><li><span class="SetOffFirstLevel">Top </span>Enter the length of the top bleed area for the page. <MadCap:snippetText src="../UIElements/FirstSelectLength.flsnp" />&#160;</li><li><span class="SetOffFirstLevel">Bottom </span>Enter the length of the bottom bleed area for the page. <MadCap:snippetText src="../UIElements/FirstSelectLength.flsnp" />&#160;</li></ul></li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

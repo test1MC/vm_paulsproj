@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo">
+    <body>
+        <p>Other users on the team can easily import the project from the remote repository. This creates a copy of the <MadCap:variable name="Other.Product" /> project on the user's computer.</p>
+    </body>
+</html>

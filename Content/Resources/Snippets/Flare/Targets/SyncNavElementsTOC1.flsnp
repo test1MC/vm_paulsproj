@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>If you generate HTML5 output, links to the TOC (e.g., menu items, breadcrumbs, mini-TOCs) are dynamically generated when a particular topic is opened. This allows you to keep these navigation elements in sync with your TOC. This is particularly important if the same topic is linked to multiple entries in your TOC; otherwise, menu items and other navigation elements might display for one instance of that topic in the TOC when another instance is preferred.</p>
+    </body>
+</html>

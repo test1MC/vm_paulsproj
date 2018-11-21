@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="1135" MadCap:lastWidth="1020" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>When you insert topic items into a row in a relationship table, those topics will link to the other topics in the row in some way. If you do not want to use the default type of link, you can select another kind. You can do this for individual topic items, entire cells, or entire columns.</p>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Links on Items </span>Each topic item in a relationship table can use a different kind of link.</li>
+            <li><span class="SetOffFirstLevel">Links on Cells </span>If you apply a link type to a cell, all of the topic items in that cell will use that same setting (unless you later override the setting on individual items).</li>
+            <li><span class="SetOffFirstLevel">Links on Columns </span>If you apply a link type to a column, all of the topic items in all cells will use that same setting (unless you later override the setting on individual items or cells).</li>
+        </ul>
+        <p>Following are the steps for selecting link types.</p>
+        <ol class="LowerAlpha">
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p><span class="SetOffFirstLevel">For Columns </span>Click in a column. In the local toolbar click <img src="../../../Images/Shared/column_properties_btn.png" class="ReduceButtonSize" />.</p>
+                        <p>OR</p>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">For Cells </span>Click in a cell. In the local toolbar click <img src="../../../Images/Shared/cell_properties_btn.png" class="ReduceButtonSize" />.</p>
+                        <p>OR</p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">For Topic Link Items </span>Click a topic link item in a cell. In the local toolbar click <img src="../../../Images/Shared/run_properties2_btn.png" class="ReduceButtonSize" />.</li>
+                </ul>
+            </li>
+            <li>Click in the <span class="Emphasis">Linking</span> field and select one of the following.<ul class="FirstLevel"><li><span class="SetOffFirstLevel">Source Only </span><MadCap:snippetText src="../RelationshipTables/RelationshipLinkSourceOnly.flsnp" /></li><li><span class="SetOffFirstLevel">Target Only </span><MadCap:snippetText src="../RelationshipTables/RelationshipLinkTargetOnly.flsnp" /></li><li><span class="SetOffFirstLevel">Normal (default) </span><MadCap:snippetText src="../RelationshipTables/RelationshipLinkNormal.flsnp" /></li><li><span class="SetOffFirstLevel">None</span> This option indicates that the topic reference does not have a link.</li><li><span class="SetOffFirstLevel">Use <MadCap:keyword term="CONREF:Relationship tables" />CONREF Target </span>This uses the conref attribute to pull content. The conref attribute references an ID on content that can be reused. For Flare outputs other than DITA, this option is not supported. For more detailed information about DITA and the conref attribute, please refer to <a href="http://www.oasis-open.org/committees/dita/" target="_blank">www.oasis-open.org/committees/dita/</a>.</li></ul><p>Unless you leave the default link setting, relationship links are identified by a blue background when you set them. To identify the exact kind of relationship link applied to an item, you can select the item and then click the appropriate Properties button in the local toolbar.</p><p><img src="../../../Images/Shared/relationship_table_example3.png" class="MaxWidth90Percent" /></p><p><img src="../../../Images/Shared/relationship_table_example_graph1.png" class="MaxWidth90Percent" /></p></li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

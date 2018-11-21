@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="121" MadCap:lastWidth="1017">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">For MadCap Search, the look of the search bar and results can be customized through these skins and components: Top Navigation skin, Search Bar component skin, and Search Results skin component. However, with Google Search, any changes in these skins are not supported. Instead, the look is controlled via Google.</p>
+        </div>
+    </body>
+</html>

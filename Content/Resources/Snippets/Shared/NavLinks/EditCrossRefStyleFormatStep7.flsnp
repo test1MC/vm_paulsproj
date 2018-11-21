@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>(Optional) To make sure other cross-references display the new format, you can update the cross-references in a topic (<span class="Emphasis">Tools &gt; Update Cross-References</span>). However, all of the cross-references will be updated automatically when you generate the output, so this is not a mandatory task.</p>
+    </body>
+</html>

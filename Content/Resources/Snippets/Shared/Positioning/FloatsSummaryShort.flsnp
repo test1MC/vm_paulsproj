@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p>Another way to position an object is to "float" it to the left or right on a page. When you float an object to the left, wraparound text can flow on the right side of the object. When you float an object to the right, wraparound text can flow on the left side of the object. You can also float objects outside of the frames where the normal text flow occurs.</p>
+    </body>
+</html>

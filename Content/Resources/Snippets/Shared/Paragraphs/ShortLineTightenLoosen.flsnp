@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p><MadCap:variable name="Other.Product" /> will first try to decrease the kerning (i.e., the white space will become more narrow) to the maximum setting. Then it will try to increase the kerning (i.e., the white space will become wider).</p>
+    </body>
+</html>

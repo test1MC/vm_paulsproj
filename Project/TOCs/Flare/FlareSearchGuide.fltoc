@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Search"
+    Link="/Content/Flare/Search/About-Search.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartSection="false"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    PageNumberFormat="decimal"></TocEntry>
+  <TocEntry
+    Title="CH 2 Enabling Search in Skins"
+    Link="/Content/Flare/Search/Enabling-Search-Skins.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 3 Topics—Including or Excluding in Search"
+    Link="/Content/Flare/Topics/Including-Excluding-Topics-in-Search.htm"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 4 Configuring the Search Database"
+    Link="/Content/Flare/Search/Configuring-Search-Database/Configuring-Search-Database.htm"
+    StartSection="false"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Chunking Large Search Database Files"
+      Link="/Content/Flare/Search/Configuring-Search-Database/Chunking-Large-Database-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Index Entries—Excluding"
+      Link="/Content/Flare/Search/Configuring-Search-Database/Excluding-Index-Entries-from-Search.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="N-Gram Size for Search"
+      Link="/Content/Flare/Search/Configuring-Search-Database/Setting-N-Gram-Size.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Non-words—Excluding"
+      Link="/Content/Flare/Search/Configuring-Search-Database/Excluding-Non-Words-from-Search.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Partial-word Search"
+      Link="/Content/Flare/Search/Configuring-Search-Database/Enabling-Partial-Word-Search.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Pre-merging Search Database Files"
+      Link="/Content/Flare/Search/Configuring-Search-Database/Pre-merging-Search-Database-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="SQL Search Database—Including"
+      Link="/Content/Flare/Search/Configuring-Search-Database/Including-SQL-Search-Database.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Stop Words—Including"
+      Link="/Content/Flare/Search/Configuring-Search-Database/Including-Stop-Words.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Search Filter Sets"
+    Link="/Content/Flare/Search/Search-Filter-Sets/About-Search-Filter-Sets.htm"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Adding"
+      Link="/Content/Flare/Search/Search-Filter-Sets/Adding-Search-Filter-Sets-to-Projects.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Concepts—Inserting"
+      Link="/Content/Flare/Concepts/Inserting-Concepts.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating"
+      Link="/Content/Flare/Search/Search-Filter-Sets/Creating-Search-Filters.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Customizing Ordering"
+      Link="/Content/Flare/Search/Search-Filter-Sets/Customizing-Search-Filter-Ordering.htm" />
+    <TocEntry
+      Title="Associating with a Target"
+      Link="/Content/Flare/Search/Search-Filter-Sets/Associating-Search-Filter-Set-with-Target.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing"
+      Link="/Content/Flare/Search/Search-Filter-Sets/Importing-Search-Filter-Sets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Opening"
+      Link="/Content/Flare/Search/Search-Filter-Sets/Opening-Search-Filter-Set.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Search Filter Set Example"
+      Link="/Content/Flare/Search/Search-Filter-Sets/Search-Filter-Set-Example.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Synonyms"
+    Link="/Content/Print-Only-Topics/Flare/Search/Synonyms.htm"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters2Gray.flpgl">
+    <TocEntry
+      Title="Synonyms"
+      Link="/Content/Flare/Search/Synonyms/About-Synonyms.htm"
+      BreakType="pageLayout"
+      PageType="right"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Adding"
+      Link="/Content/Flare/Search/Synonyms/Adding-Synonym-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating"
+      Link="/Content/Flare/Search/Synonyms/Creating-Synonyms-to-Enhance-Search-Results.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Exporting"
+      Link="/Content/Flare/Feedback/Exporting/Exporting-Synonyms.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Opening"
+      Link="/Content/Flare/Search/Synonyms/Opening-Synonym-Files.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 7 Search Highlighting and Styles"
+    Link="/Content/Flare/Search/Search-Highlighting/About-Search-Highlighting.htm"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Customizing the Highlight Color for Search Hits"
+      Link="/Content/Flare/Search/Search-Highlighting/Customizing-Highlight-Color-for-Search-Hits.htm" />
+    <TocEntry
+      Title="Styles for Generated Pages"
+      Link="/Content/Flare/Styles/More/Styles-for-Generated-Pages.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 8 Server-based Search (HTML5)"
+    StartSection="false"
+    Link="/Content/Flare/Output/HTML5-Output/Enabling-HTML5-Server-Output.htm"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Including Non-XHTML Files in HTML5 Search"
+      Link="/Content/Flare/Output/HTML5-Output/Search/Including-Non-XHTML-Files-Search-HTML5.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 9 Server-based Search (WebHelp Plus)"
+    StartSection="false"
+    Link="/Content/Flare/Output/WebHelp-Plus-Output/Enabling-WebHelp-Plus-Output.htm"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Including Non-XHTML Files in WebHelp Plus Search"
+      Link="/Content/Flare/Output/WebHelp-Plus-Output/Search/Including-Non-XHTML-Files-Search.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 10 Searching the Outputs"
+    StartSection="false"
+    Link="/Content/Flare/Search/Searching-Outputs/Searching-Outputs.htm"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl">
+    <TocEntry
+      Title="Search Methods and Syntax"
+      Link="/Content/Flare/Search/Searching-Outputs/Search-Methods-Syntax1.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="DotNet Help"
+      Link="/Content/Flare/Search/Searching-Outputs/Searching-DNH.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Microsoft HTML Help (CHM)"
+      Link="/Content/Flare/Search/Searching-Outputs/Searching-HTML-Help.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="HTML5"
+      Link="/Content/Flare/Search/Searching-Outputs/Searching-HTML5Help.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="WebHelp"
+      Link="/Content/Flare/Search/Searching-Outputs/Searching-WebHelp.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="WebHelp Mobile"
+      Link="/Content/Flare/Search/Searching-Outputs/Searching-WHM.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Searching for Community Results"
+      Link="/Content/Shared/Pulse-Features/Searching-Pulse/Searching-Pulse.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 11 Optimizing Search"
+    Link="/Content/Flare/Search/Optimizing-Search/Optimizing-Search.htm"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl">
+    <TocEntry
+      Title="Google or MadCap Search Engine"
+      Link="/Content/Flare/Targets/More/Setting-Up-Search-Engine.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Abstract Character Limit"
+        Link="/Content/Flare/Targets/More/Setting-Search-Abstract-Character-Limit.htm" />
+      <TocEntry
+        Title="Glossary Terms in Search Results"
+        Link="/Content/Flare/Targets/More/Including-Glossary-Terms-in-Search-Result.htm" />
+      <TocEntry
+        Title="Importance of Search Results"
+        Link="/Content/Flare/Targets/More/Setting-Search-Result-Importance.htm" />
+      <TocEntry
+        Title="Number of Search Results Per Page"
+        Link="/Content/Flare/Targets/More/Setting-Number-Search-Results-Per-Page.htm"></TocEntry>
+      <TocEntry
+        Title="Generating Sitemaps"
+        Link="/Content/Flare/Targets/More/Generating-Sitemaps-for-Search-Engine-Optimization.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Ranking Search Results"
+      Link="/Content/Flare/Search/Optimizing-Search/Ranking-Search-Results.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="Optimizing Your Content"
+      Link="/Content/Flare/Search/Optimizing-Search/Optimizing-Content.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Meta Descriptions"
+      Link="/Content/Flare/Topics/Adding-Meta-Descriptions-Topics.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Optimizing Your Site"
+      Link="/Content/Flare/Search/Optimizing-Search/Optimizing-Site.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

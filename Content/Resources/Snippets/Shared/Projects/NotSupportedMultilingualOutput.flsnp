@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <p>This feature requires a connection between your Flare project and one or more other Flare or Lingo projects. Therefore, it is not supported when building from MadCap Central.</p>
+    </body>
+</html>

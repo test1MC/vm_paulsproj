@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="263" MadCap:lastWidth="736" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>Use this field to adjust where the item is positioned vertically.</p>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Baseline </span>The baseline of the box will be aligned with the baseline of the parent box. </li>
+            <li><span class="SetOffFirstLevel">Text Top </span>The top of the box will be aligned with the top of the parent element's font.</li>
+            <li><span class="SetOffFirstLevel">Text Bottom </span>The bottom of the box will be aligned with the bottom of the line box.</li>
+            <li><span class="SetOffFirstLevel">Top </span>The top of the box will be aligned with the top of the line box.</li>
+            <li><span class="SetOffFirstLevel">Middle </span>The vertical midpoint of the box will be aligned with the baseline of the parent box, plus half the x-height of the parent.</li>
+            <li><span class="SetOffFirstLevel">Bottom </span>The bottom of the box will be aligned with the bottom of the line box.</li>
+        </ul>
+    </body>
+</html>

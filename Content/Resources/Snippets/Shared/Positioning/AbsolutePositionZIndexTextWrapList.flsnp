@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul>
+            <li>
+                <p><span class="SetOffFirstLevel">Square </span>Wraps text around the absolutely positioned element on any or all sides.</p>
+                <p>
+                    <img src="../../../Images/Shared/absolute-positioning9.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                <p>By default, this effect uses a z-index of 0.</p>
+                <p>
+                    <img src="../../../Images/Shared/absolute-positioning10.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can select this option when you are working in either Web Layout mode or Print Layout mode in the XML Editor. However, online output <MadCap:conditionalText MadCap:conditions="Products.Analyzer,Products.Contributor">generated from Flare </MadCap:conditionalText>does not support content wrapping all around the element. Therefore, when you select this option in Web Layout mode, it actually floats the element to the left of content. And that is how it is displayed in the online output <MadCap:conditionalText MadCap:conditions="Products.Analyzer,Products.Contributor">generated from Flare</MadCap:conditionalText>. So if you are generating both print and online output from the same topic where you've used this feature, the PDF or XPS output <MadCap:conditionalText MadCap:conditions="Products.Analyzer,Products.Contributor">generated from Flare </MadCap:conditionalText>will display the element with content wrapping all around it, while the same topic in online output will display the element on the left side of content.</p>
+            </li>
+            <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareStylesGuide,FlareGuides.FlareQRCodesGuide,FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareImagesGuide" />
+            <li>
+                <p><span class="SetOffFirstLevel">Behind Text </span>Places the absolutely positioned element behind text.</p>
+                <p>
+                    <img src="../../../Images/Shared/absolute-positioning13.png" alt="" title="" class="MaxWidth65Percent" />
+                </p>
+                <p>By default, this effect uses a z-index of -1.</p>
+                <p>
+                    <img src="../../../Images/Shared/absolute-positioning11.png" alt="" title="" class="MaxWidth65Percent" />
+                </p>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareQRCodesGuide,FlareGuides.FlareImagesGuide" />
+                <p>The tricky thing about this setting is that you might need a way to select the object, but it's behind text. You can try hovering the mouse over the object until the cursor changes to an arrow, then click it. But perhaps an easier method is to triple click on the content where the absolutely positioned object exists. This selects that block of content. Then click on the object twice slowly to select it.</p>
+            </li>
+            <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+            <li>
+                <p><span class="SetOffFirstLevel">In Front of Text </span>Places the absolutely positioned element in front of text.</p>
+                <p>
+                    <img src="../../../Images/Shared/absolute-positioning14.png" alt="" title="" class="MaxWidth65Percent" />
+                </p>
+                <p>By default, this effect uses a z-index of 1.</p>
+                <p>
+                    <img src="../../../Images/Shared/absolute-positioning12.png" alt="" title="" class="MaxWidth60Percent" />
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>

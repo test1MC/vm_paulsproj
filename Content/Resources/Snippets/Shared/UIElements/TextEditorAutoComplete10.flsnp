@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>You can select a property by double-clicking it or by pressing the Enter key on your keyboard. Once a property is selected, the property text is completed and a colon (followed by a space) is added to the end of the text. The cursor is placed after the space so you can quickly type a value for the property.</p>
+    </body>
+</html>

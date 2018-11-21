@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">When using regular expressions in segmentation rules, keep in mind that a period in a rule (e.g., "break after St."; "do not break after St. and before Augustine") may cause unexpected results. This might occur because in regular expressions a period is used to match any character. You can avoid this by always placing a period within square brackets (e.g., "break after St[.]"; "do not break after St[.] and before Augustine") to ensure only the specific character for the period is used.</p>
+            <p>
+                <img src="../../../Images/Shared/segmentation_rules20.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

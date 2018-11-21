@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="5" MadCap:lastHeight="833" MadCap:lastWidth="1078">
+    <body>
+        <ol>
+            <li>
+                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:formats;Paragraphs:auto-numbers;Formatting:autonumbers;Styles:auto-numbers" />Create Autonumber Formats </span>First, you need to specify what a particular autonumber will include and what it will look like. </p>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example
+</p>
+                    <p>If you are creating a format to use with figure captions, you might specify the format to display the word "Figure" followed by the chapter number, a dash, and an incremented number. You also might want this format to appear in bold font. Finally, you might use a float option so that the autonumber is positioned to the left of the page layout frame where the relevant paragraph occurs.</p>
+                </div>
+                <p>You can create autonumber formats for styles (which you can easily reuse) or directly for a specific paragraph. <MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePrintedOutputGuide">For more information about creating these formats for styles, see <MadCap:xref href="../../../../Flare/Autonumbers/Creating-Auto-Number-Formats-for-Styles.htm">Creating Autonumber Formats for Styles</MadCap:xref>. For more information about creating these formats for paragraphs, see the online Help.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="FlareGuides.FlareAutoNumbersGuide,Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Flare/Autonumbers/Creating-Auto-Number-Formats-for-Styles.htm" class="seepara">Creating Autonumber Formats for Styles</MadCap:xref> and <MadCap:xref href="../../../../Flare/Autonumbers/Creating-Auto-Number-Formats-for-Paragraphs.htm" class="seepara">Creating Autonumber Formats for Paragraphs</MadCap:xref>.</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Autonumbers/Creating-Auto-Number-Formats-for-Styles.htm">Creating Autonumber Formats for Styles</MadCap:xref> and <MadCap:xref href="../../../../Contributor/Autonumbers/Creating-Auto-Number-Formats-for-Paragraphs.htm">Creating Autonumber Formats for Paragraphs</MadCap:xref>.</MadCap:conditionalText></p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:styles;Styles:auto-numbers" />Apply Styles with Autonumber Formats to Content </span>After the autonumber format is created using the style method, you need to indicate where it should be displayed in your content. </p>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example
+</p>
+                    <p>If you plan to use an autonumber format for figure captions, you apply the style using that particular format to the appropriate locations in your topics.</p>
+                </div>
+                <p>
+                    <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">For more information see <MadCap:xref href="../../../../Flare/Styles/Applying-Styles-to-Content.htm" MadCap:conditions="General.OnlineOnly">Applying Styles to Topic Content</MadCap:xref>.</MadCap:conditionalText>
+                    <MadCap:conditionalText MadCap:conditions="Products.Contributor">For more information see <MadCap:xref href="../../../../Contributor/Styles/Applying-Styles-to-Content.htm">Applying Styles to Content</MadCap:xref>.</MadCap:conditionalText>
+                    <MadCap:snippetText src="../ForMoreInfo/ForMoreInfoAboutStylesOnlineHelpOrStylesGuide.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                    <MadCap:conditionalText MadCap:conditions="FlareGuides.FlareAutoNumbersGuide">For more information about using styles, see the online Help or the <span class="EmphasisItalic">Flare Styles Guide</span>.</MadCap:conditionalText>
+                </p>
+                <p MadCap:conditions="General.OnlineOnly">If you used the paragraph format method, the autonumber format was already applied to the paragraph at the same time that you created the format.</p>
+            </li>
+            <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+            <li MadCap:conditions="Products.Flare">
+                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:flow;Output:autonumbering" />Specify Autonumbering Flow for Output </span>If you are including volume, chapter, and/or section autonumbers in print-based output, you need to indicate where each volume, chapter, or section should begin and end. You also need to provide other specifications, such as whether the numbering should restart at a specific number, whether it should continue from the previous list, and the type of numbering format (e.g., Roman, alpha) to be used. </p>
+                <p>This procedure is especially useful if you have created chapter autonumbers and need to ensure that they begin with the correct number at the correct location, after any front matter (e.g., title page, copyright page, generated table of contents).</p>
+                <p>
+                    <MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareAutoNumbersGuide">For more information see <MadCap:xref href="../../../../Flare/Autonumbers/Specifying-Auto-Numbering-Flow-for-Output.htm">Specifying Autonumbering Flow for Output</MadCap:xref>.</MadCap:conditionalText>
+                </p>
+            </li>
+        </ol>
+    </body>
+</html>

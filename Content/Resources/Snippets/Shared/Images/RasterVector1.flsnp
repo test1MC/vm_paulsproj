@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p><MadCap:variable name="Other.Product" /> supports common <MadCap:keyword term="Images:raster;Raster images" />raster image formats such as <MadCap:keyword term="BMP file" />BMP,<MadCap:keyword term="GIF file" /> GIF,<MadCap:keyword term="JPG file" /> JPG, and <MadCap:keyword term="PNG file" />PNG. In addition, it supports <MadCap:keyword term="Images:vector;Vector images" />vector image formats such as <MadCap:keyword term="EPS file" />EPS, <MadCap:keyword term="PS file" />PS, and <MadCap:keyword term="SVG file" />SVG. </p>
+    </body>
+</html>

@@ -1,0 +1,628 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Navigation Links"
+    Link="/Content/Flare/Nav-Links/About-Links.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartPageLayout="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 2 Bookmarks"
+    Link="/Content/Flare/Nav-Links/Bookmarks/Inserting-Bookmarks.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Renaming Bookmarks"
+      Link="/Content/Flare/Nav-Links/Bookmarks/Renaming-Bookmarks.htm"
+      MarkAsNew="False"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Deleting Bookmarks"
+      Link="/Content/Flare/Nav-Links/Bookmarks/Deleting-Bookmarks.htm"
+      MarkAsNew="False"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Hiding and Showing Bookmark Names"
+      Link="/Content/Flare/Nav-Links/Bookmarks/Hiding-Showing-Bookmark-Names.htm"
+      MarkAsNew="False"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Concept (See Also) Links"
+    Link="/Content/Print-Only-Topics/Flare/Concepts/Concepts.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters2Gray.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter">
+    <TocEntry
+      Title="About Concepts"
+      Link="/Content/Flare/Concepts/About-Concepts.htm"
+      BreakType="pageLayout"
+      PageType="right"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Concept Link Example"
+      Link="/Content/Flare/Concepts/Concept-Link-Example.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Adding Concepts"
+      Link="/Content/Flare/Concepts/Adding-Concepts.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Assigning Topics to Concepts"
+      Link="/Content/Flare/Concepts/Assigning-Topics-to-Concepts.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Inserting Concept Keywords into Topics"
+      Link="/Content/Flare/Concepts/Inserting-Concepts.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Inserting Concept Links into Topics"
+      Link="/Content/Flare/Concepts/Inserting-Concept-Links.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Editing Concepts"
+      Link="/Content/Flare/Concepts/Editing-Concepts.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Editing Concept Links"
+      Link="/Content/Flare/Concepts/Editing-Concept-Links.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Creating a List of Concepts"
+      Link="/Content/Flare/Proxies/Creating-List-Concepts.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Using Styles to Determine the Look of a List of Concepts"
+      Link="/Content/Flare/Output/Printed-Output/Using-Styles-Determine-Look-List-Concepts.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Deleting Concepts"
+      Link="/Content/Flare/Concepts/Deleting-Concepts.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Deleting Concept Links"
+      Link="/Content/Flare/Concepts/Deleting-Concept-Links.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Cross-References"
+    Link="/Content/Flare/Nav-Links/Cross-References/About-Cross-References.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Inserting Cross References into Topics"
+      Link="/Content/Flare/Nav-Links/Cross-References/Inserting-Cross-References.htm"
+      PageNumber="(multiple)"
+      BreakType="none"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Creating Context-Sensitive Cross-References"
+      Link="/Content/Flare/Nav-Links/Cross-References/Creating-Context-Sensitive-Cross-References.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Editing Cross References"
+      Link="/Content/Flare/Nav-Links/Cross-References/Editing-Cross-References.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Editing Cross-Reference Destinations"
+      Link="/Content/Flare/Nav-Links/Cross-References/Editing-Cross-Reference-Destinations.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Editing Cross-Reference Style Formats"
+      Link="/Content/Flare/Nav-Links/Cross-References/Editing-Cross-Reference-Style-Formats.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Editing Text for Context-Sensitive Cross-References"
+      Link="/Content/Flare/Nav-Links/Cross-References/Editing-Text-CS-Cross-References.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Updating Cross References"
+      Link="/Content/Flare/Nav-Links/Cross-References/Updating-Cross-References.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Drop-Down Text"
+    Link="/Content/Flare/Nav-Links/Drop-Down-Text/About-Drop-Down-Text.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter">
+    <TocEntry
+      Title="Inserting Drop-Down Text into Topics"
+      Link="/Content/Flare/Nav-Links/Drop-Down-Text/Inserting-Drop-Down-Text.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Creating Drop-Down Effects in FrameMaker Source Documents"
+      Link="/Content/Flare/Importing/More-FrameMaker/Creating-Drop-Down-Effects-in-FM.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Editing Drop-Down Text"
+      Link="/Content/Flare/Nav-Links/Drop-Down-Text/Editing-Drop-Down-Text.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Removing/Unbinding Drop Down Text"
+      Link="/Content/Flare/Nav-Links/Drop-Down-Text/Removing-Unbinding-Drop-Down-Text.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Deleting Drop Down Text"
+      Link="/Content/Flare/Nav-Links/Drop-Down-Text/Deleting-Drop-Down-Text.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Expanding Text"
+    Link="/Content/Flare/Nav-Links/Expanding-Text/Inserting-Expanding-Text.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter">
+    <TocEntry
+      Title="Editing Expanding Text"
+      Link="/Content/Flare/Nav-Links/Expanding-Text/Editing-Expanding-Text.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Removing Unbinding Expanding Text"
+      Link="/Content/Flare/Nav-Links/Expanding-Text/Removing-Unbinding-Expanding-Text.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Deleting Expanding Text"
+      Link="/Content/Flare/Nav-Links/Expanding-Text/Deleting-Expanding-Text.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 7 External Links"
+    Link="/Content/Flare/Nav-Links/External-Links/Inserting-Links-to-External-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="CH 8 Image Hyperlinks"
+    Link="/Content/Flare/Nav-Links/Image-Hyperlinks/Inserting-Image-Hyperlinks.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter">
+    <TocEntry
+      Title="Editing Image Hyperlinks"
+      Link="/Content/Flare/Nav-Links/Image-Hyperlinks/Editing-Image-Hyperlinks.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Creating Image Maps on Pictures"
+      Link="/Content/Flare/Nav-Links/Image-Hyperlinks/Creating-Image-Maps.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 9 Keyword Links"
+    Link="/Content/Flare/Nav-Links/Keyword-Links/Inserting-Keyword-Links.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter">
+    <TocEntry
+      Title="Editing Keyword Links"
+      Link="/Content/Flare/Nav-Links/Keyword-Links/Editing-Keyword-Links.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Deleting Keyword Links"
+      Link="/Content/Flare/Nav-Links/Keyword-Links/Deleting-Keyword-Links.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 10 Links to WebHelp Topics"
+    Link="/Content/Flare/Nav-Links/Links-to-WebHelp-Topics/Creating-Links-to-HTML5-Topics.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Creating Links to WebHelp and WebHelp Plus Topics"
+      Link="/Content/Flare/Nav-Links/Links-to-WebHelp-Topics/Creating-Links-to-WH-WHP-Topics.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating Links to WebHelp Mobile Topics"
+      Link="/Content/Flare/Nav-Links/Links-to-WebHelp-Topics/Creating-Links-to-WHM-Topics.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 11 Named Destinations"
+    Link="/Content/Flare/Nav-Links/Named-Destinations/Creating-Named-Destinations.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 12 Related Topics Links"
+    Link="/Content/Flare/Nav-Links/Related-Topics-Links/Inserting-Related-Topics-Links.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter">
+    <TocEntry
+      Title="Editing Related Topics Links"
+      Link="/Content/Flare/Nav-Links/Related-Topics-Links/Editing-Related-Topics-Links.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Deleting Related Topics Links"
+      Link="/Content/Flare/Nav-Links/Related-Topics-Links/Deleting-Related-Topics-Links.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 13 Relationship Links"
+    Link="/Content/Print-Only-Topics/Flare/Relationship-Links/Relationship-Links.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum2Gray.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter">
+    <TocEntry
+      Title="About Relationship Tables"
+      Link="/Content/Flare/Nav-Links/Relationship-Links/About-Relationship-Tables.htm"
+      BreakType="pageLayout"
+      PageType="right"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Adding Relationship Tables"
+      Link="/Content/Flare/Nav-Links/Relationship-Links/Adding-Relationship-Tables.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Opening Relationship Tables"
+      Link="/Content/Flare/Nav-Links/Relationship-Links/Opening-Relationship-Tables.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Creating Relationship Tables"
+      Link="/Content/Flare/Nav-Links/Relationship-Links/Creating-Relationship-Tables.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Inserting Relationship Links Into Topics"
+      Link="/Content/Flare/Nav-Links/Relationship-Links/Inserting-Relationship-Links.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Editing Relationship Link Styles"
+      Link="/Content/Flare/Nav-Links/Relationship-Links/Editing-Relationship-Link-Styles.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Associating Relationship Tables with Targets"
+      Link="/Content/Flare/Nav-Links/Relationship-Links/Associating-Relationship-Tables-with-Targets.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 14 Shortcut Controls"
+    Link="/Content/Flare/Nav-Links/Shortcut-Controls/Inserting-Shortcut-Controls.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter">
+    <TocEntry
+      Title="Editing Shortcut Controls"
+      Link="/Content/Flare/Nav-Links/Shortcut-Controls/Editing-Shortcut-Controls.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 15 Text Hyperlinks"
+    Link="/Content/Flare/Nav-Links/Text-Hyperlinks/Inserting-Text-Hyperlinks.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Editing Text Hyperlinks"
+      MarkAsNew="False"
+      Link="/Content/Flare/Nav-Links/Text-Hyperlinks/Editing-Text-Hyperlinks.htm"
+      PageNumber="(multiple)"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 16 Text Popups"
+    Link="/Content/Flare/Nav-Links/Text-Popups/Inserting-Text-Popups.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Editing Text Popups"
+      Link="/Content/Flare/Nav-Links/Text-Popups/Editing-Text-Popups.htm"
+      PageNumber="(multiple)"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 17 Togglers"
+    Link="/Content/Flare/Nav-Links/Togglers/Inserting-Togglers.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter">
+    <TocEntry
+      Title="Editing Togglers"
+      Link="/Content/Flare/Nav-Links/Togglers/Editing-Togglers.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+    <TocEntry
+      Title="Deleting Togglers"
+      Link="/Content/Flare/Nav-Links/Togglers/Deleting-Togglers.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 18 Toolbars"
+    Link="/Content/Flare/Nav-Links/Toolbars/About-Toolbars.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum2Gray.flpgl">
+    <TocEntry
+      Title="Topic Toolbars"
+      Link="/Content/Flare/Nav-Links/Toolbars/About-Topic-Toolbars.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Topic-Toolbars-HTML5-Skins.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Flare/Skins/More/Topic-Toolbars-WebHelp-Output.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Flare/Skins/More/Topic-Toolbars-WebHelp-Mobile-Output.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Using a Style Class for Topic Toolbars"
+        Link="/Content/Flare/Proxies/Using-Styles-Determine-Look-Topic-Toolbars.htm" />
+      <TocEntry
+        Title="Inserting and Editing Topic Toolbars"
+        Link="/Content/Flare/Proxies/Inserting-Editing-Topic-Toolbar.htm"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Web Toolbars"
+      Link="/Content/Flare/Nav-Links/Toolbars/About-Web-Toolbars.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Flare/Skins/More/Web-Toolbar-Settings-HTML5-Output.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Flare/Skins/More/Web-Toolbar-Settings-HTML-Help-Output.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Flare/Skins/More/Web-Toolbar-Settings-WebHelp-Output.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 19 Topic Popups"
+    Link="/Content/Flare/Nav-Links/Topic-Popups/Inserting-Topic-Popups.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Editing Topic Popups"
+      Link="/Content/Flare/Nav-Links/Topic-Popups/Editing-Topic-Popups.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="Customizing the Size of Topic Popup Windows"
+      Link="/Content/Flare/Nav-Links/Topic-Popups/Customizing-Size-Topic-Popup-Windows.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 20 Viewing and Fixing Links"
+    Link="/Content/Flare/Folders-Files/Viewing_File_Links.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter">
+    <TocEntry
+      Title="Viewing and Fixing Broken Links"
+      Link="/Content/Flare/Nav-Links/Viewing-Broken-Links.htm"
+      PageNumber="(multiple)"
+      StartSection="false" />
+    <TocEntry
+      Title="Viewing and Fixing Broken Bookmarks"
+      Link="/Content/Flare/Nav-Links/Bookmarks/Viewing-Broken-Bookmarks.htm"
+      PageNumber="(multiple)"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+</CatapultToc>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="136" MadCap:lastWidth="890">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>You can assign "tags" to files<MadCap:conditionalText MadCap:conditions="Products.Contributor"> that you are reviewing</MadCap:conditionalText> in <MadCap:variable name="Other.Product" /><MadCap:conditionalText MadCap:conditions="Products.Flare">, even folders</MadCap:conditionalText>. File tags can be assigned to new files when you create them (i.e., in the Add File dialog) or to existing files. You can use file tags for many different purposes, such as assigning authors or milestones to topics. <MadCap:conditionalText MadCap:conditions="Products.Flare"><MadCap:variable name="Other.Product" /> lets you generate reports based on the tags that are assigned. This makes project development easier to track, manage, and schedule.</MadCap:conditionalText></p>
+    </body>
+</html>

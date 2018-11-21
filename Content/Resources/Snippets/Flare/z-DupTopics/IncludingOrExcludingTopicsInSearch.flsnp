@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="498" MadCap:lastWidth="1361">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature_Supported/DotNet_HTML5_WebHelp_WHMobile_WHPlus_WHAIR.flsnp" />
+        <p>
+            <MadCap:snippetText src="../../Shared/Topics/IncludingTopicInSearch.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to include or exclude topics in search</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/MakeSureContentExplorerOpen.flsnp" />
+                    </li>
+                    <li>Locate and click on the topic file.</li>
+                    <li>In the local toolbar, click <img src="../../../Images/Shared/run_properties2_btn.png" class="ReduceButtonSize" />. The Properties dialog for the file opens.</li>
+                    <li>Click the <span class="Emphasis">Topic Properties</span> tab. </li>
+                    <li>Click the check box labeled <span class="Emphasis">Include topic when full-text search database is generated</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">In <MadCap:variable name="Outputs.HTMLHelp" />, all topics are always searchable.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.RemoveFromTopicsThenDeleteThis">
+            <MadCap:conceptLink term="Search" xmlns:MadCap="http://www.madcapsoftware.com/schemas/MadCap.xsd" />
+        </p>
+    </body>
+</html>

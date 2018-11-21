@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Different operating systems render text differently in the XML Editor. For example, if you are using <MadCap:keyword term="Microsoft Windows Vista" />Microsoft Vista, the text may look a bit smaller than it does in other operating systems.</p>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="618" MadCap:lastWidth="1105">
+    <head>
+    </head>
+    <body>
+        <p>Opens a submenu, which lets you open window panes showing information related to used elements in your project.</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Undefined Glossary Term Links </span>
+                <MadCap:snippetText src="../../Shared/UIElements/OpenUndefinedGlossaryTermLinksWindowOption.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">Undefined Variables </span>
+                <MadCap:snippetText src="../../Shared/UIElements/OpenUndefinedVariablesWindowOption.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">Undefined Condition Tags </span>
+                <MadCap:snippetText src="../../Shared/UIElements/OpenUndefinedConditionTagsWindowOption.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">Undefined File Tags </span>
+                <MadCap:snippetText src="../../Shared/UIElements/OpenUndefinedFileTagsWindowOption.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">Undefined Styles </span>
+                <MadCap:snippetText src="../../Shared/UIElements/OpenUndefinedStylesWindowOption.flsnp" />
+            </li>
+        </ul>
+    </body>
+</html>

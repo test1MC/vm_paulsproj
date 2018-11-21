@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="130" MadCap:lastWidth="934">
+    <body>
+        <p>Redaction is useful for distributing or selectively releasing classified, sensitive, or private information. You might want to redact your output so that hackers cannot extract certain information in it that needs to remain hidden.</p>
+        <p>The consequences of failing to completely redact text in a document can range from the inadvertent release of sensitive information to legal liability, unwanted media exposure, or in the worst case, material harm to property or personnel.</p>
+    </body>
+</html>

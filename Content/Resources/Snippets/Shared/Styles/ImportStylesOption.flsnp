@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p class="TableText">Opens the Import Styles dialog, which lets you import individual styles from another stylesheet to the current one. You can import from one of <MadCap:variable name="Other.Product" />'s factory stylesheets or any other CSS file that you have access to.</p>
+    </body>
+</html>

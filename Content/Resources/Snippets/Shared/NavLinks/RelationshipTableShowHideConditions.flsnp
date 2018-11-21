@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="206" MadCap:lastWidth="1046" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>In a relationship table, condition tags are shown in the small squares next to topic file names. This feature can be used to show or hide those squares.</p>
+        <ul class="FirstLevel">
+            <li>
+                <p>In the local toolbar click <img src="../../../Images/Shared/hide_show_conditional_indicators_btn.png" class="ReduceButtonSize" />.</p>
+                <p>
+                    <img src="../../../Images/Shared/relationship_table_example6.png" class="MaxWidth100Percent" />
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>

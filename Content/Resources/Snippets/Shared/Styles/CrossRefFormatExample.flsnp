@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Here is an example of a cross-reference format, using a combination of text and commands:</p>
+            <p class="Indented">See {b}"{paratext}"{/b} on page {page}.</p>
+            <p>A format such as this might be translated in the output as something like this:</p>
+            <p class="Indented">See <span class="Emphasis">"Dogs and Cats"</span> on page 93.</p>
+        </div>
+    </body>
+</html>

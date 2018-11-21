@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <p>MadCap Flare projects can be uploaded to Central, thus creating copies of those projects on the cloud. From the cloud versions of your projects, output files can be generated and published. In addition to Flare source and output files, Central hosts many other types of data, including user and team information, task details, communications between individuals, and ancillary file attachments.</p>
+    </body>
+</html>

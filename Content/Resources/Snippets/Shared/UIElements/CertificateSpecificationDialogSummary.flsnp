@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo">
+    <body>
+        <p>This dialog opens when your project uses a Git SSH&#160;repository, and <MadCap:variable name="Other.Product" /> needs to access your SSH&#160;keys. You may see it when binding the project, or performing tasks such as pushing, pulling, committing, or synchronizing files.</p>
+    </body>
+</html>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="201" MadCap:lastWidth="992">
+    <body>
+        <ul style="list-style-type: square;" class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Ribbon </span>
+                <MadCap:snippetText src="../UIElements/SelectTableRibbon.flsnp" /> In the <span class="Emphasis">Table</span> section, click the down arrow next to <span class="Emphasis">Select All Cells</span> and choose <span class="Emphasis">Select Column</span>. </li>
+            <li><span class="SetOffFirstLevel">Right-Click</span> Right-click and from the context menu, choose <span class="Emphasis">Select &gt; Column</span>.</li>
+            <li><span class="SetOffFirstLevel">Drag</span> Click and drag to highlight all cells in the column, then release the mouse button.</li>
+            <li><span class="SetOffFirstLevel">Structure Bars </span>
+                <MadCap:snippetText src="../UIElements/EnableTagBlockBarsStep.flsnp" /> Right-click on the <span class="Emphasis">col</span> structure bar. In the context menu, choose <span class="Emphasis">Select</span>.</li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Align" MadCap:lastBlockDepth="2" MadCap:lastHeight="70" MadCap:lastWidth="999">
+    <body>
+        <p>Opens the segmentation rules dialog, which lets you create rules to automatically split segments or keep them together.<MadCap:conditionalText MadCap:conditions="Products.Lingo"> See <MadCap:xref href="../../../../Lingo/Segmentation-Split-Join/About-Segmentation-Rules.htm">About Segmentation Rules</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Align"> See <MadCap:xref href="../../../../Align/Segmentation-Split-Join/About-Segmentation-Rules.htm">About Segmentation Rules</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

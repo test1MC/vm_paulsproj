@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  fileTags="Pulse/PulseTopicAuthor.Kate"
+  conditions="Products.Pulse">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Pulse/TitlePulse.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Pulse/TitlePulse.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="CH 1 About the Pulse Dashboard"
+    Link="/Content/Shared/Pulse-Features/Dashboard/About-Pulse-Dashboard.htm"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    BreakType="chapter"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    StartSection="false"
+    PageNumber=""
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="CH 2 Using the Pulse Menu"
+    Link="/Content/Shared/Pulse-Features/Dashboard/Pulse/Using-Pulse-Menu.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 3 Using the People Menu"
+    Link="/Content/Shared/Pulse-Features/Dashboard/People/Using-People-Menu.htm"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 4 Using the Groups Menu"
+    Link="/Content/Shared/Pulse-Features/Dashboard/Groups/Using-Groups-Menu.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 5 Tagging Content"
+    Link="/Content/Shared/Pulse-Features/Dashboard/Tags/Using-Tags-Menu.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 6 Using the Systems Menu"
+    Link="/Content/Shared/Pulse-Features/Dashboard/Systems/Using-Systems-Menu.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 7 Using the Administration Menu"
+    Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Using-Administration-Menu.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters2Gray.flpgl"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Database"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Database.htm"
+      PageNumber="(multiple)"
+      BreakType="pageLayout"
+      PageType="right"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="General"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-General-Settings.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Groups"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Managing-Groups.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Suggested Feeds"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Suggested-Feeds.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Users"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Managing-Users.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="Profiles"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Profile-Settings.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Moderation"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Configuring-Moderation.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Log"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Viewing-Log.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Communities"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Managing-Communities.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Synonyms"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Settings/Managing-Synonyms.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Reports"
+      Link="/Content/Shared/Pulse-Features/Dashboard/Reports/About-Reports.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 8 Messaging Tasks"
+    Link="/Content/Shared/Pulse-Features/Messaging/Messaging-Tasks.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Contacting Registered Users"
+      Link="/Content/Shared/Pulse-Features/Moderation/Contacting-Registered-Users.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Checking Your Notifications"
+      Link="/Content/Shared/Pulse-Features/Messaging/Checking-Notifications.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Sending Chat Messages"
+      Link="/Content/Shared/Pulse-Features/Messaging/Sending-Chat-Messages.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 9 Searching the Pulse Dashboard"
+    Link="/Content/Shared/Pulse-Features/Dashboard/Searching-Pulse-Dashboard.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 10 Frequently Asked Questions"
+    Link="/Content/Shared/Pulse-Features/Dashboard/Dashboard-FAQs.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Pulse/PDF-Guides/PDF-Guides-Pulse.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"></TocEntry>
+</CatapultToc>

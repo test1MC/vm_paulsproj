@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo,Products.Contributor">
+    <body>
+        <p>In addition to all of the built-in dictionaries that are installed on your computer, you can develop custom dictionaries. You can think of these as supplements to the built-in dictionaries. A custom dictionary is created and modified automatically whenever you perform a spell check and tell <MadCap:variable name="Other.Product" /> that a questionable word is okay and should be added to a dictionary.</p>
+    </body>
+</html>

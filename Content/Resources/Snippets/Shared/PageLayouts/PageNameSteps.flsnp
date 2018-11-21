@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <ol>
+            <li value="3">Select the <span class="Emphasis">General</span> tab.</li>
+            <li>In the <span class="Emphasis">Page Name</span> field, type a name for the page.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp">
+                </MadCap:snippetText>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp">
+                </MadCap:snippetText>
+            </li>
+        </ol>
+    </body>
+</html>

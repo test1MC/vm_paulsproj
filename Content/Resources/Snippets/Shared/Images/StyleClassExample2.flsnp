@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say that you are creating a PDF manual that is 8 inches wide and you want to ensure that none of your largest images are wider than 6 inches. You can create a class of the img style and name it "MaxWidth6Inches." For most of your images, you can use the parent img style, but for the large ones, you can use the img.MaxWidth6Inches style class. The large images will automatically be resized if necessary so that they are no wider than 6 inches.</p>
+        </div>
+    </body>
+</html>

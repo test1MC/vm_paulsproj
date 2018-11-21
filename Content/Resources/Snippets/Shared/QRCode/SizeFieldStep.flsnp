@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>From the <span class="Emphasis">Size</span> field select one of the standard sizes. If you select (default), the code will be the size specified in the MadCap|qrCode style in your stylesheet. If you want to use a different size, you can set the max-height or max-width value for the MadCap|qrCode style.</p>
+    </body>
+</html>

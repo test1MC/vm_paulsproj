@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="106" MadCap:lastWidth="1094">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Lingo will use your existing fuzzy match settings to fill in matches using the TM. In the Options dialog (<span class="Emphasis">File &gt; Options</span> or <span class="Emphasis">Tools &gt; Options</span>), you can change the percentage for fuzzy matches to be filled in.   <MadCap:conditionalText MadCap:conditions="General.OnlineOnly,LingoGuides.LingoTranslationGuide">See <MadCap:xref href="../../../../Lingo/Translation-Memory/Setting-Match-Options-Suggestions.htm">Setting Match Options for Suggestions</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

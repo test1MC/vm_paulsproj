@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.Lingo,Products.Mimic,Products.MovieViewer">
+    <body>
+        <p>You can easily resize the program window, dialog windows, and floating window panes in <MadCap:variable name="Other.Product" /> by clicking the edge of the element and dragging the mouse to the desired size. You can also resize drop-down menus in the same way.</p>
+    </body>
+</html>

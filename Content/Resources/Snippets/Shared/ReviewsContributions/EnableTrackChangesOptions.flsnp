@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li>
+                <p><span class="SetOffFirstLevel">Ribbon</span>
+                    <MadCap:snippetText src="../UIElements/SelectReviewRibbon.flsnp" /> In the <span class="Emphasis">Changes</span> section select <span class="Emphasis">Track Changes</span>.</p>
+            </li>
+            <li><span class="SetOffFirstLevel">Keyboard Shortcut</span> Press <span class="Emphasis">CTRL+SHIFT+E</span>.</li>
+        </ul>
+    </body>
+</html>

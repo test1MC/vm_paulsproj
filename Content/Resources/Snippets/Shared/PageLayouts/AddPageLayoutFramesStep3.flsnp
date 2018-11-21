@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>If you have drawn two frames of the same type on a page (e.g., two body frames) an arrow <img src="../../../Images/Shared/frame_arrow.png" class="ReduceButtonSize"></img> connects the frames, showing the direction that content flows from one frame to the other. If you right-click on a frame, you can choose <span class="Emphasis">Select Next Frame</span> to activate the next frame in the flow. If you click directly on the arrow, the direction of the content flow changes from frame to the other.</p>
+    </body>
+</html>

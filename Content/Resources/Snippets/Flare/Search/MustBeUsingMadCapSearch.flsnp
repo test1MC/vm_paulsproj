@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>In order to use this feature, you must be using MadCap Search, as opposed to Google Search<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareSearchGuide,FlareGuides.FlareTargetsGuide"> (see <MadCap:xref href="../../../../Flare/Targets/More/Setting-Up-Search-Engine.htm">Setting Up a Search Engine</MadCap:xref>)</MadCap:conditionalText>.</p>
+    </body>
+</html>

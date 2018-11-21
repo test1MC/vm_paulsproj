@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>If you have a <a href="https://slack.com/" target="_blank">Slack</a> account, you can integrate it with Central’s notification system. By doing this, all types of activity alerts (e.g., builds completed, tasks edited or moved, projects deleted) can be fed directly to your Slack channels, making it easier for you to remain informed and communicate with others when certain events take place in Central. Most of the steps for this integration take place in Central.</p>
+    </body>
+</html>

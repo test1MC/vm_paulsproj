@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="18" MadCap:lastHeight="3451" MadCap:lastWidth="864">
+    <head>
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../../Shared/Topics/OpenContentFile.flsnp" />
+            </li>
+            <li>Highlight the text that you want to use as the link (or "hotspot").</li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="../../Shared/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                </p>
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel">Ribbon </span>
+                        <MadCap:snippetText src="../../Shared/UIElements/SelectInsertRibbon.flsnp" /> In the <span class="Emphasis">Links</span> section, select <span class="Emphasis">Hyperlink</span>.</li>
+                    <li><span class="SetOffFirstLevel">Keyboard Shortcut</span> Press <span class="Emphasis">CTRL+K</span>.</li>
+                    <li><span class="SetOffFirstLevel">Local Toolbar</span> In the local toolbar of the XML Editor, click <img src="../../../Images/Shared/insert_a_hyperlink_btn.png" class="ReduceButtonSize" />. </li>
+                    <li><span class="SetOffFirstLevel">Right-Click </span>Right-click in the editor and select <span class="Emphasis">Insert &gt; Hyperlink</span>. This context menu option is available only when your cursor is located in certain places in the editor (e.g., not in a drop-down effect).</li>
+                </ul>
+                <p>The Insert Hyperlink dialog opens.</p>
+            </li>
+            <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareNavigationLinksGuide" />
+            <li>
+                <p>
+                    <MadCap:snippetText src="LinkToStep.flsnp" />
+                </p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>file in project&#160;</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Shared/NavLinks/FileInProjectOption.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareNavigationLinksGuide" />
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>place in this document </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Shared/NavLinks/PlaceInThisDocumentOption.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>external file&#160;</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Shared/NavLinks/ExternalFileOption.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>website</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Shared/NavLinks/WebsiteOption.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>email&#160;</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Shared/NavLinks/EmailOption.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareImagesGuide,FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareNavigationLinksGuide" />
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>html help file&#160;</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <MadCap:snippetBlock src="../../Shared/NavLinks/HTMLHelpFileOption.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/NavLinks/LinkTextStep.flsnp" />&#160;<MadCap:snippetText src="../../Shared/Variables/IfYouWantInsertVariable.flsnp" /></li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="../../Shared/NavLinks/ScreenTipStep.flsnp" />&#160;<MadCap:snippetText src="../../Shared/Variables/AgainInsertVariable.flsnp" /></p>
+                <p>
+                    <MadCap:snippetText src="../../Shared/NavLinks/ScreenTipStep2.flsnp" />
+                </p>
+                <p MadCap:conditions="Products.Flare">
+                    <MadCap:keyword term="Section 508;Accessibility;WCAG" />For more information see <MadCap:xref href="../../../../Flare/Accessibility/About-Accessibility.htm" class="seepara" MadCap:conditions="General.OnlineOnly">About Accessibility</MadCap:xref><MadCap:conditionalText MadCap:conditions="General.PrintOnly">the online Help</MadCap:conditionalText>.</p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/NavLinks/StyleClassStep.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/NavLinks/TargetFrameStep.flsnp" />
+                <MadCap:snippetBlock src="../../Shared/NavLinks/TargetFrameDescriptionsBullets.flsnp" />
+            </li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="../../Shared/NavLinks/TabIndexStep.flsnp" />
+                </p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">This feature is supported only in web outputs—<MadCap:snippetText src="../../Shared/Output/AllWebOutputsANDHTML5CleanXHTML.flsnp" />.</p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/ClickOK.flsnp" /> The hyperlink is added to the topic.</li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

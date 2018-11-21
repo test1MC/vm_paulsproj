@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo" MadCap:lastBlockDepth="13" MadCap:lastHeight="4136" MadCap:lastWidth="1087" class="" style="mc-master-page: url('../../../Resources/MasterPages/Shared/PDF_Topics/FlareSourceControlTFS.flmsp');">
+    <head><title></title>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Source control:bind;Projects:source control" />
+            <MadCap:concept term="Source Control TFS" />
+            <MadCap:concept term="FilterSourceControlTFS" />Binding a Project<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> to Microsoft Team Foundation Server</MadCap:conditionalText></h1>
+        <p>Use the following steps if you have already created a <MadCap:variable name="Other.Product" /> project and want to bind ("connect") it to <MadCap:keyword term="Source control:Microsoft Team Foundation Server;Microsoft Team Foundation Server" />Microsoft Team Foundation Server. You can also automatically detect existing source control bindings if your project has been previously connected to TFS.</p>
+        <MadCap:pageBreak MadCap:conditions="LingoGuides.LingoSourceControlGuideTFS,FlareGuides.FlareSourceControlGuideTFS" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to bind a project to source control</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open the project.</li>
+                    <li MadCap:conditions="Products.Flare">
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/UIElements/SelectProjectRibbon.flsnp" /> In the <span class="Emphasis">Properties</span> section select <span class="Emphasis">Project Properties</span>. The Project Properties dialog opens.</li>
+                    <li MadCap:conditions="Products.Lingo">Select <span class="Emphasis">File &gt; Project Properties</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlSelectSCTab.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindProject.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindTFSStep5.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindTFSStep6.flsnp" />
+                        </p>
+                        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindTFSStep6list.flsnp" />
+                        <div class="note">
+                            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                                <MadCap:snippetText src="../../../Resources/Snippets/Shared/General/MayNeedToObtainInfoFromSysAdmin.flsnp" /> Click <span class="Emphasis">OK</span> in the dialogs until you return to the main wizard page.</p>
+                        </div>
+                        <MadCap:pageBreak MadCap:conditions="LingoGuides.LingoSourceControlGuideTFS,FlareGuides.FlareSourceControlGuideTFS" />
+                        <div class="note">
+                            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Be sure to specify the path deeper than the server name. For example:</p>
+                            <p><span class="TypedEntry">.../tfs/DefaultCollection</span> or <span class="TypedEntry">.../tfs/SourceCollection</span></p>
+                            <p>If you do not know this information, contact your system administrator.</p>
+                            <p>
+                                <img src="../../../Resources/Images/Shared/source_control_bind_tfs_example.png" alt="" title="" class="MaxWidth90Percent" />
+                            </p>
+                        </div>
+                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you run into issues in this dialog, chances are your user permissions do not have access to all of the collections on the TFS server. Please try to enter in the server/collection path manually.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindTFSStep7.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindTFSStep8.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/OptionalCommentFieldStep.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlKeepCheckedOut.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindProjectDialogClickOK.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlLogInDialog.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindTFSStep14.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="LingoGuides.LingoSourceControlGuideTFS,FlareGuides.FlareSourceControlGuideTFS" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to Bind a Project to source control—Source Control Explorer</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open the project.</li>
+                    <li MadCap:conditions="Products.Flare">
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/UIElements/SelectViewRibbon.flsnp" /> In the <span class="Emphasis">Explorer</span> section select <span class="Emphasis">Source Control Explorer</span>. The Source Control Explorer opens.</li>
+                    <li MadCap:conditions="Products.Lingo">
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/UIElements/SelectViewRibbon.flsnp" /> In the <span class="Emphasis">Pane</span> section select <span class="Emphasis">Source Control Explorer</span>. The Source Control Explorer opens.</li>
+                    <li>
+                        <p>
+                            <MadCap:keyword term="Source Control Explorer:Settings pane" />
+                            <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlExplorerSettingsPane.flsnp" />
+                        </p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlExplorerClickBind.flsnp" />
+                    </li>
+                </ol>
+                <ol start="5">
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindTFSStep5.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindTFSStep6.flsnp" />
+                        </p>
+                        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindTFSStep6list.flsnp" />
+                        <div class="note">
+                            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                                <MadCap:snippetText src="../../../Resources/Snippets/Shared/General/MayNeedToObtainInfoFromSysAdmin.flsnp" /> Click <span class="Emphasis">OK</span> in the dialogs until you return to the main wizard page.</p>
+                        </div>
+                        <div class="note">
+                            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Be sure to specify the path deeper than the server name. For example:</p>
+                            <p><span class="TypedEntry">.../tfs/DefaultCollection</span>
+                            </p>
+                            <p>If you do not know this information, contact your system administrator.</p>
+                        </div>
+                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you run into issues in this dialog, chances are your user permissions do not have access to all of the collections on the TFS server. Please try to enter in the server/collection path manually.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindTFSStep7.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindTFSStep8.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/OptionalCommentFieldStep.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlKeepCheckedOut.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindProjectDialogClickOK.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlLogInDialog.flsnp" /> <MadCap:snippetText src="../../../Resources/Snippets/Shared/SourceControl/SourceControlBindTFSStep13a.flsnp" /></li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="LingoGuides.LingoSourceControlGuideTFS,FlareGuides.FlareSourceControlGuideTFS" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Automatically Detecting Existing Project Bindings</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>You can scan a project when you open it to see if it has any bindings to source control. If a binding is detected, you can apply the binding and check the project in to source control.</p>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/SourceControl/DetectBindingsSteps.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also bind a new <MadCap:variable name="Other.Product" /> project to source control while creating it. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../Flare/Projects/Creating-Project.htm">Creating a New Project</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.LingoOnlineOnly">See <MadCap:xref href="../../../Lingo/Projects/Creating-Lingo-Projects.htm">Creating New Projects</MadCap:xref>.</MadCap:conditionalText></p>
+                <p class="note" MadCap:conditions="Products.Flare" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you want to publish your output to source control, you must create a bind destination.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../Flare/Output/Creating-Publishing-Destinations.htm">Creating Publishing Destinations</MadCap:xref>.</MadCap:conditionalText></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Tip</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/SourceControl/BindingAndMapping.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.RemoveFromTopicsThenDeleteThis">
+            <MadCap:conceptLink term="Source Control TFS" />
+        </p>
+    </body>
+</html>

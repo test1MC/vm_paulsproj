@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:ignoredWords="settings..." MadCap:lastBlockDepth="12" MadCap:lastHeight="5865" MadCap:lastWidth="1386" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="" MadCap:conditionTagExpression="exclude[Snippets.Snippet2]" style="mc-master-page: url('../../Resources/MasterPages/Flare/PDF_Topics/FlareSkins.flmsp');">
+    <head>
+        <link href="../../Resources/TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" /><title></title>
+    </head>
+    <body>
+        <h1 MadCap:conditions="General.OnlineOnly">
+            <MadCap:concept term="Skins" />
+            <MadCap:keyword term="Skins" />
+            <MadCap:concept term="FilterSkins" />About Skins</h1>
+        <h1 MadCap:conditions="FlareGuides.FlareSkinsGuide">
+            <MadCap:keyword term="Skins" />Introduction</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Banners/Feature_Supported/DotNet_HTMLHelp_HTML5_WebHelp_WHMobile_WHPlus_WHAIR.flsnp" />
+        <p>A skin is a file that contains information about the appearance of an online output window, including navigation elements. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">Depending on the type of output, a skin can help to determine the following:</MadCap:conditionalText></p>
+        <ul MadCap:conditions="General.OnlineOnly">
+            <li>Top menu depth levels</li>
+            <li>User interface text</li>
+            <li>How big the output window should be and where it should be positioned on the user's screen</li>
+            <li>Which online elements (e.g., TOC, index, search) are included in the output and which one should be the default element (the one that is active when users first access the output)</li>
+            <li>And other settings…</li>
+        </ul>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PrintOutput/ThisChapterDiscussesFollowing.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide" />
+        <h2 MadCap:conditions="General.PrintOnly">Types of Skins</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot><a name="types"></a>types of skins</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>There are multiple kinds of skins for the various outputs:</p>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Skins/SkinTypeTable.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide" />
+        <h2 MadCap:conditions="General.PrintOnly"><a name="SkinComponentsPrint"></a>Skin Components</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot><a name="SkinComponentsOnline"></a>Skin Components </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>In addition to the main skin, you can also use several smaller skin components with HTML5 output. Most of these components are used in combination with corresponding proxies to add different features<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../Proxies/About-Proxies.htm">About Proxies</MadCap:xref>)</MadCap:conditionalText>. The skin component is used to control the look, feel, and sometimes behavior of the feature.</p>
+                <ul>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Favicons </span>
+                            <MadCap:snippetText src="../../Resources/Snippets/Flare/Targets/Favicons4.flsnp" />&#160;<MadCap:snippetText src="../../Resources/Snippets/Flare/Skins/FaviconsOnlyOneNoProxy.flsnp" /> See <MadCap:xref href="More/Adding-Favicons.htm">Adding Favicons</MadCap:xref>.</p>
+                        <p>
+                            <img src="../../Resources/Images/Flare/favicon1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide" />
+                    <li>
+                        <p><span class="SetOffFirstLevel">Menu </span>
+                            <MadCap:snippetText src="../../Resources/Snippets/Flare/Proxies/MenuProxySummary.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../Proxies/Creating-Topic-Menu.htm">Creating a Topic Menu</MadCap:xref> and <MadCap:xref href="HTML5-Skin-Styles/Menus-HTML5-Skins.htm">Menus in HTML5 Skins</MadCap:xref>.</MadCap:conditionalText>
+                            <MadCap:conditionalText MadCap:conditions="FlareGuides.FlareSkinsGuide"> See <MadCap:xref href="HTML5-Skin-Styles/Menus-HTML5-Skins.htm">Menus in HTML5 Skins</MadCap:xref>.</MadCap:conditionalText>
+                        </p>
+                        <p>
+                            <img src="../../Resources/Images/Flare/topic-menu1.png" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide" />
+                    <li>
+                        <p><span class="SetOffFirstLevel">Search Bar </span>
+                            <MadCap:snippetText src="../../Resources/Snippets/Flare/Proxies/SearchBarProxySummary.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../Proxies/Creating-Search-Bar.htm">Creating a Search Bar</MadCap:xref>.</MadCap:conditionalText>
+                        </p>
+                        <p>
+                            <img src="../../Resources/Images/Flare/search-bar1.png" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide" />
+                    <li>
+                        <p><span class="SetOffFirstLevel">Search Results  </span>
+                            <MadCap:snippetText src="../../Resources/Snippets/Flare/Proxies/SearchResultsProxy.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../Proxies/Creating-Search-Results.htm">Creating Search Results</MadCap:xref>.</MadCap:conditionalText>
+                        </p>
+                        <p>
+                            <img src="../../Resources/Images/Flare/topnav_output26.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide" />
+                    <li>
+                        <p><span class="SetOffFirstLevel">Topic Toolbar </span>
+                            <MadCap:snippetText src="../../Resources/Snippets/Flare/Proxies/TopicToolbarProxySummary1.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../Proxies/Inserting-Editing-Topic-Toolbar.htm">Creating a Topic Toolbar</MadCap:xref>.</MadCap:conditionalText>
+                        </p>
+                        <p>
+                            <img src="../../Resources/Images/Flare/topic-toolbar1.png" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.PrintOnly">Setting No Skin</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Setting No Skin</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/HTML5/HTML5NoSkin.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide" />
+        <h2 MadCap:conditions="General.PrintOnly"><a name="Toolbars"></a>Toolbars in Skins</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot><a name="ToolbarsInSkinsOnline"></a>Toolbars in Skins</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>When working in skins, you will notice tabs related to toolbars. <MadCap:snippetText src="../../Resources/Snippets/Flare/NavLinks/Toolbars1.flsnp" /><MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../Nav-Links/Toolbars/About-Toolbars.htm">About Toolbars</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>
+                    <img src="../../Resources/Images/Flare/toolbars1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide" />
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/NavLinks/Toolbars2.flsnp" />
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/NavLinks/Toolbars3.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide" />
+        <h2 MadCap:conditions="General.PrintOnly"><a name="RuntimeSkins"></a>Runtime Skins</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Runtime Skins</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>For HTML5 targets, you can let users choose from multiple skins to change the display of the output. You can also use runtime skins to assign a different skin to your context-sensitive Help (CSH). See <MadCap:xref href="More/Enabling-Runtime-Skins.htm">Enabling Runtime Skins</MadCap:xref>.</p>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Skins/SkinsRuntime1.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.PrintOnly">Steps for Using Skins</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>steps for using skins</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are the basic steps for using skins in <MadCap:variable name="Other.Product" />:</p>
+                <ol>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Skins:adding" />Add Skin </span>Depending on the project template you select, <MadCap:variable name="Other.Product" /> may provide you with an initial skin in your project. However, you might decide to add more skins to the project so that you have different skins for different targets.  For HTML5 output, you can also add some smaller skin components. See <MadCap:xref href="Adding-Skins-to-Project.htm">Adding Skins</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel">Open Skin </span>After you add a skin to your project, it is stored in the Project Organizer under the Skins folder. At any time, you can open a skin to work on it. See <MadCap:xref href="More/Opening-Skins.htm">Opening Skins</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Skins:editing" />Edit Skin </span>After you open a skin, you can edit its settings in order to change the appearance of the output window. The Skin Editor displays only settings relevant to the skin type (Standard, HTML5, or WebHelp Mobile). See <MadCap:xref href="Editing-Skin-Settings.htm">Editing Skin Settings</MadCap:xref>.</li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Skins:targets" />Associate Skin with Target or Proxy </span>Now that you have modified the skin, you need to associate it with the target you are building. See <MadCap:xref href="Associating-Skins-with-Targets.htm">Associating Skins with Targets</MadCap:xref>.</p>
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Skins/SkinComponents1.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can download a variety of free skins with different looks from the <MadCap:variable name="Other.CompanyName" /> website. Simply go to:</p>
+                    <p><a href="http://madcapsoftware.com/downloads/flareskingallery.aspx" target="_blank">http://madcapsoftware.com/downloads/flareskingallery.aspx</a>
+                    </p>
+                    <p> After downloading the skin, you can import it into your project. See <MadCap:xref href="More/Importing-Skins.htm">Importing Skins</MadCap:xref>.</p>
+                </div>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/LanguageSupport/NoteLanguageSkins.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.RemoveFromTopicsThenDeleteThis">
+            <MadCap:conceptLink term="Skins" />
+        </p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareGettingStartedGuide,FlareGuides.FlarePrintedManual" />
+    </body>
+</html>

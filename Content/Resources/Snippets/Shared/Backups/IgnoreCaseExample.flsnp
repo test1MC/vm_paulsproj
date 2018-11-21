@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>If a word is not capitalized in the backup file but it is capitalized in the current file, this option does not highlight those differences.</p>
+            <p>
+                <img src="../../../Images/Shared/ignore_case_example1.png" class="MaxWidth90Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Shared/ignore_case_example2.png" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

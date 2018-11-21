@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="97" MadCap:lastWidth="599" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p>By default, Auto Suggestion is enabled when you first launch <MadCap:variable name="Other.Product" />. However, you can disable and enable this feature whenever you want. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../../Flare/Auto-Suggestion/Enabling-and-Disabling-Auto-Suggestion.htm">Enabling and Disabling Auto Suggestion</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

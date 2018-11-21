@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <p>For a server TM, locate the TM you want to use on the server. Next to the <span class="Emphasis">Translation memory server</span> field, click <span class="Emphasis">Browse</span>. The Select Database dialog opens, displaying a list of usable servers after Lingo scans your network. On the right side of the dialog, available databases display. Select the database you want to use, then click <span class="Emphasis">OK</span>. The name of the database appears in the <span class="Emphasis">Translation memory name</span> field.  In the <span class="Emphasis">Authentication</span> section, you can use Windows Integrated Security (the default), or you can enter a specific user name and password for the server (if necessary). If you elect to use <MadCap:keyword term="Windows Integrated Security" />Windows Integrated Security, leave the user name and password fields blank. Otherwise, if your server requires specific credentials, enter them in the fields provided. If you want to create a new server TM instead of using an existing TM, click <span class="Emphasis">Create New Server TM</span>.</p>
+    </body>
+</html>

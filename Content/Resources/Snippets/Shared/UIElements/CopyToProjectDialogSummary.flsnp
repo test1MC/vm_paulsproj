@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>This dialog displays the files to be copied to your project when you add certain types of files, such as those from <MadCap:keyword term="Microsoft SharePoint" />SharePoint or <MadCap:keyword term="External Resources" />external resources.</p>
+    </body>
+</html>

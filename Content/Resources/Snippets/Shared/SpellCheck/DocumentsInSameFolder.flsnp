@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo">
+    <body>
+        <p><MadCap:variable name="Other.Product" /> checks the spelling in all files located in the same folder as the current one. </p>
+    </body>
+</html>

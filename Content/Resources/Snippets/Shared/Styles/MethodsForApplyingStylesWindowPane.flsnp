@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="117" MadCap:lastWidth="1091" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Ribbon </span>
+                <MadCap:snippetText src="../UIElements/SelectHomeRibbon.flsnp" /> In the <span class="Emphasis">Styles</span> section select <span class="Emphasis">Style Window</span>. </li>
+            <li><span class="SetOffFirstLevel">Keyboard Shortcut </span>Press <span class="Emphasis">F12</span></li>
+        </ul>
+        <p>The Styles window pane opens, showing styles from your stylesheet.</p>
+    </body>
+</html>

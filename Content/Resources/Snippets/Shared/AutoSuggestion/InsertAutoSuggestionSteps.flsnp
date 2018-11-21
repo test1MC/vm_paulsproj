@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <ol>
+            <li>Open a <MadCap:snippetText src="../Topics/ContentFileDocument.flsnp" />.</li>
+            <li>Begin typing. As you do this, the Auto Suggestion popup is displayed if a match is found.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p>Click on the matching row in the popup that you want to insert and press <span class="Emphasis">Enter</span> on your keyboard. If the row is already selected when the popup first displays, you only need to press <span class="Emphasis">Enter</span>.</p>
+                        <p>OR</p>
+                    </li>
+                    <li>Double-click the matching row in the popup that you want to insert.</li>
+                </ul>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

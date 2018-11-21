@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>You can modify the look of lists by making adjustments to the standard CSS list styles and/or creating style classes. By using these list styles, you can affect things such as the alignment, background, bullet images, and indentation of lists. There are a handful of list styles, but the ones you are most likely to use to control lists are the ol and ul styles (for ordered and unordered lists, respectively).</p>
+    </body>
+</html>

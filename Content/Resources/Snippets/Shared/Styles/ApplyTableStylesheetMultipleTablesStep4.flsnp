@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>Select this if you want to overwrite existing table styles in those topics. If you choose this option, you can also select <b>Remove print table styles</b>.</p>
+    </body>
+</html>

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Analyzer" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Analyzer/TitleAnalyzer.flpgl"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Analyzer/TitleAnalyzer.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    conditions="General.Future" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    conditions="General.Future" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    conditions="General.Future" />
+  <TocEntry
+    Link="/Content/Analyzer/Charts/About-Charts.htm"
+    VolumeNumberReset="same"
+    Title="CH 1 About Charts"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    SectionNumberReset="continue"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    ChapterNumberReset="reset"
+    ChapterNumberFormat="decimal"
+    ChapterNumber="1" />
+  <TocEntry
+    Link="/Content/Analyzer/Charts/Creating-Charts.htm"
+    Title="CH 2 Creating Charts"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+  <TocEntry
+    Link="/Content/Analyzer/Charts/Editing-Chart-Styles.htm"
+    VolumeNumberReset="same"
+    Title="CH3 Editing Chart Styles"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    SectionNumberReset="continue"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Link="/Content/Analyzer/Printing/Printing.htm"
+    Title="CH 4 Printing Charts"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+  <TocEntry
+    ChapterNumberReset="continue"
+    Link="/Content/Analyzer/Statistics/Viewing-Statistics.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageType="firstright"
+    SectionNumberReset="continue"
+    StartChapter="true"
+    StartPageLayout="false"
+    StartSection="false"
+    Title="CH 5 Statistics and Charts"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Analyzer/PDF-Guides/PDF-Guides-Analyzer.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+</CatapultToc>

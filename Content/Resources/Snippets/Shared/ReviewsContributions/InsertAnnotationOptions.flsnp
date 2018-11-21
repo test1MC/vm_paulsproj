@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ul class="FirstLevel">
+            <li>
+                <p><span class="SetOffFirstLevel">Ribbon </span>
+                    <MadCap:snippetText src="../UIElements/SelectReviewRibbon.flsnp" /> In the <span class="Emphasis">Annotations</span> section select <span class="Emphasis">Insert Annotation</span>.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Right-Click</span> If the track changes feature is enabled, you can right-click and select <span class="Emphasis">Insert Annotation</span>.</p>
+                <p>A rectangle extends to a sidebar on the right, with a line pointing to the selected content. This rectangle will hold the annotation text after you type it. </p>
+                <p>Also, the selected content is shaded, indicating that the annotation refers to that text. However, the shading will not be displayed in the output; it is for internal use only. </p>
+            </li>
+        </ul>
+    </body>
+</html>

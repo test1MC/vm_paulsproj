@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>You can use the "dir" attribute to change the base direction of a block of text. The default value for the "dir" attribute is "ltr" (left-to-right), but you can change the value to "rtl" (right-to-left). If you apply the "rtl" value to tagged content, that content will start at the far right edge of the window (as opposed to the left) and move to the left as the amount of content increases. You would set this attribute by clicking on an area of tagged content, clicking in the right column next to <span class="Emphasis">dir</span>, and selecting <span class="Emphasis">rtl</span> from the drop-down.</p>
+        </div>
+    </body>
+</html>

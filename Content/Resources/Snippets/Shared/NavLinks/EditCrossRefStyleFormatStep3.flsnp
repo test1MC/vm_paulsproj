@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>MadCap:xref is the parent style and default selection, but in the Stylesheet Editor you can create classes under that style if you want a variety of looks for cross-references.</p>
+    </body>
+</html>

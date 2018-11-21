@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="1343" MadCap:lastWidth="772">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>
+            <MadCap:snippetText src="../../Shared/Styles/PinningStyles2.flsnp" /> This can be done in the following places in Flare:</p>
+        <ul>
+            <li>Styles Window Pane (<span class="Emphasis">F12</span>)</li>
+            <li>Styles Drop-Down Field (<span class="Emphasis">Home Ribbon</span>)</li>
+            <li>Floating Style Picker (<span class="Emphasis">CTRL+SHIFT+H</span>)</li>
+        </ul>
+        <p MadCap:conditions="General.OnlineOnly">For more information about these three locations, see <MadCap:xref href="../../../../Flare/Styles/Applying-Styles-to-Content.htm">Applying Styles to Content</MadCap:xref>.</p>
+        <p>
+            <img src="../../../Images/Flare/pin_styles1.png" alt="" title="" class="MaxWidth60Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+        <p>To pin a style, hover over the style row and click the little pin. It will then be moved to the top of the list. </p>
+        <p>
+            <img src="../../../Images/Flare/pin_styles2.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareWhatsNewGuide" />
+        <p>To unpin a style, just click the pin again and it will be moved back to the bottom section of the list.</p>
+        <p>
+            <img src="../../../Images/Flare/pin_styles3.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

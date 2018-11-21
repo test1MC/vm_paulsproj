@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.MovieViewer">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/MovieViewer/Introduction/Welcome-Movie-Viewer.htm"
+    MarkAsNew="False"
+    conditions=""></TocEntry>
+  <TocEntry
+    Title="Tour of the Workspace"
+    PageNumber="1"
+    PageNumberReset="reset">
+    <TocEntry
+      Title="Workspace—Touring"
+      Link="/Content/MovieViewer/Touring-Workspace-Movie-Viewer.htm" />
+    <TocEntry
+      Title="Main Areas"
+      Link="/Content/MovieViewer/Main-Areas-Movie-Viewer.htm" />
+    <TocEntry
+      Title="Movie Window"
+      Link="/Content/MovieViewer/Movie-Window.htm" />
+    <TocEntry
+      Title="Window Panes"
+      Link="/Content/MovieViewer/Window-Panes-Movie-Viewer.htm" />
+    <TocEntry
+      Title="Menus"
+      Link="/Content/MovieViewer/Menus-Movie-Viewer.htm" />
+    <TocEntry
+      Title="Standard Toolbar"
+      Link="/Content/MovieViewer/Standard-Toolbar-Movie-Viewer.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Shortcuts"
+    StartSection="false">
+    <TocEntry
+      Title="Keyboard Shortcuts"
+      Link="/Content/MovieViewer/Shortcuts/Keyboard-Shortcuts-Movie-Viewer.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="User Interface Elements">
+    <TocEntry
+      Title="Messages Window"
+      Link="/Content/MovieViewer/Interface/UI-Elements/Messages-Window.htm" />
+    <TocEntry
+      Title="Movie Window"
+      Link="/Content/MovieViewer/Movie-Window.htm" />
+    <TocEntry
+      Title="New Updates Available Dialog"
+      Link="/Content/MovieViewer/Interface/UI-Elements/New-Updates-Available-Dialog.htm" />
+    <TocEntry
+      Title="Options Dialog"
+      Link="/Content/MovieViewer/Options-Dialog-MovieViewer.htm" />
+  </TocEntry>
+</CatapultToc>

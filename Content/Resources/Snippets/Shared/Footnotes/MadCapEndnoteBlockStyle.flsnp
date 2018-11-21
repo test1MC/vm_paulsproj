@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>This style is used for the container (or block) holding individual endnote comments. For example, if you want to add a border around each endnote comment created from an Endnotes proxy, you would use this style.</p>
+    </body>
+</html>

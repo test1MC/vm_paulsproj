@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say your login user name is "johndoe." In that case, your initials are stored automatically as "jo." Although you want to keep your user name as is, you want to change the initials to "jd," which other users will more readily associate with you. Therefore, you open the Options dialog and use the Review tab to change only your initials.</p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,634 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Capture" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/Capture/Introduction/Welcome-Capture.htm"
+    conditions="Products.CaptureLocalOnly"
+    StartSection="False"
+    StartChapter="False"></TocEntry>
+  <TocEntry
+    Title="What's New?"
+    Link="/Content/Capture/Introduction/Whats-New-Capture.htm" />
+  <TocEntry
+    Title="Basic Steps"
+    Link="/Content/Capture/Steps/Basic-Steps-Capturing-Creating-Images.htm">
+    <TocEntry
+      Title="Capturing an Image"
+      Link="/Content/Capture/Capturing-Images/Capturing-an-Image.htm"></TocEntry>
+    <TocEntry
+      Title="Creating an Image"
+      Link="/Content/Capture/Creating-Images/Creating-Images.htm" />
+    <TocEntry
+      Title="Editing an Image"
+      Link="/Content/Capture/Steps/Editing-Image.htm"></TocEntry>
+    <TocEntry
+      Title="Saving an Image"
+      Link="/Content/Capture/Steps/Saving-Image.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Features"
+    conditions=""
+    StartSection="False"
+    StartChapter="False"
+    Link="/Content/Capture/Introduction/Key-Features-Capture.htm">
+    <TocEntry
+      Title="Capturing, Creating, and Opening Images"
+      Link="/Content/Capture/Capturing-Images/Capturing-Creating-Opening.htm">
+      <TocEntry
+        Title="Capturing"
+        Link="/Content/Capture/Capturing-Images/Capturing-an-Image.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Capture/Creating-Images/Creating-Images.htm" />
+      <TocEntry
+        Title="Opening"
+        Link="/Content/Capture/Capturing-Images/More/Opening-Images.htm" />
+      <TocEntry
+        Title="Capture Features"
+        Link="/Content/Capture/Capturing-Images/More/Capture-Features.htm">
+        <TocEntry
+          Title="Hiding Capture When Recording"
+          Link="/Content/Capture/Capturing-Images/More/Hiding-Capture-When-Recording-an-Image.htm" />
+        <TocEntry
+          Title="Magnifier"
+          Link="/Content/Capture/Capturing-Images/More/Enabling-the-Magnifier.htm" />
+        <TocEntry
+          Title="Sound"
+          Link="/Content/Capture/Capturing-Images/More/Enabling-Sound-When-Capturing_-an-Image.htm" />
+        <TocEntry
+          Title="Time Delay"
+          Link="/Content/Capture/Capturing-Images/More/Enabling-the-Time-Delay-Feature.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Capture Methods and Options"
+        Link="/Content/Capture/Capturing-Images/Capture-Methods.htm">
+        <TocEntry
+          Title="Active Window"
+          Link="/Content/Capture/Capturing-Images/Capturing-an-Active-Window.htm" />
+        <TocEntry
+          Title="Active Window without the Frame"
+          Link="/Content/Capture/Capturing-Images/Capturing-an-Active-Window-Without-the-Frame.htm" />
+        <TocEntry
+          Title="Application"
+          Link="/Content/Capture/Capturing-Images/Capturing-an-Application.htm" />
+        <TocEntry
+          Title="Full Screen"
+          Link="/Content/Capture/Capturing-Images/Capturing-a-Full_Screen.htm" />
+        <TocEntry
+          Title="Full Screen without the Taskbar"
+          Link="/Content/Capture/Capturing-Images/Capturing-a-Full-Screen-Without-the-Taskbar.htm" />
+        <TocEntry
+          Title="Image from the Windows Clipboard"
+          Link="/Content/Capture/Capturing-Images/Capturing-an-Image-from-the-Windows-Clipboard.htm" />
+        <TocEntry
+          Title="Recapturing"
+          Link="/Content/Capture/Capturing-Images/Recapturing-Images.htm" />
+        <TocEntry
+          Title="Recapturing the Last Capture"
+          Link="/Content/Capture/Capturing-Images/Recapturing-the-Last-Capture.htm" />
+        <TocEntry
+          Title="Region"
+          Link="/Content/Capture/Capturing-Images/Capturing-a-Region.htm" />
+        <TocEntry
+          Link="/Content/Capture/Capturing-Images/Capturing-Regions-Consecutively.htm"
+          Title="Regions—Consecutive" />
+        <TocEntry
+          Title="Restoring the Last Capture Region"
+          Link="/Content/Capture/Capturing-Images/Restoring-the-Last-Capture-Region.htm" />
+        <TocEntry
+          Title="Shape Area"
+          Link="/Content/Capture/Capturing-Images/Capturing-a-Shape-Area.htm" />
+        <TocEntry
+          Title="Window"
+          Link="/Content/Capture/Capturing-Images/Capturing-a-Window.htm" />
+        <TocEntry
+          Title="Window with Auto-Scroll"
+          Link="/Content/Capture/Capturing-Images/Capturing-a-Window-With-Auto-Scroll.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Conditions"
+      Link="/Content/Capture/Conditions/About-Conditions-Capture.htm">
+      <TocEntry
+        Title="Applying"
+        Link="/Content/Capture/Conditions/Applying-Conditions-Capture.htm" />
+      <TocEntry
+        Title="Associating with Images"
+        Link="/Content/Capture/Conditions/Associating-Condition-Tags-with-Images.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Capture/Conditions/Creating-Condition-Tags-Capture.htm" />
+      <TocEntry
+        Title="Linking to Flare Projects"
+        Link="/Content/Capture/Projects/Linking-Flare-Projects-Capture1.htm" />
+      <TocEntry
+        Title="Previewing"
+        Link="/Content/Capture/Conditions/Previewing-Conditions.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Cropping"
+      Link="/Content/Capture/Appearance/Cropping/Cropping-Images.htm">
+      <TocEntry
+        Title="Cropping Image Objects"
+        Link="/Content/Capture/Appearance/Cropping/Cropping-Image-Objects.htm" />
+      <TocEntry
+        Title="Working with Image History"
+        Link="/Content/Capture/Appearance/Working-with-Image-History.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Image Appearance"
+      Link="/Content/Capture/Appearance/About-the-Appearance-of-Images.htm">
+      <TocEntry
+        Title="Background Images"
+        Link="/Content/Capture/Appearance/Replacing-Background-Images-Capture.htm" />
+      <TocEntry
+        Title="Borders"
+        Link="/Content/Capture/Appearance/Adding-Borders-Capture.htm" />
+      <TocEntry
+        Title="Color"
+        Link="/Content/Capture/Appearance/Color.htm">
+        <TocEntry
+          Title="Setting the Color Depth for an Image"
+          Link="/Content/Capture/Appearance/Setting-the-Color-Depth-for-an-Image.htm" />
+        <TocEntry
+          Title="Setting the Color for an Image Background"
+          Link="/Content/Capture/Appearance/Setting-the-Color-for-an-Image-Background.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Drawing Tools"
+        Link="/Content/Capture/Appearance/About-Drawing-Tools.htm">
+        <TocEntry
+          Title="Color Fill"
+          Link="/Content/Capture/Appearance/Using-Color-Fill.htm" />
+        <TocEntry
+          Title="Eraser"
+          Link="/Content/Capture/Appearance/Erasing-Image-Areas.htm" />
+        <TocEntry
+          Title="Pencil"
+          Link="/Content/Capture/Appearance/Using-the-Pencil.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Effects"
+        Link="/Content/Capture/Appearance/Effects/About-Effects-Capture.htm">
+        <TocEntry
+          Title="Blur Effects"
+          Link="/Content/Capture/Appearance/Effects/Blur-Effects/Blur-Effects.htm">
+          <TocEntry
+            Title="Adding"
+            Link="/Content/Capture/Appearance/Effects/Blur-Effects/Adding-Blur-Effects-Capture.htm" />
+          <TocEntry
+            Title="Editing"
+            Link="/Content/Capture/Appearance/Effects/Blur-Effects/Editing-Blur-Effects-Capture.htm" />
+          <TocEntry
+            Title="Blur-Inside Effects—Adding"
+            Link="/Content/Capture/Appearance/Effects/Blur-Effects/Adding-Blur-Inside-Effects-Capture.htm" />
+          <TocEntry
+            Title="Blur-Inside Effects—Editing"
+            Link="/Content/Capture/Appearance/Effects/Blur-Effects/Editing-Blur-Inside-Effects-Capture.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Gray Scale Effects"
+          Link="/Content/Capture/Appearance/Effects/Gray-Scale-Effects/Gray-Scale-Effects.htm">
+          <TocEntry
+            Title="Adding"
+            Link="/Content/Capture/Appearance/Effects/Gray-Scale-Effects/Adding-Gray-Scale-Effects-Capture.htm" />
+          <TocEntry
+            Title="Applying"
+            Link="/Content/Capture/Appearance/Applying-Gray-Scale-to-Images.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Shading Effects"
+          Link="/Content/Capture/Appearance/Effects/Shading-Effects/Shading-Effects.htm">
+          <TocEntry
+            Title="Adding"
+            Link="/Content/Capture/Appearance/Effects/Shading-Effects/Adding-Shading-Effects-Capture.htm" />
+          <TocEntry
+            Title="Editing"
+            Link="/Content/Capture/Appearance/Effects/Shading-Effects/Editing-Shading-Effects-Capture.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Shadow Effects"
+          Link="/Content/Capture/Appearance/Effects/Shadow-Effects/Shadow-Effects.htm">
+          <TocEntry
+            Title="Adding"
+            Link="/Content/Capture/Appearance/Effects/Shadow-Effects/Adding-Shadow-Effects-Capture.htm" />
+          <TocEntry
+            Title="Editing"
+            Link="/Content/Capture/Appearance/Effects/Shadow-Effects/Editing-Shadow-Effects-Capture.htm" />
+          <TocEntry
+            Title="Shadow for a Line"
+            Link="/Content/Capture/Appearance/Effects/Shadow-Effects/Adding-a-Shadow-to-a-Line-Capture.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Torn Edge Effects"
+          Link="/Content/Capture/Appearance/Effects/Torn-Edge-Effects/Torn-Edge-Effects.htm">
+          <TocEntry
+            Title="Adding"
+            Link="/Content/Capture/Appearance/Effects/Torn-Edge-Effects/Adding-Torn-Edge-Effects-Capture.htm" />
+          <TocEntry
+            Title="Editing"
+            Link="/Content/Capture/Appearance/Effects/Torn-Edge-Effects/Editing-Torn-Edge-Effects.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Zoom Effects"
+          Link="/Content/Capture/Appearance/Effects/Zoom-Effects/Zoom-Effects.htm">
+          <TocEntry
+            Title="Adding"
+            Link="/Content/Capture/Appearance/Effects/Zoom-Effects/Adding-Zoom-Effects-Capture.htm" />
+          <TocEntry
+            Title="Editing"
+            Link="/Content/Capture/Appearance/Effects/Zoom-Effects/Editing-Zoom-Effects-Capture.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Padding"
+        Link="/Content/Capture/Appearance/Adding-Padding-Capture.htm" />
+      <TocEntry
+        Title="Positioning Objects"
+        Link="/Content/Capture/Appearance/Positioning-Objects/Positioning-Objects-Capture.htm">
+        <TocEntry
+          Title="Aligning"
+          Link="/Content/Capture/Appearance/Positioning-Objects/Aligning-Objects-Capture.htm" />
+        <TocEntry
+          Title="Anchors"
+          Link="/Content/Capture/Appearance/Positioning-Objects/Setting-Object-Anchors.htm" />
+        <TocEntry
+          Title="Flattening"
+          Link="/Content/Capture/Appearance/Positioning-Objects/Flattening-Objects.htm" />
+        <TocEntry
+          Title="Floating and Sinking"
+          Link="/Content/Capture/Appearance/Positioning-Objects/Floating-and-Sinking-Objects-Capture.htm" />
+        <TocEntry
+          Title="Grids"
+          Link="/Content/Capture/Appearance/Positioning-Objects/Working-with-Grids.htm" />
+        <TocEntry
+          Title="Hiding"
+          Link="/Content/Capture/Appearance/Positioning-Objects/Hiding-Objects.htm" />
+        <TocEntry
+          Title="Locking"
+          Link="/Content/Capture/Appearance/Positioning-Objects/Locking-Objects.htm" />
+        <TocEntry
+          Title="Moving"
+          Link="/Content/Capture/Appearance/Positioning-Objects/Moving-Objects-Around.htm" />
+        <TocEntry
+          Title="Rotating"
+          Link="/Content/Capture/Appearance/Positioning-Objects/Rotating-Objects.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Resizing"
+        Link="/Content/Capture/Appearance/Resizing/Resizing.htm">
+        <TocEntry
+          Title="Canvas"
+          Link="/Content/Capture/Appearance/Resizing/Resizing-the-Canvas.htm" />
+        <TocEntry
+          Title="Images"
+          Link="/Content/Capture/Appearance/Resizing/Resizing-Images.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Resolution and Quality"
+        Link="/Content/Capture/Appearance/Resolution-and-Quality-Settings/Resolution-and-Quality.htm">
+        <TocEntry
+          Title="DPI"
+          Link="/Content/Capture/Appearance/Resolution-and-Quality-Settings/Setting-the-DPI-for-an-Image.htm" />
+        <TocEntry
+          Title=" JPEG Quality"
+          Link="/Content/Capture/Appearance/Resolution-and-Quality-Settings/Setting-the-JPEG-Quality-for-an-Image.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Selection Tools"
+        Link="/Content/Capture/Steps/Selection-Tools.htm">
+        <TocEntry
+          Title="Hand Mode"
+          Link="/Content/Capture/Steps/Using-Hand-Mode-Feature.htm" />
+        <TocEntry
+          Title="Magic Wand"
+          Link="/Content/Capture/Steps/Using-Magic-Wand.htm" />
+        <TocEntry
+          Title="Selection Rectangle"
+          Link="/Content/Capture/Steps/Using-Selection-Rectangle.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Objects"
+      Link="/Content/Capture/Objects/About-Objects-Capture.htm">
+      <TocEntry
+        Title="Color"
+        Link="/Content/Capture/Objects/Setting-Color-Object-Capture.htm" />
+      <TocEntry
+        Title="Graphics"
+        Link="/Content/Capture/Objects/Graphics/Adding-Graphics-to-Images.htm">
+        <TocEntry
+          Title="Annotations"
+          Link="/Content/Capture/Objects/Annotations/Setting-Shape-Annotation.htm" />
+        <TocEntry
+          Title="Arrows"
+          Link="/Content/Capture/Objects/Arrows/Arrows.htm">
+          <TocEntry
+            Title="Arrows for a Line"
+            Link="/Content/Capture/Objects/Arrows/Setting-Arrows-Line-Capture.htm" />
+          <TocEntry
+            Title="Shape"
+            Link="/Content/Capture/Objects/Arrows/Setting-Shape-Arrow-Capture.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Callouts"
+          Link="/Content/Capture/Objects/Callouts/Adding-Callouts-Capture.htm">
+          <TocEntry
+            Title="Pointer"
+            Link="/Content/Capture/Appearance/Adjusting-the-Pointer-on-a-Bubble-Shape-Capture.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Cursors"
+          Link="/Content/Capture/Objects/Cursors/Cursors-Capture.htm">
+          <TocEntry
+            Title="Adding"
+            Link="/Content/Capture/Objects/Cursors/Adding-Cursors-Capture.htm" />
+          <TocEntry
+            Title="Adding as Objects"
+            Link="/Content/Capture/Objects/Image-Objects/Adding-Cursor-Images-as-Objects.htm" />
+          <TocEntry
+            Title="Selecting Types"
+            Link="/Content/Capture/Objects/Cursors/Selecting-Cursor-Types-Capture.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Loops"
+          Link="/Content/Mimic/Appearance/Loops-Mimic.htm">
+          <TocEntry
+            Title="Coordinates"
+            Link="/Content/Capture/Appearance/Setting-the-Coordinates-for-a-Loop-Capture.htm" />
+          <TocEntry
+            Title="Thickness"
+            Link="/Content/Capture/Appearance/Setting_the_Thickness_for_a_Loop.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Stars"
+          Link="/Content/Capture/Objects/Stars/Setting-Shape-Star.htm" />
+        <TocEntry
+          Title="X-agons"
+          Link="/Content/Capture/Objects/X-Agons/Setting-Shape-X-Agon.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Groups"
+        Link="/Content/Capture/Objects/Groups/Groups.htm">
+        <TocEntry
+          Title="Grouping Objects"
+          Link="/Content/Capture/Objects/Groups/Grouping-Objects.htm" />
+        <TocEntry
+          Title="Ungrouping Objects"
+          Link="/Content/Capture/Objects/Groups/Ungrouping-Objects-Capture.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Image Objects"
+        Link="/Content/Capture/Objects/Image-Objects/Image-Objects-Capture.htm">
+        <TocEntry
+          Title="Images—Adding as Objects"
+          Link="/Content/Capture/Objects/Image-Objects/Adding-Images-as-Objects-Capture.htm" />
+        <TocEntry
+          Title="Auto-sizing to Fit Text"
+          Link="/Content/Capture/Objects/Autosizing-Capture-Image-Objects-to-Fit-Text-Capture.htm" />
+        <TocEntry
+          Title="Cursor Images—Adding as Objects"
+          Link="/Content/Capture/Objects/Image-Objects/Adding-Cursor-Images-as-Objects.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Capture/Appearance/Editing-Image-Objects-Capture.htm" />
+        <TocEntry
+          Title="Captured Regions—Inserting as Objects"
+          Link="/Content/Capture/Objects/Image-Objects/Inserting-Captured-Regions-as-Objects-Capture.htm" />
+        <TocEntry
+          Title="Captured UI Elements—Inserting as Objects"
+          Link="/Content/Capture/Objects/Image-Objects/Inserting-Captured-UI-Elements-as-Objects-Capture.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Lines"
+        Link="/Content/Capture/Appearance/Lines-Capture.htm">
+        <TocEntry
+          Title="Adding"
+          Link="/Content/Capture/Objects/Lines/Adding-Lines-Capture.htm" />
+        <TocEntry
+          Title="Arrows"
+          Link="/Content/Capture/Objects/Arrows/Setting-Arrows-Line-Capture.htm" />
+        <TocEntry
+          Title="Color and Width"
+          Link="/Content/Capture/Appearance/Setting-the-Color-and-Width-for-a-Line-Capture.htm" />
+        <TocEntry
+          Title="Points in Objects"
+          Link="/Content/Capture/Appearance/Deleting-Points-Capture.htm"></TocEntry>
+        <TocEntry
+          Title="Shadow"
+          Link="/Content/Capture/Appearance/Effects/Shadow-Effects/Adding-a-Shadow-to-a-Line-Capture.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Object Styles"
+        Link="/Content/Capture/Appearance/Look-of-Objects/Object-Styles-Capture.htm">
+        <TocEntry
+          Title="Default Look—Setting"
+          Link="/Content/Capture/Appearance/Look-of-Objects/Setting-the-Default-Look-for-Objects-Capture.htm" />
+        <TocEntry
+          Title="Default Look—Using"
+          Link="/Content/Capture/Appearance/Look-of-Objects/Using-the-Default-Look-for-Objects-Capture.htm" />
+        <TocEntry
+          Title="Applying Styles"
+          Link="/Content/Capture/Appearance/Look-of-Objects/Applying-Styles-to-Objects-Capture.htm" />
+        <TocEntry
+          Title="Selecting Styles"
+          Link="/Content/Capture/Appearance/Look-of-Objects/Selecting-Styles-for-Objects-Capture.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Padding"
+        Link="/Content/Capture/Objects/Adding-Padding-Objects.htm" />
+      <TocEntry
+        Title="Points—Deleting"
+        Link="/Content/Capture/Appearance/Deleting-Points-Capture.htm" />
+      <TocEntry
+        Title="Resizing"
+        Link="/Content/Capture/Appearance/Resizing/Resizing-Objects.htm" />
+      <TocEntry
+        Title="Shapes"
+        Link="/Content/Capture/Objects/Shapes/Shapes-Capture.htm">
+        <TocEntry
+          Title="Adding to Images"
+          Link="/Content/Capture/Objects/Shapes/Adding-Shapes-to-Images.htm" />
+        <TocEntry
+          Title="Rectangle Properties"
+          Link="/Content/Capture/Appearance/Setting_the_Rectangle_Properties_for_an_Object.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Palettes"
+      Link="/Content/Capture/Palettes/About-Palettes-Capture.htm">
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Capture/Palettes/Creating-Palettes.htm" />
+      <TocEntry
+        Title="Deleting"
+        Link="/Content/Capture/Palettes/Deleting-Palettes.htm" />
+      <TocEntry
+        Title="Linking"
+        Link="/Content/Capture/Palettes/Linking-External-Palettes.htm" />
+      <TocEntry
+        Title="Opening"
+        Link="/Content/Capture/Palettes/Opening-Palettes.htm" />
+      <TocEntry
+        Title="Objects—Adding"
+        Link="/Content/Capture/Palettes/Adding-Objects-to-Palettes.htm" />
+      <TocEntry
+        Title="Objects—Deleting"
+        Link="/Content/Capture/Palettes/Deleting-Objects-from-Palettes.htm" />
+      <TocEntry
+        Title="Objects—Using"
+        Link="/Content/Capture/Palettes/Using-Objects-from-Palettes.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Profiles"
+      Link="/Content/Capture/Profiles/About-Profiles.htm">
+      <TocEntry
+        Title="Applying to Images"
+        Link="/Content/Capture/Profiles/Applying-Profiles-to-Images.htm" />
+      <TocEntry
+        Title="Cloning"
+        Link="/Content/Capture/Profiles/Cloning-Profiles.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Capture/Profiles/Creating-Profiles.htm" />
+      <TocEntry
+        Title="Deleting"
+        Link="/Content/Capture/Profiles/Deleting-Profiles.htm" />
+      <TocEntry
+        Title="Destination"
+        Link="/Content/Capture/Profiles/Setting-Destination-Image.htm" />
+      <TocEntry
+        Title="Detaching from Images"
+        Link="/Content/Capture/Profiles/Detaching-Profiles-from-Images.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Capture/Profiles/Editing-Profiles.htm" />
+      <TocEntry
+        Title="File Name"
+        Link="/Content/Capture/Profiles/Setting-File-Name-Image.htm" />
+      <TocEntry
+        Title="Linking"
+        Link="/Content/Capture/Profiles/Linking-to-External-Profiles.htm" />
+      <TocEntry
+        Title="Opening"
+        Link="/Content/Capture/Profiles/Opening-Profiles.htm" />
+      <TocEntry
+        Title="Selecting"
+        Link="/Content/Capture/Profiles/Selecting-Profile-Capturing.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Shortcuts"
+      Link="/Content/Capture/Shortcuts/About-Shortcuts.htm">
+      <TocEntry
+        Title="Keyboard Shortcuts"
+        Link="/Content/Capture/Shortcuts/Keyboard-Shortcuts-Capture.htm" />
+      <TocEntry
+        Title="ALT Key Shortcuts"
+        Link="/Content/Capture/Shortcuts/ALT-Key-Shortcuts.htm" />
+      <TocEntry
+        Title="Hot Keys—Changing"
+        Link="/Content/Capture/Shortcuts/Changing-Hot-Keys-Capture.htm" />
+      <TocEntry
+        Title="Hot Keys—Disabling"
+        Link="/Content/Capture/Shortcuts/Disabling-Hot-Keys.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Single-Source Images"
+      Link="/Content/Capture/Profiles/Creating-Single-Source-Images.htm">
+      <TocEntry
+        Title="Using Mediums"
+        Link="/Content/Capture/Appearance/Setting-Image-Properties-Using-Mediums.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Text"
+      Link="/Content/Capture/Text/About-Text-Capture.htm">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Capture/Text/Adding-Text-Capture.htm" />
+      <TocEntry
+        Title="Aligning"
+        Link="/Content/Capture/Text/Aligning-Text.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Capture/Text/Editing-Text.htm" />
+      <TocEntry
+        Title="Font Properties"
+        Link="/Content/Capture/Text/Setting-Font-Properties-Text-Capture.htm" />
+      <TocEntry
+        Title="Pinning Fonts"
+        Link="/Content/Capture/Fonts/Pinning-Fonts-Capture.htm" />
+      <TocEntry
+        Title="Using Font Groups"
+        Link="/Content/Capture/Fonts/Using-Font-Groups-Capture.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Variables"
+      Link="/Content/Capture/Variables/About-Variables-Capture.htm">
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Capture/Variables/Creating-Variables.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Capture/Variables/Editing-Variables.htm" />
+      <TocEntry
+        Title="Inserting into Objects"
+        Link="/Content/Capture/Variables/Inserting-Variables-into-Objects.htm" />
+      <TocEntry
+        Title="Linking to Flare Projects"
+        Link="/Content/Capture/z-DupTopics/Linking-to-Flare-Projects-Capture2.htm"
+        StartSection="false" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Interface"
+    Link="/Content/Capture/Interface/Touring-Capture-Workspace.htm">
+    <TocEntry
+      Title="Capture Editor"
+      Link="/Content/Capture/Interface/UI-Elements/Capture-Editor.htm"
+      MarkAsNew="False" />
+    <TocEntry
+      Title="Customizing the Workspace"
+      Link="/Content/Capture/Interface/Customizing-Workspace.htm">
+      <TocEntry
+        Title="Color Theme for Interface"
+        Link="/Content/Capture/Interface/Selecting-Interface-Color-Theme.htm" />
+      <TocEntry
+        Title="Ribbons—Minimizing"
+        Link="/Content/Capture/Interface/Minimizing-Ribbons.htm" />
+      <TocEntry
+        Title="Ribbons and Toolstrip—Switching"
+        Link="/Content/Capture/Interface/Switching-Ribbon-Menu.htm" />
+      <TocEntry
+        Title="Window Layouts"
+        Link="/Content/Capture/Interface/Window-Layouts.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Profiles Editor"
+      Link="/Content/Capture/Interface/UI-Elements/Profiles-Editor.htm"></TocEntry>
+    <TocEntry
+      Title="Ribbons, Menus, and Toolbars"
+      Link="/Content/Capture/Interface/UI-Elements/Ribbons-Menus-Toolbars.htm">
+      <TocEntry
+        Title="Menus"
+        Link="/Content/Capture/Interface/Menus-Capture.htm" />
+      <TocEntry
+        Title="Quick Access Toolbar"
+        Link="/Content/Capture/Interface/Quick-Access-Toolbar.htm" />
+      <TocEntry
+        Title="Ribbons"
+        Link="/Content/Capture/Interface/Ribbons-Capture.htm" />
+      <TocEntry
+        Title="Toolbars"
+        Link="/Content/Capture/Interface/Global-Toolbars-Capture.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Start Page"
+      Link="/Content/Capture/Interface/UI-Elements/Start-Page-Capture.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="PDF Guides"
+    Link="/Content/Capture/PDF-Guides/PDF-Guides-Capture.htm"
+    StartSection="false" />
+</CatapultToc>

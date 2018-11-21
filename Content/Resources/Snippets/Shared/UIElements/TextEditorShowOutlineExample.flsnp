@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>You might have a topic that looks like this in the Internal Text Editor:</p>
+            <p>
+                <img src="../../../Images/Shared/text_editor_outline_example1.png" class="MaxWidth90Percent" />
+            </p>
+            <p>After clicking the collapse button, it will look like this:</p>
+            <p>
+                <img src="../../../Images/Shared/text_editor_outline_example2.png" class="MaxWidth90Percent" />
+            </p>
+            <p>If you hover over the small box, a popup shows the tagged content for that section.</p>
+            <p>
+                <img src="../../../Images/Shared/text_editor_outline_example3.png" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

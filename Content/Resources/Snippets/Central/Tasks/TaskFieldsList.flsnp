@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="786" MadCap:lastWidth="881">
+    <body>
+        <ul>
+            <li><span class="SetOffFirstLevel">Description </span>You can enter a description for the task.</li>
+            <li><span class="SetOffFirstLevel">Priority Level </span>You can use the slider to indicate the priority level of the task (Low, Medium, or High). Each priority level is indicated by a color, which is shown in the task card:<ul class="SecondLevel"><li> Low=Green</li><li>Medium=Yellow</li><li>High=Red</li></ul></li>
+            <li><span class="SetOffFirstLevel">Project </span>You can select an uploaded Flare project. This associates the project with that task, and anytime someone opens the task, he or she can click the project link to open it in the Projects page.</li>
+            <li><span class="SetOffFirstLevel">Start Date </span>You can click the buttons on the right side of the field to select the date and time when the task should be started. This date is used when looking at the task in Calendar view.</li>
+            <li><span class="SetOffFirstLevel">Due Date </span>You can click the buttons on the right side of the field to select the date and time by which the task should be completed. This date is used when looking at the task in Calendar view. When a task is past the due date (and not yet completed), the text turns red.</li>
+            <li><span class="SetOffFirstLevel">Est Hours </span>You can enter an estimated number of hours for the task.</li>
+            <li MadCap:conditions="Snippets.Snippet1">
+                <p><span class="SetOffFirstLevel">Assigned to </span>By default a new task is assigned to yourself, so you will see your avatar in this field. However, you can click the avatar to assign the task to a different user.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">A task can be assigned to only one person.</p>
+                </div>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">When editing an existing task, you also have the option of changing the owner of the task. See <MadCap:xref href="../../../../Central/Tasks/Editing-Tasks.htm">Editing Tasks</MadCap:xref>.</p>
+                </div>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet2"><span class="SetOffFirstLevel">Owner </span>You can click the avatar to choose another user as the owner of the task.</li>
+            <li MadCap:conditions="Snippets.Snippet2">
+                <p><span class="SetOffFirstLevel">Assigned to </span>You can click the avatar to assign the task to a different user.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">A task can be assigned to only one person.</p>
+                </div>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Tasks:attachments;Attachments:tasks" />Attachments </span>You can click this button to choose one or more files to be associated with the task. Others can then download the attached files for more information about the task.</li>
+        </ul>
+    </body>
+</html>

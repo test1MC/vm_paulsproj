@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p><span class="SetOffFirstLevel">blockquote</span> This tag is typically used to format text used as a quotation. Usually the &lt;blockquote&gt; tag has margin indentations to set it apart from the rest of the content in the topic. </p>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example—joining a segment that is split</p>
+            <p>Here is an example where one segment has been broken into two:</p>
+            <p>
+                <img src="../../../Images/Shared/align-segments-example1.png" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="LingoGuides.LingoAlignmentGuide" />
+            <p>You can join that segment, like this.</p>
+            <p>
+                <img src="../../../Images/Shared/align-segments-example2.png" class="MaxWidth90Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Shared/align-segments-example3.png" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="LingoGuides.LingoAlignmentGuide" />
+            <p>When finished, you can upload the aligned segment(s) to your translation memory database.</p>
+            <p>
+                <img src="../../../Images/Shared/align-segments-example4.png" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

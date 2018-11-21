@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Contributor">
+  <TocEntry
+    Title="Shortcut Keys"
+    Link="/Content/Print-Only-Topics/Contributor/Shortcuts/Keyboard-Shortcuts-Keys.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/CheatSheetLetterFirstPage3Columns.flpgl"
+    PageNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="Shortcut Keys2"
+    Link="/Content/Print-Only-Topics/Contributor/Shortcuts/Keyboard-Shortcuts-Keys2.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/CheatSheetLetter3Columns.flpgl"
+    PageNumberReset="continue"
+    PageType="normal" />
+  <TocEntry
+    Title="Shortcuts Tasks"
+    Link="/Content/Print-Only-Topics/Contributor/Shortcuts/Keyboard-Shortcuts-Tasks.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/CheatSheetLetter3Columns.flpgl"
+    PageType="normal"></TocEntry>
+  <TocEntry
+    Title="Custom_Shortcuts"
+    Link="/Content/Print-Only-Topics/Shared/Custom-Shortcuts.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/CheatSheetLetter2Columns.flpgl" />
+</CatapultToc>

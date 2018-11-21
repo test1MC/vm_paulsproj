@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="8" MadCap:lastHeight="913" MadCap:lastWidth="1110">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="OpenPageInPageLayoutStep.flsnp" />
+            </li>
+            <li>Double-click the frame for which you want to add or configure columns.</li>
+            <li>Select the <span class="Emphasis">Columns</span> tab.</li>
+            <li>Set any of the options on the tab for the columns or the divider.<MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot>columns</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><ul class="FirstLevel"><li><span class="SetOffFirstLevel">Count </span>Enter the number of columns to be used in the frame to display text. </li><li><span class="SetOffFirstLevel">Gap </span>Enter the amount of space that you want between each column. <MadCap:snippetText src="../UIElements/SizeOption.flsnp" /></li></ul></MadCap:dropDownBody></MadCap:dropDown><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot>column divider</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody class="Final"><ul class="FirstLevel"><li><span class="SetOffFirstLevel">Style </span>Select the type of vertical line that you would like to display between columns (either a solid or double line). If you do not select a style, the gap between the columns will be empty.</li><li><span class="SetOffFirstLevel">Width </span>Specify the width of the single solid line or the double lines that serve as the column divider. <snippetText src="../StepsGeneral/EnterValueAndMeasurement.flsnp" /></li><li><span class="SetOffFirstLevel">Margin Top </span>Specify the amount of space between the top of the column divider and the top edge of the frame. <snippetText src="../StepsGeneral/EnterValueAndMeasurement.flsnp" /></li><li><span class="SetOffFirstLevel">Margin Bottom </span>Specify the amount of space between the bottom of the column divider and the bottom edge of the frame. <snippetText src="../StepsGeneral/EnterValueAndMeasurement.flsnp" /></li><li><span class="SetOffFirstLevel">Color </span>Use this field to apply a color to the column divider. Click <snippetText src="../Formatting/FormattingSetColorStep.flsnp" /></li></ul></MadCap:dropDownBody></MadCap:dropDown></li>
+            <li>
+                <snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>
+                <snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

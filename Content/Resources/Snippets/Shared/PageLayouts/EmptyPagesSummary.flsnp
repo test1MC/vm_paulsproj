@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p>When creating print-based output, there may be times when you want a page in the document to purposely be left blank (or mostly blank). Flare lets you use three kinds of empty page types in a page layout. If you add one of these empty page types in a page layout, empty pages can automatically be injected into the output when necessary, based on the page types in your layout.</p>
+    </body>
+</html>

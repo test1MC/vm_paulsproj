@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>After creating an alignment project, let's say you double-click on a pair of files in the File Map window pane and notice the following in the Alignment Tool.</p>
+            <p>
+                <img src="../../../Images/Shared/align-segments-example9.png" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="LingoGuides.LingoAlignmentGuide" />
+            <p>The segments are not completely aligned. Therefore, you correct the situation, like this.</p>
+            <p>
+                <img src="../../../Images/Shared/align-segments-example10.png" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="LingoGuides.LingoAlignmentGuide" />
+            <p>Now the cells are correctly aligned with their counterparts on the left, so you can upload them to translation memory.</p>
+            <p>
+                <img src="../../../Images/Shared/align-segments-example11.png" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

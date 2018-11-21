@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <ol class="LowerAlpha">
+            <li>Click in the row you want to delete.</li>
+            <li>In the local toolbar click <img src="../../../Images/Shared/delete_row_btn.png" class="ReduceButtonSize" />.</li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="3" MadCap:lastHeight="241" MadCap:lastWidth="967">
+    <body>
+        <p>You can click <img src="../../../Images/Shared/refresh_btn.png" class="ReduceButtonSize" /> in the local toolbar to refresh the Link Viewer window pane at any time. This ensures you are seeing the most up-to-date links for the active file.</p>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say you are using the Link Viewer window pane to see the links for a topic. While doing this, suppose you decide to delete one of the targets in your project, and that target is linked to the topic file. After the file is deleted, it still is shown in the Link Viewer window pane. But if you click the Refresh button, the window pane no longer shows that file link.</p>
+        </div>
+    </body>
+</html>

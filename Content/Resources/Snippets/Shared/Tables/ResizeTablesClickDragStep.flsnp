@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>Make sure that the tag bars and span bars are shown to the left of the table and above the table, respectively. If they are not shown, click <img src="../../../Images/Shared/toggle_show_blocks_btn.png" class="ReduceButtonSize" /> (to show the tag bars), and click <img src="../../../Images/Shared/toggle_show_spans_btn.png" class="ReduceButtonSize" /> (to show the span bars) at the bottom of the editor.</p>
+    </body>
+</html>

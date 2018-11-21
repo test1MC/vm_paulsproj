@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="149" MadCap:lastWidth="599">
+    <body>
+        <p>Click this button at the bottom of the XML Editor to show or hide shading of the text itself. For example, if your condition tag has blue associated with it and you click this button to show the indicator, the content becomes shaded with a lighter version of blue. If more than one condition tag is applied to the content, the shading appears in a pattern that shows all of the applied condition tag colors.</p>
+    </body>
+</html>

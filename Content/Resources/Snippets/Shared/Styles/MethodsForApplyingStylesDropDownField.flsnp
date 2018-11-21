@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li>
+                <MadCap:snippetText src="../UIElements/SelectHomeRibbon.flsnp" /> The styles drop-down field is located in the <span class="Emphasis">Styles</span> section. It looks like this: <img src="../../../Images/Shared/style_field.png" class="ReduceButtonSize" />. The current style is displayed in the drop-down—in this example, p is the current style.</li>
+        </ul>
+    </body>
+</html>

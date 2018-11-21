@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>Open an HTML5 target used for Top Navigation or skinless output.</li>
+            <li>On the <span class="Emphasis">Advanced</span> tab of the Target Editor, select <span class="Emphasis">Synchronize navigation elements with TOC entries</span>.</li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

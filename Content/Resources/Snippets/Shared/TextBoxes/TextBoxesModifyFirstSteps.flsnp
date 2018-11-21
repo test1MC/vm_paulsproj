@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="80" MadCap:lastWidth="1006" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../../Contributor/Documents/OpenDocumentTopic.flsnp" MadCap:conditions="Products.Contributor" />
+                <MadCap:snippetText src="../Topics/OpenContentFile.flsnp" MadCap:conditions="Products.Flare,Products.Analyzer" />
+            </li>
+            <li>Right-click inside the text box and from the menu, select <span class="Emphasis">Text Box</span>. The Text Box Properties dialog opens.</li>
+        </ol>
+    </body>
+</html>

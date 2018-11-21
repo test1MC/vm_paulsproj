@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="45" MadCap:lastWidth="1107">
+    <body>
+        <p>Opens the <MadCap:conditionalText MadCap:conditions="Products.Flare,Products.Analyzer">master </MadCap:conditionalText>page layout in the Page Layout Editor. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Page-Layouts/About-Page-Layouts.htm">About Page Layouts</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Page-Layouts/About-Page-Layouts.htm">About Page Layouts</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

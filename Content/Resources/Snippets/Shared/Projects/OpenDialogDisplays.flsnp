@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="2" MadCap:lastHeight="84" MadCap:lastWidth="1001" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo,Products.Align" MadCap:ignoredWords="lialign" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>The Open dialog displays.<MadCap:conditionalText MadCap:conditions="Products.Analyzer,Products.Flare"> The Flare project file extension (.flprj) appears in the File Type field.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Lingo"> The Lingo project file extension (.liprj) appears in the File Type field.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Align"> The Align project file extension (.lialign) appears in the File Type field.</MadCap:conditionalText></p>
+    </body>
+</html>

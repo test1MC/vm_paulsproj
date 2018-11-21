@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultIndexLinkSet
+  conditions="Products.Analyzer">
+  <IndexLink
+    Term="Bulleted lists"
+    LinkType="see"
+    LinkedTerm="Lists"></IndexLink>
+  <IndexLink
+    Term="Numbered lists"
+    LinkType="see"
+    LinkedTerm="Lists"></IndexLink>
+  <IndexLink
+    Term="CHM"
+    LinkType="see"
+    LinkedTerm="HTML Help"></IndexLink>
+  <IndexLink
+    Term="Classes"
+    LinkType="see"
+    LinkedTerm="Styles"></IndexLink>
+  <IndexLink
+    Term="CSH"
+    LinkType="see"
+    LinkedTerm="Context-sensitive Help"></IndexLink>
+  <IndexLink
+    Term="IM"
+    LinkType="see"
+    LinkedTerm="Instant messaging"></IndexLink>
+  <IndexLink
+    Term="Pictures"
+    LinkType="see"
+    LinkedTerm="Images"></IndexLink>
+  <IndexLink
+    Term="Screen captures"
+    LinkType="see"
+    LinkedTerm="Images"></IndexLink>
+  <IndexLink
+    Term="Interface"
+    LinkType="see"
+    LinkedTerm="Workspace"></IndexLink>
+  <IndexLink
+    Term="Localization"
+    LinkType="see"
+    LinkedTerm="Language support"></IndexLink>
+  <IndexLink
+    Term="Map IDs"
+    LinkType="see"
+    LinkedTerm="Identifiers"></IndexLink>
+  <IndexLink
+    Term="Microsoft HTML Help"
+    LinkType="see"
+    LinkedTerm="HTML Help"></IndexLink>
+  <IndexLink
+    Term="TOCs"
+    LinkType="see"
+    LinkedTerm="Tables of contents"></IndexLink>
+  <IndexLink
+    Term="Topic alias markers"
+    LinkType="see"
+    LinkedTerm="Topic IDs"></IndexLink>
+  <IndexLink
+    Term="Topic reviews"
+    LinkType="see"
+    LinkedTerm="Reviews"></IndexLink>
+  <IndexLink
+    Term="UOM"
+    LinkType="see"
+    LinkedTerm="Unit of measurement"></IndexLink>
+  <IndexLink
+    Term="User interface"
+    LinkType="see"
+    LinkedTerm="Workspace"></IndexLink>
+  <IndexLink
+    Term="Version control"
+    LinkType="see"
+    LinkedTerm="Source control"></IndexLink>
+  <IndexLink
+    Term="WYSIWYG Editor"
+    LinkType="see"
+    LinkedTerm="XML Editor"></IndexLink>
+  <IndexLink
+    Term="Graphs"
+    LinkType="see"
+    LinkedTerm="Charts"></IndexLink>
+  <IndexLink
+    Term="Graphics"
+    LinkType="see"
+    LinkedTerm="Images"></IndexLink>
+  <IndexLink
+    Term="Narrator"
+    LinkType="see"
+    LinkedTerm="Microsoft Windows Narrator"></IndexLink>
+  <IndexLink
+    Term="Windows Narrator"
+    LinkType="see"
+    LinkedTerm="Microsoft Windows Narrator"></IndexLink>
+  <IndexLink
+    Term="Regex"
+    LinkType="see"
+    LinkedTerm="Regular expressions"></IndexLink>
+  <IndexLink
+    Term="Keyboard shortcuts"
+    LinkType="see"
+    LinkedTerm="Shortcuts"></IndexLink>
+  <IndexLink
+    Term="Hot keys"
+    LinkType="see"
+    LinkedTerm="Shortcuts"></IndexLink>
+</CatapultIndexLinkSet>

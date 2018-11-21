@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor">
+    <body>
+        <p>You can use the Remove Inline Formatting option <img class="ReduceButtonSize" src="../../../Images/Shared/remove_inline_formatting_btn.png" /> to get rid of any local formatting in a selection or even an entire <MadCap:snippetText src="../Topics/ContentFileDocument.flsnp" />. </p>
+    </body>
+</html>

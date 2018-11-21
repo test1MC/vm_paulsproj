@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>In the local toolbar, click in the <span class="Emphasis">Medium</span> drop-down and select the appropriate medium<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareStylesGuide"> or media query</MadCap:conditionalText>.</p>
+    </body>
+</html>

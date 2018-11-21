@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say a paragraph is identical in both files, except for an extra space that was added within the paragraph in one of those files. If you click this option, that difference is not highlighted.</p>
+            <p>
+                <img src="../../../Images/Shared/ignore_whitespace_example1.png" class="MaxWidth90Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Shared/ignore_whitespace_example2.png" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="790" MadCap:lastWidth="603" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <p>The following types of output can be generated from MadCap Central, but they cannot be viewed (output files are downloaded to your computer):</p>
+        <ul class="SecondLevel">
+            <li>
+                <MadCap:keyword term="DITA" /><MadCap:variable name="Outputs.DITA" />
+            </li>
+            <li>
+                <MadCap:keyword term="DotNet Help" /><MadCap:variable name="Outputs.DotNetHelp" />
+            </li>
+            <li>
+                <MadCap:keyword term="Eclipse Help" /><MadCap:variable name="Outputs.EclipseHelp" />
+            </li>
+            <li>
+                <MadCap:keyword term="EPUB" /><MadCap:variable name="Outputs.EPUB" />
+            </li>
+            <li>
+                <p>
+                    <MadCap:keyword term="Microsoft HTML Help" /><MadCap:variable name="Outputs.HTMLHelp" />
+                </p>
+                <MadCap:snippetBlock src="../Central/NoteUnblockCHM.flsnp" />
+            </li>
+            <li>Server-based Outputs:<ul class="ThirdLevel"><li><MadCap:keyword term="HTML5" /><MadCap:variable name="Outputs.HTML5" /> Plus</li><li><MadCap:keyword term="WebHelp Plus" /><MadCap:variable name="Outputs.WebHelp Plus" /></li></ul><div class="note"><p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you want to produce server-based output from MadCap Central, you will need to download the output from Central after it finishes building. You can then publish the output to your server.</p><p MadCap:conditions="Products.FlareOnlineOnly">For HTML5 targets, see <MadCap:xref href="../../../../Flare/Output/HTML5-Output/AutoMerge/Merging-Output-Runtime-Using-HTML5.htm">Merging Server-based HTML5 Output at Runtime</MadCap:xref> and <MadCap:xref href="../../../../Flare/Output/HTML5-Output/Search/Including-Non-XHTML-Files-Search-HTML5.htm">Including Non-XHTML Files in HTML5 Search</MadCap:xref>.  </p><p MadCap:conditions="Products.FlareOnlineOnly">For WebHelp Plus targets, see  <MadCap:xref href="../../../../Flare/Output/WebHelp-Plus-Output/AutoMerge/Merging-Output-Runtime-Using-WebHelp-Plus.htm">Merging Output at Runtime Using WebHelp Plus</MadCap:xref> and <MadCap:xref href="../../../../Flare/Output/WebHelp-Plus-Output/Search/Including-Non-XHTML-Files-Search.htm">Including Non-XHTML Files in WebHelp Plus Search</MadCap:xref>.  </p></div></li>
+            <li>
+                <MadCap:keyword term="Microsoft Word" /><MadCap:variable name="Outputs.Word" />
+            </li>
+            <li>
+                <MadCap:keyword term="Microsoft XPS" /><MadCap:variable name="Outputs.XPS" />
+            </li>
+            <li>
+                <MadCap:keyword term="XHTML Book" /><MadCap:variable name="Outputs.XHTML" />
+            </li>
+        </ul>
+    </body>
+</html>

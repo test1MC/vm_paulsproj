@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>After you create a variable, you can easily edit it in the Variable Set Editor. If you change the definition for a variable that has been inserted into topics, the changes will automatically be reflected in all those topics.</p>
+    </body>
+</html>

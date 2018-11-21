@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ol style="list-style-type: lower-alpha;">
+            <li>
+                <p>Place your cursor on the content that you want to use as a foundation for your new style.</p>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example</p>
+                    <p>If you place your cursor on content that currently has the p style applied to it, the new style will start out with the same property values as the p style.</p>
+                </div>
+            </li>
+            <li>
+                <MadCap:snippetText src="../UIElements/SelectHomeRibbon.flsnp" />In the <span class="Emphasis">Styles</span> section select <span class="Emphasis">Style Window</span>. The Styles window pane opens on the right side of the interface.</li>
+            <li>In the Styles window pane, click <span class="Emphasis">Create Style</span>. The Create Style dialog opens.</li>
+        </ol>
+    </body>
+</html>

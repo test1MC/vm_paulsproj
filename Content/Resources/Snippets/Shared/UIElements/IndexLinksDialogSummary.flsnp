@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>This dialog opens whenever you add a new index link to your index link set. An index link is an entry in a generated index that points to another entry. There are three kinds of index links—"See," "See Also," and <MadCap:keyword term="Indexes:index links;Indexes:sort as links;Sort as links" />"Sort As."</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>When this feature is enabled, every change to the document—along with the user who performed the change—will be stored in the document’s markup. For example, deleted text won’t actually be removed from the document, but will instead be marked as deleted in the code. However, if the change is accepted, the text will be removed from the document.</p>
+    </body>
+</html>

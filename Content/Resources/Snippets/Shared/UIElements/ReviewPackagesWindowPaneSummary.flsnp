@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>This window pane lets you view the files that are part of a review package file sent from an author. You can double-click on a file name to open it so that you can review and edit it. When you are finished and you save your changes, you can click the "Return to Sender" button in the local toolbar to email it back to the author.</p>
+    </body>
+</html>

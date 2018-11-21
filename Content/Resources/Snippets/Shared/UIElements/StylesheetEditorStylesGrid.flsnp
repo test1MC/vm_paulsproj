@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p class="TableText">Columns and rows in the grid display the various styles and classes in the stylesheet, as well as some of the more common property settings. These grid cells are populated based on the settings you provide in the Properties dialog (which is opened by clicking <img src="../../../Images/Shared/run_properties2_btn.png" class="ReduceButtonSize" />) or by selecting certain buttons (e.g., bold, font size) in the editor.</p>
+    </body>
+</html>

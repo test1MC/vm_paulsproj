@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="484" MadCap:lastWidth="991">
+    <body>
+        <p>Synchronizing navigation elements with your TOC entries seems like an obvious decision, and for some authors it is. However, other authors might choose not to do this for their Top Navigation and skinless outputs.</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Pro </span>The obvious advantage of this feature is in the name itself; it keeps elements synchronized with the TOC appropriately.</li>
+            <li>
+                <p><span class="SetOffFirstLevel">Pro </span>You do not need to worry if you have a topic linked to multiple TOC entries.</p>
+                <MadCap:snippetBlock src="NoteSyncNavElementsTOC.flsnp" />
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Con </span>With this option enabled, you will notice that the URL paths for your topics are quite a bit longer and more complex.</p>
+                <p>
+                    <img src="../../../Images/Flare/sync-nav-elements-toc1.png" alt="" title="" class="ReduceButtonSize" />
+                </p>
+                <p>With the option disabled, the paths are much more streamlined.</p>
+                <p>
+                    <img src="../../../Images/Flare/sync-nav-elements-toc2.png" alt="" title="" class="ReduceButtonSize" />
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>

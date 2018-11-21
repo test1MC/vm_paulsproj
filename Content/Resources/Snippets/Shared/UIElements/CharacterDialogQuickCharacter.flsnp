@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo,Products.Contributor,Products.Analyzer">
+    <body>
+        <p class="TableText">You can designate one character or symbol as your "quick character," which means that a special menu and shortcut option are set aside for that character. Simply select the character or symbol and then click <img src="../../../Images/Shared/make_quick_character_btn.png" class="ReduceButtonSize" />. The current quick character is displayed in this field.</p>
+    </body>
+</html>

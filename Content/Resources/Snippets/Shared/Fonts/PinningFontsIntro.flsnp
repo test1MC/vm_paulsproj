@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer,Products.Capture,Products.Mimic" MadCap:lastBlockDepth="4" MadCap:lastHeight="110" MadCap:lastWidth="950">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>
+            <MadCap:snippetText src="PinningFontsIntroShort.flsnp" /> <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../../Flare/Fonts/Using-Font-Groups.htm">Using Font Groups.</MadCap:xref></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.ContributorOnlineOnly">See <MadCap:xref href="../../../../Contributor/Fonts/Using-Font-Groups.htm">Using Font Groups</MadCap:xref></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See <MadCap:xref href="../../../../Capture/Fonts/Using-Font-Groups-Capture.htm">Using Font Groups</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic">See <MadCap:xref href="../../../../Mimic/Fonts/Using-Font-Groups-Mimic.htm">Using Font Groups</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

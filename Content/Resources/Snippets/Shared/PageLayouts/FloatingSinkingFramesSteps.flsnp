@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="OpenPageInPageLayoutStep.flsnp" />
+            </li>
+            <li>Click on the frame that you want to float (bring forward) or sink (send backward).</li>
+            <li>In the local toolbar, click <img src="../../../Images/Shared/layout_btn.png" class="ReduceButtonSize" />.</li>
+            <li>From the drop-down menu, select <span class="Emphasis">Depth</span> and choose one of the following.<ul class="FirstLevel"><li><span class="SetOffFirstLevel">Float </span>Floats the selected frame, bringing it forward one level if at least one other frame overlaps it (above it).</li><li><span class="SetOffFirstLevel">Sink </span>Sinks the selected frame, sending it backward one level if at least one other frame overlaps it (below it).</li><li><span class="SetOffFirstLevel">Sink To Bottom </span>Sinks the selected frame, sending it backward to the bottom level if at least one other frame overlaps it (below it).</li><li><span class="SetOffFirstLevel">Float To Top </span>Floats the selected frame, bringing it forward to the top level if at least one other frame overlaps it (above it).</li></ul></li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

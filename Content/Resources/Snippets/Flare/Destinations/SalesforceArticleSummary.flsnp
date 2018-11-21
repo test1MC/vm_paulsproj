@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p><span class="SetOffFirstLevel">Article Summary </span>You can provide a short description to be used for all published topics. However, if you have entered a description for a specific topic in the Properties dialog, that text will be used as the summary instead<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../../../../Flare/Topics/Adding-Meta-Descriptions-Topics.htm">Adding Meta Descriptions for Topics</MadCap:xref>)</MadCap:conditionalText>.</p>
+    </body>
+</html>

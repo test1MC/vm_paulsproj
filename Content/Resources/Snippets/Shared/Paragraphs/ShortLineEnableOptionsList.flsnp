@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="406" MadCap:lastWidth="814">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Never </span> <MadCap:snippetText src="ShortLineNever.flsnp" /></li>
+            <li><span class="SetOffFirstLevel">Tighten </span>
+                <MadCap:snippetText src="ShortLineTighten.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">Tighten, Loosen </span>
+                <MadCap:snippetText src="ShortLineTightenLoosen.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">Loosen, Tighten </span>
+                <MadCap:snippetText src="ShortLineLoosenTighten.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">Loosen </span>
+                <MadCap:snippetText src="ShortLineLoosen.flsnp" />
+            </li>
+        </ul>
+    </body>
+</html>

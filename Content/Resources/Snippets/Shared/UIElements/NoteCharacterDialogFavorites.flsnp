@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo,Products.Contributor,Products.Analyzer">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Favorite characters are shared across products. <MadCap:conditionalText MadCap:conditions="Products.Analyzer,Products.Flare">For example, if you have both Flare and Analyzer installed, the same favorite characters will show in both.</MadCap:conditionalText></p>
+        </div>
+    </body>
+</html>

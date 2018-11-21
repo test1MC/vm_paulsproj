@@ -1,0 +1,772 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="4617" MadCap:lastWidth="590">
+    <head>
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table class="TableStyle-BasicAlternateRows" style="mc-table-style: url('../../../TableStyles/Shared/BasicAlternateRows.css');margin-left: 0;margin-right: auto;width: 100%;" cellspacing="0">
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-BasicAlternateRows-Head-Header1" MadCap:conditions="">
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1" MadCap:conditions="">
+                        <p class="TableTextHead">Activity</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1" MadCap:conditions="">
+                        <p class="TableTextHead">Permission Required</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" colspan="2">
+                        <p class="TableTextEmphasis">Messages</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Message-Center/Using-Message-Center.htm">Using the Message Center</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Using the Message Center</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" colspan="2">
+                        <p class="TableTextEmphasis">Projects</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Changing-Status-Project.htm">Changing the Status of a Project</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Changing the Status of a Project</p>
+                            <p class="TableText">(Active, Archive, Lock)</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/manage-teams-projects.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Deleting-Builds.htm">Deleting Builds</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Deleting Builds</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/delete-builds.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Deleting-Projects.htm">Deleting Projects</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Deleting Projects</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/delete-projects.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Downloading-Builds.htm">Downloading Builds</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Downloading Builds</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/download-builds.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Editing-Project-Profiles.htm">Editing Project Profiles</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Editing Project Profiles</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/manage-teams-projects.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Importing-Projects.htm">Importing Projects</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Importing Projects</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/import_pull.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Opening-Project.htm">Opening a Project</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Opening a Project</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="MustBeAssociatedProject.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Opening-Build-Log.htm">Opening the Build Log</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Opening the Build Log</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="MustBeAssociatedProject.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Committing-Synchronizing-Single-Bound.htm">Committing and Synchronizing (Pull, Push) in a Single-bound Model</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Pulling Content</p>
+                            <p class="TableText">(Retrieve content from Central to desktop Flare projects; applies only to those working in a single-bound source control model<MadCap:conditionalText MadCap:conditions="General.OnlineOnly">—see <MadCap:xref href="../../../../Central/Projects/Source-Control-Central.htm#SingleBoundOnline">Single-bound Projects</MadCap:xref></MadCap:conditionalText>)</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/import_pull.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Committing-Synchronizing-Single-Bound.htm">Committing and Synchronizing (Pull, Push) in a Single-bound Model</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Pushing-Dual-Bound-Model.htm">Pushing in a Dual-bound Model</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Pushing Content</p>
+                            <p class="TableText">(Upload content from desktop Flare projects to Central)</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/push.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Running-Scheduling-Builds.htm">Running and Scheduling Builds</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Running and Scheduling Builds</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/run-schedule-builds.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Setting-Builds-to-Live-Keep.htm">Setting Builds to Live or Keep</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Setting Builds to "Live" or "Keep"</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/manage-builds.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Uploading-Projects.htm">Uploading (Binding) Projects</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Uploading (Binding) Projects</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/upload_new_projects.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Viewing-Project-Repository.htm">Viewing a Project Repository</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Viewing a Project Repository</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="MustBeAssociatedProject.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Viewing-Output.htm">Viewing Output</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Viewing Output</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="MustBeAssociatedProject.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Viewing-Project-Activity.htm">Viewing Project Activity</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Viewing Project Activity</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="MustBeAssociatedProject.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Projects/Viewing-Project-Profiles.htm">Viewing Project Profiles</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Viewing Project Profiles</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" colspan="2">
+                        <p class="TableTextEmphasis">Server</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Server/Changing-License-Key-Label.htm">Changing the License Key Label</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Changing the License Key Label</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/server-management.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Server/Changing-Vanity-URL.htm">Changing the Vanity URL</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Changing the Vanity URL</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/server-management.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Server/Purchasing-Seats-Space.htm">Purchasing User Seats and Storage Space</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Purchasing Seats and Storage Space</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/purchasing.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="General.Future">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Future/Server/Renewing-Central-Subscription.htm">Renewing a Central Subscription</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Renewing a Central Subscription</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/purchasing.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Server/Setting-Up-Slack-Integration.htm">Setting Up Slack Integration</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Setting Up Slack Integration</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/slack-integration1.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" colspan="2">
+                        <p class="TableTextEmphasis">Tasks</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Tasks/Adding-Comments-to-Tasks.htm">Adding Comments to Tasks</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Adding Comments to Tasks</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Tasks/Creating-Tasks.htm">Creating and Assigning Tasks</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Creating Tasks</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Tasks/Deleting-Tasks.htm">Deleting Tasks</MadCap:xref><sup>1</sup>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Deleting Tasks<sup>1</sup></p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter" style="vertical-align: super;">
+                            <img src="../../../Images/Central/edit-all-tasks.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Tasks/Editing-Tasks.htm">Editing Tasks</MadCap:xref><sup>1</sup>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Editing Tasks<sup>1</sup></p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/edit-all-tasks.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Tasks/Moving-Tasks.htm">Moving Tasks</MadCap:xref><sup>2</sup>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Moving Tasks<sup>2</sup></p>
+                            <p class="TableText">(Move tasks to milestones—To Do, In Progress, Completed—as well as to Archive and Backlog)</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/edit-all-tasks.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Tasks/Viewing-Task-Details.htm">Viewing Task Details</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Viewing Task Details</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows" colspan="2">
+                        <p class="TableTextEmphasis">Teams</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Teams/Creating-Teams.htm">Creating Teams</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Creating Teams</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/manage-teams-projects.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Teams/Deleting-Teams.htm">Deleting Teams</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Deleting Teams</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/delete-teams.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Teams/Editing-Teams.htm">Editing Teams</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Editing Teams</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/manage-teams-projects.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows" colspan="2">
+                        <p class="TableTextEmphasis">Users</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Users/Inviting-Users.htm">Inviting Users</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Inviting Users</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/user-administration.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Users/Assigning-Users-to-Teams-Projects.htm">Assigning Users to Teams and Projects</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Assigning Users to Teams and Projects</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/manage-teams-projects.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Users/Changing-Password.htm">Changing Your Password</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Changing Your Password</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Users/Deactivating-Users.htm">Deactivating Users</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Deactivating Users</p>
+                            <p class="TableText">(Keep users in system, but remove their ability to log in and work; creates empty seats for other users)</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/user-administration.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Users/Deleting-Users.htm">Deleting Users</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Deleting Users</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/delete-users.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Users/Setting-Profile-Notifications.htm">Setting Your Profile and Notifications</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Setting Your Profile and Notifications</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Users/Reactivating-Users.htm">Reactivating Users</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Reactivating Users</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/user-administration.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Users/Reinviting-Users.htm">Reinviting Users</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Reinviting Users</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/user-administration.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Users/Resetting-Users-Password.htm">Resetting a User's Password</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Resetting a User's Password</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/user-administration.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Users/Setting-Permissions.htm">Setting User Permissions</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Setting User Permissions</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Central/user-administration.png" alt="" title="" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Users/Viewing-Activity-for-User.htm">Viewing the Activity for a User</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Viewing the Activity for a User</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Users/Viewing-User-Profiles.htm">Viewing User Profiles</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Viewing User Profiles</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows" colspan="2">
+                        <p class="TableTextEmphasis">Widgets</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Widgets/Adding-Widgets-to-Dashboard.htm">Adding Widgets to a Dashboard</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Adding Widgets to a Dashboard</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Widgets/Duplicating-Widgets.htm">Duplicating Widgets</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Duplicating and Copying Widgets</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Widgets/Filtering-Widgets.htm">Filtering Widgets</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Filtering Widgets</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Widgets/Refreshing-Widgets.htm">Refreshing Widgets</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Refreshing Widgets</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-DarkerRows">
+                        <div class="IndentSmall">
+                            <p class="TableTextEmphasis" MadCap:conditions="General.OnlineOnly">
+                                <MadCap:xref href="../../../../Central/Widgets/Removing-Widgets.htm">Removing Widgets</MadCap:xref>
+                            </p>
+                            <p class="TableTextEmphasis" MadCap:conditions="General.PrintOnly">Removing Widgets</p>
+                        </div>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyA-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="NoSpecialPermissionRequired.flsnp" />
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr class="TableStyle-BasicAlternateRows-Foot-Footer1">
+                    <td class="TableStyle-BasicAlternateRows-FootD-Regular-Footer1" colspan="2">
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">1</sup>To edit or delete <span class="EmphasisItalic">any task</span>, you must have the “Edit All Tasks” permission. Without permission, you can edit or delete only <span class="EmphasisItalic">tasks that you have created</span>.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">2</sup>To move <span class="EmphasisItalic">any task</span> to a milestone (To Do, In Progress, Completed) or to the Archive or Backlog, you must have the “Edit All Tasks” permission. Without permission, you can move tasks to milestones only <span class="EmphasisItalic">if you have created the task or someone has assigned it to you</span>. You can move tasks to Archive or Backlog only <span class="EmphasisItalic">if you created the task</span>.</p>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </body>
+</html>

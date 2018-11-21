@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>
+            <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /> The style classes are removed from view in the stylesheet.</p>
+    </body>
+</html>

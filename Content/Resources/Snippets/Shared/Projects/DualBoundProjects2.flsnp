@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <p>With the dual-bound model, you do not use the Source Control ribbon in Flare to perform tasks related to Central's internal source control connection with the files; instead, use the MadCap Central window pane in Flare. The Source Control ribbon would be used only for your other binding with a third-party version control tool.</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Align">
+    <body>
+        <p>Although translated segments can automatically be uploaded to a translation memory database during the process of creating an alignment project, there might be some files or segments that require manual alignment. In the alignment project, the original and translated files and segments are shown side by side, allowing you to make sure everything is correct. If any pair of files or segments do not match precisely, you can manually align them. Once the alignment process is completed, you can manually upload those translated files or segments to your translation memory database.</p>
+    </body>
+</html>

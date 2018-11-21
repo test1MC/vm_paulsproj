@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Central,Products.Flare" MadCap:lastBlockDepth="6" MadCap:lastHeight="683" MadCap:lastWidth="1381">
+    <body>
+        <p>When Flare projects are uploaded to a Central license, they are bound by a Git source control connection.</p>
+        <p>The following objectives are important for this relationship:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Easy Access </span>Projects are hosted in the cloud, which means they can be accessed from anywhere.</li>
+            <li>
+                <p><span class="SetOffFirstLevel">Security </span>Projects are stored securely in the cloud. Communication between your local desktop and the cloud is over SSH (Secure Socket Shell) and HTTPS (HTTP over SSL). This is an encrypted, secure channel of communication.  Source control data is secured by username, password, and SSH keys.</p>
+                <p>
+                    <img src="../../../Images/Shared/log_in_central.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li><span class="SetOffFirstLevel">Data Transference </span>Users can synchronize the local and cloud versions of Flare projects after changes are made to files. In addition, you can retrieve files to a local machine whenever necessary. Uploaded projects can be imported and generated output files can be downloaded from Central.</li>
+            <MadCap:pageBreak MadCap:conditions="General.PrintOnly" />
+            <li><span class="SetOffFirstLevel">Storage </span>MadCap Central stores user data in different ways depending on the nature of the data. Some examples of data storage include encrypted SQL databases, source control repositories (GIT), and Azure blob storage.<ul class="SecondLevel"><li><p>Sensitive data—such as user credentials and company information in the database tier—are stored using encryption to mitigate unauthorized access to data, and ensure your information is stored securely.</p></li><li>The methods of storing data follow industry security standards and offer a highly scalable solution to ever expanding storage management tracking needs.</li><li>If you choose to cancel your subscription, hosted data can be wiped at your discretion.</li></ul></li>
+            <li><span class="SetOffFirstLevel">Backups </span>All data is backed up daily. All user data in Central database backups are encrypted, transmitted remotely, and stored securely. This helps prevent unauthorized access. </li>
+        </ul>
+    </body>
+</html>

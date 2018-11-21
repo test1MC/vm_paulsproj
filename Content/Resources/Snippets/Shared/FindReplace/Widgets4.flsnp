@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="16" MadCap:lastHeight="3498" MadCap:lastWidth="691" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare,Products.Lingo">
+    <head>
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>Click <img src="../../../Images/Shared/filter_options_btn2.png" class="ReduceButtonSize" alt="" /> to select any of the following filter options:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Whole word </span>
+                <MadCap:snippetText src="WholeWordOption.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">Match case </span>
+                <MadCap:snippetText src="MatchCaseOption.flsnp" />
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Regular Expressions </span>If you select this option, you can use regular expressions when you look for content.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">about regular expressions</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <MadCap:snippetBlock src="RegularExpressions.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Wildcards </span>If you select this option, you can use wildcards when you look for content.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">about wildcards</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <MadCap:snippetBlock src="Wildcards1.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li MadCap:conditions="Products.Lingo"><span class="SetOffFirstLevel">Source text</span><MadCap:variable name="Other.Product" /> finds only occurrences of the text that appear in source (untranslated)&#160;documents.</li>
+            <li MadCap:conditions="Products.Lingo"><span class="SetOffFirstLevel">Target text</span><MadCap:variable name="Other.Product" /> finds only occurrences of the text that appear in target (translated)&#160;documents.</li>
+            <li><span class="SetOffFirstLevel">Find and Replace in Files </span>This option opens the Find and Replace in Files window pane, which lets you perform more advanced searches, including global searches throughout the project. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../../Flare/Find-Replace/Using_the_Find_and_Replace_in_Files_Feature.htm">Using the Find and Replace in Files Feature</MadCap:xref>.</MadCap:conditionalText></li>
+        </ul>
+    </body>
+</html>

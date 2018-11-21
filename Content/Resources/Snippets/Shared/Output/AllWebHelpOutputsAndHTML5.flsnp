@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="58" MadCap:lastWidth="1030">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>HTML5, <MadCap:variable name="Outputs.WebHelp" />, <MadCap:variable name="Outputs.WebHelpAIR" />, <MadCap:variable name="Outputs.WebHelp Mobile" />, <MadCap:variable name="Outputs.WebHelp Plus" /></p>
+    </body>
+</html>

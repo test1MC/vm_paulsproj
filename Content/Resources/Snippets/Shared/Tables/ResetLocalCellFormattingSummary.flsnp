@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>If you have applied local formatting to a table (e.g., applying background shading to cells directly, not through the use of styles), you can easily remove it. This is possible even if the topic was previously saved and closed.</p>
+    </body>
+</html>

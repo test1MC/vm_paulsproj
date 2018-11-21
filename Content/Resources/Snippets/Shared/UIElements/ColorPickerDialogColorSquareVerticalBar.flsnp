@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Capture,Products.Flare,Products.Contributor,Products.Lingo,Products.Mimic">
+    <body>
+        <p class="TableText">The square displays a gradient of colors related to the one currently selected, which is indicated by the small circle. You can click in the square to choose a different color. You can also click in vertical color bar to change the square to a different range of colors.</p>
+    </body>
+</html>

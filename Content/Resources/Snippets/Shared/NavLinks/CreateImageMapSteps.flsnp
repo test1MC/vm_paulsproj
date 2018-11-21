@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <head>
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../Topics/OpenContentFile.flsnp" />
+            </li>
+            <li>In the XML Editor, right-click the image on which you want to create an image map.</li>
+            <li>In the context menu, select <span class="Emphasis">Image Map</span>. The Image Map Editor opens, with the image displayed.</li>
+            <li>In the Standard toolbar of the Image Map Editor, click one of the shape drawing buttons, depending on the area of the image that you want to use as a hyperlink.<table style="margin-left: 0;margin-right: auto;caption-side: top;mc-table-style: url('../../../TableStyles/Shared/BasicAlternateRows.css');" class="TableStyle-BasicAlternateRows" cellspacing="0"><col style="width: 37px;" class="TableStyle-BasicAlternateRows-Column-Regular" /><col class="TableStyle-BasicAlternateRows-Column-Regular" /><tbody><tr class="TableStyle-BasicAlternateRows-Body-LightRows"><td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows"><p class="TableText"><img src="../../../Images/Shared/new_polygon_mode_btn.png" /></p></td><td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows"><p class="TableText">Click this button if you want to draw an odd shape over a section of the image.</p></td></tr><tr class="TableStyle-BasicAlternateRows-Body-DarkerRows"><td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows"><p class="TableText"><img src="../../../Images/Shared/new_rectangle_mode_btn.png" /></p></td><td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows"><p class="TableText">Click this button if you want to draw a rectangle over a section of the image.</p></td></tr><tr class="TableStyle-BasicAlternateRows-Body-LightRows"><td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows"><p class="TableText"><img src="../../../Images/Shared/new_circle_mode_btn.png" alt="" title="" /></p></td><td class="TableStyle-BasicAlternateRows-BodyA-Regular-LightRows"><p class="TableText">Click this button if you want to draw a circle over a section of the image.</p></td></tr></tbody></table></li>
+            <li>In the image, click and drag your mouse over the area to be used as a hyperlink. Release the mouse button when you are satisfied with the size and location of the shape. You should now see the shape on top of the image, connected by a series of points.</li>
+            <li>In the toolbar, click <img src="../../../Images/Shared/run_properties2_btn.png" class="ReduceButtonSize" />. </li>
+            <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareImagesGuide,FlareGuides.FlareNavigationLinksGuide" />
+            <li>
+                <p>From the <span class="Emphasis">Link to</span> drop-down field, select a way to identify the topic, bookmark, or file to which you want to link. Based the option you choose, the section below gives you a list of selections or additional fields to complete.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>file in project</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="FileInProjectOption.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareImagesGuide,FlareGuides.FlareNavigationLinksGuide" />
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>place in this document </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="PlaceInThisDocumentOption.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>external file&#160;</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="ExternalFileOption.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>website</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="WebsiteOption.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>email&#160;</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="EmailOption.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>html help file&#160;</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <MadCap:snippetBlock src="HTMLHelpFileOption.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>(Optional) In the <span class="Emphasis"><MadCap:keyword term="Screen tip" />Screen Tip</span> field, you can type a phrase that will appear when the end user hovers over the hyperlink in the output. This is added not only a "title" attribute, but as an "alt" (alternate text)&#160;attribute as well.</li>
+            <li>
+                <p>(Optional) <MadCap:keyword term="Framesets;Target frames" />In the <span class="Emphasis">Target Frame</span> field, click the drop-down arrow to select the way the linked destination will open. This option can be used to open the destination topic or file in a popup. </p>
+                <MadCap:snippetBlock src="TargetFrameDescriptionsBullets.flsnp" />
+            </li>
+            <li>
+                <p>(Optional) In the <span class="Emphasis"><MadCap:keyword term="Images:tab index;Tab index" />Tab Index</span> field you can enter a value to specify the order in which users can tab through hyperlinks in the image. So when a user presses the Tab key the first time in a topic, the hyperlink with an index value of 1 will be selected first, the hyperlink with a value of 2 will be selected next, and so on. If you want to skip a hyperlink, enter -1 in that field.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">This feature is supported only in web outputs—<MadCap:snippetText src="../Output/AllWebOutputsANDHTML5CleanXHTML.flsnp" />.</p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /> The hyperlink is added to the image map.</li>
+            <li>If you want to add more hyperlinks to the image, select a shape button again and repeat the steps above.</li>
+            <li>
+                <p>When you are finished creating hyperlinks on the image, click <span class="Emphasis">OK</span> in the Image Map Editor.</p>
+                <p>Notice that when the object is selected in the Image Map Editor, the link property fields at the bottom are populated with the information you provided.</p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

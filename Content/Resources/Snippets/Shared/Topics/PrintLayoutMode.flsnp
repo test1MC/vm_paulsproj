@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="182" MadCap:lastWidth="1005" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>If you are using the Print Layout mode, the following toolbar appears at the bottom of the XML Editor:</p>
+        <p>
+            <img src="../../../Images/Shared/print_layout_mode_bottom_toolbar.png" class="MaxWidth100PercentNoThumbnail">
+            </img>
+        </p>
+        <p>First, you can use the buttons on the left side of this toolbar for navigating through a topic that is long enough to consist of multiple pages. Second, you can use the Zoom/Scale button <img src="../../../Images/Shared/zoom_scale_btn.png" class="ReduceButtonSize" /> to adjust the size and number of pages shown for the open topic. And third, you can use additional zoom options to adjust the size of the text displayed in the XML Editor. </p>
+    </body>
+</html>

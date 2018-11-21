@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>In addition to snippets and variables, you can create a custom auto suggestions list and add your own words and phrases to it. If you type content matching text in your auto suggestions list, those phrases will be displayed in the popup. The first step to doing this is to add an auto suggestions list file to your project.</p>
+    </body>
+</html>

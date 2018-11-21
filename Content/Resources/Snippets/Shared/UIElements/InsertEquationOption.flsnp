@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="84" MadCap:lastWidth="976" MadCap:conditions="Products.Flare,Products.Contributor">
+    <head>
+    </head>
+    <body>
+        <p>Opens the Equation Editor, which lets you insert a mathematical equation into a <MadCap:snippetText src="../Topics/ContentFileDocument.flsnp" />. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Equations/Inserting-Equations.htm">Inserting Equations</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Equations/Inserting-Equations.htm">Inserting Equations</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

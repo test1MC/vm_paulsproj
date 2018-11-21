@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1193">
+    <body>
+        <p>In your account settings, you can choose when to be notified for specific activities. The user who is notified depends on the activity. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Central/Users/Setting-Profile-Notifications.htm">Setting Your Profile and Notifications</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.PrintOnly"> For more information, see the online Help.</MadCap:conditionalText></p>
+    </body>
+</html>

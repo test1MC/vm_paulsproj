@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Lingo">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Lingo/TitleLingo.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Lingo/TitleLingo.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Source Control"
+    Link="/Content/Lingo/Source-Control/About-Source-Control-Lingo.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="CH 2 About Apache Subversion"
+    Link="/Content/Shared/Source-Control/Subversion/About-Apache-Subversion.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 3 Binding a Project to Source Control"
+    Link="/Content/Shared/Source-Control/Subversion/Binding-Project-Source-Control-svn.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 4 Importing a Project from Source Control"
+    Link="/Content/Shared/Source-Control/Subversion/Importing-Project-from-Source-Control-svn.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 5 Updating Source Control Files"
+    Link="/Content/Shared/Source-Control/Subversion/Updating-Source-Control-Files-svn.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 6 Committing Source Control Files"
+    Link="/Content/Shared/Source-Control/Subversion/Committing-Source-Control-Files-svn.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 7 Merging Source Control Files"
+    Link="/Content/Shared/Source-Control/Subversion/Merging-Source-Control-Files-svn.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 8 Additional Subversion Tasks"
+    Link="/Content/Shared/Source-Control/Subversion/Additional-Subversion-Tasks.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="Disabling the Get Latest Prompt for Source Control"
+      Link="/Content/Shared/Source-Control/Subversion/Disabling-Get-Latest-Prompt-svn.htm" />
+    <TocEntry
+      Title="Disconnecting from Source Control"
+      Link="/Content/Shared/Source-Control/Subversion/Disconnecting-from-Source-Control-svn.htm" />
+    <TocEntry
+      Title="Enabling Source Control Status Checks"
+      Link="/Content/Shared/Source-Control/Subversion/Enabling-Source-Control-Status-Checks-svn.htm" />
+    <TocEntry
+      Title="Locking a File"
+      Link="/Content/Shared/Source-Control/Subversion/Locking-File-svn.htm" />
+    <TocEntry
+      Title="Modifying Network Settings"
+      Link="/Content/Shared/Source-Control/Subversion/Modifying-Network-Settings-svn.htm" />
+    <TocEntry
+      Title="Reverting Modified Source Control Files"
+      Link="/Content/Shared/Source-Control/Subversion/Reverting-Source-Control-File-svn.htm" />
+    <TocEntry
+      Title="Rolling Back to an Earlier Version of a File"
+      Link="/Content/Shared/Source-Control/Subversion/Rolling-Back-Earlier-Version-File-svn.htm" />
+    <TocEntry
+      Title="Setting Color Options for Project File Differences"
+      Link="/Content/Shared/Source-Control/Subversion/Setting-Color-Options-Project-File-Differences-svn.htm" />
+    <TocEntry
+      Title="Unbinding a Project from Source Control"
+      Link="/Content/Shared/Source-Control/Subversion/Unbinding-Project-from-Source-Control-svn.htm" />
+    <TocEntry
+      Title="Unlocking a File"
+      Link="/Content/Shared/Source-Control/Subversion/Unlocking-File-svn.htm" />
+    <TocEntry
+      Title="Viewing Differences in Source Control Files"
+      Link="/Content/Shared/Source-Control/Subversion/Viewing-Differences-Source-Control-Files-svn.htm" />
+    <TocEntry
+      Title="Viewing Modified Files"
+      Link="/Content/Shared/Source-Control/Subversion/Viewing-Modified-Files-svn.htm" />
+    <TocEntry
+      Title="Viewing the History of Source Control Files"
+      Link="/Content/Shared/Source-Control/Subversion/Viewing-History-of-Source-Control-Files-svn.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Lingo/PDF-Guides/PDF-Guides-Lingo.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled" />
+</CatapultToc>

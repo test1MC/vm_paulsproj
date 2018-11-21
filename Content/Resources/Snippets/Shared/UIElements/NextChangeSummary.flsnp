@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="58" MadCap:lastWidth="1111">
+    <head>
+    </head>
+    <body>
+        <p>Navigates to the next change or annotation. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Reviews-Contributions/Finding-Changes.htm">Finding Changes</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Reviews-Contributions/Finding-Changes.htm">Finding Changes</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

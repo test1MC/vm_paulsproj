@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p class="TableText">Alternatively, you can clear this field or select <span class="Emphasis">(generic)</span>. This allows you to create a generic class or ID that stands alone and can be applied in the content file to any HTML element.</p>
+    </body>
+</html>

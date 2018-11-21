@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.HelpViewer">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/HelpViewer/Introduction/Welcome-Help-Viewer.htm"
+    MarkAsNew="False"
+    conditions=""></TocEntry>
+  <TocEntry
+    Title="Selecting a Language"
+    Link="/Content/HelpViewer/Language-Support/Selecting-Language-Help-Viewer-Interface.htm" />
+  <TocEntry
+    Title="Keyboard Shortcuts"
+    Link="/Content/HelpViewer/Shortcuts/Keyboard-Shortcuts-Help-Viewer.htm" />
+  <TocEntry
+    Title="User Interface Elements"
+    Link="">
+    <TocEntry
+      Title="Manage Windows Dialog"
+      Link="/Content/HelpViewer/Interface/UI-Elements/Manage-Windows-Dialog.htm" />
+    <TocEntry
+      Title="Manage Window Layouts Dialog"
+      Link="/Content/HelpViewer/Interface/UI-Elements/Manage-Window-Layouts-Dialog.htm" />
+    <TocEntry
+      Title="Messages Window"
+      Link="/Content/HelpViewer/Interface/UI-Elements/Messages-Window.htm" />
+    <TocEntry
+      Title="New Updates Available Dialog"
+      Link="/Content/HelpViewer/Interface/UI-Elements/New-Updates-Available-Dialog.htm" />
+    <TocEntry
+      Title="Options Dialog"
+      Link="/Content/HelpViewer/Interface/Options-Dialog-HelpViewer.htm" />
+    <TocEntry
+      Title="Start Page"
+      Link="/Content/HelpViewer/Interface/Start-Page-Help-Viewer.htm" />
+  </TocEntry>
+</CatapultToc>

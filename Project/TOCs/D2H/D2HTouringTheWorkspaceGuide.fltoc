@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  conditions="Products.D2H">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/D2H/TitleD2H.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/D2H/TitleD2H.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="CH 1 Tour of the Workspace"
+    Link="/Content/D2H/Interface/Touring-Workspace-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="CH 2 Start Page"
+    Link="/Content/D2H/Interface/UI-Elements/Start-Page-D2H.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+  <TocEntry
+    Title="CH 3 Dynamic Help Window Pane"
+    Link="/Content/D2H/Interface/UI-Elements/Dynamic-Help-Window-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 4 Navigation Panes—Doc-To-Help"
+    Link="/Content/D2H/Interface/UI-Elements/Navigation-Panes.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Contents Window Pane"
+      Link="/Content/D2H/Interface/UI-Elements/Contents-Pane.htm" />
+    <TocEntry
+      Title="Documents Window Pane"
+      Link="/Content/D2H/Interface/UI-Elements/Documents-Pane.htm" />
+    <TocEntry
+      Title="Index and Groups Window Pane"
+      Link="/Content/D2H/Interface/UI-Elements/Index-Groups-Pane.htm" />
+    <TocEntry
+      Title="Related Topics Window Pane"
+      Link="/Content/D2H/Interface/UI-Elements/Related-Topics-Pane.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Navigation Panes—Word"
+    Link="/Content/D2H/Interface/UI-Elements/Navigation-Panes-Word.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Doc-To-Help Build Panel"
+      Link="/Content/D2H/Interface/UI-Elements/Build-Panel.htm" />
+    <TocEntry
+      Title="Doc-To-Help Progress Panel"
+      Link="/Content/D2H/Interface/UI-Elements/Progress-Panel.htm" />
+    <TocEntry
+      Title="Doc-To-Help Project Panel"
+      Link="/Content/D2H/Interface/UI-Elements/Project-Panel.htm">
+      <TocEntry
+        Title="Contents Window Pane"
+        Link="/Content/D2H/Interface/UI-Elements/Contents-Pane-Word.htm" />
+      <TocEntry
+        Title="Documents Window Pane"
+        Link="/Content/D2H/Interface/UI-Elements/Documents-Pane-Word.htm" />
+      <TocEntry
+        Title="Index and Groups Window Pane"
+        Link="/Content/D2H/Interface/UI-Elements/Index-Groups-Pane-Word.htm" />
+      <TocEntry
+        Title="Variables Window Pane"
+        Link="/Content/D2H/Interface/UI-Elements/Variables-Pane-Word.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Options Dialog"
+    Link="/Content/D2H/Interface/UI-Elements/Options-Dialog-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="CH 7 Quick Access Toolbar"
+    Link="/Content/D2H/Interface/Quick-Access-Toolbar-D2H.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"></TocEntry>
+  <TocEntry
+    Title="CH 8 Ribbons"
+    Link="/Content/D2H/Interface/Ribbons-D2H.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"></TocEntry>
+  <TocEntry
+    Title="CH 9 Windows"
+    Link="/Content/D2H/Interface/UI-Elements/Windows.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Output Window"
+      Link="/Content/D2H/Interface/UI-Elements/Output-Window.htm" />
+    <TocEntry
+      Title="Team Authoring Window"
+      Link="/Content/D2H/Team-Authoring/Team-Authoring-Window.htm" />
+    <TocEntry
+      Title="Topics Window"
+      Link="/Content/D2H/Interface/UI-Elements/Topics-Window.htm" />
+    <TocEntry
+      Title="Translation Window"
+      Link="/Content/D2H/Interface/UI-Elements/Translation-Window.htm" />
+    <TocEntry
+      Title="Variables Window"
+      Link="/Content/D2H/Interface/UI-Elements/Variables-Window.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/D2H/PDF-Guides/PDF-Guides-D2H.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled" />
+</CatapultToc>

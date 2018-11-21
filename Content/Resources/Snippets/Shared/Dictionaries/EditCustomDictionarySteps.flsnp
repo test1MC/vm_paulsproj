@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Flare">
+    <body>
+        <ol>
+            <li>Select <span class="Emphasis">Tools &gt; Edit Dictionary</span>.</li>
+            <li>From the drop-down, select the kind of dictionary you want to edit: <span class="Emphasis">Global</span> or <span class="Emphasis">Project</span>. Any global or project dictionaries that you've created in various languages are listed below.</li>
+            <li>From the grid, select the dictionary you want to edit.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /> The Dictionary Editor opens.</li>
+            <li>
+                <p>Edit the dictionary by doing any of the following:</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>edit an existing word</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <ol class="LowerAlpha">
+                            <li>Click a word in the dictionary.</li>
+                            <li>Retype the word.</li>
+                            <li>Press <span class="Emphasis">Enter</span>.</li>
+                        </ol>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>add a new word</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <ol class="LowerAlpha">
+                            <li>In the local toolbar, click <img src="../../../Images/Shared/new_item3_btn.png" class="ReduceButtonSize" />. A new row is added with temporary text.</li>
+                            <li>Click on the temporary text.</li>
+                            <li>Type the word that you want to add to the dictionary.</li>
+                            <li>Press <span class="Emphasis">Enter</span>.</li>
+                        </ol>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>add an internal comment</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <ol class="LowerAlpha">
+                            <li>Click in the <span class="Emphasis">Comment</span> column next to the word.</li>
+                            <li>Type the internal comment.</li>
+                            <li>Press <span class="Emphasis">Enter</span>.</li>
+                        </ol>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>delete a word</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <ol class="LowerAlpha">
+                            <li>Click the row with the word that you want to delete.</li>
+                            <li>In the local toolbar, click <img src="../../../Images/Shared/delete_btn.png" class="ReduceButtonSize" />.</li>
+                        </ol>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

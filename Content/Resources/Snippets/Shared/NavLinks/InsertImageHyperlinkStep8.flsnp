@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>
+            <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /> The hyperlink is added to the image in the topic. When a user hovers the cursor over the image in the output, the cursor changes to a hand.</p>
+    </body>
+</html>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Central,Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="1580" MadCap:lastWidth="642">
+    <body>
+        <p>Following are some of the notable features in Central that contribute to a secure, accessible work experience:</p>
+        <ul>
+            <li>
+                <p><span class="SetOffFirstLevel">Permissions </span>In Central, permissions allow you to dictate which users can see certain information and perform a variety of functions. In addition to basic permissions, there are several administrator-level rights that can be set, giving you the most flexibility to control how your data and files are being managed and distributed.<MadCap:conditionalText MadCap:conditions="Products.CentralOnlineOnly"> See <MadCap:xref href="../../../../Central/Users/Setting-Permissions.htm">Setting User Permissions</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>
+                    <img src="../../../Images/Shared/set_permissions1.png" alt="" title="" class="MaxWidth80Percent" />
+                </p>
+            </li>
+            <li><span class="SetOffFirstLevel">Importing Projects </span>
+                <MadCap:snippetText src="../Projects/ImportingProjectsCentral.flsnp" />
+                <MadCap:conditionalText MadCap:conditions="Products.CentralOnlineOnly"> See <MadCap:xref href="../../../../Central/Projects/Importing-Projects.htm">Importing Projects</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+            <li><span class="SetOffFirstLevel">Downloading Builds </span>
+                <MadCap:snippetText src="../../Central/Projects/DownloadingBuilds.flsnp" />
+                <MadCap:conditionalText MadCap:conditions="Products.CentralOnlineOnly"> See <MadCap:xref href="../../../../Central/Projects/Downloading-Builds.htm">Downloading Builds</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Purchasing Seats and Space </span>Built-in widgets inform you when space or user count becomes a concern. <MadCap:snippetText src="../../Central/Server/server4.flsnp" /><MadCap:conditionalText MadCap:conditions="Products.CentralOnlineOnly"> See <MadCap:xref href="../../../../Central/Server/Purchasing-Seats-Space.htm">Purchasing User Seats and Storage Space</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>
+                    <img src="../../../Images/Shared/storage_and_usage_widget.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="General.PrintOnly" />
+            <li>
+                <p><span class="SetOffFirstLevel">Single-bound and Dual-bound Projects </span>
+                    <MadCap:snippetText src="../SourceControl/SourceControlCentral1.flsnp" />&#160;<MadCap:snippetText src="../SourceControl/SourceControlCentral2.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet22]" /><MadCap:conditionalText MadCap:conditions="Products.CentralOnlineOnly"> See <MadCap:xref href="../../../../Central/Projects/Source-Control-Central.htm#SingleBoundOnline">Single-bound Projects</MadCap:xref> and <MadCap:xref href="../../../../Central/Projects/Source-Control-Central.htm#DualBoundOnline">Dual-bound Projects</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>
+                    <img src="../../../Images/Shared/SingleBoundDiagram.jpg" class="MaxWidth80Percent" />
+                </p>
+                <p>
+                    <img src="../../../Images/Shared/DualBoundDiagram.jpg" class="MaxWidth80Percent" />
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>

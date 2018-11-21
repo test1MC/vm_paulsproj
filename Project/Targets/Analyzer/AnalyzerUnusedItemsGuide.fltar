@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment=""
+  Type="PDF"
+  OutputFile="AnalyzerUnusedItemsGuide"
+  ConditionTagExpression="include[AnalyzerGuides.AnalyzerUnusedItemsGuide or Products.AllProducts or Products.AllProductsThatRequireRegistration or Products.Analyzer or Products.AnalyzerPrintOnly]exclude[AnalyzerGuides.AnalyzerConceptsGuide or AnalyzerGuides.AnalyzerConditionTagsGuide or AnalyzerGuides.AnalyzerCSHGuide or AnalyzerGuides.AnalyzerFileTagsGuide or AnalyzerGuides.AnalyzerFrequentSegmentsGuide or AnalyzerGuides.AnalyzerGettingStartedGuide or AnalyzerGuides.AnalyzerIndexGuide or AnalyzerGuides.AnalyzerKeyFeaturesGuide or AnalyzerGuides.AnalyzerLinksGuide or AnalyzerGuides.AnalyzerReportsGuide or AnalyzerGuides.AnalyzerShortcuts or AnalyzerGuides.AnalyzerSnippetsGuide or AnalyzerGuides.AnalyzerStatisticsChartsGuide or AnalyzerGuides.AnalyzerStylesGuide or AnalyzerGuides.AnalyzerSuggestionsGuide or AnalyzerGuides.AnalyzerTOCsGuide or AnalyzerGuides.AnalyzerTopicsGuide or AnalyzerGuides.AnalyzerTouringWorkspaceGuide or AnalyzerGuides.AnalyzerTrackChangesGuide or AnalyzerGuides.AnalyzerUndefinedItemsGuide or AnalyzerGuides.AnalyzerVariablesGuide or AnalyzerGuides.AnalyzerWhatsNewGuide or CaptureGuides.CaptureCreatingImagesGuide or CaptureGuides.CaptureEditingImagesGuide or CaptureGuides.CaptureGettingStartedGuide or CaptureGuides.CaptureKeyFeaturesGuide or CaptureGuides.CaptureShortcuts or CaptureGuides.CaptureTouringWorkspaceGuide or CaptureGuides.CaptureWhatsNewGuide or ContributorGuides.ContributorGettingStartedGuide or ContributorGuides.ContributorShortcuts or ContributorGuides.ContributorWhatsNewGuide or FlareGuides.FlareAccessibilityGuide or FlareGuides.FlareAnalyzerGuide or FlareGuides.FlareAutoNumbersGuide or FlareGuides.FlareBackupsGuide or FlareGuides.FlareBrowseSequenceGuide or FlareGuides.FlareConceptsGuide or FlareGuides.FlareConditionTagsGuide or FlareGuides.FlareCSHGuide or FlareGuides.FlareDestinationsGuide or FlareGuides.FlareDITAGuide or FlareGuides.FlareDNHGuide or FlareGuides.FlareEquationsGuide or FlareGuides.FlareExternalResourcesGuide or FlareGuides.FlareFeedbackGuide or FlareGuides.FlareFilesGuide or FlareGuides.FlareFileTaggingGuide or FlareGuides.FlareFontsGuide or FlareGuides.FlareFootnotesGuide or FlareGuides.FlareFrameMakerGuide or FlareGuides.FlareGettingStartedGuide or FlareGuides.FlareGlobalProjectLinkingGuide or FlareGuides.FlareGlossariesGuide or FlareGuides.FlareHeadingsGuide or FlareGuides.FlareHTMLHelpGuide or FlareGuides.FlareImagesGuide or FlareGuides.FlareImportGuide or FlareGuides.FlareIndexingGuide or FlareGuides.FlareInstantMessagingGuide or FlareGuides.FlareKeyFeaturesGuide or FlareGuides.FlareLanguageSupportGuide or FlareGuides.FlareListsGuide or FlareGuides.FlareMasterPagesGuide or FlareGuides.FlareMoviesGuide or FlareGuides.FlareNavigationLinksGuide or FlareGuides.FlareObjectPositioningGuide or FlareGuides.FlareOutputGuide or FlareGuides.FlarePageLayoutsGuide or FlareGuides.FlareParagraphFormattingGuide or FlareGuides.FlarePrintedManual or FlareGuides.FlarePrintedOutputGuide or FlareGuides.FlareProjectCreationGuide or FlareGuides.FlareProxiesGuide or FlareGuides.FlareQRCodesGuide or FlareGuides.FlareReviewsAndContributionsGuide or FlareGuides.FlareRulersGuide or FlareGuides.FlareScriptsGuide or FlareGuides.FlareSearchGuide or FlareGuides.FlareSharePointGuide or FlareGuides.FlareShortcuts or FlareGuides.FlareSkinsGuide or FlareGuides.FlareSnippetsGuide or FlareGuides.FlareStylesGuide or FlareGuides.FlareTablesGuide or FlareGuides.FlareTablesOfContentsGuide or FlareGuides.FlareTargetsGuide or FlareGuides.FlareTemplatesGuide or FlareGuides.FlareTextBoxesGuide or FlareGuides.FlareTopicsGuide or FlareGuides.FlareTouringTheWorkspaceGuide or FlareGuides.FlareTransitionFromFMGuide or FlareGuides.FlareVariablesGuide or FlareGuides.FlareWebHelpGuide or FlareGuides.FlareWhatsNewGuide or FlareGuides.FlareWHPGuide or FlareGuides.FlareWordOutputGuide or FlareGuides.FlareZippedFilesGuide or LingoGuides.LingoGettingStartedGuide or LingoGuides.LingoKeyFeaturesGuide or LingoGuides.LingoShortcuts or LingoGuides.LingoWhatsNewGuide or MimicGuides.MimicGettingStartedGuide or MimicGuides.MimicKeyFeaturesGuide or MimicGuides.MimicShortcuts or MimicGuides.MimicWhatsNewGuide or MovieSyncGuides.MovieSyncGettingStartedGuide or MovieSyncGuides.MovieSyncShortcuts or MovieSyncGuides.MovieSyncWhatsNewGuide or Products.Align or Products.AlignOnlineOnly or Products.AlignPrintOnly or Products.AnalyzerOnlineOnly or Products.AnalyzerServerOnly or Products.Capture or Products.CaptureOnlineOnly or Products.CapturePrintOnly or Products.Contributor or Products.ContributorOnlineOnly or Products.ContributorPrintOnly or Products.Flare or Products.FlareOnlineOnly or Products.FlarePrintOnly or Products.HelpViewer or Products.HelpViewerOnlineOnly or Products.HelpViewerPrintOnly or Products.Lingo or Products.LingoOnlineOnly or Products.LingoPrintOnly or Products.Mimic or Products.MimicOnlineOnly or Products.MimicPrintOnly or Products.MovieSync or Products.MovieSyncOnlineOnly or Products.MovieSyncPrintOnly or Products.MovieViewer or Products.MovieViewerOnlineOnly or Products.MovieViewerPrintOnly]"
+  Medium="OrangePrint"
+  MasterToc="/Project/TOCs/Analyzer/AnalyzerUnusedItemsGuide.fltoc"
+  PatchHeadingLevels="true"
+  InjectBookHeadings="false"
+  conditions="Products.Analyzer">
+  <PrintedOutput
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body" />
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/AnalyzerGlossary.flglo" />
+  </Glossaries>
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="50"
+    PageLayout="TwoColumnRight"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true" />
+  <DocumentProperties
+    Author="MadCap Software"
+    Title="Analyzer Unused Items Guide" />
+</CatapultTarget>

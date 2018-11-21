@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>After a table is inserted into a <MadCap:snippetText src="../Topics/ContentFileDocument.flsnp" />, you can easily change the properties of that table. This includes changing the number of columns and cells, the style associated with the table, alignment, borders, and more.</p>
+    </body>
+</html>

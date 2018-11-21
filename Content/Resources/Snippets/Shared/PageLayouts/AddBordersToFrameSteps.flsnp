@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <ol>
+            <li value="3">Select the <span class="Emphasis">Borders</span> tab.</li>
+            <li>Set the options in the <span class="Emphasis">Borders</span> section.<ol class="LowerAlpha"><li><p><MadCap:snippetText src="../Formatting/FormattingBordersStep1.flsnp" /></p><p><MadCap:snippetText src="../Formatting/FormattingBordersStep2.flsnp" /></p></li><li><MadCap:snippetText src="../Formatting/FormattingBordersStep3.flsnp" /></li><li><MadCap:snippetText src="../Formatting/FormattingBordersStep4.flsnp" /></li><li><MadCap:snippetText src="../Formatting/FormattingBordersStep5.flsnp" /></li><li><MadCap:snippetText src="../Formatting/FormattingBordersStep6.flsnp" /></li><li><MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /></li></ol></li>
+            <li>
+                <p>If you want the frame to have rounded corners, set the options in the <span class="Emphasis">Border Radius</span> section. This is supported only in PDF, XPS, and XHTML outputs.</p>
+                <ol class="LowerAlpha">
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../Formatting/FormattingRoundedBordersFrames1.flsnp" />
+                        </p>
+                        <p>
+                            <MadCap:snippetText src="../Formatting/FormattingBordersStep2.flsnp" />
+                        </p>
+                        <p>
+                            <MadCap:snippetText src="../Formatting/FormattingRoundedBorders3.flsnp" />
+                        </p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Formatting/FormattingRoundedBorders2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Formatting/FormattingRoundedBorders4.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Formatting/FormattingRoundedBorders5.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                </ol>
+            </li>
+            <li>In the Frame Properties dialog, click <span class="Emphasis">OK</span>.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

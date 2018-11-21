@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">While it is possible to record a macro for almost any control that applies to the XML&#160;Editor, some features are disabled when you are recording. This is because some controls require considerable user input and are difficult to automate. The controls that are disabled are hyperlinks, related topics, concept links, keyword links, equations, and inserting characters (other than those in the favorites or recently used menu).</p>
+            <p>However, if there is a specific link, equation, or character that you use often, you can insert it into a snippet, and then create a macro for inserting the snippet and converting it to text. This is a little more work initially, but ultimately accomplishes the same goal.</p>
+        </div>
+    </body>
+</html>

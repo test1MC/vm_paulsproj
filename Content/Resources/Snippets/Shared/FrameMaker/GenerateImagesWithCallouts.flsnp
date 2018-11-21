@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="1" MadCap:lastHeight="103" MadCap:lastWidth="778">
+    <body>If the anchored frame contains an image along with callout text, Flare creates a <MadCap:keyword term="PROPS file" />PROPS (i.e., properties) file along with the image file when that document is imported. This means that you can open those image files in MadCap Capture to edit those callouts after the import process is completed. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../../Flare/Images/About-Images.htm">About Images</MadCap:xref> and <MadCap:xref href="../../../../Flare/Images/Additional-Image-Tasks/Launching-MadCap-Capture.htm">Launching MadCap Capture</MadCap:xref>.</MadCap:conditionalText></body>
+</html>

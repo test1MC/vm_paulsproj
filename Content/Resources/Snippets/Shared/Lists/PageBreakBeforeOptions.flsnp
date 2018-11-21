@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">always </span>A page break will always occur before the list item.</li>
+            <li><span class="SetOffFirstLevel">auto </span>A page break will neither be forced nor prevented before the list item.</li>
+            <li><span class="SetOffFirstLevel">avoid </span>A page break will not occur before the list item.</li>
+            <li><span class="SetOffFirstLevel">inherit </span>The page break setting of the parent tag is used.</li>
+            <li><span class="SetOffFirstLevel">left </span>One or two page breaks will occur before the list item so that the next page is formatted as a left page.</li>
+            <li><span class="SetOffFirstLevel">right </span>One or two page breaks will occur before the list item so that the next page is formatted as a right page.</li>
+        </ul>
+    </body>
+</html>

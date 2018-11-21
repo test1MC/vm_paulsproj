@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="1"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="1"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Tables"
+    Link="/Content/Flare/Tables/About-Tables.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumberReset="continue"
+    PageNumber="1"
+    StartSection="false"
+    PageType="firstright"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 2 Inserting Tables into Topics"
+    Link="/Content/Flare/Tables/Inserting-Tables.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="CH 3 About Table Stylesheets"
+    Link="/Content/Flare/Styles/About-Table-Stylesheets.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Regular Stylesheets, Table Stylesheets, or Local Properties?"
+      Link="/Content/Flare/Styles/Using-Styles/Regular-Stylesheets-Table-Stylesheets-Properties.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Editing Tables"
+    Link="/Content/Flare/Tables/Editing-Tables.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Editing Table Styles in Topic Style Sheets"
+      Link="/Content/Flare/Tables/Editing-Table-Styles-in-Regular-Stylesheets.htm"></TocEntry>
+    <TocEntry
+      Title="Editing Table Stylesheets"
+      Link="/Content/Flare/Styles/Editing-Table-Stylesheets.htm" />
+    <TocEntry
+      Title="Applying Table Stylesheets to Tables"
+      Link="/Content/Flare/Styles/Applying-Table-Stylesheets-to-Tables.htm" />
+    <TocEntry
+      Title="Selecting Styles for Table Cell Contents"
+      Link="/Content/Flare/Tables/Selecting-Styles-for-Table-Cell-Contents.htm" />
+    <TocEntry
+      Title="Selecting Tables"
+      Link="/Content/Flare/Tables/Selecting-Tables.htm" />
+    <TocEntry
+      Title="Creating Rounded Borders"
+      Link="/Content/Flare/Paragraphs/Creating-Rounded-Borders.htm" />
+    <TocEntry
+      Title="Converting Tables to Text"
+      Link="/Content/Flare/Tables/Converting-Tables-to-Text.htm" />
+    <TocEntry
+      Title="Converting Text to Tables"
+      Link="/Content/Flare/Tables/Converting-Text-to-Tables.htm" />
+    <TocEntry
+      Title="Cutting Table Columns and Rows"
+      Link="/Content/Flare/Tables/Cutting-Table-Columns-Rows.htm" />
+    <TocEntry
+      Title="Deleting Tables"
+      Link="/Content/Flare/Tables/Deleting-Tables.htm"
+      MarkAsNew="False" />
+    <TocEntry
+      Title="Inserting Table Columns and Rows"
+      Link="/Content/Flare/Tables/Inserting-Table-Columns-Rows.htm"
+      MarkAsNew="False" />
+    <TocEntry
+      Title="Merging Table Cells"
+      Link="/Content/Flare/Tables/Merging-Table-Cells.htm"
+      MarkAsNew="False" />
+    <TocEntry
+      Title="Merging Tables"
+      Link="/Content/Flare/Tables/Merging-Tables.htm" />
+    <TocEntry
+      Title="Moving Table Columns and Rows"
+      Link="/Content/Flare/Tables/Moving-Table-Columns-Rows.htm"
+      MarkAsNew="False" />
+    <TocEntry
+      Title="Pasting Cells Within a table"
+      Link="/Content/Flare/Tables/Pasting-Cells-Within-Table.htm" />
+    <TocEntry
+      Title="Resetting Local Cell Formatting"
+      Link="/Content/Flare/Tables/Resetting-Local-Cell-Formatting.htm" />
+    <TocEntry
+      Title="Resizing Tables"
+      Link="/Content/Flare/Tables/Resizing-Tables.htm" />
+    <TocEntry
+      Title="Setting Breaks on Tables"
+      Link="/Content/Flare/Tables/Setting-Page-Column-Frame-Breaks-on-Tables.htm" />
+    <TocEntry
+      Title="Sorting Tables"
+      Link="/Content/Flare/Tables/Sorting-Tables.htm" />
+    <TocEntry
+      Title="Splitting Table Cells"
+      Link="/Content/Flare/Tables/Splitting-Table-Cells.htm"
+      MarkAsNew="False"></TocEntry>
+    <TocEntry
+      Title="Editing Table Cell Properties"
+      Link="/Content/Flare/Tables/Editing-Table-Cell-Properties.htm"></TocEntry>
+    <TocEntry
+      Title="Editing Table Properties"
+      Link="/Content/Flare/Tables/Editing-Table-Properties.htm" />
+    <TocEntry
+      Title="Hiding the Bottom Border on Tables when Crossing Page Breaks"
+      Link="/Content/Flare/Tables/Hiding-Bottom-Border-on-Table-Page-Breaks.htm" />
+    <TocEntry
+      Title="Using Styles to Repeat Table Captions in Print Output"
+      Link="/Content/Flare/Output/Printed-Output/Using-Styles-Repeat-Table-Captions-Print-Output.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Creating a List of Tables"
+    Link="/Content/Flare/Proxies/Creating-List-Tables.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p> But if you are working in the Advanced view of the Stylesheet Editor, selecting a medium <MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareStylesGuide"> or media query</MadCap:conditionalText> opens a pane in the editor dedicated to that medium<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareStylesGuide"> or media query</MadCap:conditionalText>. You then click inside the appropriate pane and make your changes to that medium<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareStylesGuide"> or media query</MadCap:conditionalText>. In addition, you can have multiple mediums<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareStylesGuide"> and media queries</MadCap:conditionalText> open at same time.</p>
+    </body>
+</html>

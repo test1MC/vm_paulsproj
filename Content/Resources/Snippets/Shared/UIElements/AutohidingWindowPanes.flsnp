@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.Lingo,Products.Mimic,Products.MovieViewer">
+    <body>
+        <p>In the top-right corner of every window pane, you will see a small button that looks like a pin <img src="../../../Images/Shared/auto-hide-pane-btn.png" class="ReduceButtonSize" />. If you click this button, the window pane is hidden (or "pinned" to the edge of the program window). However, you can still see the title of the window pane along the edge of the program window. When you hover over the title, the window pane temporarily displays again until you move the mouse off the window pane. Click the button again to "un-pin" the window pane.</p>
+    </body>
+</html>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="84" MadCap:lastWidth="1072" MadCap:conditions="Products.Contributor,Products.Flare">
+    <head>
+    </head>
+    <body>
+        <p>Opens the Named Destination dialog, where you can name and insert a named destination for use in <MadCap:variable name="Outputs.PDF" /> output. This allows you point to a specific place in a PDF from the selected location.  <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Nav-Links/Named-Destinations/Creating-Named-Destinations.htm" target="" title="" alt="">Creating Named Destinations</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Nav-Links/Named-Destinations/Creating-Named-Destinations.htm">Creating Named Destinations</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

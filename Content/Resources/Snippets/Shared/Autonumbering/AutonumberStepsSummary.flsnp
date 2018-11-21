@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Whatever you are trying to accomplish when it comes to autonumbers, there are<MadCap:conditionalText MadCap:conditions="Products.Flare"> three</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> two</MadCap:conditionalText> basic tasks that you may complete.</p>
+    </body>
+</html>

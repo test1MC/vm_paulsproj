@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>When you add a frame to a page, it is placed on its own layer. And each time you add a new frame, it is placed on the top layer with the previous frames on layers beneath it. If necessary (when frames overlap one another), you can "float" frames that are on lower layers to bring them forward, and you can "sink" frames to send them backward.</p>
+    </body>
+</html>

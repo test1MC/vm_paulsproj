@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>If you have a cross-reference in a topic<MadCap:conditionalText MadCap:conditions="Products.Contributor"> or document</MadCap:conditionalText> and want to change its destination file, you can right-click on its corresponding span bar and select <span class="Emphasis">Edit Cross-Reference</span> from the menu.</p>
+        </div>
+    </body>
+</html>

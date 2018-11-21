@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare" MadCap:lastBlockDepth="5" MadCap:lastHeight="1323" MadCap:lastWidth="1072">
+    <body>
+        <ul class="FirstLevel">
+            <li>
+                <p><span class="SetOffFirstLevel">allow-end </span>A stop (e.g., period) or comma at the end of a line hangs if it does not otherwise fit prior to justification. This value works in conjunction with text that is justified.</p>
+                <p>
+                    <img src="../../../Images/Shared/hanging_punctuation_allow_end.png" alt="" title="" class="MaxWidth55Percent" />
+                </p>
+            </li>
+            <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+            <li>
+                <p><span class="SetOffFirstLevel">first </span>An opening bracket or quote at the start of the first formatted line of an element hangs. This applies to all characters in the Unicode categories Ps, Pf, Pi (e.g., brackets, parentheses, and quotation marks).</p>
+                <p>
+                    <img src="../../../Images/Shared/hanging_punctuation_first.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">force-end </span>A stop (e.g., period) or comma at the end of a line hangs.</p>
+                <p>
+                    <img src="../../../Images/Shared/hanging_punctuation_force_end.png" alt="" title="" class="MaxWidth60Percent" />
+                </p>
+            </li>
+            <li><span class="SetOffFirstLevel">inherit </span>The parent element's property is inherited.</li>
+            <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+            <li>
+                <p><span class="SetOffFirstLevel">last </span>A closing bracket or quote at the end of the last formatted line of an element hangs. This applies to all characters in the Unicode categories Pe, Pf, Pi  (e.g., brackets, parentheses, and quotation marks).</p>
+                <p>
+                    <img src="../../../Images/Shared/hanging_punctuation_last.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li><span class="SetOffFirstLevel">none </span>No character hangs.</li>
+        </ul>
+        <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+        <p>It is significant to note that the "first" and "last" property values apply to one specific set of punctuation symbols, while "force-end" and "allow-end" apply to a separate set. Therefore, combinations of these properties are also allowed. Valid combinations would be: "first last," "first force-end," "first allow-end," "first force-end last," "first allow-end last," "force-end last," and "allow-end last." These combinations are not available from the drop-down list in the Stylesheet Editor, but you can type the value directly into the field.</p>
+        <p>
+            <img src="../../../Images/Shared/hanging_punctuation_first_last1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>
+            <img src="../../../Images/Shared/hanging_punctuation_first_last2.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

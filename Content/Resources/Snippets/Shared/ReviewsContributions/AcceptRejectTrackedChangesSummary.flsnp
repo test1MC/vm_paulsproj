@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>You can right-click on tracked changes and use a context menu to accept or reject them individually. You can also use options in the interface to accept or reject each tracked change or all tracked changes in a file. The reject option also removes annotations.</p>
+    </body>
+</html>

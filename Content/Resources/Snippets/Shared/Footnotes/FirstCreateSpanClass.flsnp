@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>First you need to create the span class and provide your settings (e.g., font color, size, and so on). After inserting a footnote, you can open its properties and select the span class to change the look.</p>
+    </body>
+</html>

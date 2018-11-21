@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="369" MadCap:lastWidth="1124">
+    <body>
+        <ol>
+            <li>Insert a Menu proxy into a content file (e.g., topic, master page) by selecting <span class="Emphasis">Insert &gt; Proxy &gt; Insert&#160;Menu Proxy</span>, or edit an existing one (right-click on the proxy and select <span class="Emphasis">Edit Menu Proxy</span>).<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Proxies/Creating-Topic-Menu.htm">Creating a Topic Menu</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>
+                <p>In the Menu Proxy dialog, click in the first drop-down field and select <span class="Emphasis">(Headings)</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/topic_headings_top_nav_side_menus1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

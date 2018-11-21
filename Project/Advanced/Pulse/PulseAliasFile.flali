@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile conditions="Products.Pulse">
+    <Map Name="Required_Windows_Components_Dialog" Link="/Content/Pulse/Interface/UI-Elements/Required-Windows-Components-Dialog.htm" />
+    <Map Name="Dynamic_Help_Window" Link="/Content/Pulse/Interface/UI-Elements/Dynamic-Help-Window.htm" />
+    <Map Name="Manage_Window_Layouts_Dialog" Link="/Content/Pulse/Interface/UI-Elements/Manage-Window-Layouts-Dialog.htm" />
+    <Map Name="Manage_Windows_Dialog" Link="/Content/Pulse/Interface/UI-Elements/Manage-Windows-Dialog.htm" />
+    <Map Name="Messages_Window" Link="/Content/Pulse/Interface/UI-Elements/Messages-Window.htm" />
+    <Map Name="New_Updates_Available_Dialog" Link="/Content/Pulse/Interface/UI-Elements/New-Updates-Available-Dialog.htm" />
+    <Map Name="MadCap_Pulse_Configuration_Wizard" Link="/Content/Shared/Pulse-Features/Install/Pulse-Server-Configuration.htm" />
+    <Map Name="Crash" Link="/Content/Pulse/Crash-Reporting-System/Sending-Crash-Report.htm" />
+    <Map Name="Select_SQL_Server_and_Database_Dialog" Link="/Content/Shared/Pulse-Features/Install/Importing-Feedback-Data.htm" />
+</CatapultAliasFile>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>Click in the check box next to each folder and/or file containing tables that should use the stylesheet. If you click next to a folder, the stylesheet will be applied to all files and subfolders under it. </p>
+    </body>
+</html>

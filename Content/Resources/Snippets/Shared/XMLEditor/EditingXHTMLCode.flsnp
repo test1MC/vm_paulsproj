@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>You don't need to know XHTML or HTML to work in <MadCap:variable name="Other.Product" />. The XML Editor displays content just as you might expect to see it in an editor such as Microsoft Word. However, you can get behind the display to work in the actual code if you want. This is done in the Text Editor (or in another editor that supports XML).</p>
+    </body>
+</html>

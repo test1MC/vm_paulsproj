@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="18" MadCap:lastHeight="14082" MadCap:lastWidth="810">
+    <body>
+        <MadCap:snippetBlock src="../Output/BuildOutputSummary.flsnp" />
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/ThisChapterDiscussesFollowing.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" />
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" />
+        <MadCap:dropDown MadCap:conditions="Products.FlareServerOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>See the Movie</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <object src="https://youtu.be/VwKZqWIoUjA" style="width: 560px;height: 315px;">
+                    </object>
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide">Ways to Build and Publish Targets</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Ways to Build and Publish Targets</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Building the final output involves generating one or more targets in your project, usually with just the click of a button or two. You can build output in the following ways:</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Building:primary target;Targets:building output;Output:building targets;Primary target:building" />Primary Target </span>Do this if you are only concerned about building and publishing the primary target for your project. See <MadCap:xref href="../../../../Flare/Output/Building-Primary-Target.htm">Building the Primary Target</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Building:single target;Targets:building output;Output:building targets" />Single Target </span>Do this if you want to build and publish a target that may or may not be designated as your primary target. See <MadCap:xref href="../../../../Flare/Output/Building-Single-Target.htm">Building a Single Target</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Building:multiple targets;Targets:building output;Output:building targets" />Multiple Targets </span>Do this if you want to quickly build and publish multiple targets using an option in the Builds window pane. The targets do not need to be within the project that you currently have open.  This is an alternative to using batch targets. See <MadCap:xref href="../../../../Flare/Output/Building-Multiple-Targets.htm">Building and Publishing Multiple Targets</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Building:batch target;Targets:building output;Output:building targets;Batch:output;Output:batch" />Batch Target </span>Do this if you want to build and publish one or multiple targets in a batch file, perhaps scheduled to run at a specific time. See <MadCap:xref href="../../../../Flare/Output/Building-Output-Using-Batch-Target.htm">Building Output Using a Batch Target</MadCap:xref>.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide"><a name="InterfaceCommandLinePrint"></a>Interface or Command Line</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot><a name="InterfaceCommandLineOnline"></a>Interface or Command Line</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>You can build and publish output (primary, single, multiple, or batch targets) using either the Flare interface or your system's command line. There are benefits to using each method.</p>
+                <h3 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide">User Interface</h3>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot>User Interface</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../Output/BuildOutputUserInterfaceMethod.flsnp" />
+                        <p>Following are some of the important aspects of this method:</p>
+                        <MadCap:dropDown class="ThirdLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>Maximum Concurrent Builds</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>On the Build tab of the Options dialog (<span class="Emphasis">File &gt; Options</span>), you can limit the number of targets that can be generated at the same time. This can be done by changing the number in the <span class="Emphasis">Maximum Concurrent Builds</span> field. If you are concerned about Flare slowing down during builds, you may want to make sure this number is not too high.</p>
+                                <p>
+                                    <img src="../../../Images/Flare/build_targets_background1.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                                <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" />
+                                <MadCap:snippetBlock src="../Output/MaximumConcurrentBuildsExample.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" />
+                        <MadCap:dropDown class="ThirdLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>Builds Window Pane</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>When you generate a target from Flare's user interface, the Builds window pane opens at the bottom of the interface.</p>
+                                <p>
+                                    <img src="../../../Images/Flare/build_targets_background2.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                                <p>You can also open the Builds window pane manually by selecting <span class="Emphasis">View &gt; Builds</span> or <span class="Emphasis">Project &gt; Builds</span>.</p>
+                                <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" />
+                                <MadCap:dropDown class="FourthLevel">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>Characteristics of Builds Window Pane</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <MadCap:snippetBlock src="../Output/BuildsWindowPaneCharacteristics.flsnp" />
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                                <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" />
+                                <MadCap:dropDown class="FourthLevel">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>Toolbar and Context Menu Options</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <MadCap:snippetBlock src="../Output/BuildsWindowPaneToolbarContextMenuOptions.flsnp" />
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                                <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" />
+                                <MadCap:dropDown class="FourthLevel">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>Organizing Columns</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <MadCap:snippetBlock src="../Output/BuildsWindowPaneOrganizingColumns.flsnp" />
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <h3 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide">Command Line</h3>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot>Command Line</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p>This option lets you  build targets from your operating system's command line. Using this method, you do not have to open <MadCap:variable name="Other.Product">[%=Other.Product%]</MadCap:variable> at all. In addition, this method allows you to build a single target or all targets in your <MadCap:variable name="Other.Product">[%=Other.Product%]</MadCap:variable> project in one batch. The best way to use this feature is to create a batch file with the necessary commands in it. Then you can use a scheduling tool (such as the "Scheduled Tasks" utility in Windows) to run the batch file automatically whenever you want. This is similar to the "batch target" feature. However, the command line feature works outside of the <MadCap:variable name="Other.Product">[%=Other.Product%]</MadCap:variable> interface, is a bit more manual, and does not support as many processes. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Output/Building-Targets-Using-Command-Line.htm">Building Targets Using the Command Line</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.PrintOnly">For steps see the online Help.</MadCap:conditionalText></p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide">Build Then View Automatically</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Build Then View Automatically</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Shared/Output/BuildIfNeededAfterSelectingView.flsnp" />
+                </p>
+                <p>You can select an option to avoid seeing this message for all targets in all projects. This can be done in the Options dialog (<span class="Emphasis">File &gt; Options</span>) by selecting the <span class="Emphasis">Build</span> tab and choosing <span class="Emphasis">Build target (if needed) after selecting 'View'</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/build_after_selecting_view.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" class="NoPageBreakBefore">Where Output Files are Stored</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>where output files are stored</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>When you build a target, <MadCap:variable name="Other.Product" /> creates output files and places them in a folder named after the target, which is stored in a subfolder of your project called "Output." For example, let's say your project is stored here: C:\MyProject. In that case, after you generate output, the files would be stored here:</p>
+                <p> C:\MyProject\Output\MyName\TargetName</p>
+                <p>Depending on the output type associated with the target, the generated output might consist of many files.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" class="NoPageBreakBefore"><a name="PublishingFeaturesPrint"></a>Publish Features</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot><a name="PublishingFeaturesOnline"></a>Publish Features</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>To distribute output, you can simply open your Output folder to retrieve (i.e., copy and paste) the files manually. Alternatively, you can use <MadCap:variable name="Other.Product" />'s publishing destination feature to automatically send a copy of the output files to another location (e.g., to a network folder or a website).</p>
+                <h3 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide"><a name="RetrievingFilesManuallyPrint"></a>Retrieving Files Manually</h3>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot><a name="RetrievingFilesManuallyOnline"></a>Retrieving Files Manually</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/UIElements/SelectProjectRibbon.flsnp" /> In the <span class="Emphasis">Build</span> section select <span class="Emphasis">Open Output Folder</span>.</p>
+                        <p>
+                            <img src="../../../Images/Flare/open_output_folder.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p>You can also select this button in the Builds window pane.</p>
+                        <p>Navigate to the folder showing the name of your target. Then you can copy those files to any location you want, whether it is on a network, in a version control directory, or up on a web server. You might need to work with your network or web administrator to learn the proper way to move files in your company, including login credentials.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" />
+                <h3 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide">Using the Publishing Destination Feature</h3>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot>Using the publishing Destination feature</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>To use this automated feature, you must first create a publishing destination for your output.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlarePrintedOutputGuide"> See <MadCap:xref href="../../../../Flare/Output/Creating-Publishing-Destinations.htm">Creating Publishing Destinations</MadCap:xref>.</MadCap:conditionalText></p>
+                        <p>Next, associate the publishing destination with the target that you are using. See <MadCap:xref href="../../../../Flare/Output/Associating-Publishing-Destinations-Targets.htm">Associating Publishing Destinations with Targets</MadCap:xref>.</p>
+                        <p>Then when you build your output (or after you build it) you simply use the <span class="Emphasis">Publish</span> button or check box, depending on the method you use for generating the output (e.g., build primary target, single target, batch target).</p>
+                        <p>
+                            <img src="../../../Images/Flare/publish_output1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p>
+                            <img src="../../../Images/Flare/publish_output2.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareTargetsGuide" />
+                <h3 MadCap:conditions="FlareGuides.FlareTargetsGuide">
+                    <MadCap:keyword term="Salesforce" />Salesforce Connect</h3>
+                <MadCap:dropDown class="SecondLevel" MadCap:conditions="FlareGuides.FlareTargetsGuide,General.OnlineOnly">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot>
+                            <MadCap:keyword term="Salesforce" />Salesforce Connect</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../Output/Salesforce8.flsnp" />
+                        <MadCap:snippetBlock src="../Output/Salesforce7.flsnp" />
+                        <ol type="1">
+                            <li>
+                                <p>
+                                    <MadCap:snippetText src="../Output/Salesforce3.flsnp" />
+                                </p>
+                                <p>
+                                    <MadCap:snippetText src="../Output/Salesforce4.flsnp" />
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <MadCap:snippetText src="../Output/Salesforce5.flsnp" />
+                                </p>
+                                <p>
+                                    <img src="../../../Images/Flare/salesforce1.png" alt="" title="" class="MaxWidth50Percent" />
+                                </p>
+                            </li>
+                            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" />
+                            <li>
+                                <p>
+                                    <MadCap:snippetText src="../Output/Salesforce6.flsnp" />
+                                </p>
+                                <p>
+                                    <img src="../../../Images/Flare/salesforce2.png" alt="" title="" class="MaxWidth45Percent" />
+                                </p>
+                            </li>
+                            <li>After Flare is installed, open your project, create a destination file, and complete the Salesforce Connect fields.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Output/Creating-Publishing-Destinations.htm">Creating Publishing Destinations</MadCap:xref>.</MadCap:conditionalText></li>
+                        </ol>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide" />
+                <h3 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide"><a name="FilesToBeDistributedPrint"></a>Files to be Distributed with Each Type of Output</h3>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot><a name="FilesToBeDistributedOnline"></a>Files to be Distributed with Each Type of Output</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p>The number of files that are generated and need to be distributed depends on the output type you are creating and the settings that you provide when developing your project.</p>
+                        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="General.OnlineOnly,FlareGuides.FlareTargetsGuide">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>
+                                    <MadCap:keyword term="DotNet Help:distributing" />DotNet Help</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>This output type requires that all files and folders in your project's Output folder be included for your end users. <MadCap:variable name="Outputs.DotNetHelp" /> is designed to be used on a desktop, rather than being accessed from a web server.</p>
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you distribute <MadCap:variable name="Outputs.DotNetHelp" />, you also need to provide the MadCap Help Viewer to users. This is a free download from <MadCap:variable name="Other.CompanyName" />.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="ThirdLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>
+                                    <MadCap:keyword term="EPUB" />epub</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>EPUB output consists of a file with an .epub extension that you can distribute to users, who will be able to open the file on a variety of ebook readers.</p>
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Although EPUB is not really classified as either online or print-based output, it is structured more like a print-based manual than a Help system. Therefore, you can treat its distribution somewhat like an electronic PDF file.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="ThirdLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>
+                                    <MadCap:keyword term="Adobe FrameMaker" />framemaker</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>Depending on your settings, <MadCap:variable name="Outputs.Frame" /> consists of one or more BOOK, FM, or PDF files that you will distribute to your users.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="General.OnlineOnly,FlareGuides.FlareTargetsGuide">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>
+                                    <MadCap:keyword term="HTML Help:distributing" />HTML Help</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>There is only one file that needs to be included—the CHM file, which is [Name of your project].chm (e.g., FictionSoftPro.chm). <MadCap:variable name="Outputs.HTMLHelp" /> is designed to be used on a desktop, rather than being accessed from a web server.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="General.OnlineOnly,FlareGuides.FlareTargetsGuide">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>
+                                    <MadCap:keyword term="HTML5" />html5</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>This output type requires that all files and folders in your project's Output folder be included for your end users. </p>
+                                <p><MadCap:variable name="Outputs.HTML5" /> is designed primarily to be published on a web server, but it can be stored locally as well. However, if you enable advanced server-based output for <MadCap:variable name="Outputs.HTML5" />, it is designed to be published to a web server running Microsoft Internet Information Services (IIS), rather than attached to an application or distributed otherwise.</p>
+                                <p>For information about server-based <MadCap:variable name="Outputs.HTML5" /> output and making it available to users, see <MadCap:xref href="../../../../Flare/Output/HTML5-Output/About-HTML5-Output.htm" MadCap:conditions="General.OnlineOnly">About HTML5 Output</MadCap:xref> and <MadCap:xref href="../../../../Flare/Output/HTML5-Output/Enabling-HTML5-Server-Output.htm" MadCap:conditions="General.OnlineOnly">Enabling HTML5 Server-based Output</MadCap:xref>.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="ThirdLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>
+                                    <MadCap:keyword term="Adobe PDF" />pdf</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <snippetBlock src="../../Shared/PDF/PDFOutputFiles.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="General.OnlineOnly,FlareGuides.FlareTargetsGuide">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>
+                                    <MadCap:keyword term="WebHelp:distributing;WebHelp Plus:distributing" />webhelp</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>   This output type requires that all files and folders in your project's Output folder be included for your end users.</p>
+                                <p><MadCap:variable name="Outputs.WebHelp" /> is designed primarily to be published on a web server, but it can be stored locally as well.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="General.OnlineOnly,FlareGuides.FlareTargetsGuide">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>
+                                    <MadCap:keyword term="WebHelp AIR" />webhelp AIR</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>   There is only one file that needs to be included—the AIR file, which is [Name of your project].air (e.g., FictionSoftPro.air). <MadCap:variable name="Outputs.WebHelpAIR" /> is designed to be used on a desktop, rather than being accessed from a web server.</p>
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;"><MadCap:variable name="Outputs.WebHelpAIR" /> also requires users to install Adobe AIR, which can be downloaded from <a href="http://get.adobe.com/air/" target="_blank" MadCap:excludeAction="unbind">http://get.adobe.com/air/</a>.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="General.OnlineOnly,FlareGuides.FlareTargetsGuide">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>
+                                    <MadCap:keyword term="WebHelp Mobile" />webhelp mobile</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>   This output type requires that all files and folders in your project's Output folder be included for your end users.</p>
+                                <p><MadCap:variable name="Outputs.WebHelp Mobile" /> is designed to be published to a web server where users with mobile devices may access the output files, rather than attached to an application or distributed otherwise. Think of your output files as a website. A user with a mobile device can, for example, open a mobile browser on the device and enter the URL that points to your main output entry file.</p>
+                                <p>You can also get responsive output from HTML5 targets that works on mobile devices. HTML5 is recommended over using the WebHelp Mobile output type.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="General.OnlineOnly,FlareGuides.FlareTargetsGuide">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>
+                                    <MadCap:keyword term="WebHelp Plus" />webhelp plus</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>This output type requires that all files and folders in your project's Output folder be included for your end users.</p>
+                                <p><MadCap:variable name="Outputs.WebHelp Plus" /> is designed to be published to a web server running Microsoft Internet Information Services (IIS), rather than attached to an application or distributed otherwise.</p>
+                                <p>For information about <MadCap:variable name="Outputs.WebHelp Plus" /> and making it available to users, see <MadCap:xref href="../../../../Flare/Output/WebHelp-Plus-Output/About-WebHelp-Plus-Output.htm" MadCap:conditions="General.OnlineOnly">About WebHelp Plus Output</MadCap:xref> and <MadCap:xref href="../../../../Flare/Output/WebHelp-Plus-Output/Enabling-WebHelp-Plus-Output.htm" MadCap:conditions="General.OnlineOnly">Enabling WebHelp Plus Output</MadCap:xref>.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="ThirdLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>
+                                    <MadCap:keyword term="Microsoft Word" />word</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>Depending on your settings, <MadCap:variable name="Outputs.Word" /> consists of one or more XML, DOC, DOX, XPS, or PDF files that you will distribute to users.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="ThirdLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>
+                                    <MadCap:keyword term="XHTML Book" />xhtml Book</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <snippetBlock src="../../Shared/XHTML/XHTMLOutputFiles.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="ThirdLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>
+                                    <MadCap:keyword term="Microsoft XPS" />xps</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>XPS output consists of a collection of XPS files that you can print or distribute to users. This includes:</p>
+                                <MadCap:snippetBlock src="../../Shared/XPS/AboutXPS2.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTargetsGuide">Frequently Asked Questions</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Frequently Asked Questions</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are some common questions about building and publishing output.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>What files are produced when you build output?</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>This varies depending on the output format. Some formats will produce a single output file, such as a PDF. Other formats might produce many files and folders. To see the exact files and folders that are produced when you generate a target, select the <span class="Emphasis">Project</span> ribbon. Then in the <span class="Emphasis">Build</span> section select <span class="Emphasis">Open Output Folder</span>.</p>
+                        <p>Also, a log file is created whenever you build a target and is stored by default with the rest of the output. This file provides important information about the build, such as whether any warnings occurred in the process<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../../../../Flare/Output/More-Building-Output/Opening-Build-Logs.htm">Opening Build Logs</MadCap:xref>)</MadCap:conditionalText>. However, if you do not want your log file to be included with the rest of the files, you can open the Options dialog, select the <span class="Emphasis">Build</span> tab, and choose an external location for log files<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../../../../Flare/Interface/UI-Elements/Options-Dialog.htm">Options Dialog</MadCap:xref>)</MadCap:conditionalText>. </p>
+                        <p MadCap:conditions="General.OnlineOnly">For more details of the generated files that you need to provide to end users, see <MadCap:xref href="#FilesToBeDistributedOnline">Files to be Distributed with Each Type of Output</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.PrintOnly">For more details of the generated files that you need to provide to end users, see <MadCap:xref href="#FilesToBeDistributedPrint">Files to be Distributed with Each Type of Output</MadCap:xref>.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>What is Produced when You Publish output?</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>Publishing isn’t a matter of producing anything. Instead, it’s simply a matter of taking those output files, making a copy of them, and placing them somewhere that end users can access them. This can be accomplished manually or automatically by using a destination file.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="#PublishingFeaturesOnline">Publishing Features</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.PrintOnly"> See <MadCap:xref href="#PublishingFeaturesPrint">Publishing Features</MadCap:xref>.</MadCap:conditionalText></p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>What happens to Old Files When you rebuild a target?</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>In Flare, the previously generated files are all removed when you rebuild a target. These are then replaced by the newly generated files. Therefore, if you want to preserve files from an older build, you will need to open Windows Explorer and copy those files to another location so that they are not overwritten by new files.</p>
+                        <p>However, the situation is different if you are using MadCap Central to generate output. In Central, each build is preserved until you delete it.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Central/About-Central-and-Flare.htm">About MadCap Central and Flare</MadCap:xref>.</MadCap:conditionalText></p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>What happens to Old Files When you Republish OUtput?</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p>This depends on how you choose to publish your output.</p>
+                        <p>If you manually replace previously published files with new ones, it is generally best to delete all of the old files and then upload or paste the new ones in the same location.</p>
+                        <p>If you use a destination file, you have the option in the Destination Editor of uploading only files that have changed since the previous publication. You also have the option of automatically removing stale files (i.e., those that were removed in your local project since that last publication).<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Output/Creating-Publishing-Destinations.htm">Creating Publishing Destinations</MadCap:xref>.</MadCap:conditionalText></p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>warnings</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Output/WarningDoNotPublishToSourceFolders.flsnp" />
+                <MadCap:snippetBlock src="../../Shared/Output/WarningBuildErrorsAVScan.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>tips</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="tip">
+                    <p class="tipInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #564c05;&quot; class=&quot;mcFormatColor&quot;&gt;Tip: &lt;/span&gt;&lt;/b&gt;"><span class="Emphasis"><MadCap:keyword term="Topics:previewing;Previewing:topics" /></span>You do not need to build the target to see how a particular topic will look in the final output. You can always preview topics as you develop your project by clicking <img src="../../../Images/Shared/preview_btn.png" class="ReduceButtonSize" /> in the local toolbar of the XML Editor. If you click the face of the button, the preview is shown based on the format specified in the primary target. If you click the down arrow, you can select any of the targets in your project from a menu. The preview is then displayed using the output format specified in that target. In addition, you can continue to edit the topic with the Preview window pane open. The preview will automatically update as you save changes to the topic.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Topics/Previewing-Topics.htm" target="" title="" alt="">Previewing Topics</MadCap:xref>.</MadCap:conditionalText></p>
+                </div>
+                <p class="tip" MadCap:conditions="General.OnlineOnly" MadCap:autonum="&lt;b&gt;Tip: &lt;/b&gt;">Before building output, you might find it useful to open the internal Analyzer in order to check for issues, such as broken links. Even better, you can open the project in the external Analyzer application to obtain a more thorough assessment of the project before generating output. For more information see <MadCap:xref href="../../../../Flare/Analyzer/About-Analyzer-and-Reports.htm">About Analyzer and Reports</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:conditions="General.OnlineOnly" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">For information on distributing an Eclipse Help system, see <MadCap:xref href="../../../../Flare/Output/Eclipse-Output/Creating-Eclipse-Help-Plug-In.htm">Creating an Eclipse Help Plug-In</MadCap:xref>.</p>
+                <p class="note" MadCap:conditions="General.OnlineOnly" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">When you build Word or FrameMaker output, <MadCap:variable name="Other.Product" /> may create an extra folder called Resources (if your project contains ancillary files, such as images). If you want to embed images in your Word document, you can use an option on the Advanced tab of the Target Editor<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../../../../Flare/Targets/More/Embedding-Images-Word-Output.htm">Embedding Images in Microsoft Word Output</MadCap:xref>)</MadCap:conditionalText>. If you want to embed images in your FrameMaker document, you will need to do so manually in FrameMaker. If you do not embed images in your Word or FrameMaker files and you move those output files to another location than your Output folder, you must remember to also move the Resources folder. Without that folder in the proper location, the referenced images will no longer be displayed in the output files. If you convert the Word or FrameMaker files to PDF, the images will then be incorporated into the PDF file, and you can move that single file anywhere you like.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

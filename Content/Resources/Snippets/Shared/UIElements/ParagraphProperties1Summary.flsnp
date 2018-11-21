@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="131" MadCap:lastWidth="977" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <head>
+    </head>
+    <body>
+        <p>Opens the Paragraph Properties dialog, which lets you edit the paragraph properties for topic content directly. This includes the ability to apply page breaks, column breaks, and widow/orphan control to a paragraph directly. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Paragraphs/About-Paragraph-Formatting.htm">About Paragraph Formatting</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Analyzer">See <MadCap:xref href="../../../../Analyzer/Paragraphs/About-Paragraph-Formatting.htm">About Paragraph Formatting</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Paragraphs/About-Paragraph-Formatting.htm">About Paragraph Formatting</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

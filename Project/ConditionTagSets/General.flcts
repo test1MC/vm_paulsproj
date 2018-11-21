@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="Products.AllProductsPlusDocBible">
+  <ConditionTag
+    Comment=""
+    Name="PrintOnly"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#80ff80"
+    Name="OnlineOnly"
+    Comment=""
+    Color="Normal" />
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="NotServer"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="LightCyan"
+    Name="ServerOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="Future"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="RemoveFromTopicsThenDeleteThis"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="LocalOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#78179a"
+    Name="Next"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="ComingSoon"
+    Comment="" />
+</CatapultConditionTagSet>

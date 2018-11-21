@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <p>If your Flare project <span class="EmphasisItalic">is already bound</span> to an additional third-party source control tool (e.g., Subversion, Team Foundation Server), you will be working in a dual-bound model. With this model, you continue to use your previous source control binding to do most of your version control work just as you always have. Then periodically, you will use the MadCap Central window pane in Flare to upload (or “push”) the latest files from your local copy of the project up to Central. That way, you can be assured that you are generating output from the most recent version of your Flare project.</p>
+    </body>
+</html>

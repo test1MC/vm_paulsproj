@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="25" MadCap:lastHeight="3838" MadCap:lastWidth="900">
+    <body>
+        <ol type="1">
+            <li>
+                <p>
+                    <MadCap:snippetText src="Salesforce3.flsnp" />
+                </p>
+                <p>
+                    <MadCap:snippetText src="Salesforce4.flsnp" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="Salesforce5.flsnp" />
+            </li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="Salesforce6.flsnp" />
+                </p>
+                <p>
+                    <img src="../../../Images/Flare/salesforce2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+            <li>After Flare is installed, open your project and in the Project Organizer, add a new destination file or edit an existing one.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Output/More-Destinations/Adding-Destinations.htm">Adding Destination Files</MadCap:xref> or <MadCap:xref href="../../../../Flare/Output/More-Destinations/Editing-Destinations.htm">Editing Destinations</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>
+                <p> In the Destination Editor, select <span class="Emphasis">Salesforce Connect</span> as the type.</p>
+                <p>
+                    <img src="../../../Images/Flare/salesforce3.png" alt="" title="" class="MaxWidth80Percent" />
+                </p>
+            </li>
+            <li>To the right of the field, click <span class="Emphasis">Activate</span>. A wizard opens.</li>
+            <li>Paste your Salesforce license code (purchased from MadCap Software) into the top field and click <span class="Emphasis">Next</span>.</li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+            <li>
+                <p>If necessary, complete the rest of the pages in the wizard and click <span class="Emphasis">Finish</span>.</p>
+                <p>The Activate button should now display “Deactivate.”</p>
+                <p>
+                    <img src="../../../Images/Flare/salesforce4.png" alt="" title="" class="MaxWidth80Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+            <li>
+                <p>Click <span class="Emphasis">Login Credentials</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/salesforce5.png" alt="" title="" class="MaxWidth80Percent" />
+                </p>
+            </li>
+            <li>In the dialog that opens, enter your Salesforce username and password, then click <span class="Emphasis">Log In</span>.</li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+            <li>
+                <p>In the next dialog, click <span class="Emphasis">Allow</span> to permit access.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">After you enter your credentials and allow access, you will notice the app has been added to “Connected Apps OAuth Usage” in Salesforce. At the end of the row are two toggle buttons. The is Block/Unblock, and the second is Install/Uninstall. </p>
+                    <p>
+                        <img src="../../../Images/Flare/salesforce6.png" alt="" title="" class="MaxWidth90Percent" />
+                    </p>
+                    <p>There is nothing you need to do with these buttons. If you wish, you can click Install, and you may then specify the individuals who have access. However, this is optional. The most important thing to remember is not to click Block or Uninstall. If you do, you will need to re-enter your credentials.</p>
+                </div>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+            <li>
+                <p>Complete the rest of the fields in the Destination Editor (for more information about these concepts, please refer to the Salesforce documentation):</p>
+                <ul type="1" class="FirstLevel">
+                    <li>
+                        <MadCap:snippetBlock src="../Destinations/SalesforceArticleType.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Destinations/SalesforceChannels1.flsnp" />
+                    </li>
+                    <MadCap:snippetBlock src="../Destinations/SalesforceChannels2.flsnp" />
+                    <li>
+                        <MadCap:snippetBlock src="../Destinations/SalesforceCategories.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetBlock src="../Destinations/SalesforceExclusions.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetBlock src="../Destinations/SalesforceArticleSummary.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetBlock src="../Destinations/SalesforceIncludeImages.flsnp" />
+                        <MadCap:snippetBlock src="NoteIncludeImagesSalesforceFormatsSupported.flsnp" />
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+                    <li>
+                        <MadCap:snippetBlock src="../Destinations/SalesforcePublishArticles.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetBlock src="../Destinations/SalesforceUseCompressionBulkUpload.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:keyword term="Optional view URL;URL;Destinations:optional view URL" /><span class="SetOffFirstLevel">"View" Url </span>You can enter or select an http address in this field to be used for viewing the published files. This field is optional and is for your own internal purposes.</li>
+                    <MadCap:snippetBlock src="LogFileOptions.flsnp" />
+                </ul>
+            </li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+                </p>
+                <p>When you publish a target that is associated with that destination file, the output will automatically be published to Salesforce.</p>
+            </li>
+        </ol>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <MadCap:snippetBlock src="NoteSalesforceForCleanXHTMLOnly.flsnp" />
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Embedded multimedia is not supported in output published to Salesforce. However, external links to multimedia (e.g., YouTube, Vimeo) are supported.</p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li>
+                <p><span class="SetOffFirstLevel">Keyboard Shortcut </span>Press <span class="Emphasis">CTRL+SHIFT+H</span>.</p>
+                <p>The Style Picker displays, showing style classes from the stylesheets that are associated with the topic.</p>
+                <p>
+                    <img src="../../../Images/Shared/style_picker_example.png" class="MaxWidth80Percent" />
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>

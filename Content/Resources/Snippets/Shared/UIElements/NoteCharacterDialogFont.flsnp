@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>If you insert a character with "(normal text)" selected in the Font field, that character will use the same font properties of the content where it is being inserted. But if you select a specific font in the Font field, the character will use those properties at the point of insertion, which will likely result in a &lt;span&gt; tag being created.</p>
+    </body>
+</html>

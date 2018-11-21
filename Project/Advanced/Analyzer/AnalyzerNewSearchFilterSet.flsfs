@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet
+  conditions="Products.Analyzer">
+  <SearchFilter
+    Name="User Interface Topics"
+    Comment=""
+    Concepts="" />
+  <SearchFilter
+    Name="Tour of the Workspace"
+    Comment=""
+    Concepts="FilterTourWorkspace" />
+  <SearchFilter
+    Name="Color"
+    Comment=""
+    Concepts="FilterColor" />
+  <SearchFilter
+    Name="Condition Tags"
+    Comment=""
+    Concepts="FilterConditionTags" />
+  <SearchFilter
+    Name="Indexes"
+    Comment=""
+    Concepts="FilterIndexing" />
+  <SearchFilter
+    Name="Cross-References"
+    Comment=""
+    Concepts="FilterCrossReferences" />
+  <SearchFilter
+    Name="Hyperlinks"
+    Comment=""
+    Concepts="FilterHyperlinks" />
+  <SearchFilter
+    Name="Snippets"
+    Comment=""
+    Concepts="FilterSnippets" />
+  <SearchFilter
+    Name="Styles"
+    Comment=""
+    Concepts="FilterStyles" />
+  <SearchFilter
+    Name="Tables of Contents"
+    Comment=""
+    Concepts="FilterTOCs" />
+  <SearchFilter
+    Name="Variables"
+    Comment=""
+    Concepts="FilterVariables" />
+  <SearchFilter
+    Name="Concepts"
+    Comment=""
+    Concepts="FilterConceptKeywords;FilterConceptLinks" />
+  <SearchFilter
+    Name="Links"
+    Comment=""
+    Concepts="FilterLinks" />
+  <SearchFilter
+    Name="Outlines"
+    Comment=""
+    Concepts="FilterOutlines" />
+  <SearchFilter
+    Name="Phrases and Segments"
+    Comment=""
+    Concepts="FilterPhrasesSegments" />
+  <SearchFilter
+    Name="Backups"
+    Comment=""
+    Concepts="FilterBackups" />
+  <SearchFilter
+    Name="Charts"
+    Comment=""
+    Concepts="FilterCharts" />
+  <SearchFilter
+    Name="Context-Sensitive Help"
+    Comment=""
+    Concepts="FilterCSH" />
+  <SearchFilter
+    Name="Find and Replace"
+    Comment=""
+    Concepts="FilterFindReplace" />
+  <SearchFilter
+    Name="Glossaries"
+    Comment=""
+    Concepts="FilterGlossaries" />
+  <SearchFilter
+    Name="Instant Messaging"
+    Comment=""
+    Concepts="FilterInstantMessaging" />
+  <SearchFilter
+    Name="Local Formatting"
+    Comment=""
+    Concepts="FilterLocalFormatting" />
+  <SearchFilter
+    Name="Reports"
+    Comment=""
+    Concepts="FilterReports" />
+  <SearchFilter
+    Name="Source Control"
+    Comment=""
+    Concepts="FilterSourceControl" />
+  <SearchFilter
+    Name="Spell Check"
+    Comment=""
+    Concepts="FilterSpellCheck" />
+  <SearchFilter
+    Name="Statistics"
+    Comment=""
+    Concepts="FilterStatistics" />
+  <SearchFilter
+    Name="Templates"
+    Comment=""
+    Concepts="FilterTemplates" />
+  <SearchFilter
+    Name="Writing Suggestions"
+    Comment=""
+    Concepts="FilterWritingSuggestions" />
+</CatapultSearchFilterSet>

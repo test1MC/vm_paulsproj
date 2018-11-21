@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Targets"
+    Link="/Content/Flare/Targets/About-Targets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="CH 2 Determining the Output Type"
+    Link="/Content/Flare/Output/Determining-Output-Type.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 3 Adding Targets"
+    Link="/Content/Flare/Targets/Adding-Targets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 4 Importing Targets"
+    Link="/Content/Flare/Targets/More/Importing-Targets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 5 Renaming Targets"
+    Link="/Content/Flare/Targets/Renaming-Targets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 6 Opening Targets"
+    Link="/Content/Flare/Targets/More/Opening-Targets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 7 Setting a Primary Target"
+    Link="/Content/Flare/Targets/Setting-Primary-Target.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 8 Editing Target Settings"
+    Link="/Content/Flare/Targets/Editing-Target-Settings.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters3Gray.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Using Empty Alt Text for Images"
+      Link="/Content/Flare/Accessibility/Applying-Empty-Alt-Text.htm"
+      PageNumber="(multiple)"
+      BreakType="pageLayout"
+      PageType="left"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Associating a Browse Sequence with a Target"
+      Link="/Content/Flare/Browse-Sequences/Associating-a-Browse-Sequence-with-a-Target.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating Condition Tags with Targets"
+      Link="/Content/Flare/Conditions/Associating-Condition-Tags-with-Targets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating an Alias File with a Target"
+      Link="/Content/Flare/CSH/Associating-Alias-File-with-Target.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating Pre- and Post-Build Events"
+      Link="/Content/Flare/Targets/More/Creating-Pre-Post-Build-Events.htm" />
+    <TocEntry
+      Title="Adding the DOCTYPE Declaration to Generated Topics"
+      Link="/Content/Flare/Targets/More/Adding-DOCTYPE-Declaration-to-Generated-Topics.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying EPUB Options"
+      Link="/Content/Flare/Targets/More/Specifying-EPUB-Options.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Enabling Feedback in Flare"
+      Link="/Content/Flare/Feedback/Enabling-Feedback-in-Flare.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating Glossaries with Targets"
+      Link="/Content/Flare/Glossaries/Associating-Glossaries-with-Targets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying Buttons for HTML Help Output"
+      Link="/Content/Flare/Skins/Specifying-Buttons-HTML-Help-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Displaying Merged Navigation in HTML Help Child Outputs"
+      Link="/Content/Flare/Targets/More/Displaying-Merged-Navigation-HTML-Help.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Patching Style Sheets and Image Links for HTML Help"
+      Link="/Content/Flare/Targets/More/Patching-Stylesheets-Image-Links-HTML-Help.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Embedding Images in Microsoft Word Output"
+      Link="/Content/Flare/Targets/More/Embedding-Images-Word-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Enabling Review Mode in Word Output"
+      Link="/Content/Flare/Targets/More/Enabling-Review-Mode-Word-Output.htm" />
+    <TocEntry
+      Title="Generating Web-Safe Images"
+      Link="/Content/Flare/Targets/More/Generating-Web-Safe-Images.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Disabling Auto-Sync of Import Files"
+      Link="/Content/Flare/Importing/Disabling-AutoSync-of-Import-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Excluding Index Entries from Search"
+      Link="/Content/Flare/Search/Configuring-Search-Database/Excluding-Index-Entries-from-Search.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Selecting a Language for the Target"
+      Link="/Content/Flare/Language-Support/Selecting-Language.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Flare/Targets/More/Synchronizing-Navigation-Elements-with-TOC-Entries.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Removing MadCap Styles"
+      Link="/Content/Flare/Targets/More/Removing-MadCap-Styles.htm" />
+    <TocEntry
+      Title="Adding Mark of the Web"
+      Link="/Content/Flare/Targets/More/Adding-MOTW.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating Master Pages with Targets"
+      Link="/Content/Flare/Master-Pages/Associating-Master-Pages-with-Targets.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="Disabling the Use of Master Pages"
+      Link="/Content/Flare/Master-Pages/More/Disabling-Use-Master-Pages.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding Custom Meta Tags"
+      Link="/Content/Flare/Targets/More/Adding-Custom-Meta-Tags.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying the Output File and Folder in a Target"
+      Link="/Content/Flare/Targets/More/Specifying-Output-File-Folder-in-Target.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Replacing Characters and Spaces with Underscores"
+      Link="/Content/Flare/Targets/More/Replacing-Characters-Spaces-with-Underscores.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Using Custom File Extensions for WebHelp Topics"
+      Link="/Content/Flare/Targets/More/Using-Custom-File-Extensions.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Excluding Content not Linked Directly or Indirectly from Targets"
+      Link="/Content/Flare/Targets/More/Excluding-Content-not-Linked-Directly-or-Indirectly-from-Targets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Converting Output File Names and Folders to Lowercase"
+      Link="/Content/Flare/Targets/More/Converting-Output-Filenames-Folders-to-Lowercase.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Omitting the Content Folder from Output"
+      Link="/Content/Flare/Targets/More/Omitting-Content-Folder-from-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Changing the Output Type for a Target"
+      Link="/Content/Flare/Targets/More/Changing-Output-Type-for-Target.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating Master Page Layouts with Targets"
+      Link="/Content/Flare/Page-Layouts/Associating-Master-Page-Layouts-Targets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying PDF Options"
+      Link="/Content/Flare/Targets/More/Specifying-PDF-Options.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying PDF Output Via Word or FrameMaker"
+      Link="/Content/Flare/Output/PDF-Output/Specifying-PDF-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Collapsing Top Margins"
+      Link="/Content/Flare/Output/Printed-Output/Collapsing-Top-Margins.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Improving the Processing Performance of the Target"
+      Link="/Content/Flare/Output/More-Building-Output/Improving-Processing-Performance-Target.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying How Online Features are Converted in Printed Output"
+      Link="/Content/Flare/Output/Printed-Output/Specifying-How-Online-Features-Converted-Printed-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating Publishing Destinations with Targets"
+      Link="/Content/Flare/Output/Associating-Publishing-Destinations-Targets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Integrating Flare and Pulse"
+      Link="/Content/Shared/Pulse-Features/Install/Integrating-Flare-Pulse.htm"
+      StartSection="false"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Setting Redacted Text on Targets"
+      Link="/Content/Flare/Targets/More/Setting-Redacted-Text-on-Targets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating Relationship Tables with Targets"
+      Link="/Content/Flare/Nav-Links/Relationship-Links/Associating-Relationship-Tables-with-Targets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating a Search Filter Set with a Target"
+      Link="/Content/Flare/Search/Search-Filter-Sets/Associating-Search-Filter-Set-with-Target.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Enabling Partial-Word Search"
+      Link="/Content/Flare/Search/Configuring-Search-Database/Enabling-Partial-Word-Search.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="Google or MadCap Search Engine"
+      Link="/Content/Flare/Targets/More/Setting-Up-Search-Engine.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Abstract Character Limit"
+        Link="/Content/Flare/Targets/More/Setting-Search-Abstract-Character-Limit.htm" />
+      <TocEntry
+        Title="Glossary Terms in Search Results"
+        Link="/Content/Flare/Targets/More/Including-Glossary-Terms-in-Search-Result.htm" />
+      <TocEntry
+        Title="Importance of Search Results"
+        Link="/Content/Flare/Targets/More/Setting-Search-Result-Importance.htm" />
+      <TocEntry
+        Title="Number of Search Results Per Page"
+        Link="/Content/Flare/Targets/More/Setting-Number-Search-Results-Per-Page.htm" />
+      <TocEntry
+        Title="Generating Sitemaps for Search Engine Optimization"
+        Link="/Content/Flare/Targets/More/Generating-Sitemaps-for-Search-Engine-Optimization.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Associating Skins with Targets"
+      Link="/Content/Flare/Skins/Associating-Skins-with-Targets.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Flare/Skins/More/Adding-Favicons.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Setting All Skins to be Generated"
+      Link="/Content/Flare/Targets/More/Setting-All-Skins-to-be-Generated.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Getting the Latest Version of Source Control Files"
+      Link="/Content/Shared/Source-Control/TFS/Getting-Latest-Version-Source-Control-Files-tfs.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying the Startup Topic"
+      Link="/Content/Flare/Targets/More/Specifying-Startup-Topic.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Applying Master Style Sheets"
+      Link="/Content/Flare/Styles/Associating-Master-Stylesheets-with-All-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating a Medium with a Target"
+      Link="/Content/Flare/Styles/Mediums/Associating-Medium-with-Target.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Converting Stylesheet Styles to Inline"
+      Link="/Content/Flare/Output/Clean-XHTML/Converting-Stylesheet-Styles-to-Inline.htm" />
+    <TocEntry
+      Title="Associating a Master Table of Contents with a Target"
+      Link="/Content/Flare/TOCs/Associating-Master-TOC-with-Target.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Determining Heading Levels for a Print TOC"
+      Link="/Content/Flare/Output/Printed-Output/Determining-Heading-Levels-Print-TOC.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating Headings for Unlinked Books in a Generated TOC"
+      Link="/Content/Flare/Output/Printed-Output/Creating-Headings-Unlinked-Books-Generated-TOC.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Removing Images from Headings in a Generated TOC"
+      Link="/Content/Flare/Output/Printed-Output/Removing-Images-Headings-Generated-TOC.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Overriding Variable Definitions in Targets"
+      Link="/Content/Flare/Variables/Overriding-Variable-Definitions.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Overriding Variable Definitions in Snippets"
+      Link="/Content/Flare/Variables/Overriding-Variable-Definitions-Snippets.htm" />
+    <TocEntry
+      Title="Specifying WebHelp AIR Options"
+      Link="/Content/Flare/Targets/More/Specifying-WHAIR-Options.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Enabling WebHelp Plus Output"
+      Link="/Content/Flare/Output/WebHelp-Plus-Output/Enabling-WebHelp-Plus-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Enabling Mirror Margins in Word Output"
+      Link="/Content/Flare/Targets/More/Enabling-Mirror-Margins-Word-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying XPS Output Via Microsoft Word"
+      Link="/Content/Flare/Output/XPS-Output/Specifying-XPS-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Ignoring Warnings When Building Output"
+      Link="/Content/Flare/Output/More-Building-Output/Ignoring-Warnings-When-Building-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Preventing External URLs"
+      Link="/Content/Flare/Targets/More/Preventing-External-URLs.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 9 Building Targets"
+    Link="/Content/Flare/Output/About-Building-Output.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Building the Primary Target"
+      Link="/Content/Flare/Output/Building-Primary-Target.htm"
+      StartSection="false"
+      StartChapter="false"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Building a Single Target"
+      Link="/Content/Flare/Output/Building-Single-Target.htm"
+      StartChapter="false"
+      PageType="first"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      StartPageLayout="false" />
+    <TocEntry
+      Title="Building and Publishing Multiple Targets"
+      Link="/Content/Flare/Output/Building-Multiple-Targets.htm" />
+    <TocEntry
+      Title="Building Output Using a Batch Target"
+      Link="/Content/Flare/Output/Building-Output-Using-Batch-Target.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 10 Viewing Output"
+    Link="/Content/Flare/Output/More-Building-Output/Viewing-Output.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="APPENDIX Output_Type_Tables"
+    Link="/Content/Print-Only-Topics/Flare/Output-Type-Tables.htm"
+    StartPageLayout="false"
+    BreakPageLayout="/Content/Resources/PageLayouts/ChaptersLandscapeGreen.flpgl"
+    StartSection="false"
+    StartChapter="true"
+    BreakPageType="normal"
+    PageLayout="/Content/Resources/PageLayouts/Shared/AppendixLandscape.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    AutoEndOnLeftPage="disabled"
+    PageType="firstright"></TocEntry>
+</CatapultToc>

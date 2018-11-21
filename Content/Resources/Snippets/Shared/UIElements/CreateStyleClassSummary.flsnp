@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="84" MadCap:lastWidth="1036" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <head>
+    </head>
+    <body>
+        <p>Opens the Create Style dialog, which lets you create a new style for the content selected in the content file. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Styles/Creating-Selectors.htm">Creating Selectors</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Analyzer">See <MadCap:xref href="../../../../Analyzer/Styles/Creating-Selectors.htm">Creating Selectors</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Styles/Creating-Selectors.htm">Creating Selectors</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

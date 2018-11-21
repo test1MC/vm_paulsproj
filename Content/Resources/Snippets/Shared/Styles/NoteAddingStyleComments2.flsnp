@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you add or edit a style comment in the Stylesheet Editor when the (default) medium is selected, the same comment is shown in the editor when you switch to the other mediums.  If you add or edit a comment when one of the other mediums is selected, that comment displays only when that specific medium is selected in the editor.</p>
+        </div>
+    </body>
+</html>

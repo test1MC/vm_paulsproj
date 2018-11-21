@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Analyzer" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Analyzer/TitleAnalyzer.flpgl"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Analyzer/TitleAnalyzer.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    conditions="General.Future" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    conditions="General.Future" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    conditions="General.Future" />
+  <TocEntry
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    Link="/Content/Analyzer/Accessibility/Viewing-Accessibility-Suggestions.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberFormat="decimal"
+    PageNumberReset="continue"
+    PageType="firstright"
+    SectionNumberReset="continue"
+    StartChapter="true"
+    StartPageLayout="false"
+    StartSection="false"
+    Title="CH 1 Accessibility Suggestions"
+    VolumeNumberReset="same">
+    <TocEntry
+      ChapterNumberReset="continue"
+      Link="/Content/Analyzer/Accessibility/Customizing-Accessibility-Suggestions-Shown.htm"
+      PageNumber="1"
+      PageNumberReset="continue"
+      SectionNumberReset="continue"
+      StartPageLayout="false"
+      StartSection="false"
+      Title="Customizing Accessibility Suggestions Shown"
+      VolumeNumberReset="same"
+      BreakType="none" />
+    <TocEntry
+      Title="Resolving Accessibility Issues"
+      StartSection="false"
+      StartPageLayout="false"
+      PageNumberReset="continue"
+      PageNumber="1"
+      Link="/Content/Analyzer/Accessibility/Resolving-Accessibility-Issues.htm"
+      BreakType="none" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 2 Markup Suggestions"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    Link="/Content/Analyzer/Markup-Suggestions/Viewing-Applying-Markup-Suggestions.htm">
+    <TocEntry
+      Link="/Content/Analyzer/Markup-Suggestions/Customizing-Markup-Suggestions-Shown.htm"
+      Title="Customizing Markup Suggestions Shown"
+      StartSection="false"
+      StartPageLayout="false"
+      PageType="first"
+      PageNumberReset="continue"
+      PageNumber="1"
+      BreakType="none" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Writing Suggestions"
+    StartSection="false"
+    StartPageLayout="false"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    Link="/Content/Analyzer/Writing-Suggestions/Viewing-Writing-Suggestions.htm">
+    <TocEntry
+      StartSection="false"
+      PageNumber="1"
+      PageNumberReset="continue"
+      PageType="first"
+      Title="Customizing Writing Suggestions Shown"
+      StartPageLayout="false"
+      Link="/Content/Analyzer/Writing-Suggestions/Customizing-Writing-Suggestions-Shown.htm"
+      BreakType="none" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Cross-Reference Suggestions"
+    Link="/Content/Analyzer/Nav-Links/Cross-References/Viewing-Converting-Cross-Reference-Suggestions.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Analyzer/PDF-Guides/PDF-Guides-Analyzer.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+</CatapultToc>

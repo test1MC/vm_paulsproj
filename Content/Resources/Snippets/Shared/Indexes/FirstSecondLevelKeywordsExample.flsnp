@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>If you type <span class="TypedEntry">Software:MadCap <MadCap:variable name="Other.Product" /></span>, the term "Software" appears at the first level of the index, and the term "MadCap <MadCap:variable name="Other.Product" />" appears as a subentry under "Software."</p>
+        </div>
+    </body>
+</html>

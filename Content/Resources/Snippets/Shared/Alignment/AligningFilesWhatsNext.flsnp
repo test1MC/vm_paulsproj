@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="164" MadCap:lastWidth="934" MadCap:conditions="Products.Lingo,Products.Align">
+    <body>
+        <p>After you align files, you may need to double-click a particular file and align segments within it. <MadCap:conditionalText MadCap:conditions="Products.Lingo">See <MadCap:xref href="../../../../Lingo/Alignment/Aligning-Segments.htm">Aligning Segments</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Align">See <MadCap:xref href="../../../../Align/Alignment/Aligning-Segments.htm">Aligning Segments</MadCap:xref>.</MadCap:conditionalText> </p>
+        <p>You will also want to upload the aligned files to your translation memory database. To do this, you can double-click any of the aligned files in the File Map window pane. Then, in the Alignment Tool, you can select specific segments and click <img src="../../../Images/Shared/upload_selected_btn.png" class="ReduceButtonSize" /> in the local toolbar, or you can click <img src="../../../Images/Shared/upload_file_btn.png" class="ReduceButtonSize" /> to upload all of the segments in the file.</p>
+    </body>
+</html>

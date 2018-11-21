@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1174">
+    <body>
+        <p>The Favicons skin component is the only one that is not associated with a proxy. Simply by adding and editing this type of skin component, your HTML5 output will include favicons (“favorite icons”) in the appropriate locations.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Skins/More/Adding-Favicons.htm">Adding Favicons</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

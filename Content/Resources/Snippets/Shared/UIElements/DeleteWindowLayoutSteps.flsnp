@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="4" MadCap:lastHeight="241" MadCap:lastWidth="739" MadCap:conditions="Products.Align,Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.HelpViewer,Products.Lingo,Products.MovieViewer,Products.Mimic" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>You can open the Manage Window Layouts dialog, which lets you select or delete an existing layout.</p>
+        <ol>
+            <li>
+                <MadCap:snippetText src="SelectWindowRibbon.flsnp" /> In the <span class="Emphasis">Window Layout</span> section select  <span class="Emphasis">Layout &gt; Layouts</span>.<p>The Manage Window Layouts dialog opens.</p></li>
+            <li>Select the layout that you want to delete.</li>
+            <li>Click <span class="Emphasis">Delete</span>.</li>
+            <li>Confirm the deletion by clicking <span class="Emphasis">OK</span>.</li>
+            <li>Click <span class="Emphasis">Close</span>.</li>
+        </ol>
+    </body>
+</html>

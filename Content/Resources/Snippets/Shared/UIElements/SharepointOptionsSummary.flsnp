@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="294" MadCap:lastWidth="979">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Click the arrow to open a submenu, which lets you select various SharePoint options for the selected file(s). <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Sharepoint/About-SharePoint-Integration.htm">About SharePoint Integration</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Sharepoint/About-SharePoint-Integration.htm">About SharePoint Integration</MadCap:xref>.</MadCap:conditionalText></p>
+        <p class="TableText">Menu options include:</p>
+        <ul>
+            <li value="3"><span class="SetOffFirstLevel">Check In </span>Opens the Check In dialog, which lets you check files into SharePoint. When you are finished editing files, you can check them in to SharePoint. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Sharepoint/Checking-In-SharePoint-Files.htm">Checking In SharePoint Files</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Sharepoint/Checking-In-SharePoint-Files.htm">Checking In SharePoint Files</MadCap:xref>.</MadCap:conditionalText></li>
+            <li value="4"><span class="SetOffFirstLevel">Check Out </span>Opens the Check Out dialog, which lets you check out files from SharePoint. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Sharepoint/Checking-Out-SharePoint-Files.htm">Checking Out SharePoint Files</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Sharepoint/Checking-Out-SharePoint-Files.htm">Checking Out SharePoint Files</MadCap:xref>.</MadCap:conditionalText></li>
+            <li value="6"><span class="SetOffFirstLevel">Undo Check Out </span>Opens the Undo Check Out dialog, which lets you reverse the check-out of the files. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Sharepoint/Undoing-Check-Out-SharePoint-Files.htm">Undoing a Check-Out of SharePoint Files</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Sharepoint/Undoing-Check-Out-SharePoint-Files.htm">Undoing a Check-Out of SharePoint Files</MadCap:xref>.</MadCap:conditionalText></li>
+        </ul>
+    </body>
+</html>

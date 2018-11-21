@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can use the built-in Analyzer and reports to find broken bookmarks. You can also generate reports to fine both used and unused bookmarks in your project. See <MadCap:xref href="../../../../Flare/Nav-Links/Bookmarks/Viewing-Broken-Bookmarks.htm">Viewing Broken Bookmarks</MadCap:xref>, <MadCap:xref href="../../../../Flare/Analyzer/Reports.htm">About Reports</MadCap:xref>, and <MadCap:xref href="../../../../Flare/Analyzer/Generating-Reports.htm">Generating Reports</MadCap:xref>.</p>
+        </div>
+    </body>
+</html>

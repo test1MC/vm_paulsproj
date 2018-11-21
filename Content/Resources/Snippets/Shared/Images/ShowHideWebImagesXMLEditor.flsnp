@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>You might have many image tags that link to websites, rather than linking to images in the project.</p>
+        <p>For example: &lt;img src="http://www.madcapsoftware.com/images/home/company.png" /&gt;</p>
+        <p>Keep in mind that slow website response times may slow down your work. Therefore, you might want to disable the rendering of such images in the XML Editor.</p>
+    </body>
+</html>

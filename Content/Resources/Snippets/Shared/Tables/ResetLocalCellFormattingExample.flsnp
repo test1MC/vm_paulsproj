@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say you have a table with three columns and you have locally added a different background color for each column. If you want to remove the background colors for all of the columns, you simply need to place your cursor somewhere in the table, right-click, and select <span class="Emphasis">Reset Local Cell Formatting</span>.</p>
+            <p>However, let's say instead that you want to remove the background color for only the middle column. In that case, you can select that column so that it is highlighted, right-click, and then select <span class="Emphasis">Reset Local Cell Formatting</span>.</p>
+        </div>
+    </body>
+</html>

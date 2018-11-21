@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>Make sure you have created a templates folder. When you create a templates folder using the Template Manager, all of the regular template subfolders are created for you, including one named "FrameSnippets," which is the subfolder that will hold your frame snippets.</p>
+    </body>
+</html>

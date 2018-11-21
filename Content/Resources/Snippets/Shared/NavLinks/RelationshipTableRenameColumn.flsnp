@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <ol class="LowerAlpha">
+            <li>Highlight any cell in the column you want to rename. </li>
+            <li>In the local toolbar click <img src="../../../Images/Shared/column_properties_btn.png" class="ReduceButtonSize" /> to run the Column Properties dialog.</li>
+            <li>In the <span class="Emphasis">Column Type</span> field, enter a name.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

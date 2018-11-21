@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:snippetText src="../ProgressPanel.flsnp" />
+            <MadCap:snippetText src="../ProgressPanelReasons.flsnp" /> A new checkbox in the Options dialog controls when you will see the Doc-To-Help Progress panel (see <MadCap:xref href="#New">New Doc-To-Help Options Dialog Settings</MadCap:xref>).</p>
+        <p>
+            <img src="../../../Images/D2H/progress_panel.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p class="OnlineOnly">See <MadCap:xref href="../../../../D2H/Interface/UI-Elements/Progress-Panel.htm">Doc-To-Help Progress Panel</MadCap:xref>.</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer" MadCap:lastBlockDepth="4" MadCap:lastHeight="97" MadCap:lastWidth="979">
+    <body>
+        <p>Select one of the basic sizes for the QR code. If you select (default), the code will be the size specified in the MadCap|qrCode style in your stylesheet. If you want to use a different size, you can set the max-height or max-width value for the MadCap|qrCode style. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../../Flare/QR-Codes/Resizing-QR-Codes.htm">Resizing QR Codes</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.ContributorOnlineOnly">See <MadCap:xref href="../../../../Contributor/QR-Codes/Resizing-QR-Codes.htm">Resizing QR Codes</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

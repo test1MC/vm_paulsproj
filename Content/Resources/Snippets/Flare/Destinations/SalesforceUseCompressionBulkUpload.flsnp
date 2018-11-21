@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <span class="SetOffFirstLevel">Use compression and bulk upload </span>Select this option if you prefer to compress the generated output files before uploading them to Salesforce. This can speed up the process.</p>
+    </body>
+</html>

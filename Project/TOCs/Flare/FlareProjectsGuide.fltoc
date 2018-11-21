@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 1 Starting a Project"
+    Link="/Content/Flare/Introduction/Steps/Start-Project.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartSection="false"
+    StartPageLayout="false"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    PageNumberFormat="decimal">
+    <TocEntry
+      Title="Creating a New Project"
+      Link="/Content/Flare/Projects/Creating-Project.htm"
+      MarkAsNew="False"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing Word Documents"
+      StartChapter="False"
+      Link="/Content/Flare/Importing/Importing-Word-Files.htm"
+      MarkAsNew="False"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing FrameMaker Documents"
+      Link="/Content/Flare/Importing/Importing-FM-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing a RoboHelp Project"
+      Link="/Content/Flare/Importing/Importing-RH-Project.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing an HTML Help Project (HHP)"
+      Link="/Content/Flare/Importing/Importing-HTML-Help-Project.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing CHM Files"
+      Link="/Content/Flare/Importing/Importing-CHM-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing DITA File Content"
+      Link="/Content/Flare/Importing/Importing-DITA-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing HTML Files"
+      Link="/Content/Flare/Importing/Importing-HTML-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing a Doc-To-Help Project"
+      Link="/Content/Flare/Importing/Importing-D2H-Project.htm" />
+    <TocEntry
+      Title="Importing a Project from Source Control"
+      Link="/Content/Shared/Source-Control/Linked-Topics/Importing-Projects.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Importing a Project from Subversion"
+        Link="/Content/Shared/Source-Control/Subversion/Importing-Project-from-Source-Control-svn.htm" />
+      <TocEntry
+        Title="Importing a Project from Git"
+        Link="/Content/Shared/Source-Control/Git/Importing-Project-from-Source-Control-git.htm" />
+      <TocEntry
+        Title="Importing a Project from Microsoft Team Foundation Server"
+        Link="/Content/Shared/Source-Control/TFS/Importing-Project-from-Source-Control-tfs.htm" />
+      <TocEntry
+        Title="Importing a Project from Microsoft Visual Studio Online"
+        Link="/Content/Shared/Source-Control/TFS/Importing-Project-from-Microsoft-Visual-Studio-Online.htm" />
+      <TocEntry
+        Title="Importing a Project from Microsoft Visual SourceSafe"
+        Link="/Content/Flare/Source-Control/VSS/Importing-Project-from-Source-Control-vss.htm" />
+      <TocEntry
+        Title="Importing a Project from Perforce"
+        Link="/Content/Shared/Source-Control/Perforce/Importing-Project-from-Source-Control-per.htm" />
+      <TocEntry
+        Title="Importing a Project from a Third-Party Source Control Provider"
+        Link="/Content/Flare/Source-Control/Third-Party-Plug-Ins/Importing-Project-from-Source-Control-api.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Converting Author-it Files"
+      Link="/Content/Flare/Importing/Converting-AuthorIt-Files.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 2 Merging Projects"
+    Link="/Content/Flare/TOCs/Merging-Projects.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartSection="false"
+    StartPageLayout="false">
+    <TocEntry
+      Title="Linking to CHM Files"
+      Link="/Content/Flare/TOCs/More/Linking-to-CHM-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Merging Flare Projects Using Targets"
+      Link="/Content/Flare/TOCs/More/Merging-Flare-Projects-Using-Targets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Merging Output from DotNet Help Projects"
+      Link="/Content/Flare/TOCs/More/Merging-Output-from-DotNet-Help-Projects.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Merging Output from Flare WebHelp Projects"
+      Link="/Content/Flare/TOCs/More/Merging-Output-from-Flare-WebHelp-Projects.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Merging Output from HTML Help Projects"
+      Link="/Content/Flare/TOCs/More/Merging-Output-from-HTML-Help-Projects.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Merging Output at Runtime Using HTML5"
+      Link="/Content/Flare/Output/HTML5-Output/AutoMerge/Merging-Output-Runtime-Using-HTML5.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Specifying the Auto-Merge Location in a Browse Sequence for HTML5"
+        Link="/Content/Flare/Output/HTML5-Output/AutoMerge/Specifying-Auto-Merge-Location-Browse-Sequence-HTML5.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Specifying the Auto-Merge Location in a TOC for HTML5"
+        Link="/Content/Flare/Output/HTML5-Output/AutoMerge/Specifying-Auto-Merge-Location-TOC-HTML5.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Specifying the Order of Auto-Merged HTML5 Outputs"
+        Link="/Content/Flare/Output/HTML5-Output/AutoMerge/Specifying-Order-Auto-Merged-Outputs-HTML5.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Merging Output at Runtime Using WebHelp Plus"
+      Link="/Content/Flare/Output/WebHelp-Plus-Output/AutoMerge/Merging-Output-Runtime-Using-WebHelp-Plus.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Specifying the Auto-Merge Location in a Browse Sequence"
+        Link="/Content/Flare/Output/WebHelp-Plus-Output/AutoMerge/Specifying-Auto-Merge-Location-Browse-equence.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Specifying the Auto-Merge Location in a TOC"
+        Link="/Content/Flare/Output/WebHelp-Plus-Output/AutoMerge/Specifying-Auto-Merge-Location-TOC.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Specifying the Order of Auto-Merged Outputs"
+        Link="/Content/Flare/Output/WebHelp-Plus-Output/AutoMerge/Specifying-Order-Auto-Merged-Outputs.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Displaying Merged Navigation in HTML Help Child Outputs"
+      Link="/Content/Flare/Targets/More/Displaying-Merged-Navigation-HTML-Help.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Exporting Projects"
+    Link="/Content/Print-Only-Topics/Flare/Exporting/Exporting-Projects.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Adding an Export Project File"
+      Link="/Content/Flare/Exporting/Adding-Export-Project-File.htm" />
+    <TocEntry
+      Title="Exporting Projects"
+      Link="/Content/Flare/Exporting/Exporting-Projects.htm" />
+    <TocEntry
+      Title="Exporting Projects Using the Command Line"
+      Link="/Content/Flare/Exporting/Exporting-Projects-Using-Command-Line.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Other Project Tasks"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    Link="/Content/Flare/Projects/Opening-Project.htm">
+    <TocEntry
+      Title="Closing Projects"
+      Link="/Content/Flare/Projects/Closing-Projects.htm"
+      MarkAsNew="False"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Deleting Projects"
+      Link="/Content/Flare/Projects/Deleting-Projects.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Zipping Projects"
+      Link="/Content/Flare/Zip/Zipping-Projects.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Zipping and Emailing Projects"
+      Link="/Content/Flare/Zip/Zipping-Emailing-Projects.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

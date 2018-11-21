@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="TableText">Receive a notification if a team is deleted. This notification is sent to all team members, except the user who made the change.</p>
+    </body>
+</html>

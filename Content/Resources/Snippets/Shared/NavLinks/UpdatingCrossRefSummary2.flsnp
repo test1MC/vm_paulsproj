@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>Updating cross-references is not a mandatory step when it comes to the output. When you generate output<MadCap:conditionalText MadCap:conditions="Products.Flare"> for a target</MadCap:conditionalText>, all of your cross-references in the output will be updated automatically. However, the cross-references in the source files<MadCap:conditionalText MadCap:conditions="Products.Flare"> in your project</MadCap:conditionalText> will remain as they were. But you can use the following steps to manually update cross-references in a single content file, such as a topic or snippet. This is a way of performing a spot check ahead of time, verifying that cross-references will be updated accurately before you generate the output.</p>
+    </body>
+</html>

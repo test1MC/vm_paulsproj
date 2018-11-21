@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="8" MadCap:lastHeight="415" MadCap:lastWidth="1029">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../PageLayouts/OpenPageLayoutStep.flsnp" />
+            </li>
+            <li>In the local toolbar, click the <span class="Emphasis">New Frame</span> button <img src="../../../Images/Shared/new_frame_mode_btn.png" class="ReduceButtonSize"></img>.</li>
+            <li>In the drop-down, select <span class="Emphasis">New Image Frame</span>. The Insert Image dialog opens, prompting you to provide an image file.</li>
+            <li>
+                <MadCap:snippetText src="ImagesInsertPictureStep1.flsnp" />
+                <MadCap:snippetBlock src="ImagesInsertPictureStep2.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /> The image is added to a frame of the same size, which you can place on the page as necessary.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

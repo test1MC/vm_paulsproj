@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Align">
+    <body>
+        <p>When you create an alignment project, a file with an <MadCap:keyword term="LIALIGN file" />.lialign extension is automatically generated (e.g., My Project Version 2 Italian.lialign). This is the main file for the alignment project and is stored at the root level of the project folder in Windows (e.g., Documents\My Aligned Projects\My Project Version 2 Italian\My Project Version 2 Italian.lialign). You can open the project by double-clicking this file.</p>
+    </body>
+</html>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel">Ribbon </span>
+                        <MadCap:snippetText src="../UIElements/SelectViewRibbon.flsnp" /> In the <span class="Emphasis">Reference</span> section select <span class="Emphasis">Concept Window</span>. </li>
+                    <li><span class="SetOffFirstLevel">Keyboard Shortcut </span>Press <span class="Emphasis">SHIFT+F9</span>.</li>
+                </ul>
+                <MadCap:snippetBlock src="ConceptWindowPaneOpens.flsnp" />
+            </li>
+            <li>In the explorer area at the bottom of the window pane, right-click on the concept keyword that you want to delete. From the context menu select <span class="Emphasis">Remove Keyword</span>.The keyword is removed from all topics where it had been inserted.</li>
+        </ol>
+    </body>
+</html>

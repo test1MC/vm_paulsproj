@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>If the bookmark is being placed at the beginning of a bulleted list of product features, you might type <span class="TypedEntry">ProductFeatures</span> as the bookmark name.</p>
+        </div>
+    </body>
+</html>

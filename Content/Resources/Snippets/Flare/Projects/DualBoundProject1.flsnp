@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="2" MadCap:lastHeight="97" MadCap:lastWidth="960" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>If your project is already bound to a third-party source control provider other than Git (i.e., you are working in a dual-bound model as opposed to a single-bound model<MadCap:conditionalText MadCap:conditions="General.OnlineOnly">—see <MadCap:xref href="../../../../Flare/Projects/Source-Control-Central.htm#DualBoundOnline">Dual-bound Projects</MadCap:xref></MadCap:conditionalText>), the Import option in the MadCap Central window pane will be disabled. This is because you should import your project directly from source control using your non-Central binding.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly">  See <MadCap:xref href="../../../../Shared/Source-Control/Linked-Topics/Importing-Projects.htm">Importing a Project from Source Control</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

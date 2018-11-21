@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo">
+    <body>
+        <p>This dialog is used when you bind an existing project to source control or import a project from source control and you are using <MadCap:keyword term="Microsoft Team Foundation Server" />Team Foundation Server.</p>
+    </body>
+</html>

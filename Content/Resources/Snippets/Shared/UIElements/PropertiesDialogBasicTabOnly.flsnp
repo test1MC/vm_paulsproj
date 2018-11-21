@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>This dialog is used to display basic <MadCap:keyword term="Files:properties;Properties:files" />properties (name, location, size, date created, date last modified) of a file. It is also used to change the name of the file or mark it <MadCap:keyword term="Read only:project files" />as "Read Only."</p>
+    </body>
+</html>

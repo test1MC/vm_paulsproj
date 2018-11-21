@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="101" MadCap:lastWidth="1010">
+    <body>
+        <ul class="FirstLevel">
+            <li>In the <span class="Emphasis">Width</span> and/or <span class="Emphasis">Height</span> field of the <span class="Emphasis">Size</span> section, provide the settings. <MadCap:snippetText src="../UIElements/FirstSelectLength.flsnp" /><MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Flare/Styles/More/About-UOM-Flare.htm">About Units of Measurement</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> See <MadCap:xref href="../../../../Contributor/Styles/More/About-UOM-Contributor.htm">About Units of Measurement</MadCap:xref>.</MadCap:conditionalText></li>
+        </ul>
+    </body>
+</html>

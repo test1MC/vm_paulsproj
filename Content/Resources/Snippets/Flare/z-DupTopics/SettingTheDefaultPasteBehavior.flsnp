@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="1329" MadCap:lastWidth="678">
+    <body>
+        <p>
+            <MadCap:snippetText src="../../Shared/Pasting/DefaultBehaviorIntro.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Topics/DefaultPasteBehaviorExample.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to set the default paste behavior</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>Open a <MadCap:snippetText src="../../Shared/Topics/ContentFileDocument.flsnp" /> and perform one of the actions that causes the paste icon to display.<ul class="FirstLevel"><li><MadCap:xref href="../../../../Flare/Tables/Converting-Tables-to-Text.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Converting Tables to Text</MadCap:xref></li><li><MadCap:xref href="../../../../Flare/Tables/Cutting-Table-Columns-Rows.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Cutting Table Columns and Rows</MadCap:xref></li><li><MadCap:xref href="../../../../Flare/Tables/Merging-Tables.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Merging Tables</MadCap:xref></li><li><MadCap:xref href="../../../../Flare/Tables/Pasting-Cells-Within-Table.htm" MadCap:conditions="General.OnlineOnly" MadCap:excludeAction="unbind">Pasting Cells Within a Table</MadCap:xref></li><li><MadCap:xref href="../../../../Flare/Topics/Pasting-Text-from-Other-Programs.htm" MadCap:conditions="General.OnlineOnly">Pasting Text from Other Programs</MadCap:xref></li><li><MadCap:xref href="../../../../Flare/Nav-Links/Text-Hyperlinks/Inserting-Text-Hyperlinks.htm" MadCap:conditions="General.OnlineOnly">Inserting Text Hyperlinks</MadCap:xref></li><li><MadCap:xref href="../../../../Flare/Nav-Links/Cross-References/Inserting-Cross-References.htm" MadCap:conditions="General.OnlineOnly">Inserting Cross-References</MadCap:xref></li></ul></li>
+                    <li> Hover over the <span class="Emphasis">Paste</span> icon <img src="../../../Images/Shared/paste_btn2.png" class="ReduceButtonSize" /> that appears after the content, click the drop-down arrow, and from the menu select <span class="Emphasis">Set Default</span>.</li>
+                    <li>In the Default Behavior dialog, select the paste method that you want to use as the default for that type of action.</li>
+                    <li>
+                        <MadCap:snippetBlock src="../../Shared/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

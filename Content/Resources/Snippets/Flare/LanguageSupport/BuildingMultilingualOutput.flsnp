@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1186">
+    <body>
+        <p>When you are ready to build your output, open the target you want to generate and click <span class="Emphasis">Build</span><MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../../../../Flare/Output/About-Building-Output.htm">About Building and Publishing Output</MadCap:xref>)</MadCap:conditionalText>. Flare will generate the linked target from each project in the order you specified. The final files will be generated differently depending on the output you are generating. </p>
+    </body>
+</html>

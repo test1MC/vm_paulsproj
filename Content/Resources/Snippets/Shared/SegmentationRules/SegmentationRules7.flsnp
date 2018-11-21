@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Align">
+    <body>
+        <p>You can also create advanced segmentation rules. Advanced segmentation rules allow you to override or edit <MadCap:variable name="Other.Product" />'s default segmentation rules and to set segmentation rules for specific languages.</p>
+    </body>
+</html>

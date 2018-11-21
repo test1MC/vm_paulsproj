@@ -1,0 +1,873 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  conditions="Products.D2H">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/D2H/Introduction/Welcome-D2H.htm"
+    conditions="Products.D2HLocalOnly"></TocEntry>
+  <TocEntry
+    Title="Where Do I Begin?"
+    Link="/Content/D2H/Introduction/Where-Begin-D2H.htm"
+    conditions="Products.D2HLocalOnly">
+    <TocEntry
+      Title="Content Reuse and More"
+      Link="/Content/D2H/Introduction/Content-Reuse-More-D2H.htm"></TocEntry>
+    <TocEntry
+      Title="New User Tutorial"
+      Link="/Content/D2H/Tutorials/New-User/New-User-Tutorial.htm">
+      <TocEntry
+        Title="1 Creating a Project"
+        Link="/Content/D2H/Tutorials/New-User/Creating-Project.htm" />
+      <TocEntry
+        Title="2 Importing a Document"
+        Link="/Content/D2H/Tutorials/New-User/Importing-Document.htm" />
+      <TocEntry
+        Title="3 Building and Examining a Target"
+        Link="/Content/D2H/Tutorials/New-User/Building-Examining-Target.htm" />
+      <TocEntry
+        Title="4 Inserting an Image"
+        Link="/Content/D2H/Tutorials/New-User/Inserting-Image.htm" />
+      <TocEntry
+        Title="5 Applying a Style"
+        Link="/Content/D2H/Tutorials/New-User/Applying-Style.htm" />
+      <TocEntry
+        Title="6 Creating a Topic Link"
+        Link="/Content/D2H/Tutorials/New-User/Creating-Topic-Link.htm" />
+      <TocEntry
+        Title="7 Creating Inline Text"
+        Link="/Content/D2H/Tutorials/New-User/Creating-Inline-Text.htm" />
+      <TocEntry
+        Title="8 Creating an Index Entry"
+        Link="/Content/D2H/Tutorials/New-User/Creating-Index-Entry.htm" />
+      <TocEntry
+        Title="9 Defining Targets"
+        Link="/Content/D2H/Tutorials/New-User/Defining-Targets.htm"
+        StartSection="false" />
+      <TocEntry
+        Title="10 Creating Custom Topic Relations"
+        Link="/Content/D2H/Tutorials/New-User/Creating-Custom-Topic-Relations.htm" />
+      <TocEntry
+        Title="11 Adding a Document"
+        Link="/Content/D2H/Tutorials/New-User/Adding-Document.htm" />
+      <TocEntry
+        Title="12 Adding Glossary Entries"
+        Link="/Content/D2H/Tutorials/New-User/Adding-Glossary-Entries.htm" />
+      <TocEntry
+        Title="13 Creating a Customized Table of Contents"
+        Link="/Content/D2H/Tutorials/New-User/Creating-Customized-TOC.htm" />
+      <TocEntry
+        Title="14 Adding Items to the Index and Creating Groups"
+        Link="/Content/D2H/Tutorials/New-User/Adding-Items-to-Index-Creating-Groups.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="PDF Guides"
+      Link="/Content/D2H/PDF-Guides/PDF-Guides-D2H.htm"></TocEntry>
+    <TocEntry
+      Title="What's New?"
+      Link="/Content/D2H/Introduction/Whats-New-D2H.htm"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Upgrading Old Projects"
+      Link="/Content/D2H/Introduction/Steps/Upgrading-Old-Projects.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Get Started"
+    Link="/Content/D2H-Server/Introduction/Get-Started-D2H.htm"
+    conditions="Products.D2HServerOnly">
+    <TocEntry
+      Title="Where Do I Begin?"
+      Link="/Content/D2H/Introduction/Where-Begin-D2H.htm" />
+    <TocEntry
+      Title="Content Reuse and More"
+      Link="/Content/D2H/Introduction/Content-Reuse-More-D2H.htm"></TocEntry>
+    <TocEntry
+      Title="New User Tutorial"
+      Link="/Content/D2H/Tutorials/New-User/New-User-Tutorial.htm">
+      <TocEntry
+        Title="1 Creating a Project"
+        Link="/Content/D2H/Tutorials/New-User/Creating-Project.htm" />
+      <TocEntry
+        Title="2 Importing a Document"
+        Link="/Content/D2H/Tutorials/New-User/Importing-Document.htm" />
+      <TocEntry
+        Title="3 Building and Examining a Target"
+        Link="/Content/D2H/Tutorials/New-User/Building-Examining-Target.htm" />
+      <TocEntry
+        Title="4 Inserting an Image"
+        Link="/Content/D2H/Tutorials/New-User/Inserting-Image.htm" />
+      <TocEntry
+        Title="5 Applying a Style"
+        Link="/Content/D2H/Tutorials/New-User/Applying-Style.htm" />
+      <TocEntry
+        Title="6 Creating a Topic Link"
+        Link="/Content/D2H/Tutorials/New-User/Creating-Topic-Link.htm" />
+      <TocEntry
+        Title="7 Creating Inline Text"
+        Link="/Content/D2H/Tutorials/New-User/Creating-Inline-Text.htm" />
+      <TocEntry
+        Title="8 Creating an Index Entry"
+        Link="/Content/D2H/Tutorials/New-User/Creating-Index-Entry.htm" />
+      <TocEntry
+        Title="9 Defining Targets"
+        Link="/Content/D2H/Tutorials/New-User/Defining-Targets.htm"
+        StartSection="false" />
+      <TocEntry
+        Title="10 Creating Custom Topic Relations"
+        Link="/Content/D2H/Tutorials/New-User/Creating-Custom-Topic-Relations.htm" />
+      <TocEntry
+        Title="11 Adding a Document"
+        Link="/Content/D2H/Tutorials/New-User/Adding-Document.htm" />
+      <TocEntry
+        Title="12 Adding Glossary Entries"
+        Link="/Content/D2H/Tutorials/New-User/Adding-Glossary-Entries.htm" />
+      <TocEntry
+        Title="13 Creating a Customized Table of Contents"
+        Link="/Content/D2H/Tutorials/New-User/Creating-Customized-TOC.htm" />
+      <TocEntry
+        Title="14 Adding Items to the Index and Creating Groups"
+        Link="/Content/D2H/Tutorials/New-User/Adding-Items-to-Index-Creating-Groups.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="What's New?"
+      Link="/Content/D2H/Introduction/Whats-New-D2H.htm"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Upgrading Old Projects"
+      Link="/Content/D2H/Introduction/Steps/Upgrading-Old-Projects.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Basic Steps"
+    Link="/Content/D2H/Introduction/Steps/Basic-Steps-D2H.htm">
+    <TocEntry
+      Title="Step 1: Create or Convert Projects"
+      Link="/Content/D2H/Introduction/Steps/Creating-Converting-Projects-DNH.htm">
+      <TocEntry
+        Title="Converting DocToHelp 2000 Notes"
+        Link="/Content/D2H/Projects/Converting-DocToHelp-2000-Notes.htm" />
+      <TocEntry
+        Title="Converting RoboHelp Word Notes"
+        Link="/Content/D2H/Projects/Converting-RoboHelp-Word-Notes.htm" />
+      <TocEntry
+        Title="Converting WinHelp Notes"
+        Link="/Content/D2H/Projects/Converting-WinHelp-Notes.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Step 2: Work With Documents, Templates, and Content"
+      Link="/Content/D2H/Introduction/Steps/Documents-Templates-Content.htm" />
+    <TocEntry
+      Title="Step 3: Make It Look Good"
+      Link="/Content/D2H/Introduction/Steps/Look-Good.htm" />
+    <TocEntry
+      Title="Step 4: Develop Targets"
+      Link="/Content/D2H/Introduction/Steps/Develop-Targets.htm" />
+    <TocEntry
+      Title="Step 5: Build Output"
+      Link="/Content/D2H/z-DupTopics/Building-Output.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Features"
+    Link="/Content/D2H/Introduction/Features/Features.htm">
+    <TocEntry
+      Title="Documents, Templates, and Content"
+      Link="/Content/D2H/z-DupTopics/Documents-Templates-Content.htm">
+      <TocEntry
+        Title="Documents"
+        Link="/Content/D2H/Source-Documents/About-Source-Documents.htm">
+        <TocEntry
+          Title="Adding, Renaming, and Removing Documents"
+          Link="/Content/D2H/Source-Documents/Adding-Document-to-Project.htm" />
+        <TocEntry
+          Title="Converting DOC Files to DOCX"
+          Link="/Content/D2H/Source-Documents/Converting-DOC-Files-to-DOCX.htm" />
+        <TocEntry
+          Title="Converting Documents to HTML5"
+          Link="/Content/D2H/Source-Documents/Converting-Documents-to-HTML5.htm" />
+        <TocEntry
+          Title="Document Properties"
+          Link="/Content/D2H/Source-Documents/Setting-Document-Properties.htm"></TocEntry>
+        <TocEntry
+          Title="Finding Projects Containing Documents"
+          Link="/Content/D2H/Source-Documents/Finding-Projects-Containing-Source-Document.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Templates and Styles"
+        Link="/Content/D2H/z-DupTopics/About-Templates-Styles-D2H.htm">
+        <TocEntry
+          Title="Editing a Template"
+          Link="/Content/D2H/z-DupTopics/Editing-Template.htm" />
+        <TocEntry
+          Title="Selecting Templates"
+          Link="/Content/D2H/z-DupTopics/Selecting-Templates-D2H.htm" />
+        <TocEntry
+          Title="Copying Custom Styles"
+          Link="/Content/D2H/Templates/Copying-Styles-to-New-Template.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="ActiveX Controls"
+        Link="/Content/D2H/ActiveX-Controls/Inserting-an-HTML-Help-ActiveX-Control.htm" />
+      <TocEntry
+        Title="Conditions"
+        Link="/Content/D2H/Conditions/About-Conditions-D2H.htm">
+        <TocEntry
+          Title="Creating and Using Attributes"
+          Link="/Content/D2H/Conditions/Creating-Using-Attributes.htm" />
+        <TocEntry
+          Title="Marking Text as Conditional"
+          Link="/Content/D2H/Conditions/Marking-Text-Conditional.htm" />
+        <TocEntry
+          Title="Setting Topic Conditions"
+          Link="/Content/D2H/Conditions/Setting-Topic-Conditions.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Glossaries"
+        Link="/Content/D2H/Glossaries/About-Glossaries-D2H.htm">
+        <TocEntry
+          Title="Adding Terms to the Glossary"
+          Link="/Content/D2H/Glossaries/Adding-Terms-to-Glossary.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Images"
+        Link="/Content/D2H/Images/About-Images-D2H.htm">
+        <TocEntry
+          Title="Creating Image Maps"
+          Link="/Content/D2H/Images/Creating-Image-Maps.htm"></TocEntry>
+        <TocEntry
+          Title="Splitting an Image into Equal Hot Regions"
+          Link="/Content/D2H/Images/Splitting-Image-into-Equal-Hot-Regions.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Indexes"
+        Link="/Content/D2H/Indexes/About-Indexes-D2H.htm">
+        <TocEntry
+          Title="Creating Index Keywords in a Project"
+          Link="/Content/D2H/Indexes/Creating-Index-Keywords-in-Project.htm" />
+        <TocEntry
+          Title="Creating Index Keywords in a Source Document"
+          Link="/Content/D2H/Indexes/Creating-Index-Keywords-in-Source-Document.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Margin Notes"
+        Link="/Content/D2H/Margin-Notes/Creating-Margin-Notes.htm" />
+      <TocEntry
+        Title="Multimedia"
+        Link="/Content/D2H/Multimedia/About-Multimedia-D2H.htm" />
+      <TocEntry
+        Title="Navigation Links"
+        Link="/Content/D2H/Nav-Links/About-Links-D2H.htm">
+        <TocEntry
+          Title="Cross-References"
+          Link="/Content/D2H/Nav-Links/Cross-References/Inserting-Cross-References.htm" />
+        <TocEntry
+          Title="Expanded, Drop-Down, or Popup Text"
+          Link="/Content/D2H/Nav-Links/Creating-Expanded-Dropdown-or-Popup-Text.htm" />
+        <TocEntry
+          Title="Expanding/Collapsing Section"
+          Link="/Content/D2H/Nav-Links/Creating-Expanding-Collapsing-Section.htm" />
+        <TocEntry
+          Title="Groups"
+          Link="/Content/D2H/Nav-Links/Groups/About-Groups.htm">
+          <TocEntry
+            Title="Adding a Topic to a Group"
+            Link="/Content/D2H/Nav-Links/Groups/Adding-Topic-to-Group.htm" />
+          <TocEntry
+            Title="Creating Groups"
+            Link="/Content/D2H/Nav-Links/Groups/Creating-Groups.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Links"
+          Link="/Content/D2H/Nav-Links/Creating-Links.htm">
+          <TocEntry
+            Title="Drag-and-Drop Linking"
+            Link="/Content/D2H/Nav-Links/Drag-Drop-Linking.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Link Tags"
+          Link="/Content/D2H/Nav-Links/Adding-Link-Tag.htm" />
+        <TocEntry
+          Title="Related Topics"
+          Link="/Content/D2H/Nav-Links/Managing-Related-Topics.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Tables"
+        Link="/Content/D2H/Tables/Inserting-Standard-D2H-Table.htm" />
+      <TocEntry
+        Title="Tables of Contents"
+        Link="/Content/D2H/TOCs/Creating-TOC.htm" />
+      <TocEntry
+        Title="Topics"
+        Link="/Content/D2H/Topics/About-Topics-D2H.htm">
+        <TocEntry
+          Title="Adding, Renaming, and Deleting Topics"
+          Link="/Content/D2H/Topics/Adding-Renaming-Deleting-Topics.htm" />
+        <TocEntry
+          Title="Printing and Exporting the Topic List"
+          Link="/Content/D2H/Topics/Printing-Exporting-Topic-List.htm">
+          <TocEntry
+            Title="Exporting the Topic List"
+            Link="/Content/D2H/Topics/Exporting-Topic-List.htm" />
+          <TocEntry
+            Title="Printing the Topic List"
+            Link="/Content/D2H/Topics/Printing-Topic-List.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Setting D2HML Topic Properties"
+          Link="/Content/D2H/Topics/Setting-D2HML-Topic-Properties.htm" />
+        <TocEntry
+          Title="Viewing and Changing Topic Properties"
+          Link="/Content/D2H/Topics/Viewing-Changing-Topic-Properties.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Variables"
+        Link="/Content/D2H/Variables/About-Variables-D2H.htm">
+        <TocEntry
+          Title="Creating Rich Content Variables"
+          Link="/Content/D2H/Variables/Creating-Rich-Content-Variables.htm" />
+        <TocEntry
+          Title="Creating Text Variables"
+          Link="/Content/D2H/Variables/Creating-Text-Variables.htm" />
+        <TocEntry
+          Title="Inserting a Variable"
+          Link="/Content/D2H/Variables/Inserting-Variable.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Making It Look Good"
+      Link="/Content/D2H/z-DupTopics/Look-Good.htm">
+      <TocEntry
+        Title="Styles"
+        Link="/Content/D2H/Styles/About-Styles-D2H.htm">
+        <TocEntry
+          Title="Applying Styles in Microsoft Word"
+          Link="/Content/D2H/Styles/Applying-Styles-in-Microsoft-Word.htm"></TocEntry>
+        <TocEntry
+          Title="Templates and Styles"
+          Link="/Content/D2H/Templates/About-Templates-Styles-D2H.htm">
+          <TocEntry
+            Title="Editing a Template"
+            Link="/Content/D2H/Templates/Editing-Template.htm" />
+          <TocEntry
+            Title="Selecting Templates"
+            Link="/Content/D2H/Templates/Selecting-Templates-D2H.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Doc-To-Help Markup Language"
+          Link="/Content/D2H/Styles/About-D2HML-DocToHelp-Markup-Language.htm">
+          <TocEntry
+            Title="Clearing Doc-To-Help Markup Language Styles"
+            Link="/Content/D2H/Styles/Clearing-D2HML-Styles.htm" />
+          <TocEntry
+            Title="Showing Hidden Hotspots"
+            Link="/Content/D2H/Styles/Showing-Hidden-Hotspots.htm" />
+          <TocEntry
+            Title="Using Doc-To-Help Markup Language Hotspots in XML Comments"
+            Link="/Content/D2H/Styles/Using-D2HML-Hot-Spots-in-XML-Comments.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Project Styles and Topic Types"
+          Link="/Content/D2H/Styles/About-Project-Styles-and-Topic-Types.htm">
+          <TocEntry
+            Title="Character Styles"
+            Link="/Content/D2H/Styles/Character-Styles.htm" />
+          <TocEntry
+            Title="Paragraph Styles"
+            Link="/Content/D2H/Styles/Paragraph-Styles.htm" />
+          <TocEntry
+            Title="Topic Types"
+            Link="/Content/D2H/Styles/Topic-Types.htm" />
+          <TocEntry
+            Title="Working with Scripts"
+            Link="/Content/D2H/Styles/Working-with-Scripts.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Themes"
+        Link="/Content/D2H/Themes/About-Themes.htm">
+        <TocEntry
+          Title="Adding a Theme or Theme Configuration"
+          Link="/Content/D2H/Themes/Adding-Theme-or-Theme-Configuration.htm" />
+        <TocEntry
+          Title="Eclipse Help and EPUB Themes"
+          Link="/Content/D2H/Themes/Customizing-Eclipse-Help-EPUB-Themes.htm">
+          <TocEntry
+            Title="Theme Editor"
+            Link="/Content/D2H/Themes/Using-Theme-Editor.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="HTML Help, Help Viewer, Help 2.0, and JavaHelp Themes"
+          Link="/Content/D2H/Themes/Customizing-HTML-Help-Help-Viewer-Help-20-JavaHelp-Themes.htm">
+          <TocEntry
+            Title="Including Custom HTML Content in Themes"
+            Link="/Content/D2H/Themes/Including-Custom-HTML-Content-Themes.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="NetHelp Themes"
+          Link="/Content/D2H/Themes/Customizing-NetHelp-Themes.htm">
+          <TocEntry
+            Title="Creating and Adding New Theme Stylesheets"
+            Link="/Content/D2H/Themes/Creating-Adding-Stylesheets.htm" />
+          <TocEntry
+            Title="NetHelp Theme Designer"
+            Link="/Content/D2H/Themes/Using-NetHelp-Theme-Designer.htm">
+            <TocEntry
+              Title="Custom Icons"
+              Link="/Content/D2H/Themes/Adding-Custom-Icons-to-NetHelp-Theme.htm" />
+            <TocEntry
+              Title="Settings List Editor for Localization and More"
+              Link="/Content/D2H/Themes/Using-Settings-List-Editor-for-Localization-More.htm" />
+            <TocEntry
+              Title="Theme Designer Settings (Responsive)"
+              Link="/Content/D2H/Themes/NetHelp-Theme-Designer-Settings-Responsive.htm" />
+            <TocEntry
+              Title="Theme Designer Settings (Tabs and Accordion)"
+              Link="/Content/D2H/Themes/NetHelp-Theme-Designer-Settings-Tabs-Accordion.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="NetHelp Theme Wizard"
+            Link="/Content/D2H/Themes/NetHelp-Theme-Wizard.htm" />
+          <TocEntry
+            Title="Additional Theme Customizations"
+            Link="/Content/D2H/Themes/Additional-Theme-Customizations.htm"></TocEntry>
+          <TocEntry
+            Title="FAQs"
+            Link="/Content/D2H/Themes/Theme-Configuration-FAQ.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Window Display"
+        Link="/Content/D2H/Interface/Window-Display/Setting-Help-Window-Display.htm"></TocEntry>
+      <TocEntry
+        Title="Legacy Doc-To-Help Projects Using HTML5 and CSS"
+        Link="/Content/D2H/Styles/Legacy-D2H-Projects.htm">
+        <TocEntry
+          Title="Editing a CSS"
+          Link="/Content/D2H/Styles/Editing-CSS.htm"></TocEntry>
+        <TocEntry
+          Title="Style List Dialog"
+          Link="/Content/D2H/Styles/Style-List-Dialog.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Managing Your Project"
+      Link="/Content/D2H/Introduction/Features/Managing-Project.htm">
+      <TocEntry
+        Title="Migrating a Project"
+        Link="/Content/D2H/Projects/Migrating-Project.htm" />
+      <TocEntry
+        Title="Modular Projects"
+        Link="/Content/D2H/Projects/Modular/About-Modular-Projects.htm">
+        <TocEntry
+          Title="Creating a Hub Project"
+          Link="/Content/D2H/Projects/Modular/Creating-Hub-Project.htm" />
+        <TocEntry
+          Title="Creating a Child Project"
+          Link="/Content/D2H/Projects/Modular/Creating-Child-Project.htm">
+          <TocEntry
+            Title="Cross-Project Linking"
+            Link="/Content/D2H/Projects/Modular/Cross-Project-Linking.htm" />
+          <TocEntry
+            Title="Modifying Context IDs in Modular Projects"
+            Link="/Content/D2H/Projects/Modular/Modifying-Context-IDs-Modular-Projects.htm" />
+          <TocEntry
+            Title="Modular Glossaries"
+            Link="/Content/D2H/Projects/Modular/Modular-Output-Glossaries.htm" />
+          <TocEntry
+            Title="Modular TOC Utility"
+            Link="/Content/D2H/Projects/Modular/Modular-TOC-Utility.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Creating Modular Ouptut for Help Viewer Targets"
+          Link="/Content/D2H/Projects/Modular/Creating-Modular-Output-for-Help-Viewer-Targets.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Project Properties and Settings"
+        Link="/Content/D2H/Projects/Project-Settings/About-Project-Properties-Settings.htm">
+        <TocEntry
+          Title="Compacting a Project File"
+          Link="/Content/D2H/Projects/Project-Settings/Compacting-Project-File.htm" />
+        <TocEntry
+          Title="Importing and Exporting Project Settings"
+          Link="/Content/D2H/Projects/Project-Settings/Importing-Exporting-Project-Settings.htm" />
+        <TocEntry
+          Title="Project Properties"
+          Link="/Content/D2H/Projects/Project-Settings/Setting-Project-Properties.htm">
+          <TocEntry
+            Title="Choosing a Source Folder"
+            Link="/Content/D2H/Projects/Project-Settings/Choosing-Source-Folder.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Reports"
+        Link="/Content/D2H/Reports/DocToHelp-Reports.htm"></TocEntry>
+      <TocEntry
+        Title="SharePoint"
+        Link="/Content/D2H/Sharepoint/About-SharePoint-Integration-D2H.htm">
+        <TocEntry
+          Title="SharePoint Library"
+          Link="/Content/D2H/Sharepoint/About-SharePoint-Library.htm">
+          <TocEntry
+            Title="Adding SharePoint Library Documents to a Doc-To-Help Project"
+            Link="/Content/D2H/Sharepoint/Adding-SharePoint-Library-Docs-to-Project.htm" />
+          <TocEntry
+            Title="Checking Documents In and Out"
+            Link="/Content/D2H/Sharepoint/Checking-Docs-In-Out-SharePoint-Library.htm" />
+          <TocEntry
+            Title="Merging Documents"
+            Link="/Content/D2H/Sharepoint/Merging-Word-Documents.htm" />
+          <TocEntry
+            Title="Stop Sharing a Document"
+            Link="/Content/D2H/Sharepoint/Stop-Sharing-Document.htm" />
+          <TocEntry
+            Title="Synchronizing Documents"
+            Link="/Content/D2H/Sharepoint/Synchronizing-Documents.htm" />
+          <TocEntry
+            Title="Uploading Documents to a SharePoint Library"
+            Link="/Content/D2H/Sharepoint/Uploading-Documents-to-SharePoint-Library.htm" />
+          <TocEntry
+            Title="Working Offline"
+            Link="/Content/D2H/Sharepoint/Working-Offline.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="SharePoint Translation Library"
+          Link="/Content/D2H/Sharepoint/About-SharePoint-Translation-Library.htm">
+          <TocEntry
+            Title="Creating a SharePoint Translation Library"
+            Link="/Content/D2H/Sharepoint/Creating-SharePoint-Translation-Library.htm" />
+          <TocEntry
+            Title="Uploading Documents to a SharePoint Translation Library"
+            Link="/Content/D2H/Sharepoint/Uploading-Documents-to-SharePoint-Translation-Library.htm" />
+          <TocEntry
+            Title="Working with a Translation Project"
+            Link="/Content/D2H/Sharepoint/Working-with-Translation-Project.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Publishing to SharePoint"
+          Link="/Content/D2H/Sharepoint/Publishing-to-SharePoint.htm">
+          <TocEntry
+            Title="Editing a SharePoint Wiki"
+            Link="/Content/D2H/Sharepoint/Editing-SharePoint-Wiki.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Team Authoring"
+        Link="/Content/D2H/Team-Authoring/About-Team-Authoring.htm">
+        <TocEntry
+          Title="Setting Up a Team Project"
+          Link="/Content/D2H/Team-Authoring/Setting-Up-Team-Project.htm"></TocEntry>
+        <TocEntry
+          Title="Connecting to a Team Project"
+          Link="/Content/D2H/Team-Authoring/Connecting-to-Team-Project.htm" />
+        <TocEntry
+          Title="Working in a Team Project"
+          Link="/Content/D2H/Team-Authoring/Working-in-Team-Project.htm">
+          <TocEntry
+            Title="Adding a New File to the Team Project"
+            Link="/Content/D2H/Team-Authoring/Adding-New-File-to-Team-Project.htm" />
+          <TocEntry
+            Title="Checking Out the Project File"
+            Link="/Content/D2H/Team-Authoring/Checking-Out-Project-File.htm" />
+          <TocEntry
+            Title="Comparing Documents"
+            Link="/Content/D2H/Team-Authoring/Comparing-Documents-TFS-Repositories-Only.htm" />
+          <TocEntry
+            Title="Deleting a File from the Team Project"
+            Link="/Content/D2H/Team-Authoring/Deleting-File-from-Team-Project.htm" />
+          <TocEntry
+            Title="Editing a Document"
+            Link="/Content/D2H/Team-Authoring/Editing-Document.htm" />
+          <TocEntry
+            Title="Getting the Latest Version of a File"
+            Link="/Content/D2H/Team-Authoring/Getting-Latest-Version-File.htm" />
+          <TocEntry
+            Title="Viewing the Document History"
+            Link="/Content/D2H/Team-Authoring/Viewing-Document-History-TFS-Repositories-Only.htm" />
+          <TocEntry
+            Title="Viewing File Properties"
+            Link="/Content/D2H/Team-Authoring/Viewing-File-Properties-TFS-Repositories-Only.htm" />
+          <TocEntry
+            Title="Working Offline"
+            Link="/Content/D2H/Team-Authoring/Working-Offline.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Team Authoring Administrative Functions"
+          Link="/Content/D2H/Team-Authoring/Team-Authoring-Administrative-Functions.htm">
+          <TocEntry
+            Title="Changing Repository Settings"
+            Link="/Content/D2H/Team-Authoring/Changing-Repository-Settings.htm" />
+          <TocEntry
+            Title="Removing Backup Files from the Repository"
+            Link="/Content/D2H/Team-Authoring/Removing-Backup-Files-from-Repository.htm" />
+          <TocEntry
+            Title="Removing Team Authoring Support from a Working Copy"
+            Link="/Content/D2H/Team-Authoring/Removing-Team-Authoring-Support-from-Working-Copy.htm" />
+          <TocEntry
+            Title="Unlocking Files in the Repository"
+            Link="/Content/D2H/Team-Authoring/Unlocking-Files-Repository.htm" />
+          <TocEntry
+            Title="Unlocking the DHV File"
+            Link="/Content/D2H/Team-Authoring/Unlocking-DHV-File.htm" />
+          <TocEntry
+            Title="Upgrading a Team Authoring Project"
+            Link="/Content/D2H/Team-Authoring/Upgrading-Team-Authoring-Project.htm" />
+        </TocEntry>
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Shortcuts"
+      Link="/Content/D2H/Shortcuts/Keyboard-Shortcuts-D2H.htm"></TocEntry>
+    <TocEntry
+      Title="Targets"
+      Link="/Content/D2H/Output/About-Targets.htm">
+      <TocEntry
+        Title="Building Targets"
+        Link="/Content/D2H/Output/Building-Target.htm">
+        <TocEntry
+          Title="Building Targets in Batch Mode"
+          Link="/Content/D2H/Output/Building-Targets-Batch-Mode.htm" />
+        <TocEntry
+          Title="Building Targets Using Windows Services"
+          Link="/Content/D2H/Output/Building-Targets-Using-Windows-Services.htm" />
+        <TocEntry
+          Title="Scheduling Builds with the Build Scheduler"
+          Link="/Content/D2H/Output/Scheduling-Builds.htm"></TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Creating and Deleting Targets"
+        Link="/Content/D2H/Output/Creating-Targets.htm" />
+      <TocEntry
+        Title="Editing Target Settings"
+        Link="/Content/D2H/Output/Editing-Target-Settings.htm" />
+      <TocEntry
+        Title="Output Types"
+        Link="/Content/D2H/Output/Output-Types-D2H.htm"
+        StartSection="false">
+        <TocEntry
+          Title="Manual Target Tasks"
+          Link="/Content/D2H/Output/Manual/Manual-Target-Tasks.htm">
+          <TocEntry
+            Title="Setting a Cover Image"
+            Link="/Content/D2H/Output/Manual/Setting-Cover-Image.htm" />
+          <TocEntry
+            Title="Setting Page Orientation"
+            Link="/Content/D2H/Output/Manual/Setting-Page-Orientation.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="NetHelp Target Tasks"
+          Link="/Content/D2H/Output/NetHelp/NetHelp-Target-Tasks.htm">
+          <TocEntry
+            Title="Extending Targets"
+            Link="/Content/D2H/Output/NetHelp/Extending-Targets.htm">
+            <TocEntry
+              Title="Adding DISQUS Commenting to NetHelp Targets"
+              Link="/Content/D2H/Output/NetHelp/Adding-DISQUS-Commenting-to-NetHelp-Targets.htm" />
+            <TocEntry
+              Title="Embedding NetHelp Targets into Web Pages"
+              Link="/Content/D2H/Output/NetHelp/Embedding-NetHelp-Targets-into-Web-Pages.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="NetHelp Local Installation"
+            Link="/Content/D2H/Output/NetHelp/NetHelp-Local-Installation.htm" />
+          <TocEntry
+            Title="Search Options for NetHelp"
+            Link="/Content/D2H/Output/NetHelp/Search-Options-NetHelp.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Transformations"
+        Link="/Content/D2H/Output/Transformations/About-Transormations.htm">
+        <TocEntry
+          Title="Advanced XML Transformations"
+          Link="/Content/D2H/Output/Transformations/Advanced-XML-Transformations.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Additional Features"
+      Link="/Content/D2H/Introduction/Features/Additional-Features.htm">
+      <TocEntry
+        Title="Accessibility"
+        Link="/Content/D2H/Accessibility/About-Accessibility.htm" />
+      <TocEntry
+        Title="Context-sensitive Help"
+        Link="/Content/D2H/CSH/About-CSH-D2H.htm">
+        <TocEntry
+          Title="JavaHelp"
+          Link="/Content/D2H/CSH/CSH-JavaHelp.htm" />
+        <TocEntry
+          Title="Microsoft Help 2.0"
+          Link="/Content/D2H/CSH/CSH-MS-Help-20.htm" />
+        <TocEntry
+          Title="Microsoft Help Viewer"
+          Link="/Content/D2H/CSH/CSH-MS-Help-Viewer.htm" />
+        <TocEntry
+          Title="NetHelp"
+          Link="/Content/D2H/CSH/CSH-NetHelp.htm">
+          <TocEntry
+            Title="Function ShowHelp in JavaScript Web Applications and Web Pages"
+            Link="/Content/D2H/CSH/NetHelp/Function-ShowHelp- JavaScript-Web-Apps-Web-Pages.htm" />
+          <TocEntry
+            Title="Function ShowHelp in Windows Client Applications"
+            Link="/Content/D2H/CSH/NetHelp/Function-ShowHelp-Windows-Client-Apps.htm" />
+          <TocEntry
+            Title="NetHelp-supported Parameters"
+            Link="/Content/D2H/CSH/NetHelp/NetHelp-Supported-Parameters-How-to-Use-Them.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Sandcastle"
+        Link="/Content/D2H/Sandcastle/About-D2H-Microsoft-Sandcastle.htm">
+        <TocEntry
+          Title="Creating a Project with Sandcastle"
+          Link="/Content/D2H/Sandcastle/Creating-Project-with-Sandcastle.htm" />
+        <TocEntry
+          Title="Converting Documenter for NET Projects to Sandcastle Projects"
+          Link="/Content/D2H/Sandcastle/Converting-Documenter-NET-Projects-to-Sandcastle-Projects.htm" />
+        <TocEntry
+          Title="Configuring the Sandcastle Reference Section"
+          Link="/Content/D2H/Sandcastle/Configuring-Sandcastle-Reference-Section.htm"></TocEntry>
+        <TocEntry
+          Title="Configure CodeBlock Component Dialog"
+          Link="/Content/D2H/Sandcastle/Configure-CodeBlock-Component-Dialog.htm" />
+        <TocEntry
+          Title="Configure PostTransform Component Dialog"
+          Link="/Content/D2H/Sandcastle/Configure-PostTransform-Component-Dialog.htm" />
+        <TocEntry
+          Title="CodeBlock and PostTransform Components"
+          Link="/Content/D2H/Sandcastle/CodeBlock-PostTransform-Components.htm" />
+        <TocEntry
+          Title="Creating Links from Narrative Text to Reference Text"
+          Link="/Content/D2H/Sandcastle/Using-Styles-to-Create-Links.htm">
+          <TocEntry
+            Title="Argument List in Links"
+            Link="/Content/D2H/Sandcastle/Argument-List-in-Links.htm" />
+          <TocEntry
+            Title="Link Colors and Appearance"
+            Link="/Content/D2H/Sandcastle/Link-Colors-Appearance.htm" />
+          <TocEntry
+            Title="Special Characters in Link Text"
+            Link="/Content/D2H/Sandcastle/Special-Characters-Link-Text.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Excluding Elements without Description"
+          Link="/Content/D2H/Sandcastle/Excluding-Elements-Without-Description.htm" />
+        <TocEntry
+          Title="XSLT Transformation of the Source Code Comments XML"
+          Link="/Content/D2H/Sandcastle/XSLT-Transformation-Source-Code-Comments-XML.htm" />
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Interface"
+    Link="/Content/D2H/Interface/Touring-Workspace-D2H.htm">
+    <TocEntry
+      Title="Dynamic Help Window Pane"
+      Link="/Content/D2H/Interface/UI-Elements/Dynamic-Help-Window-D2H.htm" />
+    <TocEntry
+      Title="Navigation Panes—Doc-To-Help"
+      Link="/Content/D2H/Interface/UI-Elements/Navigation-Panes.htm">
+      <TocEntry
+        Title="Contents Window Pane"
+        Link="/Content/D2H/Interface/UI-Elements/Contents-Pane.htm" />
+      <TocEntry
+        Title="Documents Window Pane"
+        Link="/Content/D2H/Interface/UI-Elements/Documents-Pane.htm" />
+      <TocEntry
+        Title="Index and Groups Window Pane"
+        Link="/Content/D2H/Interface/UI-Elements/Index-Groups-Pane.htm" />
+      <TocEntry
+        Title="Related Topics Window Pane"
+        Link="/Content/D2H/Interface/UI-Elements/Related-Topics-Pane.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Navigation Panes—Word"
+      Link="/Content/D2H/Interface/UI-Elements/Navigation-Panes-Word.htm"
+      StartChapter="true"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false">
+      <TocEntry
+        Title="Doc-To-Help Build Panel"
+        Link="/Content/D2H/Interface/UI-Elements/Build-Panel.htm" />
+      <TocEntry
+        Title="Doc-To-Help Progress Panel"
+        Link="/Content/D2H/Interface/UI-Elements/Progress-Panel.htm" />
+      <TocEntry
+        Title="Doc-To-Help Project Panel"
+        Link="/Content/D2H/Interface/UI-Elements/Project-Panel.htm">
+        <TocEntry
+          Title="Contents Window Pane"
+          Link="/Content/D2H/Interface/UI-Elements/Contents-Pane-Word.htm" />
+        <TocEntry
+          Title="Documents Window Pane"
+          Link="/Content/D2H/Interface/UI-Elements/Documents-Pane-Word.htm" />
+        <TocEntry
+          Title="Index and Groups Window Pane"
+          Link="/Content/D2H/Interface/UI-Elements/Index-Groups-Pane-Word.htm" />
+        <TocEntry
+          Title="Variables Window Pane"
+          Link="/Content/D2H/Interface/UI-Elements/Variables-Pane-Word.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Options Dialog"
+      Link="/Content/D2H/Interface/UI-Elements/Options-Dialog-D2H.htm" />
+    <TocEntry
+      Title="Quick Access Toolbar"
+      Link="/Content/D2H/Interface/Quick-Access-Toolbar-D2H.htm" />
+    <TocEntry
+      Title="Ribbons"
+      Link="/Content/D2H/Interface/Ribbons-D2H.htm" />
+    <TocEntry
+      Title="Start Page"
+      Link="/Content/D2H/Interface/UI-Elements/Start-Page-D2H.htm" />
+    <TocEntry
+      Title="Windows"
+      Link="/Content/D2H/Interface/UI-Elements/Windows.htm">
+      <TocEntry
+        Title="Output Window"
+        Link="/Content/D2H/Interface/UI-Elements/Output-Window.htm" />
+      <TocEntry
+        Title="Team Authoring Window"
+        Link="/Content/D2H/Team-Authoring/Team-Authoring-Window.htm" />
+      <TocEntry
+        Title="Topics Window"
+        Link="/Content/D2H/Interface/UI-Elements/Topics-Window.htm" />
+      <TocEntry
+        Title="Translation Window"
+        Link="/Content/D2H/Interface/UI-Elements/Translation-Window.htm" />
+      <TocEntry
+        Title="Variables Window"
+        Link="/Content/D2H/Interface/UI-Elements/Variables-Window.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Troubleshooting"
+    Link="/Content/D2H/Troubleshooting/Troubleshooting-D2H.htm"
+    conditions="Products.D2HLocalOnly">
+    <TocEntry
+      Title="General Troubleshooting Tips"
+      Link="/Content/D2H/Troubleshooting/TS-General-Troubleshooting-Tips-D2H.htm" />
+    <TocEntry
+      Title="Troubleshooting Build Target Issues"
+      Link="/Content/D2H/Troubleshooting/TS-Building-Targets-D2H.htm" />
+    <TocEntry
+      Title="Troubleshooting Image Issues"
+      Link="/Content/D2H/Troubleshooting/TS-Images-D2H.htm" />
+    <TocEntry
+      Title="Troubleshooting List Issues"
+      Link="/Content/D2H/Troubleshooting/TS-Lists-D2H.htm" />
+    <TocEntry
+      Title="Troubleshooting SharePoint Issues"
+      Link="/Content/D2H/Troubleshooting/TS-SharePoint-D2H.htm" />
+    <TocEntry
+      Title="Troubleshooting Template Issues"
+      Link="/Content/D2H/Troubleshooting/TS-Templates-D2H.htm" />
+    <TocEntry
+      Title="Troubleshooting Topic Issues"
+      Link="/Content/D2H/Troubleshooting/TS-Topics-D2H.htm" />
+    <TocEntry
+      Title="Troubleshooting Microsoft Word Authoring Issues"
+      Link="/Content/D2H/Troubleshooting/TS-Word-Authoring-D2H.htm" />
+  </TocEntry>
+</CatapultToc>

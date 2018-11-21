@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture,Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="182" MadCap:lastWidth="814">
+    <body>
+        <p>You can delete a palette if you no longer need it. All objects within the palette will also be deleted. Deleting the palette sends it to the Recycle Bin. </p>
+        <p>However, if you are working with an external palette, such as one stored on a shared drive, you may only need it for a short period of time<MadCap:conditionalText MadCap:conditions="Products.Capture"> (see <MadCap:xref href="../../../../Capture/Palettes/Linking-External-Palettes.htm">Linking to External Palettes</MadCap:xref>)</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> (see <MadCap:xref href="../../../../Mimic/Palettes/Linking-External-Palettes.htm">Linking to External Palettes</MadCap:xref>)</MadCap:conditionalText>. For this reason, you can remove the palette from Capture when you are finished using it. This breaks the link between Capture and the palette, and removes it without permanently deleting it. You can add it back into Capture at any time.</p>
+    </body>
+</html>

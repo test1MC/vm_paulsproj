@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The track changes feature is intended only for self-contained operations within the XML Editor. For example, if you make changes to index keywords or concepts in the Index and Concept window panes (e.g., renaming, assigning them to topics), those modifications are not indicated as tracked changes because they are considered project-wide "link updating" processes.</p>
+        </div>
+    </body>
+</html>

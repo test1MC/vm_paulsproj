@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p class="TableText">Opens the Select Frame Text dialog, which is used to choose an existing snippet for a frame. This is often used to insert page numbers or Heading variables into frames. You can also create custom snippet templates and select them from the dialog.</p>
+    </body>
+</html>

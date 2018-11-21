@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="note">
+            <p>Macros are unique to each MadCap program. For example, macros you record in Flare are separate from those you record in Contributor, even if they are for the same functionality (e.g., inserting an annotation).</p>
+        </div>
+    </body>
+</html>

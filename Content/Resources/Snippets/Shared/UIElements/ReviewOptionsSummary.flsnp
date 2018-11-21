@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="110" MadCap:lastWidth="1018">
+    <head>
+    </head>
+    <body>
+        <p>Opens the Review tab in the Options dialog, which lets you set various options for viewing tracked changes and annotations. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Reviews-Contributions/Changing-User-Name-Initials.htm">Changing Your User Name and Initials</MadCap:xref>, <MadCap:xref href="../../../../Flare/Reviews-Contributions/Track-Changes/Changing-Display-Tracked-Changes.htm">Changing the Display of Tracked Changes</MadCap:xref>, and <MadCap:xref href="../../../../Flare/Reviews-Contributions/Changing-User-Color-for-Reviews.htm">Changing the User Color for Reviews</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Reviews-Contributions/Changing-User-Name-Initials.htm">Changing Your User Name and Initials</MadCap:xref>, <MadCap:xref href="../../../../Contributor/Reviews-Contributions/Track-Changes/Changing-Display-Tracked-Changes.htm">Changing the Display of Tracked Changes</MadCap:xref>, and <MadCap:xref href="../../../../Contributor/Reviews-Contributions/Changing-User-Color-for-Reviews.htm">Changing the User Color for Reviews</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Ribbon </span>
+                <MadCap:snippetText src="../UIElements/SelectHomeRibbon.flsnp" /> In the <span class="Emphasis">Paragraph</span> section click <img src="../../../Images/Shared/group_items_btn.png" class="ReduceButtonSize" />.   </li>
+            <li><span class="SetOffFirstLevel">Keyboard Shortcut </span>Place your cursor somewhere in a block of content, but not at the very beginning of it, and then press the <span class="Emphasis">Tab</span> key. (If you place your cursor at the very beginning of the content and press Tab, the first line will be indented instead.)</li>
+        </ul>
+    </body>
+</html>

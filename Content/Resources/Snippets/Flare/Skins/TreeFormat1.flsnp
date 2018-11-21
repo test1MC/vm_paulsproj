@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>In previous versions, the slide-out menu for Top Navigation output (i.e., the menu that opens when you click the “hamburger” icon in tablet or mobile view) always displayed in a drilldown format. With this format, any item containing sub-items has a double-arrow next to it. When you click on such an item, the entire menu changes, showing only that item and its sub-items.</p>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say you have a numbered list from 1 to 10 at the top of your topic and you add a few regular paragraphs (not in a list) after it. If you start another numbered list and select this option, the new list will start at 11.</p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>You can also edit the number format for footnote comments by using the <span class="Emphasis">mc-footnote-comment-format</span> property. You can use the same commands to set this property as those for the mc-footnote-format property.</p>
+    </body>
+</html>

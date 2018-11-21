@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare,Products.Mimic">
+    <body>
+        <p>When changing the look of content, you may often need to select a unit of measurement (UOM). <MadCap:variable name="Other.Product" /> offers the following relative and absolute UOMs (definitions are taken from w3c.org).</p>
+    </body>
+</html>

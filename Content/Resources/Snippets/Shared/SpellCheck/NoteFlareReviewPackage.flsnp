@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>If you have a Flare review package (FLTREV file) open, none of the above options are shown. Instead this field displays (review package). This option is not shown if you have a Flare project open; it is available only when you open a review package.</p>
+    </body>
+</html>

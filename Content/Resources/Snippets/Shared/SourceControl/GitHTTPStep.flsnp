@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo,Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="45" MadCap:lastWidth="1093">
+    <body>
+        <p>(Optional) If you entered an HTTP address in Step <MadCap:conditionalText MadCap:conditions="Snippets.Snippet1">7</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">2</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2">b</MadCap:conditionalText>, enter your user name and password in the Log In dialog. Click <span class="Emphasis">OK</span> when you are finished.</p>
+    </body>
+</html>

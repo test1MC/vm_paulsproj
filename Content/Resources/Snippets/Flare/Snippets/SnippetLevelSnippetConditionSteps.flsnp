@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="9" MadCap:lastHeight="1460" MadCap:lastWidth="1142">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ol style="list-style-type: lower-alpha;">
+            <li>
+                <p>
+                    <MadCap:snippetText src="SnippetConditionsStep4.flsnp" />
+                </p>
+                <p MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Snippets/Inserting-Snippets.htm">Inserting Snippets into Topics</MadCap:xref> and <MadCap:xref href="../../../../Flare/Folders-Files/Viewing_File_Links.htm">Viewing File Links</MadCap:xref>.</p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/Snippets/SnippetConditionsStep5.flsnp" />
+            </li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="../../Shared/Snippets/SnippetConditionsStep6.flsnp" />
+                </p>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareSnippetsGuide" />
+                <MadCap:snippetBlock src="../../Shared/Snippets/SnippetConditionsExample2.flsnp" />
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you want to create more advanced condition tag expressions, you can switch to Advanced mode. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Conditions/Creating-Basic-Advanced-Tag-Expressions.htm">Creating Basic and Advanced Tag Expressions</MadCap:xref>.</MadCap:conditionalText></p>
+                <MadCap:snippetBlock src="../../Shared/Conditions/WarningIncludeExclude.flsnp" MadCap:conditions="Products.Flare" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>
+                <p>(Optional)&#160;Repeat steps b-d for the other instances of the snippet in your topic.</p>
+            </li>
+            <li>
+                <MadCap:snippetBlock src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

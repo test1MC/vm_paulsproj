@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Paste Cells</span> Select this option to paste the copied cells, replacing the cells nearest to where you have placed your cursor.</li>
+            <li><span class="SetOffFirstLevel">Paste Table</span> Select this option to paste the copied cells as a separate table. It will be placed within the cell where you have placed your cursor.</li>
+            <li><span class="SetOffFirstLevel">Paste (Above)</span> Select this option to paste the copied cells above the cell where you have placed your cursor.</li>
+            <li><span class="SetOffFirstLevel">Paste (Below)</span> Select this option to paste the copied cells below the cell where you have placed your cursor.</li>
+            <li><span class="SetOffFirstLevel">Paste (Left) </span>Select this option to paste the copied cells to the left of the cell where you have placed your cursor.</li>
+            <li><span class="SetOffFirstLevel">Paste (Right)</span>  Select this option to paste the copied cells to the right of the cell where you have placed your cursor.</li>
+            <li>
+                <MadCap:snippetText src="../Pasting/SetDefaultOption.flsnp" />
+            </li>
+        </ul>
+    </body>
+</html>

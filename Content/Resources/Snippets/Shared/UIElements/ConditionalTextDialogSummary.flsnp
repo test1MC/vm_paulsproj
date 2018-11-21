@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>This dialog opens whenever you attempt to associate condition tags with content. You might see this dialog when setting condition tags on a target, or when setting condition tags on an import file. You can use basic or advanced conditional expressions to filter your content.</p>
+    </body>
+</html>

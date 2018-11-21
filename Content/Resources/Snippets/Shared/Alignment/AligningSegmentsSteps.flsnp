@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <head>
+        <link href="../../../TableStyles/Shared/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <ol>
+            <li MadCap:conditions="Products.Lingo">Select <span class="Emphasis">Tools &gt; MadCap Align</span>.</li>
+            <li>
+                <p>In MadCap Align open the aligned project. Unless you specify otherwise, these types of projects are stored in the Documents\My Aligned Projects folder on your computer. Lingo creates the My Aligned Projects folder when you install the program.</p>
+                <MadCap:snippetBlock src="../General/NoteVistaMyDocuments.flsnp" />
+            </li>
+            <li>The File Map window pane should already be open. If it is not, do one of the following, depending on the part of the interface you are using.<ul style="list-style-type: square;"><li><p><span class="SetOffFirstLevel">Ribbon</span>  Select <span class="Emphasis">Home &gt; File Map</span>. </p></li><li><span class="SetOffFirstLevel">Keyboard Shortcut</span> Press <span class="Emphasis">CTRL+SHIFT+R</span>.</li></ul></li>
+            <li>
+                <p>In the File Map window pane, double-click on a row with aligned files. The Alignment Tool opens, displaying all of the segments from those aligned files.</p>
+            </li>
+            <li>In the Alignment Tool select the appropriate cell(s) on either the source language side or the target language side. You can hold down your <span class="Emphasis">SHIFT</span> or <span class="Emphasis">CTRL</span> key to click and select multiple cells.</li>
+            <li>
+                <p>In the local toolbar, click one of the buttons to perform an alignment action (so that the source segments on the left are aligned with the proper target segments on the right).</p>
+                <table style="mc-table-style: url('../../../TableStyles/Shared/Simple.css');width: 100%;" cellspacing="0" class="TableStyle-Simple">
+                    <col style="width: 35px;" class="TableStyle-Simple-Column-Column1" />
+                    <col class="TableStyle-Simple-Column-Column1" />
+                    <tbody>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                <p class="TableText">
+                                    <img src="../../../Images/Shared/swap_two_selected_cells.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Simple-BodyD-Column1-Row1">
+                                <p class="TableText">If you have selected two cells (one above and one below) and click this button, the positions of those two cells will be swapped.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                <p class="TableText">
+                                    <img src="../../../Images/Shared/swap_cell_with_below_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Simple-BodyD-Column1-Row1">
+                                <p class="TableText">Click this button if you want to swap the selected cell(s) with those below it.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                <p class="TableText">
+                                    <img src="../../../Images/Shared/swap_cell_with_above_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Simple-BodyD-Column1-Row1">
+                                <p class="TableText">Click this button if you want to swap the selected cell(s) with those above it.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                <p class="TableText">
+                                    <img src="../../../Images/Shared/split_selected_segments_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Simple-BodyD-Column1-Row1">
+                                <p class="TableText">Click this button if you have selected one cell and want to split its content into two cells. This button is disabled until you double-click in the cell that you want to split. After double-clicking the cell, place your cursor where you want the split to occur in the segment. Then click this button.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                <p class="TableText">
+                                    <img src="../../../Images/Shared/join_selected_segments_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Simple-BodyA-Column1-Row1">
+                                <p class="TableText">Click this button if you have selected multiple cells (above and below one another) and you want to join the content within them into a single cell.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Rather than using split and join, you can alternatively use segmentation rules.<MadCap:conditionalText MadCap:conditions="Products.Lingo"> See <MadCap:xref href="../../../../Lingo/Segmentation-Split-Join/About-Segmentation-Rules.htm">About Segmentation Rules</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Align"> See <MadCap:xref href="../../../../Align/Segmentation-Split-Join/About-Segmentation-Rules.htm">About Segmentation Rules</MadCap:xref>.</MadCap:conditionalText></p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

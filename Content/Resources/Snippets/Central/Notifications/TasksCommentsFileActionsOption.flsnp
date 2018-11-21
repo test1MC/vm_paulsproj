@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="TableText">Receive a notification if comments or files are added to a task. If a comment is left on a task, the task owner (i.e., the user who created the task) and the user assigned to the task will receive the notification. If someone replies to a comment, the task owner, assignee, original commenter, and all repliers will receive the notification.</p>
+    </body>
+</html>

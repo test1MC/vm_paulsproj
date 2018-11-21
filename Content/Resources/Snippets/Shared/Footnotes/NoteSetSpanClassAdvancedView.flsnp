@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>The span class can also be set on a style in the Advanced view of the Stylesheet Editor using the <span class="Emphasis">mc-footnote-style</span>and <span class="Emphasis">mc-footnote-comment-style</span> properties. The mc-footnote-style property will select the span class for footnotes and the mc-footnote-comment-style will select the span class for footnote comments.</p>
+    </body>
+</html>

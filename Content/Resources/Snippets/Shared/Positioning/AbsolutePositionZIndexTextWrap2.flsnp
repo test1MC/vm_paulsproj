@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>In addition, you might have situations where absolutely positioned elements overlap. You can adjust the z-index values to determine which element appears on top, in the middle, and on the bottom. A simple way to think about the z-index is that the higher number a style has on the z-index, the closer to the top it will appear in the order. </p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="85" MadCap:lastWidth="780">
+    <body>
+        <p class="TableText">Select the condition tag(s) you want to apply to your content<MadCap:conditionalText MadCap:conditions="Products.Analyzer"> or map to the undefined condition tag</MadCap:conditionalText>.</p>
+    </body>
+</html>

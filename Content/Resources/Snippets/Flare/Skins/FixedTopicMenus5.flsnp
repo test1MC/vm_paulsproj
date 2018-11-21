@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="396" MadCap:lastWidth="875">
+    <body>
+        <p>Maybe you already have an existing project where you are generating Top Navigation output with a side menu that is not fixed. You want to switch to a fixed side menu, but you do not want the menu to obstruct content that scrolls under it. Therefore, you want to also change to a 2-column format where the text flows on the left and the topic menu displays on the right.</p>
+        <p>In order to do this, you need to change the following:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Skin Component </span>You can update your Menu skin component using the steps already described. See <MadCap:xref href="#HowToSetFixedMenu">How to Set a Fixed Menu</MadCap:xref>.</li>
+            <li><span class="SetOffFirstLevel">Master Page </span>If your master page is configured to use one column, where text appears under the side menu, you will need to make changes to your master page accordingly. The easiest way to do this is to import a 2-column (i.e., fixed menu) master page from one of Flare’s Top Navigation project templates. See <MadCap:xref href="#HowToIncorporateMasterPage">How to Incorporate a 2-Column Master Page</MadCap:xref>.</li>
+            <li><span class="SetOffFirstLevel">Styles </span>In order for the imported master page to work correctly, you will also need to add the appropriate styles to your stylesheet. The easiest way to do this is to import those styles from one of Flare’s Top Navigation project templates. See <MadCap:xref href="#HowToAddStyles">How to Add Styles for a 2-Column Format</MadCap:xref>.</li>
+        </ul>
+        <p>The following steps describe one way that you can accomplish these tasks.</p>
+    </body>
+</html>

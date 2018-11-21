@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="331" MadCap:lastWidth="739" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>The most common settings that you are likely to change include:</p>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">color</span>
+            </li>
+            <li><span class="SetOffFirstLevel">content</span>
+            </li>
+            <li><span class="SetOffFirstLevel">font-size</span>
+            </li>
+            <li><span class="SetOffFirstLevel">font-style</span>
+            </li>
+            <li><span class="SetOffFirstLevel">font-weight</span>
+            </li>
+            <li><span class="SetOffFirstLevel">list-style-image</span>
+            </li>
+            <li><span class="SetOffFirstLevel">list-style-type</span>
+            </li>
+        </ul>
+        <p>If you do not see the property listed that you want to change, click in the Show drop-down and choose another filter (e.g., All Properties).</p>
+    </body>
+</html>

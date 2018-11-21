@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Source Control and Multi-Authoring"
+    Link="/Content/Flare/Source-Control/About-Source-Control.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="CH 2 About Microsoft Team Foundation Server"
+    Link="/Content/Shared/Source-Control/TFS/About-Microsoft-Team-Foundation-Server.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 3 Binding an Existing Project to Source Control"
+    Link="/Content/Shared/Source-Control/TFS/Binding-Project-to-Source-Control-tfs.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    BreakType="chapter" />
+  <TocEntry
+    Title="CH 4 Importing a Project from Source Control"
+    Link="/Content/Shared/Source-Control/TFS/Importing-Project-from-Source-Control-tfs.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"
+    ChapterNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 5 Getting the Latest Version of Source Control Files"
+    Link="/Content/Shared/Source-Control/TFS/Getting-Latest-Version-Source-Control-Files-tfs.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"
+    ChapterNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 6 Checking Out Source Control Files"
+    Link="/Content/Shared/Source-Control/TFS/Checking-Out-Source-Control-Files-tfs.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"
+    ChapterNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 7 Checking In Source Control Files"
+    Link="/Content/Shared/Source-Control/TFS/Checking-In-Source-Control-Files-tfs.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"
+    ChapterNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 8 Merging Source Control Files"
+    Link="/Content/Shared/Source-Control/TFS/Merging-Source-Control-Files-tfs.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"
+    ChapterNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 9 Adding Files to Source Control"
+    Link="/Content/Shared/Source-Control/TFS/Adding-Files-to-Source-Control-tfs.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"
+    ChapterNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 10 Requesting a User to Check In Files"
+    Link="/Content/Shared/Source-Control/TFS/Requesting-User-to-Check-In-Source-Control-Files-tfs.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    ChapterNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 11 Requesting a User to View Files"
+    Link="/Content/Shared/Source-Control/TFS/Requesting-User-to-View-Files-tfs.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    ChapterNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 12 Additional Source Control Tasks"
+    Link="/Content/Shared/Source-Control/TFS/Additional-TFS-Tasks.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    ChapterNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue">
+    <TocEntry
+      Title="Deleting Source Control Files"
+      Link="/Content/Shared/Source-Control/TFS/Deleting-Source-Control-Files-tfs.htm" />
+    <TocEntry
+      Title="Disabling the Get Latest Prompt for Source Control"
+      Link="/Content/Shared/Source-Control/TFS/Disabling-Get-Latest-Prompt-tfs.htm" />
+    <TocEntry
+      Title="Disconnecting from Source Control"
+      Link="/Content/Shared/Source-Control/TFS/Disconnecting-from-Source-Control-tfs.htm" />
+    <TocEntry
+      Title="Enabling Source Control Status Checks"
+      Link="/Content/Shared/Source-Control/TFS/Enabling-Source-Control-Status-Checks-tfs.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Microsoft Visual Studio Online—Binding"
+      Link="/Content/Shared/Source-Control/TFS/Binding-Microsoft-Visual-Studio-Online-to-TFS.htm" />
+    <TocEntry
+      Title="Microsoft Visual Studio Online—Importing"
+      Link="/Content/Shared/Source-Control/TFS/Importing-Project-from-Microsoft-Visual-Studio-Online.htm" />
+    <TocEntry
+      Title="Publishing to Source Control"
+      Link="/Content/Flare/Source-Control/TFS/Publishing-Source-Control-tfs.htm" />
+    <TocEntry
+      Title="Rolling Back to an Earlier Version of a File"
+      Link="/Content/Shared/Source-Control/TFS/Rolling-Back-Earlier-Version-File-tfs.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Setting Color Options for Project File Differences"
+      Link="/Content/Shared/Source-Control/TFS/Setting-Color-Options-Project-File-Differences-tfs.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Unbinding a Project from Source Control"
+      Link="/Content/Shared/Source-Control/TFS/Unbinding-Project-from-Source-Control-tfs.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Undeleting Source Control Files"
+      Link="/Content/Shared/Source-Control/TFS/Undeleting-Source-Control-Files-tfs.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Undoing a Check-Out of Source Control Files"
+      Link="/Content/Shared/Source-Control/TFS/Undoing-Check-Out-Source-Control-Files-tfs.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Using an API to Integrate Source Control"
+      Link="/Content/Flare/Source-Control/Third-Party-Plug-Ins/Using-API-to-Integrate-Source-Control.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Viewing Differences in Source Control Files"
+      Link="/Content/Shared/Source-Control/TFS/Viewing-Differences-Source-Control-Files-tfs.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Viewing Files That are Checked Out"
+      Link="/Content/Shared/Source-Control/TFS/Viewing-Files-Checked-Out-tfs.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Viewing the History of Source Control Files"
+      Link="/Content/Shared/Source-Control/TFS/Viewing-History-Source-Control-Files-tfs.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

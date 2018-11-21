@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">When you add or edit a comment using any of these methods, the comment is generated and displayed in the other views. For example, if you add a comment to a style in the Simplified view of the Stylesheet Editor and then open the CSS file in the Internal Text Editor, you will see that same comment.</p>
+        </div>
+    </body>
+</html>

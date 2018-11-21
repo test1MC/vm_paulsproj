@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="128" MadCap:lastWidth="1186">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">To use this option, your images must not be over 1 MB each. Also, only PNG, GIF, and JPEG image formats are supported.</p>
+            <p>If you have images that do not meet these requirements, you will see an error message. However, if you also select the “Use compression and bulk upload” option, you will not see an error message; instead, the topics with the unsupported images will not be uploaded to Salesforce.</p>
+        </div>
+    </body>
+</html>

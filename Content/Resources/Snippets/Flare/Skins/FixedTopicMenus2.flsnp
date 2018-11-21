@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>Open a Menu skin component.</li>
+            <li>Select the <span class="Emphasis">Setup</span> tab.</li>
+            <li>In the <span class="Emphasis">Fixed Menu</span> field, select one of the options:<ul><li><span class="SetOffFirstLevel">None </span>The menu will not be fixed in the output.</li><li><span class="SetOffFirstLevel">Web </span>The menu will be fixed on screens that are larger than tablet and mobile.</li><li><span class="SetOffFirstLevel">Tablet &amp; Mobile </span>The menu will be fixed on tablet and mobile screens.</li><li><span class="SetOffFirstLevel">Mobile </span>The menu will be fixed on mobile screens.</li><li><span class="SetOffFirstLevel">All </span>The menu will be fixed on all screens—web, tablet, and mobile.</li></ul><p><img src="../../../Images/Flare/fixed_menu4.png" alt="" title="" class="MaxWidth100Percent" /></p></li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

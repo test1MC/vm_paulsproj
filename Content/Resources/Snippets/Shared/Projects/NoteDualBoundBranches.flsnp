@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If your project is dual-bound to Git and Central, you can create new branches in Flare (<MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">see <MadCap:xref href="../../../../Shared/Source-Control/Git/Creating-Branches.htm">Creating Branches—Git</MadCap:xref></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Central,FlareGuides.FlareMadCapCentralIntegrationGuide"> see the Flare online Help</MadCap:conditionalText>). However, you can only push files from the Master branch to Central. Single-bound projects do not support branches.</p>
+        </div>
+    </body>
+</html>

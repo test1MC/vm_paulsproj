@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo">
+    <body>
+        <p>This dialog opens when your project is bound to source control using Git, and you want to change the remote repository when <MadCap:keyword term="Source control:push" />pushing, <MadCap:keyword term="Source control:pull" />pulling, or <MadCap:keyword term="Source control:synchronize" />synchronizing your files, or when <MadCap:keyword term="Source control:branch" /><MadCap:keyword term="Branch:publish" />publishing a branch.</p>
+        <p>When this dialog opens, complete the following steps.</p>
+    </body>
+</html>

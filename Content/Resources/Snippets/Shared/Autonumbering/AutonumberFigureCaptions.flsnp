@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>Perhaps you have inserted multiple images<MadCap:conditionalText MadCap:conditions="Products.Flare"> into your project</MadCap:conditionalText>, with a caption under each image. If you want the captions for each chapter to be numbered (e.g., "Figure 1-1," "Figure 1-2," "Figure 1-3," "Figure 2-1," "Figure 2-2"), you can apply autonumber formats to that content. If you insert a new figure caption with that format between existing captions, <MadCap:variable name="Other.Product" /> will renumber them automatically.</p>
+    </body>
+</html>

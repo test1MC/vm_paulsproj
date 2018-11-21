@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <head>
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <ul class="FirstLevel">
+            <li>
+                <p><span class="SetOffFirstLevel">Mode </span>Changes the 3D model's surface.</p>
+                <MadCap:dropDown class="ThirdLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Options</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="3DModelModeOptions.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Lighting </span>Change the type of lighting you want to hit the 3D model. </p>
+                <MadCap:dropDown class="ThirdLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Options</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="3DModelLightingOptions.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li><span class="SetOffFirstLevel">Background Color </span>Changes the image's background color.</li>
+        </ul>
+    </body>
+</html>

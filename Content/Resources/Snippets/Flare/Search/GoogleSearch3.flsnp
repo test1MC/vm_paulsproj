@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="729" MadCap:lastWidth="1286">
+    <body>
+        <ol style="list-style-type: lower-alpha;">
+            <li>Go to <a href="http://cse.google.com/" target="_blank">cse.google.com</a> and log in with your Google (i.e., gmail) password.</li>
+            <li>Click <span class="Emphasis">Add</span> to create a custom search engine.</li>
+            <li>
+                <p>In the <span class="Emphasis">Sites to search</span> field, enter the URL for the site where your output will be published. A name for the search engine is automatically added toward the bottom of the page, based on your URL. You can edit the name to something more simple if you want.</p>
+                <p>
+                    <img src="../../../Images/Flare/google_search2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>Click <span class="Emphasis">Create</span>.</li>
+            <li>On the next page, click <span class="Emphasis">Control Panel</span> to retrieve your search engine ID. (You can also use one of the other methods—<span class="Emphasis">Get code</span> or <span class="Emphasis">Public URL</span>—if you prefer.) Then click <span class="Emphasis">Search engine ID</span>.</li>
+            <li>
+                <p>Copy the ID shown in the popup.</p>
+                <p>
+                    <img src="../../../Images/Flare/google_search3a.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>Continue with the following Flare steps to enter the Google search key and generate a sitemap.</li>
+        </ol>
+    </body>
+</html>

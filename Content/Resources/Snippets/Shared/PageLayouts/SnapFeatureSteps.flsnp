@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="OpenPageInPageLayoutStep.flsnp" />
+            </li>
+            <li>In the local toolbar, make sure that the <span class="Emphasis">Snap</span> button <img src="../../../Images/Shared/snap_btn.png" class="ReduceButtonSize" /> is enabled.</li>
+            <li>
+                <p>Click in the middle of the frame you want to move and drag it to the desired location. When the frame gets pulled to the appropriate location, release the mouse button.</p>
+                <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example—snap to edge of page</p>
+                    <p>In the following example, we've turned on the bleed on for the page. So you can see the edge of the page represented by a dotted rectangle. A smaller dotted rectangle is a body frame that we added.</p>
+                    <p>
+                        <img src="../../../Images/Shared/snap_example1.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                    <p>If we want to snap the body frame to the left edge of the page, we click and move the body frame to the left until it seems to be pulled to the edge and a blue line appears.</p>
+                    <p>
+                        <img src="../../../Images/Shared/snap_example2.png" class="MaxWidth90Percent" />
+                    </p>
+                </div>
+                <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example—snap to margins</p>
+                    <p>In the following example, we've turned on the margin indicators on for the page. So you can see margins represented by a blue rectangle. A smaller dotted rectangle is a body frame that we added.</p>
+                    <p>
+                        <img src="../../../Images/Shared/snap_example3.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                    <p>If we want to snap the body frame to the top margin of the page, we click and move the body frame up until it seems to be pulled to the edge.</p>
+                    <p>
+                        <img src="../../../Images/Shared/snap_example4.png" class="MaxWidth90Percent" />
+                    </p>
+                </div>
+                <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example—snap to other frames</p>
+                    <p>In the following example, we've added a header frame and a body frame.</p>
+                    <p>
+                        <img src="../../../Images/Shared/snap_example5.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                    <p>If we want to snap the body frame to the header frame, we click and move the body frame up until it seems to be pulled to the bottom edge of the header frame.</p>
+                    <p>
+                        <img src="../../../Images/Shared/snap_example6.png" class="MaxWidth90Percent" />
+                    </p>
+                </div>
+                <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example—snap to middle of page</p>
+                    <p>In the following example, we've added a body frame, and we want to position it exactly in the middle of the page.</p>
+                    <p>
+                        <img src="../../../Images/Shared/snap_example7.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                    <p>As we move the body frame closer toward the vertical center of the page, a vertical red line appears.</p>
+                    <p>
+                        <img src="../../../Images/Shared/snap_example8.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                    <p>As we move the body frame closer toward the horizontal center of the page, a horizontal red line appears.</p>
+                    <p>
+                        <img src="../../../Images/Shared/snap_example9.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                    <p>As we move the body frame closer toward the actual center of the page, intersecting vertical and horizontal red lines let us know that if we release the mouse button, the frame will be positioned in the middle of the page.</p>
+                    <p>
+                        <img src="../../../Images/Shared/snap_example10.png" class="MaxWidth90Percent" />
+                    </p>
+                </div>
+            </li>
+        </ol>
+    </body>
+</html>

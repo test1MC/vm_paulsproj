@@ -1,0 +1,968 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/Flare/Styles/About-Styles-Stylesheets.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="(multiple)"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="CH 2 Basics of CSS"
+    Link="/Content/Flare/Styles/Basics-of-CSS/Basics-of-CSS.htm"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="W3C and CSS Resources"
+      Link="/Content/Flare/Styles/Basics-of-CSS/W3C-CSS-Resources.htm" />
+    <TocEntry
+      Title="What Can CSS Do?"
+      Link="/Content/Flare/Styles/Basics-of-CSS/What-Can-CSS-Do.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="CSS Styles and Page Structure"
+      Link="/Content/Flare/Styles/Basics-of-CSS/CSS-Styles-Page-Structure.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Ways to Use CSS"
+      Link="/Content/Flare/Styles/Basics-of-CSS/Ways-to-Use-CSS.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="What is Meant by &quot;Cascading&quot;?"
+      Link="/Content/Flare/Styles/Basics-of-CSS/What-is-Meant-by-Cascading.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Important Style Terms and Concepts"
+      Link="/Content/Flare/Styles/Basics-of-CSS/Important-Style-Terms-Concepts.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Inheritance"
+      Link="/Content/Flare/Styles/Basics-of-CSS/Inheritance.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Regular Stylesheets"
+    Link="/Content/Flare/Styles/About-Regular-Stylesheets.htm"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Creating Stylesheets"
+      Link="/Content/Flare/Styles/Creating-Stylesheets.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="firstright"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Master Style Sheets"
+      Link="/Content/Flare/Styles/Using-Styles/Master-Stylesheets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Regular Stylesheets, Table Stylesheets, or Properties?"
+      Link="/Content/Flare/Styles/Using-Styles/Regular-Stylesheets-Table-Stylesheets-Properties.htm"
+      StartSection="false"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating Selectors"
+      Link="/Content/Flare/Styles/Creating-Selectors.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Types of Styles in Flare"
+      Link="/Content/Flare/Styles/Using-Styles/Types-of-Styles.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="MadCap-Specific Tags and Properties"
+      Link="/Content/Flare/Styles/Using-Styles/MadCap-Specific-Styles-Properties.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Where's My Style?"
+      Link="/Content/Flare/Styles/Using-Styles/Wheres-My-Style.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Editing Regular Stylesheets"
+      Link="/Content/Flare/Styles/Editing-Styles.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="firstright"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      BreakType="none">
+      <TocEntry
+        Title="Auto-Numbers"
+        Link="/Content/Flare/Autonumbers/Creating-Auto-Number-Formats-for-Styles.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Auto-Number Format Examples"
+          Link="/Content/Flare/Autonumbers/AutoNumber-Format-Examples.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Breadcrumbs"
+        Link="/Content/Flare/Proxies/Using-Styles-Determine-Look-Breadcrumbs.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Cross-References"
+        Link="/Content/Flare/Nav-Links/Cross-References/Editing-Cross-References.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Editing Cross-Reference Style Formats"
+          Link="/Content/Flare/Nav-Links/Cross-References/Editing-Cross-Reference-Style-Formats.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Editing Text for Context-Sensitive Cross-References"
+          Link="/Content/Flare/Nav-Links/Cross-References/Editing-Text-CS-Cross-References.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="DITA"
+        Link="/Content/Flare/DITA/Editing-DITA-Styles.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Drop-Down Text"
+        Link="/Content/Flare/Nav-Links/Drop-Down-Text/Editing-Drop-Down-Text.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Equations"
+        Link="/Content/Flare/Equations/Editing-Equations.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Adding Borders to Equations"
+          Link="/Content/Flare/Equations/More/Adding-Borders-Equations.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Adding Margins to Equations"
+          Link="/Content/Flare/Equations/More/Adding-Margins-Equations.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Adding Padding to Equations"
+          Link="/Content/Flare/Equations/More/Adding-Padding-Equations.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Expanding Text"
+        Link="/Content/Flare/Nav-Links/Expanding-Text/Editing-Expanding-Text.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Footnotes"
+        Link="/Content/Flare/Footnotes/Editing-Footnotes/Editing-Footnotes.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Editing the Border Above Footnotes"
+          Link="/Content/Flare/Footnotes/Editing-Footnotes/Editing-Border-Above-Footnotes.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Editing Footnote Comment Font Settings"
+          Link="/Content/Flare/Footnotes/Editing-Footnotes/Editing-Footnote-Comment-Font-Settings.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Editing Footnote Comment Position"
+          Link="/Content/Flare/Footnotes/Editing-Footnotes/Editing-Footnote-Comment-Position.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Editing Footnote Comment Spacing"
+          Link="/Content/Flare/Footnotes/Editing-Footnotes/Editing-Footnote-Comment-Spacing.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Editing Footnote Number Formats"
+          Link="/Content/Flare/Footnotes/Editing-Footnotes/Editing-Footnote-Number-Formats.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Editing the Look of Footnote Numbers"
+          Link="/Content/Flare/Footnotes/Editing-Footnotes/Editing-Look-Footnote-Numbers.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Restarting Footnote Numbering"
+          Link="/Content/Flare/Footnotes/Editing-Footnotes/Restarting-Footnote-Numbering.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Glossaries"
+        Link="/Content/Flare/Glossaries/More/Using-Styles-to-Change-Look-of-Glossary.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Editing the Style of Glossary Term Links"
+          Link="/Content/Flare/Glossaries/More/Editing-Style-of-Glossary-Term-Links.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Ignoring Glossary Terms in Styles"
+          Link="/Content/Flare/Glossaries/More/Ignoring-Glossary-Terms-in-Styles.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Help Controls"
+        Link="/Content/Flare/Concepts/Editing-Concept-Links.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Editing Keyword Links"
+          Link="/Content/Flare/Nav-Links/Keyword-Links/Editing-Keyword-Links.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Editing Related Topics Links"
+          Link="/Content/Flare/Nav-Links/Related-Topics-Links/Editing-Related-Topics-Links.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Using Styles to Determine the Display for Help Control Links"
+          Link="/Content/Flare/Styles/More/Using-Styles-to-Determine-Display-Help-Control-Links.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Horizontal Rules"
+        Link="/Content/Flare/Horizontal-Rules/Editing-Horizontal-Rules.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Images"
+        Link="/Content/Flare/Images/Editing-Images/Adding-Backgrounds-to-Images.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Creating Watermarks"
+          Link="/Content/Flare/Images/Editing-Images/Creating-Watermarks.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Adding Borders to Pictures"
+          Link="/Content/Flare/Images/Editing-Images/Adding-Borders-to-Images.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Adding Margins to Pictures"
+          Link="/Content/Flare/Images/Editing-Images/Adding-Margins-to-Images.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Adding Padding to Pictures"
+          Link="/Content/Flare/Images/Editing-Images/Adding-Padding-to-Images.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Resizing Pictures"
+          Link="/Content/Flare/Images/Editing-Images/Resizing-Images.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Showing Images as Thumbnails in Output"
+          Link="/Content/Flare/Images/Editing-Images/Showing-Images-as-Thumbnails-in-Output.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Indexes"
+        Link="/Content/Flare/Output/Printed-Output/Determining-Look-Print-Index.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Using Styles to Include or Exclude Index Headings"
+          Link="/Content/Flare/Output/Printed-Output/Using-Styles-Include-Exclude-Index-Headings.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="List of Concepts"
+        Link="/Content/Flare/Output/Printed-Output/Using-Styles-Determine-Look-List-Concepts.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="List of Elements"
+        Link="/Content/Flare/Output/Printed-Output/Using-Style-Determine-Look-List-Elements.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Lists"
+        Link="/Content/Flare/Lists/Editng-List-Styles/Editing-List-Styles.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Aligning Lists"
+          Link="/Content/Flare/Lists/Editng-List-Styles/Aligning-Lists.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Indenting Lists"
+          Link="/Content/Flare/Lists/Editng-List-Styles/Indenting-Lists.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Selecting Images for List Bullets"
+          Link="/Content/Flare/Lists/Editng-List-Styles/Selecting-Images-List-Bullets.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Borders for Lists"
+          Link="/Content/Flare/Lists/Editng-List-Styles/Setting-Borders-Lists.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Line Spacing for Lists"
+          Link="/Content/Flare/Lists/Editng-List-Styles/Setting-Line-Spacing-Lists.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Page and Column Breaks for Lists"
+          Link="/Content/Flare/Lists/Editng-List-Styles/Setting-Page-Column-Breaks-Lists.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Spacing Above and Below in Lists"
+          Link="/Content/Flare/Lists/Editng-List-Styles/Setting-Spacing-Above-Below-Lists.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting the Background for Lists"
+          Link="/Content/Flare/Lists/Editng-List-Styles/Setting-Background-Lists.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Specifying a List Type for a Style"
+          Link="/Content/Flare/Lists/Editng-List-Styles/Specifying-List-Type-Style.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Creating Custom List Formats"
+          Link="/Content/Flare/Lists/Creating-Custom-List-Formats.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Editing Custom List Formats"
+          Link="/Content/Flare/Lists/Editing-Custom-List-Formats.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Mini-TOCs"
+        Link="/Content/Flare/Proxies/Using-Styles-Determine-Look-MiniTOC.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Suppressing Page Numbers in a Print Mini-TOC"
+          Link="/Content/Flare/Output/Printed-Output/Suppressing-Page-Numbers-Print-MiniTOC.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Page Headers and Footers"
+        Link="/Content/Flare/Output/Printed-Output/Using-Styles-Determine-Page-Type.htm"
+        VolumeNumberReset="same"
+        SectionNumberReset="continue"
+        ChapterNumberReset="continue"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Paragraphs"
+        Link="/Content/Flare/Paragraphs/About-Paragraph-Formatting.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Aligning Paragraphs"
+          Link="/Content/Flare/Paragraphs/Aligning-Paragraphs.htm"
+          PageNumber="(multiple)"></TocEntry>
+        <TocEntry
+          Title="Setting the Background for Paragraphs"
+          Link="/Content/Flare/Paragraphs/Setting-Background-Paragraphs.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Borders for Paragraphs"
+          Link="/Content/Flare/Paragraphs/Setting-Borders-Paragraphs.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Creating Rounded Borders"
+          Link="/Content/Flare/Paragraphs/Creating-Rounded-Borders.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Creating Drop Caps Effects"
+          Link="/Content/Flare/Paragraphs/Creating-Drop-Caps-Effects.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Creating Hanging Punctuation"
+          Link="/Content/Flare/Paragraphs/Creating-Hanging-Punctuation.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Hyphenation"
+          Link="/Content/Flare/Paragraphs/Setting-Hyphenation.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Indenting Paragraphs"
+          Link="/Content/Flare/Paragraphs/Indenting-Paragraphs.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Creating Multiline Indentation"
+          Link="/Content/Flare/Paragraphs/Creating-Multiline-Indentation.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting a &quot;Next&quot; Style"
+          Link="/Content/Flare/Styles/More/Setting-Next-Style.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Page and Column Breaks"
+          Link="/Content/Flare/Paragraphs/Setting-Page-Column-Breaks.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Frame Breaks"
+          Link="/Content/Flare/Page-Layouts/Frames/Setting-Frame-Breaks.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Determining Wrap Behavior on Line Breaks Using Styles"
+          Link="/Content/Flare/Paragraphs/Determining-Wrap-Behavior-Line-Breaks.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Short Line Elimination"
+          Link="/Content/Flare/Paragraphs/Setting-Short-Line-Elimination.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Line Spacing"
+          Link="/Content/Flare/Paragraphs/Setting-Line-Spacing.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Paragraph Spacing Above and Below"
+          Link="/Content/Flare/Paragraphs/Setting-Paragraph-Spacing-Above-Below.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Widow and Orphan Control"
+          Link="/Content/Flare/Paragraphs/Setting-Widow-Orphan-Control.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Positioning Elements"
+        Link="/Content/Flare/Positioning-Elements/About-Positioning-Elements.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Using Absolute Positioning on Elements"
+          Link="/Content/Flare/Positioning-Elements/Using-Absolute-Positioning-Elements.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Using Floats for Positioning Elements"
+          Link="/Content/Flare/Positioning-Elements/Using-Floats-Positioning-Elements.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="QR Codes"
+        Link="/Content/Flare/QR-Codes/Adding-Backgrounds-QR-Codes.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Adding Borders to QR Codes"
+          Link="/Content/Flare/QR-Codes/Adding-Borders-QR-Codes.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Adding Margins to QR Codes"
+          Link="/Content/Flare/QR-Codes/Adding-Margins-QR-Codes.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Adding Padding to QR Codes"
+          Link="/Content/Flare/QR-Codes/Adding-Padding-QR-Codes.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Resizing QR Codes"
+          Link="/Content/Flare/QR-Codes/Resizing-QR-Codes.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Relationship Links"
+        Link="/Content/Flare/Nav-Links/Relationship-Links/Editing-Relationship-Link-Styles.htm"
+        PageNumber="(multiple)"></TocEntry>
+      <TocEntry
+        Title="Search Highlighting"
+        Link="/Content/Flare/Search/Search-Highlighting/Customizing-Highlight-Color-for-Search-Hits.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Search Results Pages"
+        Link="/Content/Flare/Styles/More/Styles-for-Generated-Pages.htm" />
+      <TocEntry
+        Title="Slideshows"
+        Link="/Content/Flare/Slideshows/Editing-Slideshow-Styles.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Tables"
+        Link="/Content/Flare/Tables/Editing-Tables.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Editing Table Styles in Topic Style Sheets"
+          Link="/Content/Flare/Tables/Editing-Table-Styles-in-Regular-Stylesheets.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Selecting Styles for Table Cell Contents"
+          Link="/Content/Flare/Tables/Selecting-Styles-for-Table-Cell-Contents.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Breaks on Tables"
+          Link="/Content/Flare/Tables/Setting-Page-Column-Frame-Breaks-on-Tables.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Hiding the Bottom Border on Tables when Crossing Page Breaks"
+          Link="/Content/Flare/Tables/Hiding-Bottom-Border-on-Table-Page-Breaks.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Using Styles to Repeat Table Captions in Print Output"
+          Link="/Content/Flare/Output/Printed-Output/Using-Styles-Repeat-Table-Captions-Print-Output.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="TOCs"
+        Link="/Content/Flare/Output/Printed-Output/Determining-Heading-Levels-Print-TOC.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Using Styles to Determine the Look of a Print TOC"
+          Link="/Content/Flare/Output/Printed-Output/Using-Styles-Determine-Look-Print-TOC.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Suppressing Page Numbers in a Print TOC"
+          Link="/Content/Flare/Output/Printed-Output/Suppressing-Page-Numbers-Print-TOC.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Text"
+        Link="/Content/Flare/Fonts/Editing-Font-Properties.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Setting Bold Text"
+          Link="/Content/Flare/Fonts/Bold/Setting-Bold-Text.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting the Case of Text"
+          Link="/Content/Flare/Fonts/Case/Setting-Case-of-Text.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting the Background Color for Text"
+          Link="/Content/Flare/Fonts/Color/Setting-Background-Color-for-Text.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting the Color for Text"
+          Link="/Content/Flare/Fonts/Color/Setting-Color-for-Text.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Italic Text"
+          Link="/Content/Flare/Fonts/Italic/Setting-Italic-Text.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Italic Correction"
+          Link="/Content/Flare/Fonts/Italic/Setting-Italic-Correction.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Letter Spacing"
+          Link="/Content/Flare/Fonts/Spacing/Setting-Letter-Spacing.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting an Overline on Text"
+          Link="/Content/Flare/Fonts/Effects/Setting-Overline-on-Text.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Redacted Text on Content"
+          Link="/Content/Flare/Redacted-Text/Setting-Redacted-Text.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting the Font Size"
+          Link="/Content/Flare/Fonts/Size/Setting-Font-Size.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Smallcaps on Text"
+          Link="/Content/Flare/Fonts/Effects/Setting-Smallcaps-on-Text.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting a Strikethrough Effect on Text"
+          Link="/Content/Flare/Fonts/Effects/Setting-Strikethrough-Effect-on-Text.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Subscript Text"
+          Link="/Content/Flare/Fonts/Effects/Setting-Subscript-Text.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Superscript Text"
+          Link="/Content/Flare/Fonts/Effects/Setting-Superscript-Text.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Underlined Text"
+          Link="/Content/Flare/Fonts/Effects/Setting-Underlined-Text.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Word Spacing"
+          Link="/Content/Flare/Fonts/Spacing/Setting-Word-Spacing.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Text Boxes"
+        Link="/Content/Flare/Text-Boxes/Editing-Text-Boxes.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Adding Backgrounds to Text Boxes"
+          Link="/Content/Flare/Text-Boxes/Adding-Backgrounds-Text-Boxes.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Adding Borders to Text Boxes"
+          Link="/Content/Flare/Text-Boxes/Adding-Borders-Text-Boxes.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Setting Hyphenation in Text Boxes"
+          Link="/Content/Flare/Text-Boxes/Setting-Hyphenation-Text-Boxes.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Adding Margins to Text Boxes"
+          Link="/Content/Flare/Text-Boxes/Adding-Margins-Text-Boxes.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Adding Padding to Text Boxes"
+          Link="/Content/Flare/Text-Boxes/Adding-Padding-Text-Boxes.htm"
+          PageNumber="(multiple)" />
+        <TocEntry
+          Title="Specifying the Size of Text Boxes"
+          Link="/Content/Flare/Text-Boxes/Specifying-Size-Text-Boxes.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Text Hyperlinks"
+        Link="/Content/Flare/Nav-Links/Text-Hyperlinks/Editing-Text-Hyperlinks.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Text Popups"
+        Link="/Content/Flare/Nav-Links/Text-Popups/Editing-Text-Popups.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Togglers"
+        Link="/Content/Flare/Nav-Links/Togglers/Editing-Togglers.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Topic Popups"
+        Link="/Content/Flare/Nav-Links/Topic-Popups/Editing-Topic-Popups.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Customizing the Size of Topic Popups"
+          Link="/Content/Flare/Nav-Links/Topic-Popups/Customizing-Size-Topic-Popup-Windows.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Topic Toolbars"
+        Link="/Content/Flare/Proxies/Using-Styles-Determine-Look-Topic-Toolbars.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Topics"
+        Link="/Content/Flare/Color/Applying-Color-to-the-Background-for-Topics.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Creating a Nonscrolling Region"
+          Link="/Content/Flare/Styles/More/Creating-Nonscrolling-Region.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Applying Styles and Stylesheets"
+      Link="/Content/Flare/Styles/Associating-Master-Stylesheets-with-All-Files.htm"
+      PageNumber="(multiple)"
+      StartSection="false">
+      <TocEntry
+        Title="Applying Style Sheets to Topics"
+        Link="/Content/Flare/Styles/Associating-Stylesheets-with-Specific-Files.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Applying Styles to Topic Content"
+        Link="/Content/Flare/Styles/Applying-Styles-to-Content.htm"
+        PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+        PageType="firstright"
+        PageNumber="(multiple)"
+        PageNumberReset="continue"
+        StartSection="false"
+        BreakType="none" />
+      <TocEntry
+        Title="Pinning Styles"
+        Link="/Content/Flare/Styles/More/Pinning-Styles.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="More About Regular Stylesheets"
+      Link="/Content/Flare/Styles/More/Opening-Stylesheets.htm"
+      StartSection="false"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Adding Comments to Styles"
+        Link="/Content/Flare/Styles/More/Adding-Comments-to-Styles.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Browse Sequences—Selecting Style Classes"
+        Link="/Content/Flare/Browse-Sequences/More/Selecting-a-Style-Class-for-a-Browse-Sequence-Entry.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Deleting Styles"
+        Link="/Content/Flare/Styles/More/Deleting-Styles.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Disabling Styles"
+        Link="/Content/Flare/Styles/More/Disabling-Styles.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="HTML Help—Patching Stylesheets and Image Links"
+        Link="/Content/Flare/Targets/More/Patching-Stylesheets-Image-Links-HTML-Help.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Importing Stylesheets"
+        Link="/Content/Flare/Styles/More/Importing-Stylesheets.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Importing Styles"
+        Link="/Content/Flare/Styles/More/Importing-Styles.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Linking Stylesheets"
+        Link="/Content/Flare/Styles/More/Linking-Stylesheets.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Print Output—Setting Styles"
+        Link="/Content/Flare/Output/Printed-Output/Setting-Styles-Print-Output-Regular-Stylesheet.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Renaming Style Classes"
+        Link="/Content/Flare/Styles/More/Renaming-Selectors.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="TOCs—Selecting Style Classes"
+        Link="/Content/Flare/TOCs/More/Selecting-Style-Class-TOC-Entry.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Topics—Setting Style Classes"
+        Link="/Content/Flare/Styles/More/Setting-HTML-Style-for-Topics.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Units of Measurement"
+        Link="/Content/Flare/Styles/More/About-UOM-Flare.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Table Stylesheets"
+    Link="/Content/Flare/Styles/About-Table-Stylesheets.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Creating New Table Stylesheets"
+      Link="/Content/Flare/Styles/Creating-Table-Stylesheets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Editing Table Stylesheets"
+      Link="/Content/Flare/Styles/Editing-Table-Stylesheets.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Applying Table Stylesheets to Tables"
+      Link="/Content/Flare/Styles/Applying-Table-Stylesheets-to-Tables.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Setting Table Styles for Print Output"
+      Link="/Content/Flare/Output/Printed-Output/Setting-Table-Styles-Print-Output.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Mediums"
+    Link="/Content/Flare/Styles/Mediums/About-Mediums-Media-Queries.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Selecting Style Sheet Mediums"
+      Link="/Content/Flare/Styles/Mediums/Selecting-Mediums-Media-Queries.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating Style Sheet Mediums"
+      Link="/Content/Flare/Styles/Mediums/Creating-Mediums.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="Creating Media Queries"
+      Link="/Content/Flare/Styles/Mediums/Creating-Media-Queries.htm" />
+    <TocEntry
+      Title="Associating a Medium with a Target"
+      Link="/Content/Flare/Styles/Mediums/Associating-Medium-with-Target.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Skin Styles"
+    BreakType="chapter"
+    PageType="firstright"
+    Link="/Content/Flare/Styles/Using-Styles/Skin-Styles.htm"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="HTML5"
+      Link="/Content/Flare/Skins/HTML5-Skin-Styles/HTML5-Skin-Styles.htm"
+      PageNumber="(multiple)"
+      StartSection="false">
+      <TocEntry
+        Title="Main Page in HTML5"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Main-Page-HTML5-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Headers in HTML5"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Header-HTML5-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Menus in HTML5 Skins"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Menus-HTML5-Skins.htm" />
+      <TocEntry
+        Title="Navigation in HTML5"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Navigation-HTML5-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Topics in HTML5"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Topics-HTML5-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Search Results in HTML5"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Search-Results-HTML5-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Feedback in HTML5 Skins"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Feedback-HTML5-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Topic Toolbars in HTML5 Skin Components"
+        Link="/Content/Flare/Skins/HTML5-Skin-Styles/Topic-Toolbars-HTML5-Skins.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Standard"
+      Link="/Content/Flare/Skins/Standard-Skin-Styles/Standard-Skin-Styles.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Accordion Items in Standard Skins"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Accordion-Items-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Controls"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Controls-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Dialogs"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Dialogs-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Feedback User Profile Items"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Feedback-User-Profile-Items-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Formats"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Formats-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Frames"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Frames-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Index Entries"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Index-Entries-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Index Entry Popups"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Index-Entry-Popups-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="TOC Entries"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/TOC-Entries-Standard-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Toolbar Items"
+        Link="/Content/Flare/Skins/Standard-Skin-Styles/Specifying-Style-Settings-Toolbar-Items.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Mobile"
+      Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/WebHelp-Mobile-Skin-Styles.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Headers in WebHelp Mobile Skins"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Headers-WebHelp-Mobile-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Home Buttons"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Home-Buttons-WebHelp-Mobile-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Item Counts"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Item-Counts-WebHelp-Mobile-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Navigation Elements"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Navigation-Elements-WebHelp-Mobile-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Search Bars"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Search-Bars-WebHelp-Mobile-Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Search Buttons"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Search_Buttons_in_WebHelp_Mobile_Skins.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Toolbar Items"
+        Link="/Content/Flare/Skins/WebHelp-Mobile-Skin-Styles/Toolbar-Items-WebHelp-Mobile-Skins.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX MadCap-Specific Styles"
+    Link="/Content/Print-Only-Topics/Flare/MadCap-Specific-Styles.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="APPENDIX MadCap-Specific Properties"
+    Link="/Content/Print-Only-Topics/Flare/MadCap-Specific-Properties.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="PrintIndex"
+    Link="/Content/Print-Only-Topics/Shared/Print-Index.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Index.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled"></TocEntry>
+</CatapultToc>

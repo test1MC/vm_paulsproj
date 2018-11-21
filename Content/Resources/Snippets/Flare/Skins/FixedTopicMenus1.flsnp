@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="97" MadCap:lastWidth="1178">
+    <body>
+        <p>
+            <MadCap:snippetText src="FixedTopicMenu.flsnp" /> In previous versions, a menu such as this always moved with the rest of the content when you scrolled down.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Skins/Adding-Skins-to-Project.htm">Adding Skins</MadCap:xref> and <MadCap:xref href="../../../../Flare/Proxies/Creating-Topic-Menu.htm">Creating a Topic Menu</MadCap:xref></MadCap:conditionalText>.</p>
+    </body>
+</html>

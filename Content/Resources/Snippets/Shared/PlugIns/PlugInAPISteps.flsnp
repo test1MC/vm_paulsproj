@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ol>
+            <li>Make sure <MadCap:variable name="Other.Product" /> is not open.</li>
+            <li>In Windows paste your DLL file in the <MadCap:variable name="Other.Product" />.app\Plugins folder where you have installed <MadCap:variable name="Other.Product" />. Place the file within a subfolder under Plugins. For example, it might be C:\Program Files\<MadCap:variable name="Other.CompanyName" />\MadCap <MadCap:variable name="Other.Product" /> V<MadCap:variable name="Other.VersionNumber" />\<MadCap:variable name="Other.Product" />.app\Plugins\NavigationPlugin. <span class="BoldWarning">Please note that this is just an example. Your files might be in different folder than C:\Program Files.</span></li>
+            <li>Launch <MadCap:variable name="Other.Product" />.</li>
+            <li>Select <span class="Emphasis">File &gt; Options</span>. The Options dialog opens.</li>
+            <li>Select the <span class="Emphasis">Plugins </span>tab. You should see a row that represents your DLL.</li>
+            <li>
+                <p>Click <span class="Emphasis">Enable</span>.</p>
+                <p MadCap:conditions="Products.Flare">
+                    <img src="../../../Images/Flare/plugin_example.png" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>Restart <MadCap:variable name="Other.Product" />.</li>
+        </ol>
+    </body>
+</html>

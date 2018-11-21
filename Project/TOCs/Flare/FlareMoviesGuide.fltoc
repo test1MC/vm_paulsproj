@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartPageLayout="false" />
+  <TocEntry
+    Title="CH 1 About Multimedia"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartSection="false"
+    Link="/Content/Flare/Multimedia/About-Multimedia.htm"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 2 Adding Multimedia Files to Projects"
+    Link="/Content/Flare/Multimedia/Adding-Multimedia-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 3 Inserting Movies"
+    Link="/Content/Flare/Multimedia/Movies/Inserting-Movies-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 4 Inserting Mimic Movie Links into Topics"
+    Link="/Content/Flare/Multimedia/Movies/Inserting-Mimic-Movie-Links-Topics.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 5 Inserting Mimic Movie Links into TOCs"
+    Link="/Content/Flare/Multimedia/Movies/Inserting-Movie-Links-TOCs.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 6 Inserting Mimic Movie Links into Browse Sequences"
+    Link="/Content/Flare/Multimedia/Movies/Inserting-Movie-Links-Browse-Sequences.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 7 Editing Movies"
+    Link="/Content/Flare/Multimedia/Movies/Editing-Movies.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="CH 8 Additional Movie Tasks"
+    Link="/Content/Flare/Multimedia/Movies/More/Previewing-Movies.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    ReplaceMergeNode="false">
+    <TocEntry
+      Title="Launching MadCap Mimic"
+      Link="/Content/Flare/Multimedia/Movies/More/Launching-Mimic.htm"
+      PageNumber="(multiple)"
+      ReplaceMergeNode="false"></TocEntry>
+    <TocEntry
+      Title="Deleting Movies from Topics"
+      Link="/Content/Flare/Multimedia/Movies/More/Deleting-Movies-from-Topics.htm"
+      PageNumber="(multiple)"
+      ReplaceMergeNode="false" />
+    <TocEntry
+      Title="Deleting Movie Files from the Project"
+      Link="/Content/Flare/Multimedia/Movies/More/Deleting-Movie-Files-from-Project.htm"
+      PageNumber="(multiple)"
+      ReplaceMergeNode="false" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled"
+    ReplaceMergeNode="false" />
+</CatapultToc>

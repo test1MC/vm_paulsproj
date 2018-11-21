@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ul class="FirstLevel">
+            <li>In the <span class="Emphasis">Color</span> field, click <MadCap:snippetText src="../Formatting/FormattingSetColorStep.flsnp" /></li>
+        </ul>
+    </body>
+</html>

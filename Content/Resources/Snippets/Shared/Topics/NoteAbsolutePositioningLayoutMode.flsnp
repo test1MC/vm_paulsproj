@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>If you are incorporating elements in a topic with absolute positioning, you should be aware of the layout mode as you are editing. This is due to the fact that online and print outputs react differently to absolute positioning. Also, the option to wrap text all around an element is supported only in print outputs.</p>
+    </body>
+</html>

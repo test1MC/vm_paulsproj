@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer" MadCap:lastBlockDepth="3" MadCap:lastHeight="1124" MadCap:lastWidth="752" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Here is a typical list with the tag bars shown to the left of the content. Notice that the entire list has an &lt;ol&gt; tag, and each line in the list has an &lt;li&gt; tag.</p>
+            <p>
+                <img src="../../../Images/Shared/paragraph_item_list_example1.png" class="MaxWidth50Percent">
+                </img>
+            </p>
+            <p> Each time you press <span class="Emphasis">Enter</span> after a line, a new &lt;li&gt; tag is created.</p>
+            <p>Let's say that we want to add two comments after #2. By turning #2 into a paragraph item, a &lt;p&gt; tag is added after the &lt;li&gt; tag in that line, and in each line that you create immediately after that line.</p>
+            <p>
+                <img src="../../../Images/Shared/paragraph_item_list_example2.png" class="MaxWidth55Percent" />
+            </p>
+            <p>The paragraph item icon <img src="../../../Images/Shared/paragraph_item_icon.png" class="ReduceButtonSize" MadCap:conditions="FlareGuides.FlareNotPrintedManual" /> is displayed at the beginning of the final paragraph item in that &lt;li&gt; tag. If you click this icon, that line becomes a new list item with its own &lt;li&gt; tag and a number (or bullet, if used) is displayed before it. For example, if we were to click the item in the previous image, the resulting list would look as follows.</p>
+            <p>
+                <img src="../../../Images/Shared/paragraph_item_list_example3.png" class="MaxWidth55Percent" />
+            </p>
+        </div>
+    </body>
+</html>

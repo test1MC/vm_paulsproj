@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Mimic">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Mimic/TitleMimic.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Mimic/TitleMimic.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageType="firstright"
+    PageNumberFormat="lower-roman" />
+  <TocEntry
+    Title="Step 1: Creating a Movie Project"
+    Link="/Content/Mimic/Multimedia/Movie-Collections/Creating-Movie-Collection.htm"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    BreakType="chapter"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    PageNumberFormat="decimal"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="Step 2: Creating a Movie"
+    StartSection="false"
+    Link="/Content/Mimic/Multimedia/Movies-Creating/Creating-Movie.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    BreakType="chapter"
+    PageType="firstright">
+    <TocEntry
+      Title="Recording Movies"
+      Link="/Content/Mimic/Multimedia/Movies-Creating/Recording-Movies.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Creating Blank Movies"
+      Link="/Content/Mimic/Multimedia/Movies-Creating/Creating-Blank-Movies.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Creating Movies from Media Files"
+      Link="/Content/Mimic/Multimedia/Movies-Creating/Creating-Movies-from-Media-Files.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Creating Movies from Screen Captures"
+      Link="/Content/Mimic/Multimedia/Movies-Creating/Creating-Movies-from-Screen-Captures.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Importing PowerPoint Presentations"
+      Link="/Content/Mimic/Multimedia/Movies-Creating/Importing-PowerPoint-Presentations.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Importing Movies"
+      Link="/Content/Mimic/Multimedia/Movies-Creating/Importing-Movies.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Inserting a Video"
+      Link="/Content/Mimic/Multimedia/Movies-Creating/Inserting-Video.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Opening Movies"
+      Link="/Content/Mimic/Multimedia/Movies-Creating/More/Opening-Movies.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Mimic/PDF-Guides/PDF-Guides-Mimic.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright" />
+</CatapultToc>

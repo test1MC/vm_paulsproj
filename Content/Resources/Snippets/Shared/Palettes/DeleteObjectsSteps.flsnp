@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture,Products.Mimic">
+    <body>
+        <ol>
+            <li>Open the palette containing an object that you want to delete.</li>
+            <li>Select the object.</li>
+            <li>In the Palettes window pane, do one of the following.<ul class="FirstLevel"><li><span class="SetOffFirstLevel">Keyboard Shortcut </span><MadCap:snippetText src="../StepsGeneral/OnKeyboardPressDelete.flsnp" /></li><li><span class="SetOffFirstLevel">Right-Click </span>Right-click the object and select <span class="Emphasis">Delete</span>. </li></ul></li>
+        </ol>
+    </body>
+</html>

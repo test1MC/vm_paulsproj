@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="681" MadCap:lastWidth="1204">
+    <body>
+        <p> When creating a topic menu (e.g., a side menu) in Top Navigation output, only topics were shown in previous versions.</p>
+        <p>
+            <img src="../../../Images/Flare/topic_headings_top_nav_side_menus2.png" alt="" title="" class="MaxWidth100Percent">
+            </img>
+        </p>
+        <p>Starting with this version, you have the option of showing topic headings in the side menu instead. In other words, any subheadings (e.g., h2, h3, h4) that you’ve included in a topic will be shown in the side menu instead of other topics in the output.</p>
+        <p>
+            <img src="../../../Images/Flare/topic_headings_top_nav_side_menus3.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <p>Also, when viewing a topic that is set up like this—and the menu is fixed in place—each sub-heading section will be highlighted as you scroll down in the topic.</p>
+        <p>
+            <img src="../../../Images/Flare/topic_headings_top_nav_side_menus4.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

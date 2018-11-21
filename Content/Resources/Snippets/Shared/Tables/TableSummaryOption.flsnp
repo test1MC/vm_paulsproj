@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>You can enter a summary for a table. This adds the "summary" attribute to the &lt;table&gt; tag and is used to help make your output more accessible to individuals with disabilities.</p>
+    </body>
+</html>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile conditions="Products.MovieViewer">
+    <Map Name="Messages_Window" Link="/Content/MovieViewer/Interface/UI-Elements/Messages-Window.htm" />
+    <Map Name="Movie_Window" Link="/Content/MovieViewer/Movie-Window.htm" />
+    <Map Name="New_Updates_Available_Dialog" Link="/Content/MovieViewer/Interface/UI-Elements/New-Updates-Available-Dialog.htm" />
+    <Map Name="Options_Dialog" Link="/Content/MovieViewer/Options-Dialog-MovieViewer.htm" />
+    <Map Name="Crash" Link="/Content/MovieViewer/Crash-Reporting-System/Sending-Crash-Report.htm" />
+</CatapultAliasFile>

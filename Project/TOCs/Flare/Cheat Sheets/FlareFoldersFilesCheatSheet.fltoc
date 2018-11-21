@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="FoldersFiles1"
+    Link="/Content/Print-Only-Topics/Flare/Folders-Files/Folders-Files.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/CheatSheetLegalFirstPage2Frames.flpgl"
+    PageNumberReset="continue" />
+  <TocEntry
+    Title="FoldersFiles2"
+    Link="/Content/Print-Only-Topics/Flare/Folders-Files/Folders-Files2.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/CheatSheetLegal1Column.flpgl" />
+  <TocEntry
+    Title="FoldersFiles3"
+    Link="/Content/Print-Only-Topics/Flare/Folders-Files/Folders-Files3.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/CheatSheetLegal1Column.flpgl"></TocEntry>
+</CatapultToc>

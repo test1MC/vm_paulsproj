@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>As of Flare V7, print table styles are no longer the preferred method for single-sourcing tables in online and print output; mediums are now the recommended solution</p>
+    </body>
+</html>

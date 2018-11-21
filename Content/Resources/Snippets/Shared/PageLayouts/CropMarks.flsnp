@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>These are thin vertical and horizontal lines that show the edges of the page, where it will be trimmed by the printer. The location of crop marks are determined by the page size you specify.</p>
+    </body>
+</html>

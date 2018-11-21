@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.HelpViewer,Products.Lingo,Products.Mimic,Products.MovieViewer,Products.Pulse">
+    <body>
+        <p>This window pane automatically displays the Help topic related to the active element in the interface. If you want to "lock" the window pane so that it continues to show the current Help topic while you move around in the interface, click <img src="../../../Images/Shared/lock_dynamic_help_btn.png" class="ReduceButtonSize" /> in the local toolbar of the window pane.</p>
+    </body>
+</html>

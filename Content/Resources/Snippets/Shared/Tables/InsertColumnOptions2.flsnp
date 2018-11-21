@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul type="1" class="FirstLevel">
+            <li>
+                <p><span class="SetOffFirstLevel">Ribbon</span>
+                    <MadCap:snippetText src="../UIElements/SelectTableRibbon.flsnp" /> Then select <span class="Emphasis">Columns to the Left</span> or <span class="Emphasis">Columns to the Right</span>, depending on where you want to insert the column(s).</p>
+            </li>
+            <li><span class="SetOffFirstLevel">Right-Click</span> Right-click the table and select <span class="Emphasis">Insert &gt; Columns to the Left</span> or <span class="Emphasis">Insert &gt; Columns to the Right</span>, depending on where you want to insert the column(s). </li>
+        </ul>
+    </body>
+</html>

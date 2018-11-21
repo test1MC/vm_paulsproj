@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Selecting this option does not automatically replace all of the straight quotes that you already have throughout your project. In order to do that, you should use the Find and Replace in Files window pane to find all of the files in the project containing straight quotes and then enter smart quotes in their place. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../../Flare/Find-Replace/Using_the_Find_and_Replace_in_Files_Feature.htm">Using the Find and Replace in Files Feature</MadCap:xref>.</MadCap:conditionalText></p>
+        </div>
+    </body>
+</html>

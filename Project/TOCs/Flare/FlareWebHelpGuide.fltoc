@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 1 WebHelp Outputs"
+    Link="/Content/Print-Only-Topics/Flare/WebHelp-Outputs.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue">
+    <TocEntry
+      Title="About WebHelp Output"
+      Link="/Content/Flare/Output/WebHelp-Output/About-WebHelp-Output.htm"
+      StartChapter="false"
+      PageType="first"
+      PageNumberReset="continue"
+      PageNumber="(multiple)"
+      StartSection="false"
+      StartPageLayout="false"></TocEntry>
+    <TocEntry
+      Title="About WebHelp Plus Output"
+      Link="/Content/Flare/Output/WebHelp-Plus-Output/About-WebHelp-Plus-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="About WebHelp Mobile Output"
+      Link="/Content/Flare/Output/WebHelp-Mobile-Output/About-WebHelp-Mobile-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="About WebHelp AIR Output"
+      Link="/Content/Flare/Output/WebHelp-AIR-Output/About-WebHelp-AIR-Output.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Specifying WebHelp AIR Options"
+        Link="/Content/Flare/Targets/More/Specifying-WHAIR-Options.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 2 Skin Tasks for WebHelp Outputs"
+    Link="/Content/Flare/Skins/More/Excluding-Accordion-Titles-from-WebHelp-Output.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Selecting a Picture for the About Box"
+      Link="/Content/Flare/Skins/More/Selecting-Image-About-Box.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Showing Navigation Links in WebHelp Standalone Topics"
+      Link="/Content/Flare/Skins/More/Showing-Navigation-Links-Standalone-Topics.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying Browser Settings for WebHelp Output"
+      Link="/Content/Flare/Skins/More/Specifying-Browser-Settings.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying Navigation Pane Settings for WebHelp Output"
+      Link="/Content/Flare/Skins/More/Specifying-Navigation-Pane-Settings-HTML5-WebHelp-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying Web Toolbar Custom Settings—WebHelp Outputs"
+      Link="/Content/Flare/Skins/More/Web-Toolbar-Settings-WebHelp-Output.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 CSH Calls for WebHelp and WebHelp Plus"
+    Link="/Content/Flare/CSH/WebHelp-CSH-Calls/CSH-Calls-WH-WHP.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="CSH Calls for WebHelp and WebHelp Plus—Developers"
+      Link="/Content/Flare/CSH/WebHelp-CSH-Calls/CSH-Calls-WH-WHP-Developers.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 CSH Calls for WebHelp Mobile"
+    Link="/Content/Flare/CSH/WebHelp-Mobile-CSH-Calls/CSH-Calls-WHM.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="CSH Calls for WebHelp Mobile—Developers"
+      Link="/Content/Flare/CSH/WebHelp-Mobile-CSH-Calls/CSH-Calls-WHM-Developers.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Merging Output from Flare WebHelp Projects"
+    Link="/Content/Flare/TOCs/More/Merging-Output-from-Flare-WebHelp-Projects.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 6 More About WebHelp Plus"
+    Link="/Content/Flare/Output/WebHelp-Plus-Output/Enabling-WebHelp-Plus-Output.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Viewing WebHelp Plus Output"
+      Link="/Content/Flare/Output/WebHelp-Plus-Output/Viewing-WebHelp-Plus-Output.htm"
+      StartChapter="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="first"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      StartPageLayout="false" />
+    <TocEntry
+      Title="Merging Output at Runtime Using WebHelp Plus"
+      Link="/Content/Flare/Output/WebHelp-Plus-Output/AutoMerge/Merging-Output-Runtime-Using-WebHelp-Plus.htm"
+      StartChapter="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="first"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      StartPageLayout="false">
+      <TocEntry
+        Title="Specifying the Auto-Merge Location in a TOC"
+        Link="/Content/Flare/Output/WebHelp-Plus-Output/AutoMerge/Specifying-Auto-Merge-Location-TOC.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Specifying the Auto-Merge Location in a Browse Sequence"
+        Link="/Content/Flare/Output/WebHelp-Plus-Output/AutoMerge/Specifying-Auto-Merge-Location-Browse-equence.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Specifying the Order of Auto-Merged Outputs"
+        Link="/Content/Flare/Output/WebHelp-Plus-Output/AutoMerge/Specifying-Order-Auto-Merged-Outputs.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Including Non-XHTML Files in Search"
+      Link="/Content/Flare/Output/WebHelp-Plus-Output/Search/Including-Non-XHTML-Files-Search.htm"
+      StartChapter="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="first"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      StartPageLayout="false" />
+    <TocEntry
+      Title="WebHelp Plus Scenario"
+      Link="/Content/Flare/Output/WebHelp-Plus-Output/WebHelp-Plus-Scenario.htm"
+      StartChapter="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="first"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      StartPageLayout="false" />
+    <TocEntry
+      Title="FAQs—WebHelp Plus"
+      Link="/Content/Print-Only-Topics/Flare/FAQs-WHP.htm"
+      StartChapter="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="first"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      StartPageLayout="false" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="APPENDIX Output_Type_Tables"
+    Link="/Content/Print-Only-Topics/Flare/Output-Type-Tables.htm"
+    StartPageLayout="false"
+    BreakPageLayout="/Content/Resources/PageLayouts/ChaptersLandscapeGreen.flpgl"
+    StartSection="false"
+    StartChapter="true"
+    BreakPageType="normal"
+    PageLayout="/Content/Resources/PageLayouts/Shared/AppendixLandscape.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    AutoEndOnLeftPage="disabled"
+    PageType="firstright" />
+</CatapultToc>

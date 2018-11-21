@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 1 About HTML5 Output"
+    Link="/Content/Flare/Output/HTML5-Output/About-HTML5-Output.htm"
+    PageNumber="(multiple)"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumberFormat="decimal" />
+  <TocEntry
+    Title="CH 2 Responsive Output"
+    Link="/Content/Flare/Responsive-Web-Design/About-Responsive-Web-Design.htm"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Responsive Skins"
+      Link="/Content/Flare/Responsive-Web-Design/Responsive-Skins.htm" />
+    <TocEntry
+      Title="Responsive Content"
+      Link="/Content/Flare/Responsive-Web-Design/Responsive-Content.htm" />
+    <TocEntry
+      Title="Creating Responsive Layouts"
+      Link="/Content/Flare/Responsive-Web-Design/Creating-Responsive-Layouts.htm" />
+    <TocEntry
+      Title="Editing Responsive Layouts"
+      Link="/Content/Flare/Responsive-Web-Design/Editing-Responsive-Layouts.htm" />
+    <TocEntry
+      Title="Viewing Responsive Output"
+      Link="/Content/Flare/Responsive-Web-Design/Viewing-Responsive-Output.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Top Navigation Output"
+    Link="/Content/Flare/Output/HTML5-Output/HTML5-Top-Navigation-Output.htm"
+    PageNumber="(multiple)"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+  <TocEntry
+    Title="CH 4 HTML5 Skin Styles"
+    Link="/Content/Flare/Skins/HTML5-Skin-Styles/HTML5-Skin-Styles.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Main Page in HTML5 Skins"
+      Link="/Content/Flare/Skins/HTML5-Skin-Styles/Main-Page-HTML5-Skins.htm" />
+    <TocEntry
+      Title="Headers in HTML5 Skins"
+      Link="/Content/Flare/Skins/HTML5-Skin-Styles/Header-HTML5-Skins.htm" />
+    <TocEntry
+      Title="Menus in HTML5 Skins"
+      Link="/Content/Flare/Skins/HTML5-Skin-Styles/Menus-HTML5-Skins.htm" />
+    <TocEntry
+      Title="Navigation in HTML5 Skins"
+      Link="/Content/Flare/Skins/HTML5-Skin-Styles/Navigation-HTML5-Skins.htm" />
+    <TocEntry
+      Title="Topics in HTML5 Skins"
+      Link="/Content/Flare/Skins/HTML5-Skin-Styles/Topics-HTML5-Skins.htm" />
+    <TocEntry
+      Title="Search Results in HTML5 Skins"
+      Link="/Content/Flare/Skins/HTML5-Skin-Styles/Search-Results-HTML5-Skins.htm" />
+    <TocEntry
+      Title="Feedback in HTML5 Skins"
+      Link="/Content/Flare/Skins/HTML5-Skin-Styles/Feedback-HTML5-Skins.htm" />
+    <TocEntry
+      Title="Topic Toolbars in HTML5 Skin Components"
+      Link="/Content/Flare/Skins/HTML5-Skin-Styles/Topic-Toolbars-HTML5-Skins.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Other Skin Tasks"
+    Link="/Content/Flare/Language-Support/Changing-Text-Strings-HTML5-Skins.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Showing Navigation Links in Standalone Topics"
+      Link="/Content/Flare/Skins/More/Showing-Navigation-Links-Standalone-Topics.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying Browser Settings"
+      Link="/Content/Flare/Skins/More/Specifying-Browser-Settings.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying Navigation Pane Settings"
+      Link="/Content/Flare/Skins/More/Specifying-Navigation-Pane-Settings-HTML5-WebHelp-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying Web Toolbar Custom Settings—HTML5 Output"
+      Link="/Content/Flare/Skins/More/Web-Toolbar-Settings-HTML5-Output.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 CSH Calls for HTML5 (WebHelp 2.0)"
+    Link="/Content/Flare/CSH/HTML5-CSH-Calls/CSH-Calls-HTML5.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="CSH Calls for HTML5 (WebHelp 2.0)—Developers"
+      Link="/Content/Flare/CSH/HTML5-CSH-Calls/CSH-Calls-HTML5-Developers.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 7 More About HTML5 Output"
+    Link="/Content/Flare/Output/HTML5-Output/Enabling-HTML5-Server-Output.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Viewing HTML5 Server-based Output"
+      Link="/Content/Flare/Output/HTML5-Output/Viewing-HTML5-Server-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Merging Output at Runtime Using HTML5"
+      Link="/Content/Flare/Output/HTML5-Output/AutoMerge/Merging-Output-Runtime-Using-HTML5.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Specifying the Auto-Merge Location in a TOC for HTML5"
+        Link="/Content/Flare/Output/HTML5-Output/AutoMerge/Specifying-Auto-Merge-Location-TOC-HTML5.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Specifying the Auto-Merge Location in a Browse Sequence for HTML5"
+        Link="/Content/Flare/Output/HTML5-Output/AutoMerge/Specifying-Auto-Merge-Location-Browse-Sequence-HTML5.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Specifying the Order of Auto-Merged HTML5 Outputs"
+        Link="/Content/Flare/Output/HTML5-Output/AutoMerge/Specifying-Order-Auto-Merged-Outputs-HTML5.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Including Non-XHTML Files in HTML5 Search"
+      Link="/Content/Flare/Output/HTML5-Output/Search/Including-Non-XHTML-Files-Search-HTML5.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="HTML5 Server-based Output Scenario"
+      Link="/Content/Flare/Output/HTML5-Output/HTML5_Server_Scenario.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="APPENDIX Output_Type_Tables"
+    Link="/Content/Print-Only-Topics/Flare/Output-Type-Tables.htm"
+    StartPageLayout="false"
+    BreakPageLayout="/Content/Resources/PageLayouts/ChaptersLandscapeGreen.flpgl"
+    StartSection="false"
+    StartChapter="true"
+    BreakPageType="normal"
+    PageLayout="/Content/Resources/PageLayouts/Shared/AppendixLandscape.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    AutoEndOnLeftPage="disabled"
+    PageType="firstright" />
+</CatapultToc>

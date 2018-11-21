@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>When creating this format, make sure you include the {pageref} command in it. You can find the command by selecting either <span class="Emphasis">Show All</span> or <span class="Emphasis">Show Page Commands</span>. When you find the {pageref} command in the list, double-click it to add it to the format. Here is an example of a format that contains a context-sensitive cross-reference command: See "{paratext}" {pageref}.</p>
+    </body>
+</html>

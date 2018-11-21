@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="545" MadCap:lastWidth="1173">
+    <body>
+        <p>When you install this version of Flare, you can simply use the default settings, or you can complete a custom installation.</p>
+        <p>
+            <img src="../../../Images/Flare/salesforce1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <p>After you choose <span class="Emphasis">Custom</span> and click <span class="Emphasis">Next</span>, you can select either of the following options:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Local Documentation </span>If you do not select this option, only the external Help for Flare will be available. This is beneficial because you are ensured of seeing the latest documentation, which is updated periodically on a server. Also, it reduces the overall size of the Flare installation. However, if you want to include the Help system on your computer, select this option. You might choose to do this if you have limited access to the Internet or are behind a firewall.</li>
+            <li><span class="SetOffFirstLevel">Salesforce </span>Connect Select this option if your company uses Salesforce and you want to publish your Clean XHTML output to it.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="#Salesforce">Salesforce Connect</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="FlareGuides.FlareWhatsNewGuide"> See <MadCap:xref href="../../../../Print-Only-Topics/Flare/Whats-New/Salesforce.htm">Salesforce Integration</MadCap:xref>.</MadCap:conditionalText></li>
+        </ul>
+    </body>
+</html>

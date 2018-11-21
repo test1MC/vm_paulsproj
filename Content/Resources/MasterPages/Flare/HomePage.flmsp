@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="221" MadCap:lastWidth="1040">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="../../Stylesheets/Flare/StylesForHomePage.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="contentBody" class="off-canvas-main" MadCap:conditions="Products.FlareOnlineOnly,Products.DocBible">
+            <MadCap:bodyProxy />
+            <div class="footer center">
+                <div class="HomeMasterPageFooter outer-row">
+                    <div MadCap:conditions="Products.FlareOnlineOnly"><a href="../../../Flare/Introduction/Home-Flare.htm"><img src="../../Images/Flare/flare_logo.png" alttext="" class="Hyperlinked footer-logo" /></a>
+                    </div>
+                    <div>
+                        <div class="footer-links" MadCap:conditions="Products.FlareOnlineOnly"><a href="../../../Flare/Introduction/Company-Product-Information.htm">Company/Product</a><a href="../../../Flare/Introduction/System-Requirements-Technical-Support-More.htm">Support</a><a href="../../../Flare/Troubleshooting/Troubleshooting.htm">Troubleshooting</a>
+                        </div>
+                        <p class="Copyright">Copyright © <MadCap:variable name="Other.Yr" />&#160;<MadCap:variable name="Other.CompanyName" /></p>
+                    </div>
+                    <div class="footer-icons" MadCap:conditions="Products.FlareOnlineOnly"><a href="https://twitter.com/#!/MadCapDocTeam" target="_blank"><img src="../../Images/Shared/TwitterIcon.png" alttext="" class="Hyperlinked" /></a><a href="http://www.facebook.com/madcapdocteam" target="_blank"><img src="../../Images/Shared/FacebookIcon.png" alttext="" class="Hyperlinked" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="contentBody" class="off-canvas-main" MadCap:conditions="General.ComingSoon">
+            <MadCap:bodyProxy />
+        </div>
+    </body>
+</html>

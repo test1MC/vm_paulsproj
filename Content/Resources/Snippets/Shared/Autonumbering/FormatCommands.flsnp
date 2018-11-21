@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>These include commands such as {b}, {i}, {color red}, and {size 12pt}, which let you determine how an autonumber format will look. Many of these commands require a beginning command (e.g., {b}) and an ending command (e.g., {/b}).</p>
+    </body>
+</html>

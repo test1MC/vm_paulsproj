@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="130" MadCap:lastWidth="952" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>As you type, the selected item in the list will jump to the attribute that begins with the text  you are typing.</p>
+        <p>You can select an attribute by double-clicking it or by pressing the Enter key on your keyboard. Once an attribute is selected, the attribute text is completed and an equal sign followed by quotation marks (="") is added to the end of the text, with the cursor being placed between the quotation marks. </p>
+    </body>
+</html>

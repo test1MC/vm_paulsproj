@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul type="1" class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Ribbon </span>
+                <MadCap:snippetText src="../UIElements/SelectTableRibbon.flsnp" /> Then select <span class="Emphasis">Rows Above</span> or <span class="Emphasis">Rows Below</span>, depending on where you want to insert  the row(s).</li>
+            <li><span class="SetOffFirstLevel">Right-Click </span>Right-click the table and select <span class="Emphasis">Insert &gt; Rows Above</span> or <span class="Emphasis">Insert &gt; Rows Below</span>, depending on where you want to insert the row(s). </li>
+        </ul>
+    </body>
+</html>

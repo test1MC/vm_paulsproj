@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="TableText">Receive a notification if a target from a project is stopped (canceled) during compilation. This notification is off by default. If enabled, it is sent to all members of the project, except for the person who stopped the build.</p>
+    </body>
+</html>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="365" MadCap:lastWidth="984" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>If the original QR code is larger than the maximum width or height that is set, it will be reduced in size so that it is no greater than the maximum value. If the original QR code is smaller than the maximum width or height, it will not be resized.</p>
+        <ol class="LowerAlpha">
+            <li>
+                <p>
+                    <MadCap:snippetText src="../Styles/ExpandUnclassifiedGroupStep.flsnp" />
+                </p>
+                <p>
+                    <MadCap:snippetText src="../Styles/PropertyNameLeftValueRight.flsnp" />
+                </p>
+            </li>
+            <li>
+                <p>To the right of <span class="Emphasis">max-height</span> and/or <span class="Emphasis">max-width</span>, click <img src="../../../Images/Shared/browse_ellipses.png" /> and complete the fields in the popup. Enter a value in the lower-left area and choose from several different units of measurement (points, pixels, centimeters, etc.) in the lower-right area.<MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Flare/Styles/More/About-UOM-Flare.htm">About Units of Measurement</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> See <MadCap:xref href="../../../../Contributor/Styles/More/About-UOM-Contributor.htm">About Units of Measurement</MadCap:xref>.</MadCap:conditionalText> Click <span class="Emphasis">OK</span> when you are finished.</p>
+                <MadCap:snippetBlock src="../Objects/NoteAspectRatioMaximumSize.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

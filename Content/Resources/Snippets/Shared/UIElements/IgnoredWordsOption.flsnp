@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.Lingo" MadCap:lastBlockDepth="2" MadCap:lastHeight="203" MadCap:lastWidth="509">
+    <body>
+        <p class="TableText">Opens the Ignored Words dialog, which lets you create a list of words to be ignored when using the spell checking feature in the application. </p>
+        <p class="TableText" MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Spell-Check/About-Spell-Check.htm">About Spell Check</MadCap:xref> and <MadCap:xref href="../../../../Flare/Spell-Check/Adding-Words-to-Ignore-Spell-Check-List.htm">Adding Words to the Ignore Spell Check List</MadCap:xref>.</p>
+        <p class="TableText" MadCap:conditions="Products.Analyzer">See <MadCap:xref href="../../../../Analyzer/Spell-Check/About-Spell-Check.htm">About Spell Check</MadCap:xref> and <MadCap:xref href="../../../../Analyzer/Spell-Check/Adding-Words-to-Ignore-Spell-Check-List.htm">Adding Words to the Ignore Spell Check List</MadCap:xref>.</p>
+        <p class="TableText" MadCap:conditions="Products.Capture">See <MadCap:xref href="../../../../Capture/Spell-Check/About-Spell-Check-Capture.htm">About Spell Check</MadCap:xref> and <MadCap:xref href="../../../../Capture/Spell-Check/Adding-Words-to-Ignore-Spell-Check-List.htm">Adding Words to the Ignore Spell Check List</MadCap:xref>.</p>
+        <p class="TableText" MadCap:conditions="Products.Lingo">See <MadCap:xref href="../../../../Lingo/Spell-Check/About-Spell-Check.htm">About Spell Check</MadCap:xref> and <MadCap:xref href="../../../../Lingo/Spell-Check/Adding-Words-to-Ignore-Spell-Check-List.htm">Adding Words to the Ignore Spell Check List</MadCap:xref>.</p>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare,Products.Analyzer">
+    <body>
+        <ol>
+            <li>Open the page containing the frame.</li>
+            <li>Click on the frame.</li>
+            <li>(Optional) If you want to maintain the aspect ratio (i.e., keep the width and height in proportion to one another), hold down your SHIFT&#160;key.</li>
+            <li>Hover over any of the handles around the edge of the frame until the cursor looks like this: <img src="../../../Images/Shared/two_sided_cursor.png" class="ReduceButtonSize" />.</li>
+            <li>Click and drag until you get the size you want.</li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Analyzer">
+    <body>
+        <p>This dialog opens if you have already uploaded translated text to a <MadCap:keyword term="Translation memory:databases" />translation memory (TM) database, later modify that text, and then attempt to upload the new translation to TM. Lingo recognizes this conflict and gives you different options for handling it.</p>
+    </body>
+</html>

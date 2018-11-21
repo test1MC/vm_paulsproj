@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>An advanced (or "complex") selector lets you format content based on very specific criteria. You can use advanced selectors when creating lists to automatically use different styles for each level in a multi-level list. For example, you could create a multi-level list that uses one style for the first li, a different style for the second li, and a completely different style for the third li.</p>
+    </body>
+</html>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <ul>
+            <li><span class="SetOffFirstLevel">All Files </span>Select this option to spell check all file types, including (but not limited to) those listed in this drop-down field.</li>
+            <li><span class="SetOffFirstLevel">Topics </span>Select this option to spell check only topic files.</li>
+            <li><span class="SetOffFirstLevel">Snippets </span>Select this option to spell check only snippet files.</li>
+            <li><span class="SetOffFirstLevel">Table of Contents </span>Select this option to spell check only TOC files.</li>
+            <li><span class="SetOffFirstLevel">Glossaries  </span>Select this option to spell check only glossary files.</li>
+            <li><span class="SetOffFirstLevel">Index Keywords  </span>Select this option to spell check only index keywords.</li>
+        </ul>
+    </body>
+</html>

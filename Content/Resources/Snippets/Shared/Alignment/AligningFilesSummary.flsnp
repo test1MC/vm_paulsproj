@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Align">
+    <body>
+        <p>When you create an alignment project, the original and translated files are matched and aligned by name. Although it might not be a common occurrence, there are a variety of reasons that a file from the original project might not be aligned with the same file in the translated project. The important thing is that you identify any misalignment and then correct it. You can do this by using the File Map window pane in MadCap Align.</p>
+        <p>The File Map window pane groups files found in both projects by file type. For each type, you can match the files together when necessary. There are a few operations for aligning files; you can shift the selected cells up and down, or swap two selected cells. After the files are aligned, you can manually upload them to your <MadCap:keyword term="Translation memory:databases" />translation memory database.</p>
+    </body>
+</html>

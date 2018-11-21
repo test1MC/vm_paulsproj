@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>From the SharePoint Explorer in <MadCap:variable name="Other.Product" />, you can connect to a specific SharePoint server. You can then use that window pane to access the files on that server.</p>
+    </body>
+</html>

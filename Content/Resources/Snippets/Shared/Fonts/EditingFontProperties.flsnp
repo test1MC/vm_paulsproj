@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>You can affect the look and behavior of text in your content in various ways. This includes changing the font family, size, style, color, and more. You can set these properties by using styles or locally by highlighting the text and pressing <span class="Emphasis">CTRL+SHIFT+B</span> on your keyboard, selecting the <span class="Emphasis">Format &gt; Font</span> menu, or by clicking <img class="ReduceButtonSize" src="../../../Images/Shared/arrow-btn.png" /> in the <span class="Emphasis">Fonts</span> section of the <span class="Emphasis">Home</span> ribbon. Using styles is recommended. Different settings are available depending on the user interface you are using to apply the font properties (e.g., the Font Properties dialog may have an Advanced tab or it may not, depending on where you open it).</p>
+    </body>
+</html>

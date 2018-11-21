@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo,Products.Contributor,Products.Analyzer">
+    <body>
+        <p class="TableText">If this check box is not selected, the dialog will remain open until you click Close. This way, you can click the Insert button several times to add many characters to your content before closing the dialog. If the check box is selected, the dialog will close immediately after you click the Insert button.</p>
+    </body>
+</html>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="474" MadCap:lastWidth="1121">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature_Supported/DotNet_HTMLHelp_HTML5_WebHelp_WHMobile_WHPlus_WHAIR.flsnp" />
+        <MadCap:snippetBlock src="../../Shared/TOCBrowseSeq/SelectSkinSummary.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to select a skin for a browse sequence entry</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../../Shared/TOCBrowseSeq/SelectSkinSteps.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.RemoveFromTopicsThenDeleteThis">
+            <MadCap:conceptLink term="BrowseSequence" />
+        </p>
+    </body>
+</html>

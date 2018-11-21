@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../UIElements/SelectReviewRibbon.flsnp" /> In the <span class="Emphasis">Options</span> section select <span class="Emphasis">Review Options</span>.</li>
+            <li>Change the text in either the <span class="Emphasis">User Name</span> or <span class="Emphasis">Initials</span> fields.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

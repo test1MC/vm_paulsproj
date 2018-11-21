@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="108" MadCap:lastWidth="979" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Select this if you want a particular email address to display on the end user's screen. The end user might then copy the address to the clipboard and paste it into an email. After selecting this option, complete the following.</p>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Content</span> Type the email address after the text "mailto:" (e.g., mailto:technicalsupport@mycompany.com).</li>
+        </ul>
+    </body>
+</html>

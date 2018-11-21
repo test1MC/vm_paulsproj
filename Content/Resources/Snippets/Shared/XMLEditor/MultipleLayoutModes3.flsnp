@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="97" MadCap:lastWidth="976">
+    <body>
+        <p>You are using the Web Layout mode, so the XML Editor displays the styles from the default medium. But if you switch to Print Layout mode, the XML Editor automatically displays the styles from the print medium. And if you choose the Web Layout (mobile) mode, the XML Editor adjusts to show the topic as if it were displayed on a mobile device.</p>
+    </body>
+</html>

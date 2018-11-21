@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../UIElements/SelectViewRibbon.flsnp" /> In the <span class="Emphasis">Resources</span> section select <span class="Emphasis">SharePoint Explorer</span>. The SharePoint Explorer opens.</li>
+            <li>In the local toolbar click <img src="../../../Images/Shared/sharepoint_explorer_btn2.png" class="ReduceButtonSize" />. The Connect to SharePoint Server dialog opens.</li>
+            <li>Enter the path to the SharePoint server.</li>
+            <li>Click <img src="../../../Images/Shared/validate_sharepoint_server_btn.png" class="ReduceButtonSize" /> to validate the server.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /> The SharePoint Explorer is populated with files from the server.</li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor">
+    <body>
+        <p>Also, if you hover over an inherited style, <MadCap:variable name="Other.Product" /> displays the path to the stylesheet from which the style is inherited.</p>
+    </body>
+</html>

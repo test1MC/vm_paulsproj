@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="3" MadCap:lastHeight="434" MadCap:lastWidth="967">
+    <body>
+        <p>If the active file contains broken links, this will be indicated by a broken link icon in the Link Viewer window pane.</p>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say the active file contains a hyperlink to another file, but the link is broken. In that case, you will see something like this in the Link Viewer window pane:</p>
+            <p>
+                <img src="../../../Images/Shared/link_viewer_window_pane_example8.png" class="MaxWidth60Percent" />
+            </p>
+        </div>
+    </body>
+</html>

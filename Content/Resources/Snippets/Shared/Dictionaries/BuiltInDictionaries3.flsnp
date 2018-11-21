@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>You can also see which dictionaries are installed on your computer by opening the Options dialog in <MadCap:variable name="Other.Product" /> and selecting the <span class="Emphasis">Spelling</span> tab.</p>
+    </body>
+</html>

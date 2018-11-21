@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>This is designed to place the footnote comment at a specific location in the output, such as at the end of the book. It works in conjunction with an Endnotes proxy, which you create separately. The comment displays wherever you insert the Endnotes proxy.</p>
+    </body>
+</html>

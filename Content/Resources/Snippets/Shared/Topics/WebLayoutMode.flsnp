@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="122" MadCap:lastWidth="1005" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>If you are using the Web Layout mode (including Tablet and Mobile), the following toolbar appears at the bottom of the XML Editor:</p>
+        <p>
+            <img src="../../../Images/Shared/web_layout_mode_bottom_toolbar.png">
+            </img>
+        </p>
+        <p>You can use the zoom options in this toolbar to adjust the size of the text displayed in the XML Editor.</p>
+    </body>
+</html>

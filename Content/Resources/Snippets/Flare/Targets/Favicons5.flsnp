@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="13" MadCap:lastHeight="4047" MadCap:lastWidth="1101">
+    <head>
+    </head>
+    <body>
+        <ol>
+            <li>Open your skin component (if it is not already open).</li>
+            <li>
+                <p>In the <span class="Emphasis">Master Favicon</span> field, click <img src="../../../Images/Shared/insert_image_btn2.png" class="ReduceButtonSize" /> and select an image—PNG, JPG, or GIF. (ICO files cannot be selected for the master favicon, but you can select an ICO file to override the master favicon in certain fields below.)</p>
+                <div class="tip">
+                    <p class="tipInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #564c05;&quot; class=&quot;mcFormatColor&quot;&gt;Tip: &lt;/span&gt;&lt;/b&gt;">For best results, select a square image that is 558 pixels or larger. If you select a smaller image, it might not be automatically generated for some of the favicon uses shown in the Options sections of the Favicon Skin Editor.</p>
+                </div>
+                <p>In the sections below, you can see the image has been added to the previews.</p>
+                <ul>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Browser </span>This shows how the image will be shown when viewed in a standard web browser. The preview shows the image on a tab, but the image will appear in other places as well, such as next to bookmarked pages.</p>
+                        <p>
+                            <img src="../../../Images/Flare/favicon2.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTargetsGuide,FlareGuides.FlareSkinsGuide" />
+                    <li>
+                        <p><span class="SetOffFirstLevel">iOS/Android </span>This shows how the image will be shown on iPhone and Android smart phone screens when a user adds a web page from your output to the home screen.</p>
+                        <p>
+                            <img src="../../../Images/Flare/favicon5.png" alt="" title="" class="MaxWidth60Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Windows </span>This shows how the image will be shown in the tile format used in Windows 8 and Windows 10.</p>
+                        <p>
+                            <img src="../../../Images/Flare/favicon6.png" alt="" title="" class="MaxWidth50Percent" />
+                        </p>
+                    </li>
+                </ul>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTargetsGuide,FlareGuides.FlareSkinsGuide" />
+            <li>
+                <p>(Optional) Under the <span class="Emphasis">Browser</span>, <span class="Emphasis">iOS/Android</span>, and <span class="Emphasis">Windows</span> sections, click <span class="Emphasis">Options</span>.</p>
+                <p>Various fields are shown under each section. Notice that, depending on the size of the image that you added as the master favicon, “(generated)” is shown in many of the fields. This means that the master favicon image will be used for each of these fields and auto-sized as necessary.</p>
+                <p>
+                    <img src="../../../Images/Flare/favicon7.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTargetsGuide,FlareGuides.FlareSkinsGuide" />
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you see a warning icon <img src="../../../Images/Shared/warning_icon.png" alt="" title="" class="ReduceButtonSize" /> next to a field, this means the master favicon was not auto-generated for that field. Hover over the warning icon to see the reason. You can then either select a master favicon of a different size, or you can select a different image for the field where the warning icon appears.</p>
+                </div>
+            </li>
+            <li>(Optional) In the <span class="Emphasis">Browser</span> section, you can click <img src="../../../Images/Shared/insert_image_btn2.png" class="ReduceButtonSize" /> to override the master favicon image for any of the fields, although most users will likely keep the generated image. The different sizes shown (16, 32, and 96 pixels) are necessary to be compatible with various types and versions of browsers on the market.</li>
+            <li>
+                <p>(Optional) In the <span class="Emphasis">iOS/Android</span> section, you can click <img src="../../../Images/Shared/insert_image_btn2.png" class="ReduceButtonSize" /> to override the master favicon image with a different icon image (180 pixels). This will be shown when a user adds a shortcut to your output on the home screen.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you add an image that has a transparent background, iOS devices will replace the transparency with a black background. Also, images on iOS devices will have rounded borders. So keep this in mind when designing and choosing an image.</p>
+                </div>
+            </li>
+            <li>
+                <p>(Optional) In the <span class="Emphasis">Windows</span> section, you can click <img src="../../../Images/Shared/insert_image_btn2.png" class="ReduceButtonSize" /> next to the <span class="Emphasis">Small</span>, <span class="Emphasis">Medium</span>, <span class="Emphasis">Wide</span>, or <span class="Emphasis">Large</span> fields to choose a different image for the tile design in Windows 8 and Windows 10.</p>
+                <p>The <span class="Emphasis">Wide</span> field will typically never be auto-generated from the master favicon, so you will need to choose a different image in this field if you want to provide a picture for that type of tile. That’s because the master favicon is square, whereas the Wide field requires a rectangular image. The recommended size is 558 pixels wide by 270 pixels high.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;"> Windows 8 acts somewhat differently than Windows 10 in the way tiles are shown in the interface.</p>
+                </div>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">Example</p>
+                    <p>Let’s say you are using Windows 10 and you open HTML5 output in a Microsoft Edge browser. You then open the options menu from the upper-right corner of the browser and select <span class="Emphasis">Pin this page to Start</span>.</p>
+                    <p>
+                        <img src="../../../Images/Flare/favicon8.png" alt="" title="" class="MaxWidth70Percent" />
+                    </p>
+                    <p>When you click the Start button in the lower-left corner of your screen, you see tiles for different kinds of shortcuts. If you scroll down to the bottom of the tiles, you will see the favicon for the HTML5 output that you pinned. Initially, you will see the medium-sized image.</p>
+                    <p>
+                        <img src="../../../Images/Flare/favicon9.png" alt="" title="" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTargetsGuide,FlareGuides.FlareSkinsGuide" />
+                    <p>Next, you right-click this favicon and select Resize. From the menu, you can choose any of the other sizes (Small, Wide, Large).</p>
+                    <p>
+                        <img src="../../../Images/Flare/favicon10.png" alt="" title="" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTargetsGuide,FlareGuides.FlareSkinsGuide" />
+                    <p>If you select Small, the favicon will look something like this:</p>
+                    <p>
+                        <img src="../../../Images/Flare/favicon11.png" alt="" title="" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTargetsGuide,FlareGuides.FlareSkinsGuide" />
+                    <p>If you select Wide, the favicon will look something like this:</p>
+                    <p>
+                        <img src="../../../Images/Flare/favicon12.png" alt="" title="" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTargetsGuide,FlareGuides.FlareSkinsGuide" />
+                    <p>And if you select Large, the favicon will look something like this:</p>
+                    <p>
+                        <img src="../../../Images/Flare/favicon13.png" alt="" title="" class="MaxWidth90Percent" />
+                    </p>
+                </div>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTargetsGuide,FlareGuides.FlareSkinsGuide" />
+            <li>
+                <p>In the <span class="Emphasis">Web URL</span>&#160;field, enter the path where your output will be published (e.g., http://mycompany.com/help/product/). Completing this field is necessary because Windows tile images are relative to the root location of your output. You can also click <img src="../../../Images/Shared/insert_variable_btn.png" class="ReduceButtonSize" /> to insert a variable into the URL field.</p>
+                <p>
+                    <img src="../../../Images/Flare/favicon14.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTargetsGuide,FlareGuides.FlareSkinsGuide" />
+            <li>
+                <p>(Optional) In the <span class="Emphasis">Tile Color</span>&#160;field, you can use the drop-down to the right to choose a background color for the tile displaying your favicon.</p>
+                <p>
+                    <img src="../../../Images/Flare/favicon15.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

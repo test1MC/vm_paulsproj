@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="294" MadCap:lastWidth="979" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Select this if you want contact information for an individual to display on the end user's screen. The end user might then create a new contact based on that information. After selecting this option, complete the following.</p>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Name</span> Type the full name of the individual.</li>
+            <li><span class="SetOffFirstLevel">Company</span> Type the company name.</li>
+            <li><span class="SetOffFirstLevel">Phone number</span> Type the phone number.</li>
+            <li><span class="SetOffFirstLevel">Email</span> Type the email address for the individual.</li>
+            <li><span class="SetOffFirstLevel">Address</span> Type the physical address.</li>
+            <li><span class="SetOffFirstLevel">Website</span> Type the website (e.g., http://mycompany.com).</li>
+            <li><span class="SetOffFirstLevel">Memo</span> Type any other relevant information.</li>
+        </ul>
+    </body>
+</html>

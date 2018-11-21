@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>If you want to create a drop caps effect in a paragraph, causing the initial letter to look different and drop below the first line, you can use <MadCap:variable name="Other.Product" />'s first-letter pseudo class.</p>
+    </body>
+</html>

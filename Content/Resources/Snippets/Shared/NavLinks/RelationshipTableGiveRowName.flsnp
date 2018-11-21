@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="183" MadCap:lastWidth="1046" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>This simply helps you distinguish one row from another.</p>
+        <ol class="LowerAlpha">
+            <li>Highlight a row.</li>
+            <li>In the local toolbar click <img src="../../../Images/Shared/row_properties_btn.png" class="ReduceButtonSize" />.</li>
+            <li>In the <span class="Emphasis">Row Type</span> field, enter a name.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

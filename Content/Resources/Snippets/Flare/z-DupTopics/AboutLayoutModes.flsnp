@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="9" MadCap:lastHeight="7431" MadCap:lastWidth="739">
+    <body>
+        <p>
+            <MadCap:snippetText src="../../Shared/XMLEditor/MultipleLayoutModes.flsnp" />
+        </p>
+        <p MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,General.OnlineOnly">
+            <img src="../../../Images/Flare/xml_editor_layout_modes.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Web Layout Mode</span> This mode <MadCap:snippetText src="../../Shared/XMLEditor/WebLayoutModeDescription.flsnp" /></li>
+            <li><span class="SetOffFirstLevel">Web Layout (Tablet)&#160;Mode</span> This mode <MadCap:snippetText src="../../Shared/XMLEditor/TabletLayoutMode.flsnp" /></li>
+            <li><span class="SetOffFirstLevel">Web Layout (Mobile)&#160;Mode</span> This mode <MadCap:snippetText src="../../Shared/XMLEditor/MobileLayoutMode.flsnp" /></li>
+            <li><span class="SetOffFirstLevel">Print Layout Mode</span> This mode <MadCap:snippetText src="../../Shared/XMLEditor/PrintLayoutModeDescription.flsnp" /></li>
+        </ul>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/ThisChapterDiscussesFollowing.flsnp" MadCap:conditions="FlareGuides.FlareTopicsGuide" />
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTopicsGuide,FlareGuides.FlarePrintedOutputGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlareTopicsGuide,FlareGuides.FlarePrintedOutputGuide">Layout Modes, Mediums, and Media Queries</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>layout modes, mediums, and Media Queries</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>You can toggle between the various layout modes in the XML Editor by clicking the <span class="Emphasis">Layout Mode</span> button.</p>
+                <p>
+                    <MadCap:snippetText src="../../Shared/XMLEditor/MultipleLayoutModes2.flsnp" /> <MadCap:snippetText src="../../Shared/XMLEditor/MultipleLayoutModes5.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Styles/Mediums/About-Mediums-Media-Queries.htm">About Mediums and Media Queries</MadCap:xref> and <MadCap:xref href="../../../../Flare/Styles/Mediums/Selecting-Mediums-Media-Queries.htm">Selecting Mediums and Media Queries</MadCap:xref>.</MadCap:conditionalText></p>
+                <MadCap:snippetBlock src="../../Shared/XMLEditor/MultipleLayoutModes6.flsnp" MadCap:conditions="General.OnlineOnly,FlareGuides.FlareTopicsGuide" />
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareTopicsGuide" />
+                <MadCap:dropDown class="SecondLevel" MadCap:conditions="FlareGuides.FlareTopicsGuide,General.OnlineOnly">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../XMLEditor/MultipleLayoutModes7.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareTopicsGuide" />
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>General Guidelines</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>The layout mode and the medium that you should use when editing in the XML Editor depends on what you are trying to accomplish. Do you have web output for a large monitor in mind while you are editing, are you trying to edit for smaller devices, or are you thinking more about print output? Following are some general guidelines, but they may vary depending on the mediums or media queries that you might have created and will be using for your different targets.</p>
+                        <ul>
+                            <li>
+                                <p><span class="SetOffFirstLevel">If Editing with Online Output in Mind </span>For best results, in the local toolbar of the XML Editor, select the <span class="Emphasis">Web Layout</span> mode and the <span class="Emphasis">default</span> medium: </p>
+                                <p>
+                                    <img src="../../../Images/Flare/LayoutAndMedium1.png" alt="" title="" />
+                                </p>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">If Editing with Tablet Output in Mind </span>For best results, in the local toolbar of the XML Editor, select the <span class="Emphasis">Web Layout (Tablet)</span> mode and the <span class="Emphasis">tablet</span> media query: </p>
+                                <p>
+                                    <img src="../../../Images/Flare/LayoutAndMedium3.png" alt="" title="" />
+                                </p>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">If Editing with Mobile Output in Mind </span>For best results, in the local toolbar of the XML Editor, select the <span class="Emphasis">Web Layout (Mobile)</span> mode and the <span class="Emphasis">mobile</span> media query: </p>
+                                <p>
+                                    <img src="../../../Images/Flare/LayoutAndMedium4.png" alt="" title="" />
+                                </p>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">If Editing with Print Output in Mind </span>For best results, in the local toolbar of the XML Editor, select the <span class="Emphasis">Print Layout</span> mode and the <span class="Emphasis">print</span> medium: </p>
+                                <p>
+                                    <img src="../../../Images/Flare/LayoutAndMedium2.png" alt="" title="" />
+                                </p>
+                                <p>Also, if you are viewing content using the Print Layout in the XML&#160;Editor, you can use another drop-down in the local toolbar to choose a specific page layout.</p>
+                                <p>
+                                    <img src="../../../Images/Flare/xml_editor_page_layout.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                                <p>For example, if you know you are looking at a topic that will end up being the first page of a new chapter, you can select the <span class="Emphasis">Page Layout</span> drop-down, choose the appropriate page layout, and then select <span class="Emphasis">First Right</span>. Or if you know it will be on a subsequent page of the chapter, you might select <span class="Emphasis">Left</span> or <span class="Emphasis">Right</span>. For more information, see <MadCap:xref href="../../../../Flare/Page-Layouts/Selecting-Page-Layout-to-View-Content-XML-Editor.htm">Selecting a Page Layout to View Content in the XML Editor</MadCap:xref>.</p>
+                            </li>
+                        </ul>
+                        <p>So if the topic looks kind of unusual when you first open it, that may be due to the fact that the proper layout mode, page type, and/or medium is not selected in the local toolbar.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareTopicsGuide,FlareGuides.FlarePrintedOutputGuide" />
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Is It WYSIWYG?</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p>Is the XML Editor a WYSIWYG (What You See Is What You Get) environment? The answer to that depends to a certain extent on the layout mode.</p>
+                        <p>When using one of the Web Layout modes and the corresponding medium or media query (default, tablet, mobile), the topics should look pretty close in the XML&#160;Editor to how they will be displayed in the online output. For the Print Layout mode and print medium, it's a bit of a different story. The main reason is that online output is designed to have many independent pages, whereas print output is intended to be read one page after the other in one long document. Flare has no way of knowing exactly where a particular topic will land in a PDF until you actually generate it. However, by selecting the appropriate layout mode, page layout, and page type, you can get relatively close.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTopicsGuide,FlareGuides.FlarePrintedOutputGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlareTopicsGuide,FlareGuides.FlarePrintedOutputGuide">Conditions While Editing</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>conditions while editing</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Conditions on content also affect whether you are seeing true WYSIWYG. If you have sections of content that are conditioned for one kind of output and other sections conditioned for a different output, that's not an accurate picture of what you will see when you view a generated target. However, there is something you can do about this.</p>
+                <p>While working in the XML Editor, you can show or hide different conditions in the topic. This allows you to see only the content that is intended for a particular output that you want to produce.</p>
+                <p>To do this, in the local toolbar of the XML Editor click <img src="../../../Images/Shared/conditions_btn3.png" alt="" class="ReduceButtonSize" /> and in the <span class="Emphasis">Target Expressions</span> drop-down field, choose one of your targets. The content in the XML Editor changes to include only the conditions for that target.</p>
+                <p>Doing this doesn't affect the output at all. It's simply a way to see how a particular topic will look in a specific output without building or previewing it. You can always repeat these steps to return the topic to its previous state in the XML&#160;Editor or to see how it looks with a different target selected.</p>
+                <p>See <MadCap:xref href="../../../../Flare/Conditions/Associating-Condition-Tags-to-File-While-Editing.htm">Associating Condition Tags to a File While Editing</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="FlareGuides.FlareTopicsGuide,FlareGuides.FlarePrintedOutputGuide">Opening Page Layouts</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>opening page layouts</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>If you double-click on a topic page in Print Layout mode (outside the flow of the main body text), the associated page layout will open in the Page Layout Editor. </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareTopicsGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlareTopicsGuide,FlareGuides.FlarePrintedOutputGuide">Pages</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>pages</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Topics/Pages.flsnp" />
+                <p>
+                    <img src="../../../Images/Flare/print_layout_mode_example.png" class="MaxWidth100Percent" />
+                </p>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareTopicsGuide,FlareGuides.FlarePrintedOutputGuide" />
+                <p>
+                    <MadCap:snippetText src="../../Shared/PrintOutput/XMLEditorPageCountSummary.flsnp" />
+                </p>
+                <p>
+                    <img src="../../../Images/Shared/xml_editor_page_label.png" class="MaxWidth80Percent" />
+                </p>
+                <p MadCap:conditions="General.OnlineOnly">For more information see <MadCap:xref href="../../../../Flare/Interface/UI-Elements/XML-Editor.htm">XML Editor</MadCap:xref> and <MadCap:xref href="../../../../Flare/Page-Layouts/About-Page-Layouts.htm">About Page Layouts</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../../Shared/Topics/NoteAbsolutePositioningLayoutMode.flsnp" /> <MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Positioning-Elements/Using-Absolute-Positioning-Elements.htm">Using Absolute Positioning on Elements</MadCap:xref>.</MadCap:conditionalText></p>
+                </div>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareTopicsGuide,FlareGuides.FlarePrintedOutputGuide" />
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../../Shared/Topics/NoteOSRenderText.flsnp" /> Therefore, if you and another author are looking at the same topic from the same project, but you have different operating systems, the topic may look differently for you than it does for the other person.</p>
+                </div>
+                <MadCap:snippetBlock src="../../Shared/Topics/NoteTableSpecificHeight.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

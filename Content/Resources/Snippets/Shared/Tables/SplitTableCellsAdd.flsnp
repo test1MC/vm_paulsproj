@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="175" MadCap:lastWidth="992" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare">
+    <body>
+        <p>Opens the Select Table Style Template dialog, which you can use to add a new table stylesheet. After clicking this button, complete the following steps.</p>
+        <ol type="1" class="LowerAlpha">
+            <li>In the <span class="Emphasis">Template Folders</span> area, select a folder. </li>
+            <li>In the <span class="Emphasis">Templates</span> area, select one of the templates from the folder. You can see a preview of how the table will look in the Preview area below. </li>
+            <li>(Optional) You can type a new name for the style in the <span class="Emphasis">New Style Name</span> field. </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /> The style is added to the Split Cells dialog. Now you can select it to associate the style with the table.</li>
+        </ol>
+    </body>
+</html>

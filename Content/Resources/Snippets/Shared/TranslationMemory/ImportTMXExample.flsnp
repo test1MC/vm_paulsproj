@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say you have the text "This is a car." In your TM database, you already have this translated, using the word "coche" for "car." In the TMX file you are importing, the translation is much the same, except the word "carro" is used. Therefore, Lingo informs you that an alternative translation has been found.</p>
+            <p>On the other hand, if the translation in the TMX file also uses the word "coche" in the translation, Lingo informs you that a duplicate translation has been found.</p>
+        </div>
+    </body>
+</html>

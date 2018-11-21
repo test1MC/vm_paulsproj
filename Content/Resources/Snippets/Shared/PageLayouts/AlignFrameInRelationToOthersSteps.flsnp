@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare" MadCap:lastBlockDepth="6" MadCap:lastHeight="838" MadCap:lastWidth="1144">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="OpenPageInPageLayoutStep.flsnp" />
+            </li>
+            <li>Select the frame on which you want to base the alignment of the other frames.</li>
+            <li>
+                <p>Hold down the <span class="Emphasis">CTRL</span> key and click the other frames whose alignment you want to set.</p>
+                <p>The handles (small circles) around the edge of the first frame are orange, while the handles around the edge of the other frames are white. This tells you that the frames with the white handles will be changed to match the alignment of the frame with the orange handles.</p>
+            </li>
+            <li>In the local toolbar, click <img src="../../../Images/Shared/layout_btn.png" class="ReduceButtonSize" />.</li>
+            <li>
+                <p>Select <span class="Emphasis"><MadCap:keyword term="Alignment:make same" />Make Same</span>. Then select one of the following options.</p>
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel">Same Left </span>Horizontally aligns the frames so the left border is at the same location.</li>
+                    <li><span class="SetOffFirstLevel">Same Right </span>Horizontally aligns the frames so the right border is at the same location.</li>
+                    <li><span class="SetOffFirstLevel">Same Top </span>Vertically aligns the frames so the top border is at the same location.</li>
+                    <li><span class="SetOffFirstLevel">Same Bottom </span>Vertically aligns the frames so the bottom border is at the same location.</li>
+                    <li><span class="SetOffFirstLevel">Same Width</span> Resizes the width of the selected frames so that they are all the same. The resizing is based on the width of the first frame that you select. </li>
+                    <li><span class="SetOffFirstLevel">Same Height</span> Resizes the height of the selected frames so that they are all the same. The resizing is based on the height of the first frame that you select. </li>
+                    <li><span class="SetOffFirstLevel">Same Size</span> Resizes the width and height of the selected frames so that they are all the same. The resizing is based on the width and height of the first frame that you select. </li>
+                    <li><span class="SetOffFirstLevel">Same Center</span> Vertically aligns the selected frames so that the center of each is at the same location. The alignment is based on the center of the first frame that you select. </li>
+                    <li><span class="SetOffFirstLevel">Same Middle</span> Horizontally aligns the selected frames so that the middle of each is at the same location. The alignment is based on the middle of the first frame that you select.</li>
+                </ul>
+            </li>
+            <li>
+                <snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

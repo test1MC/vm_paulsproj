@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture,Products.Mimic" MadCap:lastBlockDepth="4" MadCap:lastHeight="180" MadCap:lastWidth="788">
+    <body>
+        <ol>
+            <li>Open the palette that you want to delete. <MadCap:conditionalText MadCap:conditions="Products.Capture">See <MadCap:xref href="../../../../Capture/Palettes/Opening-Palettes.htm" target="" title="" alt="">Opening Palettes</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic">See <MadCap:xref href="../../../../Mimic/Palettes/Opening-Palettes-Mimic.htm">Opening Palettes</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>In the local toolbar of the Palettes window pane, click <img src="../../../Images/Shared/delete_this_palette_btn.png" class="ReduceButtonSize" />. The Delete or Remove Palette dialog opens.</li>
+            <li>From the drop-down, select <span class="Emphasis">Send the file to the recycle bin</span>.</li>
+            <li>Click <span class="Emphasis">OK</span>.</li>
+            <li MadCap:conditions="Products.Mimic">In the confirmation dialog, click <span class="Emphasis">Yes</span>.</li>
+        </ol>
+    </body>
+</html>

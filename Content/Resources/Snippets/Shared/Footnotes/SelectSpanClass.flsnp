@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>From one of the <span class="Emphasis">Style</span> fields, select the appropriate span class. If you select a span class in the first Style field, it will affect the look of the footnote number that appears in the topic content. If you select a span class in the second Style field, it will affect the look of the footnote number that appears before the footnote comment wherever you have positioned it (e.g., end of page, end of chapter).</p>
+    </body>
+</html>

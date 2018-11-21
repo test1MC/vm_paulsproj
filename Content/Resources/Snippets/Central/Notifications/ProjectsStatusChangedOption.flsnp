@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="TableText">Receive a notification if a project’s status (i.e., Activated, Locked, Archived) is changed. This notification is sent to all members of the project, except the person who changed the project's status.</p>
+    </body>
+</html>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="826" MadCap:lastWidth="1361">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature_Supported/HTML5_WebHelp_WHPlus.flsnp" />
+        <p>
+            <MadCap:snippetText src="../../Shared/Topics/AddingMetaDescriptions.flsnp" />
+        </p>
+        <p>
+            <img src="../../../Images/Flare/topic_description.png" class="MaxWidth100Percent">
+            </img>
+        </p>
+        <p> This description is stored as metadata in the &lt;head&gt; tag of the topic file. The markup looks like this:</p>
+        <p class="TypedEntry">&lt;meta name="description" content="This topic provides a general introduction to MadCap Flare, its benefits, and basic steps for getting started." /&gt;</p>
+        <p>In addition, topic meta descriptions are used in the search results for <MadCap:variable name="Outputs.HTML5"></MadCap:variable> output, and they are searchable. Keywords found in meta descriptions receive a ranking in search results.</p>
+        <p>If you do not provide a meta description, Flare will use the abstract character limit to create an abstract from the text in your topic. However, keywords found in automatically generated abstracts receive a lower search ranking than those found in meta descriptions. <MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareSearchGuide">See <MadCap:xref href="../../../../Flare/Targets/More/Setting-Search-Abstract-Character-Limit.htm">Setting the Search Abstract Character Limit</MadCap:xref> and <MadCap:xref href="../../../../Flare/Search/Optimizing-Search/Ranking-Search-Results.htm">Ranking Search Results</MadCap:xref>.</MadCap:conditionalText></p>
+        <p MadCap:conditions="FlareGuides.FlareSearchGuide,General.OnlineOnly">For more information and tips for using meta descriptions, see <MadCap:xref href="../../../../Flare/Search/Optimizing-Search/Optimizing-Content.htm">Optimizing Your Content</MadCap:xref>.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to add a meta description for a topic</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/MakeSureContentExplorerOpen.flsnp" />
+                    </li>
+                    <li>Locate and click on the topic file.</li>
+                    <li>In the local toolbar, click <img src="../../../Images/Shared/run_properties2_btn.png" class="ReduceButtonSize" />. The Properties dialog for the file opens.</li>
+                    <li>Click the <span class="Emphasis">Topic Properties</span> tab. </li>
+                    <li>
+                        <p>In the <span class="Emphasis">Description</span> field, enter the meta text.</p>
+                        <p class="tip" MadCap:autonum="&lt;b&gt;Tip: &lt;/b&gt;">It is recommended that you keep meta descriptions to fewer than 155 characters.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.RemoveFromTopicsThenDeleteThis">
+            <MadCap:conceptLink term="Topics" xmlns:MadCap="http://www.madcapsoftware.com/schemas/MadCap.xsd" />
+        </p>
+    </body>
+</html>

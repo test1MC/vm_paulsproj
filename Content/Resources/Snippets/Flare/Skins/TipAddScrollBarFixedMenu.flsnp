@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="812" MadCap:lastWidth="1231">
+    <body>
+        <div class="tip">
+            <p class="tipInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #564c05;&quot; class=&quot;mcFormatColor&quot;&gt;Tip: &lt;/span&gt;&lt;/b&gt;">Sometimes you might have a topic open in the output where the side menu is quite long, extending beyond the bottom of the window. The issue with having a fixed menu is that end users may not be able to see the links at the bottom of the menu because they are cut off, and the menu will not scroll because it is fixed in place.</p>
+            <p>
+                <img src="../../../Images/Flare/fixed_menu18.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" />
+            <p>To solve this problem, you can open your Menu skin component and edit the maximum height for the menu.</p>
+            <p>
+                <img src="../../../Images/Flare/fixed_menu20.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" />
+            <p>If the maximum height is less than the height of the screen being used to view it, a scroll bar will be added within the menu, allowing end users to see all of the links.</p>
+            <p>
+                <img src="../../../Images/Flare/fixed_menu19.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

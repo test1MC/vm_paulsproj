@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p><MadCap:variable name="Other.Product" /> lets you insert rules (horizontal lines) into topics. For example, you might use a rule as a design element to separate your topic title from the content.</p>
+        <p>You can always change the look of the rule by modifying the hr style. If you want to have different rules for your topics, you can open add new style classes for each different horizontal line. For example, if you want a short rule, you can create a new style class and name it "short." The full name for you new style would be hr.short. You can then adjust the style property settings for hr.short to meet your needs.</p>
+    </body>
+</html>

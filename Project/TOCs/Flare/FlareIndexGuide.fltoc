@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Indexes"
+    Link="/Content/Flare/Indexes/About-Indexes.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartPageLayout="false"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="CH 2 Creating Indexes"
+    Link="/Content/Flare/Indexes/Adding-Index-Keywords.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Assigning Topics to Index Keywords"
+      Link="/Content/Flare/Indexes/Assigning-Topics-to-Index-Keywords.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Inserting Index Keywords"
+      Link="/Content/Flare/Indexes/Inserting-Index-Keywords.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="Creating Auto-Indexes"
+      Link="/Content/Flare/Indexes/Creating-Auto-Indexes.htm"
+      PageNumber="(multiple)"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Creating Index Links"
+    Link="/Content/Flare/Indexes/Creating-Index-Links.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 4 Enabling Indexes in Skins"
+    Link="/Content/Flare/Indexes/Enabling-Indexes-in-Skins.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 5 Creating a Print Index"
+    Link="/Content/Print-Only-Topics/Flare/Index/Creating-Print-Index.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Creating an Index Manually for Print"
+      Link="/Content/Flare/Output/Printed-Output/Creating-Index-Manually-Print.htm" />
+    <TocEntry
+      Title="Including Page Auto-Numbers in Print Indexes"
+      Link="/Content/Flare/Output/Printed-Output/Including-Autonumbers-Print-Indexes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Auto-generating Indexes for Print"
+      Link="/Content/Flare/Output/Printed-Output/Auto-Generating-Indexes-Print.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Modifying Indexes"
+    Link="/Content/Flare/Indexes/Editing-Index-Links.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Editing Index Keywords"
+      Link="/Content/Flare/Indexes/Editing-Index-Keywords.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="Determining the Look of Your Print Index"
+      Link="/Content/Flare/Output/Printed-Output/Determining-Look-Print-Index.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 7 Additional Index Tasks"
+    Link="/Content/Flare/Skins/More/Creating-Binary-Index.htm"
+    StartPageLayout="false"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Deleting Index Keywords"
+      Link="/Content/Flare/Indexes/Deleting-Index-Keywords.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Excluding Index Entries From Search"
+      Link="/Content/Flare/Search/Configuring-Search-Database/Excluding-Index-Entries-from-Search.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Including Bookmarks in Index Entries"
+      Link="/Content/Flare/Skins/More/Including-Bookmarks-Index-Entries.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Enabling and Disabling Partial-Word Search for Indexes"
+      Link="/Content/Flare/Skins/More/Enabling-Disabling-Partial-Search-Indexes.htm" />
+    <TocEntry
+      Title="Specifying Style Settings for Index Entries"
+      Link="/Content/Flare/Skins/Standard-Skin-Styles/Index-Entries-Standard-Skins.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Specifying Style Settings for Index Entry Popups"
+      Link="/Content/Flare/Skins/Standard-Skin-Styles/Index-Entry-Popups-Standard-Skins.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Using Styles to Include or Exclude Index Headings"
+      Link="/Content/Flare/Output/Printed-Output/Using-Styles-Include-Exclude-Index-Headings.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Viewing Topics Not Indexed"
+      Link="/Content/Flare/Topics/Viewing-Topics-Not-Indexed.htm"
+      PageNumber="(multiple)"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

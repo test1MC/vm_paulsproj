@@ -1,0 +1,964 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Mimic">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Mimic/TitleMimic.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Mimic/TitleMimic.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageType="firstright"
+    PageNumberFormat="lower-roman" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    StartSection="false"
+    Link="/Content/Mimic/Steps/Editing-Movie.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    BreakType="chapter"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 2 Frames"
+    Link="/Content/Mimic/Frames/About-Frames.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="Opening Frames"
+      Link="/Content/Mimic/Frames/Opening-Frames.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Recording New Frames"
+      Link="/Content/Mimic/Multimedia/Movies-Creating/More/Recording-New-Frames.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Capturing New Frames"
+      Link="/Content/Mimic/Multimedia/Movies-Creating/More/Capturing-New-Frames.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Copying Frames"
+      Link="/Content/Mimic/Frames/Copying-Frames.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Copying Frame Backgrounds"
+      Link="/Content/Mimic/Frames/Copying-Frame-Backgrounds.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Inserting Blank Frames into a Movie"
+      Link="/Content/Mimic/Frames/Inserting-Blank-Frames.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Inserting Duplicate Frames into a Movie"
+      Link="/Content/Mimic/Frames/Inserting-Duplicate-Frames-into-Movie.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Inserting PowerPoint Slides into a Movie"
+      Link="/Content/Mimic/Frames/Inserting-PowerPoint-Slides-into-Movie.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Moving Frames in a Movie"
+      Link="/Content/Mimic/Frames/Moving-Frames-in-Movie.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Pausing Frames"
+      Link="/Content/Mimic/Frames/Pausing-Frames.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Removing Bitmaps from Frames"
+      Link="/Content/Mimic/Frames/Removing-Images-from-Frames.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Removing Frames from a Movie"
+      Link="/Content/Mimic/Frames/Removing-Frames-from-Movie.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Setting Backgrounds for Frames"
+      Link="/Content/Mimic/Frames/Setting-Backgrounds-Frames.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Frame Libraries"
+      Link="/Content/Mimic/Frames/Frame-Libraries/About-Frame-Libraries.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Creating Frame Libraries"
+        Link="/Content/Mimic/Frames/Frame-Libraries/Creating-Frame-Libraries.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Opening Frame Libraries"
+        Link="/Content/Mimic/Frames/Frame-Libraries/Opening-Frame-Libraries.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Adding Frames to a Library"
+        Link="/Content/Mimic/Frames/Frame-Libraries/Adding-Frames-to-Library.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Using Frames from a Library"
+        Link="/Content/Mimic/Frames/Frame-Libraries/Using-Frames-from-Library.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue"></TocEntry>
+      <TocEntry
+        Title="Adding Frames from a Library to a Master Frame"
+        Link="/Content/Mimic/Frames/Frame-Libraries/Adding-Frames-from-Library-to-Master-Frame.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Master Frames"
+      Link="/Content/Mimic/Frames/Master-Frames/About-Master-Frames.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Creating Master Frames"
+        Link="/Content/Mimic/Frames/Master-Frames/Creating-Master-Frames.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Applying Master Frames"
+        Link="/Content/Mimic/Frames/Master-Frames/Applying-Master-Frames.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Editing Master Frames"
+        Link="/Content/Mimic/Frames/Master-Frames/Editing-Master-Frames.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Objects"
+    Link="/Content/Mimic/Objects/About-Objects.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="Adding Audio as Objects"
+      Link="/Content/Mimic/Objects/Audio/Adding-Audio-Objects.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Callouts"
+      Link="/Content/Mimic/Objects/Callouts/Adding-Callouts.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Automatically Adding Callouts to Recorded Movies"
+        Link="/Content/Mimic/Objects/Callouts/Automatically-Adding-Callouts-Recorded-Movies.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Selecting the Callout Style for Recording"
+        Link="/Content/Mimic/Objects/Callouts/Selecting-Callout-Style-Recording.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue" />
+    </TocEntry>
+    <TocEntry
+      Title="Cursors"
+      Link="/Content/Mimic/Objects/Cursors/Adding-Cursors.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Automatically Adding Cursors to Recorded Movies"
+        Link="/Content/Mimic/Objects/Cursors/Automatically-Adding-Cursors-to-Recorded-Movies.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Editing Cursor Trajectories"
+        Link="/Content/Mimic/Objects/Cursors/Editing-Cursor-Trajectories.htm" />
+      <TocEntry
+        Title="Selecting the Cursor Style for Recording"
+        Link="/Content/Mimic/Objects/Cursors/Selecting-Cursor-Style-Recording.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue" />
+    </TocEntry>
+    <TocEntry
+      Title="Graphics"
+      Link="/Content/Mimic/Objects/Graphics/Adding-Graphics-to-Frames.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Image Objects"
+      Link="/Content/Mimic/Objects/Image-Objects/Adding-Images-as-Objects.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Editing Image Objects"
+        Link="/Content/Mimic/Appearance/Editing-Image-Objects-Mimic.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Replacing Image Objects"
+        Link="/Content/Mimic/Objects/Image-Objects/Replacing-Image-Objects.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Interactive Objects"
+      Link="/Content/Mimic/Objects/Interactive-Objects/About-Interactive-Objects.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Adding Animated Typing Boxes"
+        Link="/Content/Mimic/Objects/Typing-Objects/Adding-Animated-Typing-Boxes.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Adding Input Boxes"
+        Link="/Content/Mimic/Objects/Typing-Objects/Adding-Input-Boxes.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Buttons"
+        Link="/Content/Mimic/Objects/Buttons/Adding-Buttons.htm"
+        BreakType="none"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Shapes"
+      Link="/Content/Mimic/Objects/Shapes/Adding-Shapes-to-Frames.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Lines"
+      Link="/Content/Mimic/Objects/Lines/Adding-Lines.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Converting an Object"
+      Link="/Content/Mimic/Objects/Converting-Object.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Inserting Captured Regions as Objects"
+      Link="/Content/Mimic/Objects/Image-Objects/Inserting-Captured-Regions-as-Objects.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Inserting Captured UI Elements as Objects"
+      Link="/Content/Mimic/Objects/Image-Objects/Inserting-Captured-UI-Elements-as-Objects.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Actions"
+    Link="/Content/Mimic/Actions/About-Actions.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="Preview Mode"
+      Link="/Content/Mimic/Steps/Using-Preview-Mode.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Selecting Actions for Objects"
+      Link="/Content/Mimic/Actions/Selecting-Actions-for-Objects.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Selecting an End Action for a Cursor"
+      Link="/Content/Mimic/Objects/Cursors/Selecting-End-Action-for-Cursor.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Removing Actions from Objects"
+      Link="/Content/Mimic/Actions/Removing-Actions-from-Objects.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Visual States"
+      Link="/Content/Mimic/Appearance/Visual-States/About-Visual-States.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Mimic/Appearance/Visual-States/Adding-Visual-States-to-an-Object.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Mimic/Appearance/Visual-States/Editing-Visual-States.htm"
+        PageNumber="(multiple)"></TocEntry>
+      <TocEntry
+        Title="Removing"
+        Link="/Content/Mimic/Appearance/Visual-States/Removing-Visual-States.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Text"
+    Link="/Content/Mimic/Text/About-Text.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="Adding Text"
+      Link="/Content/Mimic/Text/Adding-Text-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Aligning Text"
+      Link="/Content/Mimic/Text/Aligning-Text-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Editing Text"
+      Link="/Content/Mimic/Text/Editing-Text-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Setting Font Properties for Text"
+      Link="/Content/Mimic/Text/Setting-Font-Properties-Text-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Pinning Fonts"
+      Link="/Content/Mimic/Fonts/Pinning-Fonts-Mimic.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="Using Font Groups"
+      Link="/Content/Mimic/Fonts/Using-Font-Groups-Mimic.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Variables"
+    Link="/Content/Mimic/Variables/About-Variables-Mimic.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="Creating Variables"
+      Link="/Content/Mimic/Variables/Creating-Variables-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Editing Variables"
+      Link="/Content/Mimic/Variables/Editing-Variables-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Inserting Variables into Objects"
+      Link="/Content/Mimic/Variables/Inserting-Variables-into-Objects-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Linking to Flare Projects"
+      Link="/Content/Mimic/Projects/Linking-to-Flare-Projects.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 7 Keyframes"
+    Link="/Content/Mimic/Objects/Keyframes/About-Keyframes.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters2Gray.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="Adding Keyframes to Objects"
+      Link="/Content/Mimic/Objects/Keyframes/Adding-Keyframes.htm"
+      PageNumber="(multiple)"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Editing Keyframes"
+      Link="/Content/Mimic/Objects/Keyframes/Editing-Keyframes.htm"
+      StartSection="false"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Moving Keyframes"
+      Link="/Content/Mimic/Objects/Keyframes/Moving-Keyframes.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Removing Keyframes"
+      Link="/Content/Mimic/Objects/Keyframes/Removing-Keyframes.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 8 Timing"
+    Link="/Content/Mimic/Timing/About-Timing.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="Setting Timing for Frames"
+      Link="/Content/Mimic/Timing/Setting-Timing-Frames.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Setting Timing for Objects"
+      Link="/Content/Mimic/Timing/Setting-Timing-Objects.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 9 Transitions"
+    Link="/Content/Mimic/Transitions/About-Transitions.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="Setting Transitions for Movies"
+      Link="/Content/Mimic/Transitions/Setting-Transitions-Movies.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Setting Transitions for Frames"
+      Link="/Content/Mimic/Transitions/Setting-Transitions-Frames.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 10 Audio"
+    Link="/Content/Mimic/Multimedia/Audio/About-Audio-Mimic.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="Selecting the Audio Input Source"
+      Link="/Content/Mimic/Multimedia/Movies-Creating/More/Selecting-Audio-Input-Source.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Adding Audio to Movies"
+      Link="/Content/Mimic/Multimedia/Audio/Adding-Audio-to-Movies.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Adding Audio to Frames"
+      Link="/Content/Mimic/Multimedia/Audio/Adding-Audio-to-Frames.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Adding Audio to Cursors"
+      Link="/Content/Mimic/Multimedia/Audio/Adding-Audio-to-Cursors.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Recording Audio"
+      Link="/Content/Mimic/Multimedia/Audio/Recording-Audio.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Looping Audio"
+      Link="/Content/Mimic/Multimedia/Audio/Looping-Audio.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Editing Audio Files"
+      Link="/Content/Mimic/Multimedia/Audio/Editing-Audio-Files.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Enabling and Disabling Sound for Recording"
+      Link="/Content/Mimic/Multimedia/Movies-Creating/More/Enabling-Disabling-Sound-for-Recording.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 11 Appearance of Frames and Objects"
+    Link="/Content/Mimic/Appearance/About-the-Appearance-of-Frames-and-Objects.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum2Gray.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="Arrows"
+      Link="/Content/Mimic/Objects/Arrows/Setting-Arrows-Line-Mimic.htm"
+      BreakType="pageLayout"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"></TocEntry>
+    <TocEntry
+      Title="Setting the Shape of an Arrow"
+      Link="/Content/Mimic/Objects/Arrows/Setting-Shape-Arrow-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Borders"
+      Link="/Content/Mimic/Appearance/Adding-Borders-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Padding"
+      Link="/Content/Mimic/Appearance/Adding-Padding-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Setting the Color for a Background"
+      Link="/Content/Mimic/Appearance/Setting-Color-for-a-Movie-Background.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Setting the Color for an Object"
+      Link="/Content/Mimic/Appearance/Setting-Color-for-an-Object-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Cursors"
+      Link="/Content/Mimic/Objects/Cursors/Selecting-Cursor-Types-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Lines"
+      Link="/Content/Mimic/Appearance/Setting-Color-and-Width-for-a-Line-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Look of Objects"
+      Link="/Content/Mimic/Appearance/Look-of-Objects/Setting-the-Default-Look-for-Objects-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Using the Default Look for Objects"
+      Link="/Content/Mimic/Appearance/Look-of-Objects/Using-the-Default-Look-for-Objects-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Selecting Styles for Objects"
+      Link="/Content/Mimic/Appearance/Look-of-Objects/Selecting-Styles-for-Objects-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Making All Objects Look the Same"
+      Link="/Content/Mimic/Appearance/Look-of-Objects/Making-All-Objects-Look-the-Same-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Loops"
+      Link="/Content/Mimic/Appearance/Setting-Coordinates-for-a-Loop-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Setting the Thickness for a Loop"
+      Link="/Content/Mimic/Appearance/Setting-Thickness-for-a-Loop-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Pointer"
+      Link="/Content/Mimic/Appearance/Adjusting-the-Pointer-on-a-Bubble-Shape-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Points"
+      Link="/Content/Mimic/Appearance/Deleting-Points-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Aligning Objects"
+      Link="/Content/Mimic/Appearance/Positioning-Objects/Aligning-Objects-Mimic.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Floating and Sinking Objects"
+      Link="/Content/Mimic/Appearance/Positioning-Objects/Floating-and-Sinking-Objects-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Moving Objects Around"
+      Link="/Content/Mimic/Appearance/Positioning-Objects/Moving-Objects-Around-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Rotating Objects"
+      Link="/Content/Mimic/Appearance/Positioning-Objects/Rotating-Objects-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Setting Object Anchors"
+      Link="/Content/Mimic/Appearance/Positioning-Objects/Setting-Object-Anchors-Mimic.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Rectangle Properties"
+      Link="/Content/Mimic/Appearance/Setting-Rectangle-Properties-for-an-Object-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Resizing Movies"
+      Link="/Content/Mimic/Appearance/Resizing/Resizing-Movies.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Resizing Objects"
+      Link="/Content/Mimic/Appearance/Resizing/Resizing-Objects-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Resizing Objects to Fit Text"
+        Link="/Content/Mimic/Appearance/Resizing/Automatically-Resizing-Objects-to-Fit-Text.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 12 Palettes"
+    Link="/Content/Mimic/Palettes/About-Palettes-Mimic.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="Opening Palettes"
+      Link="/Content/Mimic/Palettes/Opening-Palettes-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Creating Palettes"
+      Link="/Content/Mimic/Palettes/Creating-Palettes-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Linking to External Palettes"
+      Link="/Content/Mimic/Palettes/Linking-External-Palettes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding Objects to Palettes"
+      Link="/Content/Mimic/Palettes/Adding-Objects-to-Palettes-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Using Objects from Palettes"
+      Link="/Content/Mimic/Palettes/Using-Objects-from-Palettes-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Deleting Palettes"
+      Link="/Content/Mimic/Palettes/Deleting-Palettes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Deleting Objects from Palettes"
+      Link="/Content/Mimic/Palettes/Deleting-Objects-from-Palettes.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 13 Conditions"
+    Link="/Content/Mimic/Conditions/About-Conditions-Mimic.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="Creating Conditon Tags"
+      Link="/Content/Mimic/Conditions/Creating-Condition-Tags-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Applying Conditions Tags"
+      Link="/Content/Mimic/Conditions/Applying-Conditions-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Associating Condition Tags"
+      Link="/Content/Mimic/Conditions/Associating-Condition-Tags-Mimic.htm"
+      BreakType="none"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Previewing Conditions"
+      Link="/Content/Mimic/Conditions/Previewing-Conditions.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 14 Effects"
+    Link="/Content/Mimic/Appearance/Effects/About-Effects-Mimic.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="Adding Effects"
+      Link="/Content/Mimic/Appearance/Effects/Adding-Effects-Mimic.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding Shadow Effects"
+      Link="/Content/Mimic/Appearance/Effects/Adding-Shadow-Effects-Mimic.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Editing Effects"
+      Link="/Content/Mimic/Appearance/Effects/Editing-Effects-Mimic.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Editing Shadow Effects"
+      Link="/Content/Mimic/Appearance/Effects/Editing-Shadow-Effects-Mimic.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Removing Effects"
+      Link="/Content/Mimic/Appearance/Effects/Removing-Effects-Mimic.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 15 Working with Grids"
+    Link="/Content/Mimic/Multimedia/Movies-Creating/More/Working-with-Grids-Mimic.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="CH 16 Previewing Movies"
+    Link="/Content/Mimic/Multimedia/Movies-Creating/More/Previewing-Movies.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Mimic/PDF-Guides/PDF-Guides-Mimic.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright" />
+</CatapultToc>

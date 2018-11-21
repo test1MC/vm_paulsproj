@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say you have applied bold to a word in your topic. If the cursor is located on that word and you click this button, the content in the parent tag (e.g., &lt;p&gt;) will be selected. If you click the button yet again, the content in the &lt;body&gt; tag will be highlighted. And if you click the button once more, the content in the &lt;html&gt; tag will be selected.</p>
+        </div>
+    </body>
+</html>

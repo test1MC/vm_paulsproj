@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="82" MadCap:lastWidth="979" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Select this if you want a simple text message to display on the end user's screen. After selecting this option, complete the following.</p>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Content</span> Type the short text message that you want users to see after they scan the QR code.</li>
+        </ul>
+    </body>
+</html>

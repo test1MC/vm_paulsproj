@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="TableText">Receive a notification if a target from a project is set as “Live” (i.e., published for public viewing). This notification is sent to all members of the project, except for the person who set the build as “Live.”</p>
+    </body>
+</html>

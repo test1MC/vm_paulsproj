@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="1" MadCap:lastHeight="98" MadCap:lastWidth="1080" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>When you are working in the XML Editor, you can use the CTRL+Y or F4 shortcut to repeat your last action. This feature uses the same controller that is used when you create macros in Flare. Therefore, only actions that are supported by the macro controller are supported for the repeat shortcut.</body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <p>You can create a local TM database (using SQLite), which is stored locally on your computer. Alternatively, you can create a server TM database (using SQL Express), which can be stored on an external server.</p>
+    </body>
+</html>

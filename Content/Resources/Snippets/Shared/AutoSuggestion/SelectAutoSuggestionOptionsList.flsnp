@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Enable Auto Suggestion</span> Select this to enable the entire Auto Suggestion feature.</li>
+            <li><span class="SetOffFirstLevel">Enable Snippet Auto Suggestion</span> Select this to enable snippet suggestions.</li>
+            <li><span class="SetOffFirstLevel">Enable/disable files</span> This area displays all custom auto suggestion list files and all variable sets in your project. Select any of the check boxes to enable a particular file for Auto Suggestion.</li>
+        </ul>
+    </body>
+</html>

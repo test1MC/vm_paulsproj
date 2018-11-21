@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="1081" MadCap:lastWidth="977">
+    <head>
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <ul>
+            <li><span class="SetOffFirstLevel">Single-Sourcing </span>Flare’s unique features are applied during compilation so that you still end up with single-sourced output.</li>
+            <li>
+                <p><span class="SetOffFirstLevel">MC Tags </span>All mc tags and data-mc tags are removed, including keywords, concepts, conditions, etc.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The MC tags that are removed for Clean XHTML output are related to MadCap-specific features, such as drop-downs and cross-references. Although these tags are removed from the output, the generated style classes that start with “MC” are preserved, because they are needed to support these MadCap-specific features.  Therefore, these style classes are converted during the build, and they are defined in the generated MadCap.css file.</p>
+                </div>
+            </li>
+            <li><span class="SetOffFirstLevel">Namespace </span>The MadCap namespace is removed.</li>
+            <li><span class="SetOffFirstLevel">MadCap JavaScript </span>
+                <MadCap:snippetText src="../Scripts/ScriptsAndCleanXHTML.flsnp" /> </li>
+            <li><span class="SetOffFirstLevel">Images/Multimedia </span>Images and other multimedia remain as separate files in the output and are included in the topics by reference.</li>
+            <li><span class="SetOffFirstLevel">MadCap Styles </span>All MadCap-specific styles are removed from the user stylesheet.</li>
+            <li>
+                <p><span class="SetOffFirstLevel">Convert to Inline Styles </span>In the Target Editor (General tab), there is an option to convert stylesheet styles to inline styles.</p>
+                <p>
+                    <img src="../../../Images/Flare/convert_stylesheet_styles_to_inline1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareTargetsGuide" />
+                <MadCap:snippetBlock src="CleanXHTMl3.flsnp" />
+            </li>
+        </ul>
+    </body>
+</html>

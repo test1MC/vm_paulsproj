@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlareTutorials.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlareTutorials.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Top-Navigation-Adv.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="CH 2 Simple Conversion"
+    Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Simple-Conversion/Simple-Conversion.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Creating a Project"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Simple-Conversion/Creating-Project.htm" />
+    <TocEntry
+      Title="Reorganizing the TOC"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Simple-Conversion/Reorganizing-TOC.htm" />
+    <TocEntry
+      Title="Adding and Editing a Skin"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Simple-Conversion/Adding-Editing-Skin.htm" />
+    <TocEntry
+      Title="Adding and Editing a Menu Skin Component"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Simple-Conversion/Adding-Editing-Skin-Component.htm" />
+    <TocEntry
+      Title="Editing the Target"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Simple-Conversion/Editing-Target.htm" />
+    <TocEntry
+      Title="Inserting the Menu Proxy"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Simple-Conversion/Inserting-Menu-Proxy.htm" />
+    <TocEntry
+      Title="Other Tasks"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Simple-Conversion/Other-Tasks.htm" />
+    <TocEntry
+      Title="Building and Viewing Output"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Simple-Conversion/Building-Viewing-Output.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Advanced Conversion"
+    Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Advanced-Conversion/Advanced-Conversion.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+    <TocEntry
+      Title="Creating Projects"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Advanced-Conversion/Creating-Projects.htm" />
+    <TocEntry
+      Title="Reorganizing the TOC"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Advanced-Conversion/Reorganizing-TOC.htm" />
+    <TocEntry
+      Title="Importing Files"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Advanced-Conversion/Importing-Files.htm" />
+    <TocEntry
+      Title="Replacing Content and Links"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Advanced-Conversion/Replacing-Content-and-Links.htm" />
+    <TocEntry
+      Title="Editing Styles"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Advanced-Conversion/Editing-Styles.htm" />
+    <TocEntry
+      Title="Incorporating the Skin"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Advanced-Conversion/Incorporating-Skin.htm" />
+    <TocEntry
+      Title="Choosing the Startup Topic"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Advanced-Conversion/Choosing-Startup-Topic.htm" />
+    <TocEntry
+      Title="Select the Master Page"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Advanced-Conversion/Selecting-Master-Page.htm" />
+    <TocEntry
+      Title="Building and Viewing Output"
+      Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Advanced-Conversion/Building-Viewing-Output.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Cross-References"
+    Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Cross-References-Top-Nav.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+  <TocEntry
+    Title="CH 5 Drop-Downs"
+    Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Drop-Downs-Top-Nav.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"></TocEntry>
+  <TocEntry
+    Title="CH 6 Images and Resizing"
+    Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Image-Sizing-Positioning-Top-Nav.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"></TocEntry>
+  <TocEntry
+    Title="CH 7 Lists"
+    Link="/Content/Flare/Tutorials/Top-Navigation-Adv/Lists-Top-Nav.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled"
+    ComputeToc="false" />
+</CatapultToc>

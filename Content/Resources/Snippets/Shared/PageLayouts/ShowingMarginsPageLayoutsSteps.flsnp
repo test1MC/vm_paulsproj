@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="OpenPageInPageLayoutStep.flsnp" />
+            </li>
+            <li>In the local toolbar, click <img src="../../../Images/Shared/view_btn3.png" class="ReduceButtonSize" />.</li>
+            <li>From the drop-down, select <span class="Emphasis">Margins</span>.</li>
+        </ol>
+    </body>
+</html>

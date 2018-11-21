@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>If you want to create an initial caps effect in a paragraph, causing the first letter to look different than the rest of the paragraph, you can use <MadCap:variable name="Other.Product" />'s first-letter pseudo class.</p>
+    </body>
+</html>

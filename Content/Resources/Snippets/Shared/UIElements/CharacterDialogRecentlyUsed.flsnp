@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo,Products.Contributor,Products.Analyzer">
+    <body>
+        <p class="TableText">When you insert a character or symbol from the dialog, it is added to the list of the 16 most recently used. This is another way to quickly find and select characters or symbols in the future. If the list of recently used characters and symbols is full, the oldest one is removed automatically when a new one is used.</p>
+    </body>
+</html>

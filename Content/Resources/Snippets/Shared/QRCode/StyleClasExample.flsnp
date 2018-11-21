@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say that you have created in your stylesheet a class of the MadCap|qrCode style called "RedBorder" (i.e., MadCap|qrCode.RedBorder) and you have set a red border on that style class. So if you want a QR code to have a red border, you can use that style class when inserting the QR code. If you do not want the QR code to have a red border, you can simply use the default parent MadCap|qrCode style instead.</p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>If the original image is larger than the maximum width or height that is set, it will be reduced in size so that it is no greater than the maximum value. If the original image is smaller than the maximum width or height, it will not be resized.</p>
+    </body>
+</html>

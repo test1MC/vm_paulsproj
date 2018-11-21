@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="1047" MadCap:lastWidth="1218">
+    <body>
+        <MadCap:snippetBlock src="Favicons4.flsnp" />
+        <p>
+            <img src="../../../Images/Flare/favicon1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTargetsGuide,FlareGuides.FlareSkinsGuide" />
+        <p>They can also be used on smart phones when a website is saved to the home screen.</p>
+        <p>
+            <img src="../../../Images/Flare/favicon16.PNG" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareTargetsGuide,FlareGuides.FlareSkinsGuide" />
+        <p>There are several places in the output where a favicon image might display. Therefore, it is common to use different sizes of an image to satisfy each instance appropriately (e.g., small image used for bookmark but larger image used for Windows tile). Fortunately, Flare makes this easier by letting you select a large master favicon image; this image is then automatically resized for most of the different uses in the output.</p>
+        <p>To use custom favicons, you first need to add a new “Favicons” skin component to your project. Within this skin component, you can choose your image and other settings. The Favicons skin component is slightly different from the other kinds of skin components that can be added to a project in that it does not require a corresponding proxy. Instead, you simply create and edit the Favicons skin component and it will automatically be integrated with your <MadCap:variable name="Outputs.HTML5" /> output.</p>
+    </body>
+</html>

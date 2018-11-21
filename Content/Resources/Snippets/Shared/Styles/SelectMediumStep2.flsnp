@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="97" MadCap:lastWidth="1036">
+    <body>
+        <p>
+            <MadCap:snippetText src="MediumsCanBeUsed.flsnp" />
+            <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Flare/Styles/Mediums/About-Mediums-Media-Queries.htm">About Mediums and Media Queries</MadCap:xref>.</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="Products.Analyzer"> See <MadCap:xref href="../../../../Analyzer/Styles/Mediums/About-Mediums-Media-Queries.htm">About Mediums and Media Queries</MadCap:xref>.</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="Products.Contributor"> See <MadCap:xref href="../../../../Contributor/Styles/Mediums/About-Mediums-Media-Queries.htm">About Mediums and Media Queries</MadCap:xref>.</MadCap:conditionalText>
+        </p>
+    </body>
+</html>

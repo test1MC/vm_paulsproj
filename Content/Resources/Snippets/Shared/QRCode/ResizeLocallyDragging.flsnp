@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>You can resize a QR code locally by clicking and dragging the icon <img src="../../../Images/Shared/resize_image_icon.png" class="ReduceButtonSize" /> in the lower-right corner of the QR code. When you use this feature, <MadCap:variable name="Other.Product" /> automatically sets the new height and width on the QR code tag.</p>
+    </body>
+</html>

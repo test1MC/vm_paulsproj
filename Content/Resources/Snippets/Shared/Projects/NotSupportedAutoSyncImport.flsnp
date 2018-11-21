@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <p>When importing files, the option to automatically synchronize the Flare project with the source file(s) (i.e., Easy Sync) is not supported when you build from MadCap Central.</p>
+    </body>
+</html>

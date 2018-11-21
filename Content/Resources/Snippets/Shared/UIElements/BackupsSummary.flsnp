@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="109" MadCap:lastWidth="976" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor,Products.Lingo">
+    <head>
+    </head>
+    <body>
+        <p>Opens the Backups window pane so that you can see the files for which you have created backups and restore (roll back) any of those files if necessary. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Backups/About-Backups.htm">About Backups</MadCap:xref>, <MadCap:xref href="../../../../Flare/Backups/Viewing-Backup-Files.htm">Viewing Backup Files</MadCap:xref>, and <MadCap:xref href="../../../../Flare/Backups/Restoring-Backup-Files.htm">Restoring Backup Files</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Analyzer">See <MadCap:xref href="../../../../Analyzer/Backups/About-Backups.htm">About Backups</MadCap:xref>, <MadCap:xref href="../../../../Analyzer/Backups/Viewing-Backup-Files.htm">Viewing Backup Files</MadCap:xref>, and <MadCap:xref href="../../../../Analyzer/Backups/Restoring-Backup-Files.htm">Restoring Backup Files</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Lingo">See <MadCap:xref href="../../../../Lingo/Backups/About-Backups.htm">About Backups</MadCap:xref>, <MadCap:xref href="../../../../Lingo/Backups/Viewing-Backup-Files.htm">Viewing Backup Files</MadCap:xref>, and <MadCap:xref href="../../../../Lingo/Backups/Restoring-Backup-Files.htm">Restoring Backup Files</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

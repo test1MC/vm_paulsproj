@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="1542" MadCap:lastWidth="941">
+    <head>
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <MadCap:snippetBlock src="GoogleSearch11.flsnp" />
+        <MadCap:snippetBlock src="GoogleSearch12.flsnp" />
+        <table class="TableStyle-BasicAlternateRows" style="mc-table-style: url('../../../TableStyles/Shared/BasicAlternateRows.css'); margin-left: 0; margin-right: auto;" cellspacing="0">
+            <col style="width: 10%;" class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col style="width: 45%;" class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col style="width: 45%;" class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">&#160;</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Google Search</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">MadCap Search</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Time and Effort to Set Up</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">Setting up a Google custom search engine (CSE) and performing other necessary tasks requires a combination of steps in both Google and Flare. This can take a bit of time to complete. However, it is usually just a one-time setup.</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />Setting up MadCap Search in a Flare project takes only a few seconds.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Public Versus Local Output</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">Output must be available publicly so that you can use Google. Output cannot be behind a firewall.</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />Output can be searched whether it is available publicly or locally.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Number of Outputs</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />You can add multiple folders/sites to be included in your Google custom search engine (CSE).  Each of these sites can be a separately published Flare output.  When users search from one of the published Flare outputs, results will display for all of the outputs.</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Searches will include results for only the Flare output that is open.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Other File Types</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />If you have added other types of files (e.g., PDF) to the site(s) associated with your CSE, they may be included in search results.</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">In order to include file types such as PDF in your search results, you need to generate and publish server-based output.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Output/HTML5-Output/Enabling-HTML5-Server-Output.htm">Enabling HTML5 Server-based Output</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Search Tailored to Flare Projects</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">Google does not recognize the unique characteristics of a Flare project (e.g., index keywords, glossaries). Therefore, those elements will have no effect on how Google ranks pages in the results.</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />MadCap Search rankings are specifically tailored for Flare users. They take into account not only H1-H6 headings, but also index keywords, glossary terms, etc.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlareSearchGuide"> See <MadCap:xref href="../../../../Flare/Search/Optimizing-Search/Ranking-Search-Results.htm">Ranking Search Results</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Glossary Definitions in Results</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">Google will not fetch your project’s glossary terms and feature them at the top of search results.</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />MadCap Search will fetch your project’s glossary terms and feature them at the top of search results.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Incorrectly Typed Searches</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />If an end user incorrectly enters a search term (e.g., types “Tble” instead of “Table,” Google will often guess the correct term and show results anyway.</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Incorrectly typed search terms will not return results.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Search and Indexing Speed</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">Search results might lag at times, depending on the size of the output and whether Google is finished with the indexing (i.e., making your output available for searches).</p>
+                        <p class="TableText">Google will index your pages automatically over time, but it can take awhile, sometimes weeks. You can use some of the steps below to help speed up this process.</p>
+                        <p class="TableText">In addition, there are a number of different factors that can determine how fast your site is indexed, including:</p>
+                        <ul>
+                            <li>Whether your output has a sitemap</li>
+                            <li>The structure of your output</li>
+                            <li>How content is linked (regular links are best to make it easier for Googlebots to crawl)</li>
+                            <li>Popularity of the site (the number of other sites that link to your output)</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />Search results might be faster because the output is immediately indexed once it is generated. You do not need to spend any extra time indexing your pages or waiting for search results to appear.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Mobile Devices</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />Search results always come from a server, so you do not need to be concerned about the ability of the mobile device to handle the information.</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Search results are “chunked” and then collapsed so that they can be displayed when a search is performed. This is usually okay on PCs, but if you try to perform a search on a mobile device, the results might be slow or even crash because the device cannot handle the number of search results.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Advertisements</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-DarkerRows">
+                        <p class="TableText">Users might see advertisements in search results.</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyA-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/greencheck.png" class="ReduceButtonSize2" />No advertisements are included in search results.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

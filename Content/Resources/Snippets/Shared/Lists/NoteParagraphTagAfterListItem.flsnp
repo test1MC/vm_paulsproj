@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Let's say you've created a class for the li style (e.g., li.PageBreakBefore) and you've specified a page break for it. Suppose you want to apply that style class to an item in one of your lists so that it starts on the next page. However, you also want to add a paragraph tag to it (e.g., so that you can add a comment after the item without altering the overall sequence of the list). In that case, you should make sure to apply the list style class to the item first and then add the paragraph tag to it afterward.</p>
+    </body>
+</html>

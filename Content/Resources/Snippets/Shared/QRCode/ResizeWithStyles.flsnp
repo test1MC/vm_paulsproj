@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>You can resize many QR codes at once by using the MadCap|qrCode style in the Stylesheet Editor. Not only can you select a specific size, but you can also set a maximum or minimum height or width. You can set either the width or height on the QR code tag and let <MadCap:variable name="Other.Product" /> set the other property automatically, maintaining the aspect ratio (i.e., size proportion of the QR code).</p>
+    </body>
+</html>

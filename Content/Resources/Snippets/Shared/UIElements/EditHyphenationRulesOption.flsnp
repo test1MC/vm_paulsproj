@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="85" MadCap:lastWidth="968">
+    <body>
+        <p class="TableText">Opens the Open Hyphenation Document dialog, which lets you edit custom hyphenation rules that you have previously created. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Paragraphs/Setting-Hyphenation.htm">Setting Hyphenation</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Paragraphs/Setting-Hyphenation.htm">Setting Hyphenation</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

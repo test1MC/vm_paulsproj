@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Pulse" MadCap:lastBlockDepth="9" MadCap:lastHeight="1870" MadCap:lastWidth="926">
+    <body>
+        <MadCap:snippetBlock src="../../Shared/Banners/PulseAdminEmployeeCustomer.flsnp" />
+        <p>Do you want to receive notifications when a Pulse users posts an answer to one of your questions? Or be notified when someone asks a question about a particular Flare topic? Pulse provides users with a convenient way to sign up to receive email notifications about different system events and activities.</p>
+        <h2 MadCap:conditions="General.PrintOnly">Notification Types</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notification types</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Pulse provides users with these notification types:</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Comments </span>
+                        <MadCap:snippetText src="../../Shared/Pulse/PulseNotificationComments.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlarePulseGuide,PulseGuides.PulseUserGuide">See <MadCap:xref href="../../../../Shared/Pulse-Features/Moderation/Responding-Status-Updates.htm">Responding to Posts</MadCap:xref>.</MadCap:conditionalText>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Answers </span>
+                        <MadCap:snippetText src="../../Shared/Pulse/PulseNotificationAnswers.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="PulseGuides.PulseUserGuide,FlareGuides.FlarePulseGuide,General.OnlineOnly">See <MadCap:xref href="../../../../Shared/Pulse-Features/Posting-Content/Posting-Questions.htm">Posting Questions</MadCap:xref> and <MadCap:xref href="../../../../Shared/Pulse-Features/Moderation/Responding-Status-Updates.htm">Responding to Posts</MadCap:xref>.</MadCap:conditionalText>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Mentions </span>
+                        <MadCap:snippetText src="../../Shared/Pulse/PulseNotificationMentions.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="PulseGuides.PulseUserGuide,FlareGuides.FlarePulseGuide,General.OnlineOnly">See <MadCap:xref href="../../../../Shared/Pulse-Features/Responding-Posts/Mentioning-Documents-People-Groups.htm">Using Mentions</MadCap:xref>.</MadCap:conditionalText>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Invites </span>
+                        <MadCap:snippetText src="../../Shared/Pulse/PulseNotificationInvites.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlarePulseGuide,PulseGuides.PulseUserGuide">To learn how to send invites to users, see <MadCap:xref href="../../../../Shared/Pulse-Features/Moderation/Inviting-People.htm">Inviting People</MadCap:xref>.</MadCap:conditionalText>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Tasks </span>Notifies you when you are assigned a task to complete.<MadCap:conditionalText MadCap:conditions="PulseGuides.PulseUserGuide,FlareGuides.FlarePulseGuide,General.OnlineOnly"> See <MadCap:xref href="../../../../Shared/Pulse-Features/Posting-Content/Assigning-Tasks.htm">Assigning Tasks</MadCap:xref>.</MadCap:conditionalText></li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePulseGuide,PulseGuides.PulseUserGuide,PulseGuides.PulseServerAdminGuide" />
+        <h2 MadCap:conditions="General.PrintOnly">Checking Notifications</h2>
+        <p MadCap:conditions="General.PrintOnly">Pulse allows you to check your notifications.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to check your notifications</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <p>Open the Notifications app using one of these options:</p>
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Flare Output </span>In a web browser, navigate to the Flare output. Then log in to the Pulse system<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlarePulseGuide,PulseGuides.PulseUserGuide"> (see <MadCap:xref href="../../../../Shared/Pulse-Features/Getting-Started/Logging-in-Pulse.htm">Logging In to Pulse</MadCap:xref>)</MadCap:conditionalText>. Click the <span class="Emphasis">Community</span> tab in the Flare output. Under the&#160;Your Apps list, click <span class="Emphasis">Notifications</span>.</p>
+                                <p>
+                                    <img src="../../../Images/Shared/pulse_notifications_community_tab.png" class="MaxWidth100Percent" />
+                                </p>
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The Your Apps list in the only available to members of the Administrators and Employees groups. It is not available to members of the Customers group.</p>
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                                    <MadCap:snippetText src="../../Shared/Pulse/PulseAppAccessNote.flsnp" />
+                                </p>
+                            </li>
+                            <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePulseGuide,PulseGuides.PulseUserGuide,PulseGuides.PulseServerAdminGuide" />
+                            <li>
+                                <p><span class="SetOffFirstLevel">Pulse Dashboard </span>Log in to the Pulse dashboard<MadCap:conditionalText MadCap:conditions="General.OnlineOnly,FlareGuides.FlarePulseGuide,PulseGuides.PulseUserGuide"> (see <MadCap:xref href="../../../../Shared/Pulse-Features/Getting-Started/Logging-in-Pulse.htm">Logging In to Pulse</MadCap:xref>)</MadCap:conditionalText>.&#160;Then click <img src="../../../Images/Shared/pulse_btn_notifications.png" class="ReduceButtonSize" /> in the upper-right corner of the dashboard. In the drop-down message, click <span class="Emphasis">View All Notifications</span>.</p>
+                                <p>
+                                    <img src="../../../Images/Shared/pulse_notification_view_all.png" class="MaxWidth100Percent" />
+                                </p>
+                            </li>
+                        </ul>
+                    </li>
+                    <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePulseGuide,PulseGuides.PulseUserGuide,PulseGuides.PulseServerAdminGuide" />
+                    <li>
+                        <p>In the Notifications page, all of your notifications are listed. You have these options:</p>
+                        <ul>
+                            <li>Click one of the hyperlinks in the notifications page to open the corresponding Pulse feed. </li>
+                            <li>
+                                <p>Click one of the buttons in the upper-right corner of the page to filter your notifications by type.</p>
+                                <p>
+                                    <img src="../../../Images/Shared/pulse_notifications_page.png" class="MaxWidth100Percent" />
+                                </p>
+                            </li>
+                        </ul>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePulseGuide,PulseGuides.PulseUserGuide,PulseGuides.PulseServerAdminGuide" />
+        <h2 MadCap:conditions="General.PrintOnly">Signing Up for Email Notifications</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>signing up for email notifications</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>When Pulse issues a notification, it appears in the Notifications app. If you would like Pulse to send you an email message as well, enable the appropriate setting in the Notifications tab on the Settings page of your profile.<MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePulseGuide,PulseGuides.PulseUserGuide,General.OnlineOnly"> See <MadCap:xref href="../../../../Shared/Pulse-Features/Getting-Started/Creating-Editing-Profiles.htm">Creating and Editing Your&#160;Profile</MadCap:xref>.</MadCap:conditionalText></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePulseGuide,PulseGuides.PulseUserGuide" />
+    </body>
+</html>

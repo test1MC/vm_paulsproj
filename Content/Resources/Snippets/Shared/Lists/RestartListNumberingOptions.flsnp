@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ul start="1" class="FirstLevel">
+            <li>If you want to change the numbering for the entire list, restarting the first item at a specific number, click <span class="Emphasis">Set List Start Number</span>. Enter a value in the dialog and click <span class="Emphasis">OK</span>.</li>
+            <li>
+                <p>If you want to change the numbering for a specific item in a numbered list, click <span class="Emphasis">Set Item Number</span>. Enter a value in the dialog and click <span class="Emphasis">OK</span>. </p>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">example </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <div class="example">
+                            <p class="exampleHeadTextEmpty">example</p>
+                            <p>Let's say you have a numbered list from 1 to 10. If you were to click in the paragraph with the number 7 and then use this option to start numbering at 23, your list would change so that the numbering displayed as 1 to 6 and then 23 to 26.</p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+        </ul>
+    </body>
+</html>

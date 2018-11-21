@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>Cross-references let you create automated links that are based on commands you provide. This allows you to keep links consistent and change them in just one place by using the <MadCap:keyword term="XREF tag" />MadCap|xref style. Commands are contained in brackets (e.g., {paratext}).</p>
+    </body>
+</html>

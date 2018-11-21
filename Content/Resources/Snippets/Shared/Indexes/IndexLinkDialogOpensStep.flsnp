@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>The Index Link dialog opens. In addition, the Index Links Editor opens. Finally, the index link file <MadCap:keyword term="FLIXL file" />(.flixl extension) is added to the Advanced folder in the Project Organizer. In the future, you can open the index link set from there.</p>
+    </body>
+</html>

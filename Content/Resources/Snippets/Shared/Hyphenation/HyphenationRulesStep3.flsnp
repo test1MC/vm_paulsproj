@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>Click <span class="Emphasis">Add Custom Rule</span>. The Add Custom Hyphenation Rule dialog opens, showing the word you selected and the current places where the word will be hyphenated at the end of lines. Each rule is separated by a semi-colon.</p>
+    </body>
+</html>

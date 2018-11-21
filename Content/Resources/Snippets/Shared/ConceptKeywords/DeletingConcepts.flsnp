@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>If necessary, you can delete concepts that you have inserted into a <MadCap:snippetText src="../Topics/ContentFileDocument.flsnp" />. You can do this from the Concept window pane or from a specific file. The advantage of using the Concept window pane is that you can delete concept keywords from all topics in one step.</p>
+    </body>
+</html>

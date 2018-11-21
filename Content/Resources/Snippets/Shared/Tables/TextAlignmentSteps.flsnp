@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ol class="LowerAlpha">
+            <li>Select the <span class="Emphasis">Text</span> tab.</li>
+            <li>To set the horizontal alignment, in the <span class="Emphasis">Text Alignment</span> section, select one of the options.<ul class="FirstLevel"><li><span class="SetOffFirstLevel">Left </span>Aligns the text on the left side of the cell.</li><li><span class="SetOffFirstLevel">Center </span>Aligns the text on the center of the cell.</li><li><span class="SetOffFirstLevel">Right </span>Aligns the text on the right side of the cell.</li><li><span class="SetOffFirstLevel">Justify </span>Aligns the text so that it is flush with both the left and right side.</li></ul></li>
+            <li>To set the vertical alignment, in the <span class="Emphasis">Alignment</span> section, select one of the options.<ul class="FirstLevel"><li><span class="SetOffFirstLevel">Top </span>The text aligns at the top of each cell.</li><li><span class="SetOffFirstLevel">Middle</span> The text aligns in the middle of each cell.</li><li><span class="SetOffFirstLevel">Bottom </span>The text aligns at the bottom of each cell.</li></ul></li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>Wrap behavior on line breaks determines how and when the line ends  and begins (or "wraps") on &lt;br/&gt; tags from one line to the next. It also determines how white space is treated when the line wraps. Wrap behavior is controlled by the <span class="Emphasis">white-space</span> property.</p>
+    </body>
+</html>

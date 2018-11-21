@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central">
+    <body>
+        <p>If you are working in a dual-bound model (<MadCap:conditionalText MadCap:conditions="General.OnlineOnly">see  <MadCap:xref href="../../../../Flare/Projects/Source-Control-Central.htm#DualBoundOnline">Dual-bound Projects</MadCap:xref></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.PrintOnly">see <MadCap:xref href="../../../../Flare/Projects/Source-Control-Central.htm#DualBoundPrint">Dual-bound Projects</MadCap:xref></MadCap:conditionalText>), you will author your content in Flare and then use your third-party source control tool to synchronize your files with those from other writers. After this, you can use Flare to push those changes to Central.</p>
+    </body>
+</html>

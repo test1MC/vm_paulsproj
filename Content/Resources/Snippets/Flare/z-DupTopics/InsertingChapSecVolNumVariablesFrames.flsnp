@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="2153" MadCap:lastWidth="1173">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature_Supported/PDF_XHTML_XPS.flsnp" />
+        <p>
+            <MadCap:snippetText src="../../Shared/Variables/ChapSecVolInFramesIntro.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareVariablesGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to insert a chapter, section, or volume number variable into a page layout frame</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <snippetBlock src="../../Shared/PageLayouts/OpenFrameContentsWindowSteps.flsnp" />
+                    <li value="5">
+                        <MadCap:snippetText src="../../Shared/PageLayouts/ClickFrameContentsWindow.flsnp" />
+                    </li>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        </p>
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">Ribbon</span> <MadCap:snippetText src="../../Shared/UIElements/SelectInsertRibbon.flsnp" /> In the <span class="Emphasis">Single-Source</span> section select <span class="Emphasis">Variable</span>. </li>
+                            <li><span class="SetOffFirstLevel">Local Toolbar</span> Click <img src="../../../Images/Shared/insert_variable_btn.png" class="ReduceButtonSize" />.</li>
+                            <li><span class="SetOffFirstLevel">Keyboard Shortcut</span> On your keyboard press <span class="Emphasis">CTRL+SHIFT+V</span>.</li>
+                        </ul>
+                        <p>The Variables dialog opens, with the variable set(s) on the left and the variables associated with the selected set on the right. </p>
+                    </li>
+                    <li>Select the <span class="Emphasis">System</span> variable set.</li>
+                    <li>
+                        <p>Select the appropriate variable: <span class="Emphasis">ChapterNumber</span>, <span class="Emphasis">SectionNumber</span>, or <span class="Emphasis">VolumeNumber</span>. </p>
+                        <p>
+                            <img src="../../../Images/Flare/chap_sec_vol_num_variables_example.png" class="MaxWidth90Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/ClickOK.flsnp" /> The variable is added to the Frame Contents window pane.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" /> The variable can now be seen in the frame.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.OnlineOnly">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Indexes/NoteIndexAutoNumbers.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareVariablesGuide,FlareGuides.FlarePrintedOutputGuide" />
+        <p MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" class="Subheading">related tasks</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>In addition to completing the these steps, make sure you also perform the necessary tasks for creating the autonumbers in your topics and specifying where new chapters, sections, or volumes should begin.</p>
+                <ul class="Square">
+                    <li>To generate <span class="Emphasis">chapter</span> numbers, you need to create an autonumber format that includes the {chapnum} command<MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,Products.FlareOnlineOnly"> (see <MadCap:xref href="../../../../Flare/Autonumbers/About-Autonumbers.htm">About Autonumbers</MadCap:xref>)</MadCap:conditionalText>. Then you need to specify chapter breaks in the outline TOC<MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,Products.FlareOnlineOnly"> (see <MadCap:xref href="../../../../Flare/Output/Printed-Output/Specifying-Chapter-Breaks.htm">Specifying Chapter Breaks and Page Layouts</MadCap:xref>)</MadCap:conditionalText>. <MadCap:snippetText src="../../Shared/ForMoreInfo/ForMoreInfoSeeOnlineHelpOrPrintedOutputGuide.flsnp" MadCap:conditions="FlareGuides.FlareVariablesGuide" /></li>
+                    <li>To generate <span class="Emphasis">section</span> numbers, you need to create an autonumber format that includes the {secnum} command<MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,Products.FlareOnlineOnly"> (see <MadCap:xref href="../../../../Flare/Autonumbers/About-Autonumbers.htm">About Autonumbers</MadCap:xref>)</MadCap:conditionalText>. Then specify section breaks in the outline TOC<MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,Products.FlareOnlineOnly"> (see <MadCap:xref href="../../../../Flare/Output/Printed-Output/Specifying-Chapter-Breaks.htm">Specifying Chapter Breaks and Page Layouts</MadCap:xref>)</MadCap:conditionalText>. <MadCap:snippetText src="../../Shared/ForMoreInfo/ForMoreInfoSeeOnlineHelpOrPrintedOutputGuide.flsnp" MadCap:conditions="FlareGuides.FlareVariablesGuide" /></li>
+                    <li>To generate <span class="Emphasis">volume</span> numbers, you need to create an autonumber format that includes the {volnum} command<MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,Products.FlareOnlineOnly"> (see <MadCap:xref href="../../../../Flare/Autonumbers/About-Autonumbers.htm">About Autonumbers</MadCap:xref>)</MadCap:conditionalText>. Second, you need to specify chapter breaks in the outline TOC<MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,Products.FlareOnlineOnly"> (see <MadCap:xref href="../../../../Flare/Output/Printed-Output/Specifying-Chapter-Breaks.htm">Specifying Chapter Breaks and Page Layouts</MadCap:xref>)</MadCap:conditionalText>. Third, you need to specify the autonumber flow for each volume, resetting the volume number to a specific number<MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,Products.FlareOnlineOnly"> (see <MadCap:xref href="../../../../Flare/Autonumbers/Specifying-Auto-Numbering-Flow-for-Output.htm">Specifying Autonumbering Flow for Output</MadCap:xref>)</MadCap:conditionalText>. <MadCap:snippetText src="../../Shared/ForMoreInfo/ForMoreInfoSeeOnlineHelpOrPrintedOutputGuide.flsnp" MadCap:conditions="FlareGuides.FlareVariablesGuide" /></li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+    </body>
+</html>

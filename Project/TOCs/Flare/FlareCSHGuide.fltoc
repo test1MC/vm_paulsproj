@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartSection="false"
+    PageNumber="1"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/Flare/TitleFlare.flpgl"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartPageLayout="false" />
+  <TocEntry
+    Title="CH 1 About CSH"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartSection="false"
+    Link="/Content/Flare/CSH/About-CSH.htm"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 2 Header Files"
+    Link="/Content/Flare/CSH/About-Header-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartPageLayout="false"
+    StartSection="false">
+    <TocEntry
+      Title="Adding Header Files"
+      Link="/Content/Flare/CSH/Adding-Header-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing Header Files"
+      Link="/Content/Flare/CSH/More-Header-Files/Importing-Header-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Opening Header Files"
+      Link="/Content/Flare/CSH/More-Header-Files/Opening-Header-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Providing a Developer with a Header File"
+      Link="/Content/Flare/CSH/Providing-Developer-with-Header-File.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3  Alias Files"
+    Link="/Content/Flare/CSH/About-Alias-Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false">
+    <TocEntry
+      Title="Adding Alias Files"
+      Link="/Content/Flare/CSH/Adding-Alias-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Setting Identifier Options"
+      Link="/Content/Flare/CSH/Setting-Identifier-Options.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating and Assigning Identifiers"
+      Link="/Content/Flare/CSH/Creating-Assigning-Identifiers.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Moving Identifiers to Different Headers"
+      Link="/Content/Flare/CSH/Moving-Identifiers-to-Different-Headers.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing Alias Files"
+      Link="/Content/Flare/CSH/More-Alias-Files/Importing-Alias-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Opening Alias Files"
+      Link="/Content/Flare/CSH/More-Alias-Files/Opening-Alias-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating an Alias File with a Target"
+      Link="/Content/Flare/CSH/Associating-Alias-File-with-Target.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4  Additional Tasks for Context-Sensitive Help"
+    Link="/Content/Flare/CSH/Testing-CSH.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false">
+    <TocEntry
+      Title="Creating Topic Alias Markers in FrameMaker for Context-Sensitive Help"
+      Link="/Content/Flare/Importing/More-FrameMaker/Creating-Topic-Alias-Markers-for-CSH.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="CSH Calls for DotNet Help"
+      Link="/Content/Flare/CSH/DNH-CSH-Calls/CSH-Calls-DNH.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="CSH Calls for DotNet Help—Developers"
+        Link="/Content/Flare/CSH/DNH-CSH-Calls/CSH-Calls-DNH-Developers.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Command Line"
+        Link="/Content/Flare/CSH/DNH-CSH-Calls/Command-Line.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="HelpViewerClient API"
+        Link="/Content/Flare/CSH/DNH-CSH-Calls/HelpViewerClient-API.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="HelpViewerEmbeddedClient API"
+        Link="/Content/Flare/CSH/DNH-CSH-Calls/HelpViewerEmbeddedClient-API.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="ICSHIDProvider API"
+        Link="/Content/Flare/CSH/DNH-CSH-Calls/ICSHIDProvider.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="IEmbeddedHelpSystem API"
+        Link="/Content/Flare/CSH/DNH-CSH-Calls/IEmbeddedHelpSystem.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="CSH Calls for HTML Help"
+      Link="/Content/Flare/CSH/HTML-Help-CSH-Calls/CSH-Calls-HTML-Help.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="CSH Calls for HTML Help - Developers"
+        Link="/Content/Flare/CSH/HTML-Help-CSH-Calls/CSH-Calls-HTML-Help-Developers.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="CSH Calls for HTML5 (WebHelp 2.0)"
+      Link="/Content/Flare/CSH/HTML5-CSH-Calls/CSH-Calls-HTML5.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="CSH Calls for HTML5 (WebHelp 2.0)—Developers"
+        Link="/Content/Flare/CSH/HTML5-CSH-Calls/CSH-Calls-HTML5-Developers.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="CSH Calls for WebHelp and WebHelp Plus"
+      Link="/Content/Flare/CSH/WebHelp-CSH-Calls/CSH-Calls-WH-WHP.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="CSH Calls for WebHelp and WebHelp Plus—Developers"
+        Link="/Content/Flare/CSH/WebHelp-CSH-Calls/CSH-Calls-WH-WHP-Developers.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="CSH Calls for WebHelp Mobile"
+      Link="/Content/Flare/CSH/WebHelp-Mobile-CSH-Calls/CSH-Calls-WHM.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="CSH Calls for WebHelp Mobile—Developers"
+        Link="/Content/Flare/CSH/WebHelp-Mobile-CSH-Calls/CSH-Calls-WHM-Developers.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

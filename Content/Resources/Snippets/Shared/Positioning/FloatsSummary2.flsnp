@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>Positioning elements with floats can be done with styles or local formatting. If you want to position all elements in the same place on the pages where they appear, use a style. If you want to position each element so that it is in a unique location on the page where it has been inserted, use local formatting.</p>
+    </body>
+</html>

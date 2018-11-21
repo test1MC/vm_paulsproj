@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare">
+    <body>
+        <p>Select the appropriate property and value for it. Perhaps the most common setting is to click in the column to the right of <span class="Emphasis">page-break-inside</span>, and select <span class="Emphasis">avoid</span> from the drop-down. If you do this for the tr style, <MadCap:variable name="Other.Product" /> will automatically create a break between rows so that row content does not continue from one page to another.</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Central,Products.Flare">
+    <body>
+        <p>The Service Level Agreement (SLA) for hosted output on MadCap Central is 99.97%. This monthly uptime percentage applies to the total guaranteed availability of your output and the systems (storage and web applications) used to host it. This SLA is guaranteed through Microsoft Azure.</p>
+    </body>
+</html>

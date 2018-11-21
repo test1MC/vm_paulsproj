@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Central" MadCap:lastBlockDepth="4" MadCap:lastHeight="520" MadCap:lastWidth="642">
+    <body>
+        <ol>
+            <li>Open the project in MadCap Flare.</li>
+            <li>
+                <MadCap:snippetText src="SelectViewMadCapCentral.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="IfNotYetLoggedIn.flsnp" />
+            </li>
+            <li>Upload (bind) your project to Central.<MadCap:conditionalText MadCap:conditions="Products.Central"> See <MadCap:xref href="../../../../Central/Projects/Uploading-Projects.htm">Uploading (Binding) Projects</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Flare"> See <MadCap:xref href="../../../../Flare/Central/Binding-Projects.htm">Uploading (Binding) Projects</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>In Central, assign users to the new project and make sure they have “Import/Pull” and “Push” permissions. This enables users to import the project using the MadCap Central window pane. It also allows users to push content to the project. <MadCap:conditionalText MadCap:conditions="Products.CentralOnlineOnly"> See <MadCap:xref href="../../../../Central/Users/Assigning-Users-to-Teams-Projects.htm">Assigning Users to Teams and Projects</MadCap:xref> and <MadCap:xref href="../../../../Central/Users/Setting-Permissions.htm">Setting User Permissions</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="CentralGuides.CentralProjectsAndBuildsGuide"> See  the online Help.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Flare"> See the Central online Help.</MadCap:conditionalText></li>
+            <li>Newly assigned users must now import the project from Central using the MadCap Central window pane in Flare. This allows each user to work on the project locally. <MadCap:conditionalText MadCap:conditions="Products.Central">See <MadCap:xref href="../../../../Central/Projects/Importing-Projects.htm">Importing Projects</MadCap:xref>. </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Central/Importing-Projects.htm">Importing Projects from Central</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>In Flare, make changes to your files. Then commit those files and synchronize them with the cloned project on Central.  <MadCap:conditionalText MadCap:conditions="Products.Central">See <MadCap:xref href="../../../../Central/Projects/Committing-Synchronizing-Single-Bound.htm">Committing and Synchronizing (Pull, Push) in a Single-bound Model</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../Flare/Projects/Committing-Synchronizing-Single-Bound.htm">Committing and Synchronizing (Pull, Push) in a Single-bound Model</MadCap:xref>.</MadCap:conditionalText></li>
+        </ol>
+    </body>
+</html>

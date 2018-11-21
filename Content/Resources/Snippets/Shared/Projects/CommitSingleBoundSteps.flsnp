@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Central,Products.Flare">
+    <body>
+        <ol>
+            <li>Open the project in MadCap Flare.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel">Pending Changes Window Pane</span> From the <span class="Emphasis">Source Control</span> ribbon, open the Pending Changes window pane. Select the files in the window pane that you want to commit, and in the local toolbar click <img src="../../../Images/Shared/commit_btn_git.png" class="ReduceButtonSize" />. </li>
+                    <li><span class="SetOffFirstLevel">Ribbon </span>
+                        <MadCap:snippetText src="../UIElements/SelectSourceControlRibbon.flsnp" /> In the <span class="Emphasis">File</span> section select <span class="Emphasis">Commit</span> (for selected files). Alternatively, in the <span class="Emphasis">Project</span> section you can click <span class="Emphasis">Commit All</span> (for all files in the project). </li>
+                    <li><span class="SetOffFirstLevel">Right-Click </span>If you have the Content Explorer, Project Organizer, Pending Changes window pane, or File List open, right-click the file you want to commit and select <span class="Emphasis">Source Control &gt; Commit</span>   (for selected files) or <span class="Emphasis">Source Control &gt; Project &gt; Commit All</span>  (for all files in the project).</li>
+                </ul>
+                <p>The Commit dialog opens. The selected files are listed with check boxes next to them.</p>
+            </li>
+            <li>(Optional) <MadCap:snippetText src="../SourceControl/SourceControlCommitCommentOption.flsnp" /></li>
+            <li>(Optional) If you want to see all files with pending changes (rather than only those you selected), click <img src="../../../Images/Shared/show_all_pending_changes_btn.png" class="ReduceButtonSize" />.</li>
+            <li>Make sure to click the check box next to each file you want to commit so that it contains a check mark.</li>
+            <li>Click <span class="Emphasis">Commit</span>.</li>
+        </ol>
+    </body>
+</html>

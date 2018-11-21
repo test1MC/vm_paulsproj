@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="1999" MadCap:lastWidth="1192">
+    <body>
+        <ol>
+            <li>Create a new temporary project<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../../../../Flare/Projects/Creating-Project.htm">Creating a New Project</MadCap:xref>)</MadCap:conditionalText>, selecting one of the following Top Navigation templates in the process:<ul><li>Top Navigation Advanced</li><li>Top Navigation Basic</li><li>Top Navigation and PDF Advanced</li><li>Top Navigation and PDF Basic</li></ul><p><img src="../../../Images/Flare/fixed_menu11.png" alt="" title="" class="MaxWidth100Percent" /></p></li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" />
+            <li>Open your regular project and import the master page called “OtherTopicsFixedSideMenu”:<ol style="list-style-type: lower-alpha;"><li>In the Content Explorer, expand the <span class="Emphasis">Resources</span> folder and right-click on the <span class="Emphasis">MasterPages</span> subfolder.</li><li><p>Select <span class="Emphasis">New &gt; Master Page</span>.</p><p><img src="../../../Images/Flare/fixed_menu12.png" alt="" title="" class="MaxWidth100Percent" /></p></li><MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" /><li><p>In the Add File dialog, select <span class="Emphasis">New from existing</span> and click <img src="../../../Images/Shared/browse_ellipses.png" class="ReduceButtonSize" /> next to it.</p><p><img src="../../../Images/Flare/fixed_menu13.png" alt="" title="" class="MaxWidth100Percent" /></p></li><li>In the dialog that opens, find the temporary project you created. Navigate to the <span class="Emphasis">Content &gt; Resources &gt; MasterPages</span> location.</li><li>Select <span class="Emphasis">OtherTopicsFixedSideMenu.flmsp</span> and click <span class="Emphasis">Open</span>.</li><li>In the Add File dialog, click <span class="Emphasis">Add</span>. The master page is added to your project and opens in the XML Editor.</li></ol></li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" />
+            <li>
+                <p>In the imported master page, right-click the menu proxy bar and select <span class="Emphasis">Edit Menu Proxy</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/fixed_menu14.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareSkinsGuide" />
+            <li>
+                <p>From the <span class="Emphasis">Skin File</span>, select the Menu skin component that you have set to “fixed.”</p>
+                <p>
+                    <img src="../../../Images/Flare/fixed_menu15.png" alt="" title="" class="MaxWidth60Percent" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>(Optional) If you have any content from your old master page that you want to keep, you can copy and paste it into this new master page.</li>
+            <li>
+                <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+            <li>
+                <p>Make sure you associate the new master page with the appropriate targets or topics where the older one is set.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/Master-Pages/Associating-Master-Pages-with-Targets.htm">Associating Master Pages with Targets</MadCap:xref> or <MadCap:xref href="../../../../Flare/Master-Pages/Associating-Master-Pages-Topics.htm">Associating Master Pages with Topics</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>Alternatively, you can delete the older master page that you do not plan to use any longer. When doing this you can tell Flare not to remove any links. Then you can rename the new master page so that it has the same name as the deleted master page. This way, the new master page will be linked to whatever the old master page was linked to previously.</p>
+            </li>
+        </ol>
+    </body>
+</html>

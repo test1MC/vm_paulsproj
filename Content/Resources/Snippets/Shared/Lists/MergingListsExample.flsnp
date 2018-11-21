@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say you have two numbered lists, with each list restarting at number 1.</p>
+            <p>
+                <img src="../../../Images/Shared/merging_lists_example1.png" class="MaxWidth65Percent" />
+            </p>
+            <p>You can make the numbering continuous in those two lists by merging them.</p>
+            <p>
+                <img src="../../../Images/Shared/merging_lists_example2.png" class="MaxWidth65Percent" />
+            </p>
+        </div>
+    </body>
+</html>

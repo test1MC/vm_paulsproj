@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="144" MadCap:lastWidth="1046" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>After you add items to a cell, you can nest them by using the left and right arrows. If an item is above and to the left of other items, it becomes the parent; the child items are below and to the right of the parent. When this occurs, the child items inherit the settings from the parent item (e.g., link type).</p>
+        <ol class="LowerAlpha">
+            <li>Click on a topic link in a cell that you want to move.</li>
+            <li>In the local toolbar, click <img src="../../../Images/Shared/move_item_to_left_btn.png" class="ReduceButtonSize" /> to move it to the left, or click <img src="../../../Images/Shared/move_item_to_right_btn.png" class="ReduceButtonSize" /> to move it to the right. </li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>When you insert or create certain content in a topic (or in another content file), the parent tag for that type of element is automatically applied. For example, when you create a bulleted list, the ul (unordered list) and li (list item) tags are added around the content. The following steps show you how to select a particular style for content—perhaps a class or ID of a primary style (e.g., li.indented) or another tag altogether (e.g., if you are on a &lt;p&gt; tag, you can change it to an &lt;h2&gt; tag).</p>
+    </body>
+</html>

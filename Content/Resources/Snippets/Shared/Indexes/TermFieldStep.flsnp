@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>In the <span class="Emphasis">Term</span> field, type the term that you anticipate users may look for in the generated index. Please note that the fields in this dialog are case-sensitive; therefore, if you enter a term in all lowercase letters, that is how it will be displayed in the output.</p>
+    </body>
+</html>

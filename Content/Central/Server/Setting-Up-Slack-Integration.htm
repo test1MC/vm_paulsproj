@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="16" MadCap:lastHeight="11366" MadCap:lastWidth="951" style="mc-master-page: url('../../Resources/MasterPages/Central/PDF_Topics/CentralServerMgmtPurchasing.flmsp');">
+    <head>
+        <link href="../../Resources/TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Slack;Notifications:Slack" />Setting Up Slack Integration</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Server/SlackIntegration1.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Banners/SlackIntegrationPerm.flsnp" />
+        <MadCap:dropDown MadCap:conditions="Products.CentralOnlineOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>see the movie</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <object src="https://youtu.be/U5eN7X7avaI" style="width: 560px;height: 315px;">
+                    </object>
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Set Up Slack Integration</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>In Slack, make sure you have set up a Slack account and created channels that you want to integrate with Central.</li>
+                    <li>
+                        <p>At the top of Central, click your name and select <span class="Emphasis">Server Settings</span>.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/slack-webhooks1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p>The Server Settings dialog opens.</p>
+                    </li>
+                    <li>Select the <span class="Emphasis">Slack</span> tab.</li>
+                    <li>
+                        <p>In the <span class="Emphasis">Channels</span> section, click <img src="../../Resources/Images/Central/add-to-slack.png" alt="" title="" class="ReduceButtonSize" />.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/slack-webhooks2.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p>Slack opens in your browser.</p>
+                    </li>
+                    <li>Choose your Slack team. And then in the <span class="Emphasis">Post to</span> field, select a channel that you want to integrate.</li>
+                    <li>Click <span class="Emphasis">Authorize</span>.</li>
+                    <li>
+                        <p>Back in Central, a message indicates that addition was successful. Click <span class="Emphasis">OK</span>.</p>
+                        <p>The channel is now shown in the grid.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/slack-webhooks22.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>Repeat these steps if you want to add more of your Slack channels to the grid.</li>
+                    <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                    <li>
+                        <p>With your channel added to the tab, you’re ready to connect it to any of Central’s notifications. In the bottom area of the tab, click <img src="../../Resources/Images/Central/add-channel-notification.png" alt="" title="" class="ReduceButtonSize" />.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/slack-webhooks23.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p>The Add Channel Notification dialog opens.</p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                    <li>
+                        <p>In the <span class="Emphasis">Name</span> field, provide a name for the channel notification. It can be the same name as the Slack channel you want to hook it to, but this isn’t necessary.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/slack-webhooks25.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>From the <span class="Emphasis">Channel</span> field, select the Slack channel that you want to associate with the notifications.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/slack-webhooks24.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                    <li>
+                        <p>From the <span class="Emphasis">Activity Type</span> field, select one of the alert categories—<span class="Emphasis">Builds</span>, <span class="Emphasis">Projects</span>, <span class="Emphasis">Tasks</span>, <span class="Emphasis">Teams</span>, <span class="Emphasis">Users</span>. Notice that these are the same groups available when you set up personal notifications in your user settings.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/slack-webhooks3.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                    <li>
+                        <p>Depending on the activity type you choose, additional fields are displayed in the area below. Complete the fields as necessary to choose the type of notifications you want to be associated with the Slack channel.</p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>Builds</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <p>From the <span class="Emphasis">Project</span> field, select either <span class="Emphasis">All Projects</span> or choose a specific Flare project whose builds you want to integrate.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/Central/slack-webhooks4.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                                    <li>
+                                        <p>(Optional) If you chose a specific project, you can make a selection in the <span class="Emphasis">Target</span> field. Select either <span class="Emphasis">All Targets</span> or choose a specific target whose builds you want to integrate.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/Central/slack-webhooks5.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                                    <li>
+                                        <p>From the <span class="Emphasis">Activity</span> field, select any of the build activities to include in the integration.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/Central/slack-webhooks6.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                                        <table class="TableStyle-BasicAlternateRows" style="mc-table-style: url('../../Resources/TableStyles/Shared/BasicAlternateRows.css');margin-left: 0;margin-right: auto;width: 100%;" cellspacing="0">
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 160px;" />
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 551px;" />
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+                                            <thead>
+                                                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                                                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                                        <p class="TableTextHead">Field</p>
+                                                    </th>
+                                                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                                        <p class="TableTextHead">Description</p>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <p class="TableTextEmphasis">Completed</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/BuildsCompletedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Projects/Running-Scheduling-Builds.htm">Running and Scheduling Builds</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                                        <p class="TableTextEmphasis">Set as Live</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/BuildsSetAsLiveOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Projects/Setting-Builds-to-Live-Keep.htm">Setting Builds to Live or Keep</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <p class="TableTextEmphasis">Started</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/BuildsStartedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Projects/Running-Scheduling-Builds.htm">Running and Scheduling Builds</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-DarkerRows">
+                                                        <p class="TableTextEmphasis">Stopped</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-DarkerRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/BuildsStoppedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Projects/Running-Scheduling-Builds.htm">Running and Scheduling Builds</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/ClickOK.flsnp" />
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>Projects</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <p>From the <span class="Emphasis">Project</span> field, select either <span class="Emphasis">All Projects</span> or choose a specific Flare project you want to integrate.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/Central/slack-webhooks7.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                                    <li>
+                                        <p>From the <span class="Emphasis">Activity</span> field, select any of the project activities to include in the integration.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/Central/slack-webhooks8.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                                        <table class="TableStyle-BasicAlternateRows" style="mc-table-style: url('../../Resources/TableStyles/Shared/BasicAlternateRows.css');margin-left: 0;margin-right: auto;width: 100%;" cellspacing="0">
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 160px;" />
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 551px;" />
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+                                            <thead>
+                                                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                                                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                                        <p class="TableTextHead">Field</p>
+                                                    </th>
+                                                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                                        <p class="TableTextHead">Description</p>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <p class="TableTextEmphasis">Deleted</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/ProjectsDeletedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Projects/Deleting-Projects.htm">Deleting Projects</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                                        <p class="TableTextEmphasis">Profile Changed</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/ProjectsProfileChangedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Projects/Editing-Project-Profiles.htm">Editing Project Profiles</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                                                        <p class="TableTextEmphasis">Status Changed</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/ProjectsStatusChangedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Projects/Changing-Status-Project.htm">Changing the Status of a Project</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/ClickOK.flsnp" />
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>Tasks</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>From the Tasks field, select either a specific task or choose one of the following:<ul><li><span class="SetOffFirstLevel">All Tasks</span></li><li><span class="SetOffFirstLevel">All Tasks WITHOUT a Project</span></li><li><span class="SetOffFirstLevel">All Tasks for a Specific Project</span></li></ul><p><img src="../../Resources/Images/Central/slack-webhooks9.png" alt="" title="" class="MaxWidth100Percent" /></p></li>
+                                    <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                                    <li>
+                                        <p>(Optional) If you selected “All Tasks for a Specific Project,” click in the <span class="Emphasis">Project</span> field and choose the project with related tasks that you want to integrate.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/Central/slack-webhooks10.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                                    <li>
+                                        <p>From the <span class="Emphasis">Activity</span> field, select any of the tasks activities to include in the integration.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/Central/slack-webhooks11.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <table class="TableStyle-BasicAlternateRows" style="mc-table-style: url('../../Resources/TableStyles/Shared/BasicAlternateRows.css');margin-left: 0;margin-right: auto;width: 100%;" cellspacing="0">
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 160px;" />
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 551px;" />
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+                                            <thead>
+                                                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                                                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                                        <p class="TableTextHead">Field</p>
+                                                    </th>
+                                                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                                        <p class="TableTextHead">Description</p>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <p class="TableTextEmphasis">Comments or File Actions</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/TasksCommentsFileActionsOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Tasks/Adding-Comments-to-Tasks.htm">Adding Comments to Tasks</MadCap:xref> and <MadCap:xref href="../Tasks/Editing-Tasks.htm">Editing Tasks</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                                        <p class="TableTextEmphasis">Deleted</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/TasksDeletedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Tasks/Deleting-Tasks.htm">Deleting Tasks</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <p class="TableTextEmphasis">Edited</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/TasksEditedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Tasks/Editing-Tasks.htm">Editing Tasks</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                                        <p class="TableTextEmphasis">New/Assigned</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/TasksNewAssignedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Tasks/Creating-Tasks.htm">Creating Tasks</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                                                        <p class="TableTextEmphasis">Status Changed (Moved)</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/TasksStatusChangedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Tasks/Moving-Tasks.htm">Moving Tasks</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/ClickOK.flsnp" />
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>Teams</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <p>From the <span class="Emphasis">Team</span> field, select either <span class="Emphasis">All Teams</span> or choose a specific team you want to integrate.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/Central/slack-webhooks12.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                                    <li>
+                                        <p>From the <span class="Emphasis">Activity</span> field, select any of the team activities to include in the integration.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/Central/slack-webhooks13.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                                        <table class="TableStyle-BasicAlternateRows" style="mc-table-style: url('../../Resources/TableStyles/Shared/BasicAlternateRows.css');margin-left: 0;margin-right: auto;width: 100%;" cellspacing="0">
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 160px;" />
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 551px;" />
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+                                            <thead>
+                                                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                                                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                                        <p class="TableTextHead">Field</p>
+                                                    </th>
+                                                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                                        <p class="TableTextHead">Description</p>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <p class="TableTextEmphasis">Added/Removed from a Project</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/TeamsAddedRemovedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Teams/Editing-Teams.htm">Editing Teams</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                                        <p class="TableTextEmphasis">Deleted</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/TeamsDeletedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Teams/Deleting-Teams.htm">Deleting Teams</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                                                        <p class="TableTextEmphasis">Edited</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/TeamsEditedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Teams/Editing-Teams.htm">Editing Teams</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/ClickOK.flsnp" />
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>Users</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <p>From the <span class="Emphasis">User</span> field, select either <span class="Emphasis">All Users</span> or choose a specific user you want to integrate.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/Central/slack-webhooks14.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <MadCap:pageBreak MadCap:conditions="CentralGuides.CentralServerMgmtPurchasingGuide" />
+                                    <li>
+                                        <p>From the <span class="Emphasis">Activity</span> field, select any of the user activities to include in the integration.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/Central/slack-webhooks15.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <table class="TableStyle-BasicAlternateRows" style="mc-table-style: url('../../Resources/TableStyles/Shared/BasicAlternateRows.css');margin-left: 0;margin-right: auto;width: 100%;" cellspacing="0">
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 160px;" />
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 551px;" />
+                                            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+                                            <thead>
+                                                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                                                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                                        <p class="TableTextHead">Field</p>
+                                                    </th>
+                                                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                                        <p class="TableTextHead">Description</p>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <p class="TableTextEmphasis">Added/Removed from a Project</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/UsersAddedRemovedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Users/Assigning-Users-to-Teams-Projects.htm">Assigning Users to Teams and Projects</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                                        <p class="TableTextEmphasis">Added/Removed from a Team</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/UsersAddedRemovedFromTeamOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Users/Assigning-Users-to-Teams-Projects.htm">Assigning Users to Teams and Projects</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                                                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                                                        <p class="TableTextEmphasis">Permissions Changed</p>
+                                                    </td>
+                                                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                                                        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Notifications/UsersPermissionsChangedOption.flsnp" />
+                                                        <p class="TableText" MadCap:conditions="General.OnlineOnly">See <MadCap:xref href="../Users/Setting-Permissions.htm">Setting User Permissions</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/ClickOK.flsnp" />
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <p>In the Server Settings dialog, a row is added for the new channel notification.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/slack-webhooks16.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                    <li>
+                        <p>(Optional) You can perform an action in Central that you have integrated with the Slack channel (e.g., build a target). You should see the notification added to your Slack channel.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/slack-webhooks21.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Keep in mind that the notification UI in Central is unique to each user<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> (see <MadCap:xref href="../Users/Setting-Profile-Notifications.htm">Editing Your Account Settings</MadCap:xref>)</MadCap:conditionalText>. On the other hand, when you set up Slack integration, it is created for the entire license; therefore, other users can tap in to that channel notification to receive the same alerts via Slack.</p>
+                </div>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you encounter problems or need help with your Slack integration, please contact support. See <a href="http://www.madcapsoftware.com/support/contactoptions.aspx" target="_blank">http://www.madcapsoftware.com/support/contactoptions.aspx</a>.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

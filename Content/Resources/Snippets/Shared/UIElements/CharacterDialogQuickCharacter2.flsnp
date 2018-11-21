@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo,Products.Contributor,Products.Analyzer">
+    <body>
+        <p>In the XML Editor you can insert the specified quick character by either pressing <span class="Emphasis">F11</span> on your keyboard or clicking the down arrow of the Character button <img src="../../../Images/Shared/quick_character_btn.png" class="ReduceButtonSize" /> and selecting <span class="Emphasis">Insert Quick Character</span>.</p>
+    </body>
+</html>

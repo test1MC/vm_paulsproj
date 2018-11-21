@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <ol class="LowerAlpha">
+            <li>Select any of the items in the dialog. The row for that item is highlighted.</li>
+            <li>
+                <p>Click the <span class="Emphasis">Move Up</span> or <span class="Emphasis">Move Down</span> button to adjust the position of the row.</p>
+                <p>When you are finished, the item at the top of the dialog will display on the far left in the final interface. The item at the bottom will display at the far right.</p>
+            </li>
+        </ol>
+    </body>
+</html>

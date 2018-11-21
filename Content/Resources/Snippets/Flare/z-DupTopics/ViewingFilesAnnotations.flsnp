@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="847" MadCap:lastWidth="1007">
+    <body>
+        <MadCap:snippetBlock src="../../Shared/ReviewsContributions/ProjectAnnotationsSummary.flsnp" />
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareAnalyzerGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to view files with annotations</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/UIElements/SelectViewRibbon.flsnp" /> In the <span class="Emphasis">Analysis</span> section select <span class="Emphasis">Project Analysis &gt; Files With Annotations</span>. </p>
+                        <p>The Project Analysis window pane opens, with the "Files With Annotations" option selected from the drop-down menu at the top. The area at the bottom of the window pane displays all topics in your project where annotations have been inserted.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/DragDividerToSeeMore.flsnp" />
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">File </span>
+                                <MadCap:snippetText src="../../Shared/UIElements/FileDescription.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Title </span>
+                                <MadCap:snippetText src="../../Shared/UIElements/TitleOption.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Folder </span>
+                                <MadCap:snippetText src="../../Shared/UIElements/FolderOption.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Text </span>Displays the annotation text.</li>
+                            <li><span class="SetOffFirstLevel">Initials</span> Displays the initials of the individual who inserted the annotation.</li>
+                            <li><span class="SetOffFirstLevel">Creator</span> Displays the user name of the individual who create the annotation.</li>
+                            <li><span class="SetOffFirstLevel">Editor</span> Displays the user name of the individual who last edited the annotation.</li>
+                            <li><span class="SetOffFirstLevel">Create Date</span> Displays the date and time when the annotation was created.</li>
+                            <li><span class="SetOffFirstLevel">Edit Date</span> Displays the date and time when the annotation was last edited.</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/UIElements/PageNavButtons.flsnp" />
+                        </p>
+                        <p MadCap:conditions="General.OnlineOnly">
+                            <img src="../../../Images/Shared/page_nav_buttons_example2.png" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>You can double-click any topic in the list to view or modify it. </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

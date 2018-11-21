@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>This wizard is used to convert multiple HTML files to XHTML (e.g., if you add HTML files to your project folder in Windows and then attempt to open them within <MadCap:variable name="Other.Product" />). </p>
+    </body>
+</html>

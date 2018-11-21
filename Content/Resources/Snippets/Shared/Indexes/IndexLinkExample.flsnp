@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say that you want to see this in the output:</p>
+            <p>
+                <img src="../../../Images/Shared/index_link_example2.png" class="MaxWidth70PercentNoThumbnail" />
+            </p>
+            <p>In that case, you would type this in the Index window pane:</p>
+            <p>{nopage}Insects{see}Bugs</p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>For <MadCap:variable name="Outputs.CleanXHTML" /> and <MadCap:variable name="Outputs.WebHelp Mobile" /> outputs, thumbnail images that are set as popups are converted to linked thumbnail images (i.e., the enlarged image opens in a new window instead of in a popup).</p>
+    </body>
+</html>

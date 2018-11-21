@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>After creating an alignment project, let's say you open the File Map window pane and notice that all of the file rows are aligned with identical names, except for two skin files—"HTML5.flskn" and "Default.flskn." </p>
+            <p>
+                <img src="../../../Images/Shared/align-files-example1.png" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="LingoGuides.LingoAlignmentGuide" />
+            <p>To fix this you can select one of the misaligned cells (say, the "HTML5.flskn" file in the first column) and click the appropriate swap button.</p>
+            <p>
+                <img src="../../../Images/Shared/align-files-example2.png" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="LingoGuides.LingoAlignmentGuide" />
+            <p>The files become aligned, like this:</p>
+            <p>
+                <img src="../../../Images/Shared/align-files-example3.png" class="MaxWidth90Percent" />
+            </p>
+            <p>You can then upload the aligned files to the translation memory database.</p>
+        </div>
+    </body>
+</html>

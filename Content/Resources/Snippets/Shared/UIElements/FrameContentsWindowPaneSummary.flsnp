@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>Use this window pane to add or edit text and other content in a page layout frame. You must have a page open in the Page Layout Editor with a header, footer, or decoration frame selected for text edit in order to enter content into this window pane. This window pane functions much like the XML Editor that is used for editing topics, only on a smaller scale.</p>
+    </body>
+</html>

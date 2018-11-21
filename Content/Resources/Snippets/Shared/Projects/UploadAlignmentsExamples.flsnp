@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Align" MadCap:lastBlockDepth="5" MadCap:lastHeight="1102" MadCap:lastWidth="1223">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Examples</p>
+            <p>You are translating a small Flare project. During the original translation, you translated the topic "Topic.htm" into Spanish. Later, however, an author split that topic in the source project into two separate files—Topic.htm and Topic2.htm. There are also nine other files in the project (e.g., glossary files, skin files).</p>
+            <p>Because there are differences between the translated file and the source file, you need to create an alignment project. Here's what would happen if you used each TM&#160;alignment option.</p>
+            <ul>
+                <li>
+                    <p><span class="SetOffFirstLevel">Review all alignments before upload to TM</span>
+                    </p>
+                    <p>All 11 files in the project are available for review. This option takes the most work, because you have the option to review the files that are already aligned and the files that are not aligned, but it is the best way to be sure that there are no errors.</p>
+                    <p>
+                        <img src="../../../Images/Shared/align-upload1.png" alt="" title="" class="MaxWidth90Percent" />
+                    </p>
+                </li>
+                <MadCap:pageBreak MadCap:conditions="LingoGuides.LingoAlignmentGuide" />
+                <li>
+                    <p><span class="SetOffFirstLevel">Upload aligned files and review only unmapped files and files with imperfect alignment</span>
+                    </p>
+                    <p>Align automatically uploads the nine files that are already aligned to the TM. These files are not shown in the File Map. However, the two files that need to be aligned—Topic.htm and Topic2.htm—are shown in File Map so you can manually align them. This is a good option if you have a lot of files in your project and you only want to find the files that are not aligned.</p>
+                    <p>
+                        <img src="../../../Images/Shared/align-upload2.png" alt="" title="" class="MaxWidth90Percent" />
+                    </p>
+                </li>
+                <MadCap:pageBreak MadCap:conditions="LingoGuides.LingoAlignmentGuide" />
+                <li>
+                    <p><span class="SetOffFirstLevel">Force segment alignment and upload segments; unmapped files will be disregarded and no align project will be created</span>
+                    </p>
+                    <p>Since there are nine files that are already aligned, these files would be successfully uploaded to the TM. The remaining files—Topic.htm and Topic2.htm—would be disregarded. The alignment project would not be created. This option is the quickest option because it eliminates manual work, but you may miss out on alignments if there are several unaligned files.</p>
+                    <p>
+                        <img src="../../../Images/Shared/align-upload3.png" alt="" title="" class="MaxWidth90Percent" />
+                    </p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

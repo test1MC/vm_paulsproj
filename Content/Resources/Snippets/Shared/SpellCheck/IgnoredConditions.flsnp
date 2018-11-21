@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>If there are certain chunks of content that are conditioned and you want to ignore them when spell checking, you can enter them in this grid (type the condition tag set, followed by a period and then the name of the condition). For example, you might have a condition that you use for content that is not yet ready for release. Content with this condition might have your notes and characters that you don't feel the need to spell check.</p>
+    </body>
+</html>

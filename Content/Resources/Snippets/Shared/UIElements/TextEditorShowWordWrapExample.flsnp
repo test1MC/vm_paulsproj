@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Here is a topic open in the Internal Text Editor, without the word wrap feature enabled.</p>
+            <p>
+                <img src="../../../Images/Shared/word_wrap_example1.png" class="MaxWidth90Percent" />
+            </p>
+            <p>If you click the button to enable word wrap, the topic looks as follows. Notice that all of the text can be seen. You do not need to use the horizontal scroll bar to see it all.</p>
+            <p>
+                <img src="../../../Images/Shared/word_wrap_example2.png" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

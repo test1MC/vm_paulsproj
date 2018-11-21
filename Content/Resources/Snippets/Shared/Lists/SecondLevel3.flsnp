@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>If you are using basic CSS list styles, you can right-click on the <span class="Emphasis">ol</span> or <span class="Emphasis">ul</span> structure bar to the left, and from the context menu select <span class="Emphasis">Style &gt; [Name of Style Class]</span>.</p>
+    </body>
+</html>

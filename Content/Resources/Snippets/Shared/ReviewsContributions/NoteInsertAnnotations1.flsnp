@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>When you insert an annotation, your initials are displayed next to it. The initials are the first two letters of your login user name. However, you can change the user name and initials (for use in <MadCap:variable name="Other.Product" />) to something else.</p>
+    </body>
+</html>

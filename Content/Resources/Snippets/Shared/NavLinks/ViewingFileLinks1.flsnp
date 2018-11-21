@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>In <MadCap:variable name="Other.Product" /> there are many ways that you can link one file with another, thus creating a dependency. Link dependencies are created when you perform tasks such as: inserting a text hyperlink, inserting an image, applying a stylesheet to a topic, and more. The Link Viewer window pane lets you see what other files a particular file is linked to and from.</p>
+    </body>
+</html>

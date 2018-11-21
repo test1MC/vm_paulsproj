@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>You can use this tab to add background settings for the QR code. This includes the ability to specify a color, image, and a repeating pattern for the background image. Normally you would not see a QR code's background, but if you give the QR code a certain amount of padding, you would see the background around the edges of it.</p>
+    </body>
+</html>

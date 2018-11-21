@@ -1,0 +1,540 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Capture" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Capture/TitleCapture.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Capture/TitleCapture.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartPageLayout="false" />
+  <TocEntry
+    Title="CH 1 Editing an Image"
+    Link="/Content/Capture/Steps/Editing-Image.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    PageNumberFormat="decimal" />
+  <TocEntry
+    Title="CH 2 Cropping"
+    Link="/Content/Capture/Appearance/Cropping/Cropping.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false">
+    <TocEntry
+      Title="Cropping Images"
+      Link="/Content/Capture/Appearance/Cropping/Cropping-Images.htm" />
+    <TocEntry
+      Title="Cropping Image Objects"
+      Link="/Content/Capture/Appearance/Cropping/Cropping-Image-Objects.htm"
+      PageNumber="(multiple)"></TocEntry>
+    <TocEntry
+      Title="Working with Image History"
+      Link="/Content/Capture/Appearance/Working-with-Image-History.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Effects"
+    Link="/Content/Capture/Appearance/Effects/About-Effects-Capture.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    BreakType="chapter"
+    StartSection="false">
+    <TocEntry
+      Title="Adding Blur Effects"
+      Link="/Content/Capture/Appearance/Effects/Blur-Effects/Adding-Blur-Effects-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding Blur-Inside Effects"
+      Link="/Content/Capture/Appearance/Effects/Blur-Effects/Adding-Blur-Inside-Effects-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding Gray Scale Effects"
+      Link="/Content/Capture/Appearance/Effects/Gray-Scale-Effects/Adding-Gray-Scale-Effects-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding Shading Effects"
+      Link="/Content/Capture/Appearance/Effects/Shading-Effects/Adding-Shading-Effects-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding Shadow Effects"
+      Link="/Content/Capture/Appearance/Effects/Shadow-Effects/Adding-Shadow-Effects-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding Torn Edge Effects"
+      Link="/Content/Capture/Appearance/Effects/Torn-Edge-Effects/Adding-Torn-Edge-Effects-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Adding Zoom Effects"
+      Link="/Content/Capture/Appearance/Effects/Zoom-Effects/Adding-Zoom-Effects-Capture.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Image Appearance"
+    Link="/Content/Capture/Appearance/About-the-Appearance-of-Images.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Background"
+      Link="/Content/Capture/Appearance/Replacing-Background-Images-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Borders"
+      Link="/Content/Capture/Appearance/Adding-Borders-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Color"
+      Link="/Content/Capture/Appearance/Setting-the-Color-for-an-Image-Background.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Setting the Color Depth"
+        Link="/Content/Capture/Appearance/Setting-the-Color-Depth-for-an-Image.htm"
+        PageNumber="(multiple)"></TocEntry>
+      <TocEntry
+        Title="Applying Gray Scale to Images"
+        Link="/Content/Capture/Appearance/Applying-Gray-Scale-to-Images.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Drawing Tools"
+      Link="/Content/Capture/Appearance/About-Drawing-Tools.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Color Fill"
+        Link="/Content/Capture/Appearance/Using-Color-Fill.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Eraser"
+        Link="/Content/Capture/Appearance/Erasing-Image-Areas.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Pencil"
+        Link="/Content/Capture/Appearance/Using-the-Pencil.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Padding"
+      Link="/Content/Capture/Appearance/Adding-Padding-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Positioning Objects"
+      Link="/Content/Capture/Appearance/Positioning-Objects/Aligning-Objects-Capture.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Flattening Objects"
+        Link="/Content/Capture/Appearance/Positioning-Objects/Flattening-Objects.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Floating and Sinking Objects"
+        Link="/Content/Capture/Appearance/Positioning-Objects/Floating-and-Sinking-Objects-Capture.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Hiding Objects"
+        Link="/Content/Capture/Appearance/Positioning-Objects/Hiding-Objects.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Locking Objects"
+        Link="/Content/Capture/Appearance/Positioning-Objects/Locking-Objects.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Moving Objects Around"
+        Link="/Content/Capture/Appearance/Positioning-Objects/Moving-Objects-Around.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Rotating Objects"
+        Link="/Content/Capture/Appearance/Positioning-Objects/Rotating-Objects.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Setting Object Anchors"
+        Link="/Content/Capture/Appearance/Positioning-Objects/Setting-Object-Anchors.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Working with Grids"
+        Link="/Content/Capture/Appearance/Positioning-Objects/Working-with-Grids.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Resizing Images"
+      Link="/Content/Capture/Appearance/Resizing/Resizing-Images.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Resizing the Canvas"
+        Link="/Content/Capture/Appearance/Resizing/Resizing-the-Canvas.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Resolution and Quality Settings"
+      Link="/Content/Capture/Appearance/Resolution-and-Quality-Settings/Setting-the-DPI-for-an-Image.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Setting the JPEG Quality for an Image"
+        Link="/Content/Capture/Appearance/Resolution-and-Quality-Settings/Setting-the-JPEG-Quality-for-an-Image.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Selection Tools"
+      Link="/Content/Capture/Steps/Using-Hand-Mode-Feature.htm"
+      PageNumber="(multiple)"
+      StartSection="false">
+      <TocEntry
+        Title="Magic Wand"
+        Link="/Content/Capture/Steps/Using-Magic-Wand.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Selection Rectangle"
+        Link="/Content/Capture/Steps/Using-Selection-Rectangle.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Objects"
+    Link="/Content/Capture/Objects/About-Objects-Capture.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="Color"
+      Link="/Content/Capture/Objects/Setting-Color-Object-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Graphics"
+      Link="/Content/Capture/Objects/Graphics/Adding-Graphics-to-Images.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Annotations"
+        Link="/Content/Capture/Objects/Annotations/Setting-Shape-Annotation.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Arrows"
+        Link="/Content/Capture/Objects/Arrows/Setting-Shape-Arrow-Capture.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Callouts"
+        Link="/Content/Capture/Objects/Callouts/Adding-Callouts-Capture.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Pointer"
+          Link="/Content/Capture/Appearance/Adjusting-the-Pointer-on-a-Bubble-Shape-Capture.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Cursors"
+        Link="/Content/Capture/Objects/Cursors/Adding-Cursors-Capture.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Selecting Cursor Types"
+          Link="/Content/Capture/Objects/Cursors/Selecting-Cursor-Types-Capture.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Loops"
+        Link="/Content/Capture/Appearance/Setting-the-Coordinates-for-a-Loop-Capture.htm"
+        PageNumber="(multiple)">
+        <TocEntry
+          Title="Setting the Thickness for a Loop"
+          Link="/Content/Capture/Appearance/Setting_the_Thickness_for_a_Loop.htm"
+          PageNumber="(multiple)" />
+      </TocEntry>
+      <TocEntry
+        Title="Stars"
+        Link="/Content/Capture/Objects/Stars/Setting-Shape-Star.htm"
+        PageNumber="(multiple)"></TocEntry>
+      <TocEntry
+        Title="X-Agons"
+        Link="/Content/Capture/Objects/X-Agons/Setting-Shape-X-Agon.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Groups"
+      Link="/Content/Capture/Objects/Groups/Grouping-Objects.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Ungrouping Objects"
+        Link="/Content/Capture/Objects/Groups/Ungrouping-Objects-Capture.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Image Objects"
+      Link="/Content/Capture/Objects/Image-Objects/Adding-Images-as-Objects-Capture.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Auto-sizing Image Objects to Fit Text"
+        Link="/Content/Capture/Objects/Autosizing-Capture-Image-Objects-to-Fit-Text-Capture.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Adding Cursor Images as Objects"
+        Link="/Content/Capture/Objects/Image-Objects/Adding-Cursor-Images-as-Objects.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Editing Image Objects"
+        Link="/Content/Capture/Appearance/Editing-Image-Objects-Capture.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Inserting Captured Regions as Objects"
+        Link="/Content/Capture/Objects/Image-Objects/Inserting-Captured-Regions-as-Objects-Capture.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Inserting Captured UI Elements as Objects"
+        Link="/Content/Capture/Objects/Image-Objects/Inserting-Captured-UI-Elements-as-Objects-Capture.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Lines"
+      Link="/Content/Capture/Objects/Lines/Adding-Lines-Capture.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Adding a Shadow to a Line"
+        Link="/Content/Capture/Appearance/Effects/Shadow-Effects/Adding-a-Shadow-to-a-Line-Capture.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Setting the Arrows for a Line"
+        Link="/Content/Capture/Objects/Arrows/Setting-Arrows-Line-Capture.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Setting the Color and Width for a Line"
+        Link="/Content/Capture/Appearance/Setting-the-Color-and-Width-for-a-Line-Capture.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Object Styles"
+      Link="/Content/Capture/Appearance/Look-of-Objects/Using-the-Default-Look-for-Objects-Capture.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Selecting Styles for Objects"
+        Link="/Content/Capture/Appearance/Look-of-Objects/Selecting-Styles-for-Objects-Capture.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Setting the Default Look for Objects"
+        Link="/Content/Capture/Appearance/Look-of-Objects/Setting-the-Default-Look-for-Objects-Capture.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Applying Styles to Objects"
+        Link="/Content/Capture/Appearance/Look-of-Objects/Applying-Styles-to-Objects-Capture.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="Padding"
+      Link="/Content/Capture/Objects/Adding-Padding-Objects.htm" />
+    <TocEntry
+      Title="Points"
+      Link="/Content/Capture/Appearance/Deleting-Points-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Resizing"
+      Link="/Content/Capture/Appearance/Resizing/Resizing-Objects.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Shapes"
+      Link="/Content/Capture/Objects/Shapes/Adding-Shapes-to-Images.htm"
+      StartSection="false"
+      StartChapter="false"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="Rectangle Properties"
+        Link="/Content/Capture/Appearance/Setting_the_Rectangle_Properties_for_an_Object.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Text"
+    Link="/Content/Capture/Text/About-Text-Capture.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Adding Text"
+      Link="/Content/Capture/Text/Adding-Text-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Aligning Text"
+      Link="/Content/Capture/Text/Aligning-Text.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Editing Text"
+      Link="/Content/Capture/Text/Editing-Text.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Setting Font Properties for Text"
+      Link="/Content/Capture/Text/Setting-Font-Properties-Text-Capture.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 7 Variables"
+    Link="/Content/Capture/Variables/About-Variables-Capture.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Creating Variables"
+      Link="/Content/Capture/Variables/Creating-Variables.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Editing Variables"
+      Link="/Content/Capture/Variables/Editing-Variables.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Linking to Project Variables"
+      Link="/Content/Capture/Projects/Linking-Flare-Projects-Capture1.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Inserting Variables into Objects"
+      Link="/Content/Capture/Variables/Inserting-Variables-into-Objects.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 8 File Format"
+    Link="/Content/Capture/File-Format/Setting-File-Format-for-Image.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue" />
+  <TocEntry
+    Title="CH 9 Palettes"
+    Link="/Content/Capture/Palettes/About-Palettes-Capture.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Opening Palettes"
+      Link="/Content/Capture/Palettes/Opening-Palettes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating Palettes"
+      Link="/Content/Capture/Palettes/Creating-Palettes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Linking to External Palettes"
+      Link="/Content/Capture/Palettes/Linking-External-Palettes.htm" />
+    <TocEntry
+      Title="Adding Objects to Palettes"
+      Link="/Content/Capture/Palettes/Adding-Objects-to-Palettes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Using Objects from Palettes"
+      Link="/Content/Capture/Palettes/Using-Objects-from-Palettes.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 10 Conditions"
+    Link="/Content/Capture/Conditions/About-Conditions-Capture.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Creating Condition Tags"
+      Link="/Content/Capture/Conditions/Creating-Condition-Tags-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Applying Conditions"
+      Link="/Content/Capture/Conditions/Applying-Conditions-Capture.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating Condition Tags with Images"
+      Link="/Content/Capture/Conditions/Associating-Condition-Tags-with-Images.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Previewing Conditions"
+      Link="/Content/Capture/Conditions/Previewing-Conditions.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Capture/PDF-Guides/PDF-Guides-Capture.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+  <TocEntry
+    Title="PrintIndex"
+    Link="/Content/Print-Only-Topics/Shared/Print-Index.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Index.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="disabled"></TocEntry>
+</CatapultToc>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="444" MadCap:lastWidth="814" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">inherit </span>
+                <MadCap:snippetText src="ShortLineInherit.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">loosen </span>
+                <MadCap:snippetText src="ShortLineLoosen.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">loosen-tighten </span>
+                <MadCap:snippetText src="ShortLineLoosenTighten.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">never</span> <MadCap:snippetText src="ShortLineNever.flsnp" /></li>
+            <li><span class="SetOffFirstLevel">tighten </span>
+                <MadCap:snippetText src="ShortLineTighten.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">tighten-loosen </span>
+                <MadCap:snippetText src="ShortLineTightenLoosen.flsnp" />
+            </li>
+        </ul>
+    </body>
+</html>

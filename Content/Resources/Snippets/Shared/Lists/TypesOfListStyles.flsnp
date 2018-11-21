@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>When you modify the look of lists that you create, you can modify any of the following kinds of styles in your stylesheet. Each of these styles is used to control a different aspect of a list. You can also create classes of these styles if you want to have multiple lists with different looks. For example, you could create one class of the ul style and call it "Indent1Inch," and then create another class of that style and call it "Indent2Inches."</p>
+    </body>
+</html>

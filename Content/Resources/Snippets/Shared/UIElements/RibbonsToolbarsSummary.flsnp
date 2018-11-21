@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Mimic">
+    <body>
+        <p><MadCap:variable name="Other.Product" />'s user interface lets you use ribbons and a toolbar to access features.</p>
+    </body>
+</html>

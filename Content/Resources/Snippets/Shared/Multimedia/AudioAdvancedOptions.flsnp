@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Player Controls </span>Select an option for displaying the player controls (e.g., Play, Pause, Volume). <ul class="SecondLevel"><li><span class="SetOffSecondLevel">Full </span>Displays all of the available player controls.</li><li><span class="SetOffSecondLevel">None </span>Does not display any player controls.</li><li><span class="SetOffSecondLevel">Mini </span>Displays only some of the player controls (Play, Pause, Stop, Mute, Volume).</li><li><span class="SetOffSecondLevel">Invisible </span>Hides the audio interface entirely, while still playing the audio. If you select this option, you might want to resize the container square in your topic so that it does not take up so much space in the output. The user will simply see blank space where the container exists.</li></ul></li>
+            <li><span class="SetOffFirstLevel">Auto Start </span>Select this option if you want the audio to automatically begin playing when the topic displays. Otherwise, the user must click the Play button to start the audio.</li>
+            <li><span class="SetOffFirstLevel">Full Screen </span>Select this option to display the audio interface using the entire screen.</li>
+            <li><span class="SetOffFirstLevel">Stretch to Fit </span>Select this option to automatically resize the audio interface so that it exactly matches the size of the container area.</li>
+            <li><span class="SetOffFirstLevel">Play Count </span>Enter the number of times you want the audio to repeat.</li>
+            <li><span class="SetOffFirstLevel">Audio </span>Select options for the sound (mute, volume level, balance).</li>
+        </ul>
+    </body>
+</html>

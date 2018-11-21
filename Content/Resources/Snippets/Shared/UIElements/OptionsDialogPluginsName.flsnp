@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="999" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="TableText">Displays the name of the plugin, based on the DLL file you have created and added to the <MadCap:variable name="Other.Product" /> installation folder in Windows.<MadCap:conditionalText MadCap:conditions="Products.Flare"> See <MadCap:xref href="../../../../Flare/Plugins/Plugin-API.htm">Plug-In API</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> See <MadCap:xref href="../../../../Contributor/Plugins/Plugin-API.htm">Plug-In API</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

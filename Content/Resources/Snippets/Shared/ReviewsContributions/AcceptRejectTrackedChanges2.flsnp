@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>When you track changes, every change to the document—along with the user who performed the change—will be stored in the document’s markup. When a change is accepted or rejected, all markup designating it as a change is removed. When all changes in the document are resolved, the it will not contain any history of changes made to it and can be considered ready for output.</p>
+    </body>
+</html>

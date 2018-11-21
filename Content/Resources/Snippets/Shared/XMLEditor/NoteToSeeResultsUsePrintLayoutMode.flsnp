@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="172" MadCap:lastWidth="780">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">In order to see the results of this feature in the XML Editor, you must be using Print Layout mode, as opposed to Web Layout mode. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../../Flare/Topics/About-Layout-Modes.htm">About Layout Modes</MadCap:xref>. </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Topics/About-Layout-Modes.htm">About Layout Modes</MadCap:xref>. </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.PrintOnly">For more information about layout modes, see the online Help.</MadCap:conditionalText></p>
+    </body>
+</html>

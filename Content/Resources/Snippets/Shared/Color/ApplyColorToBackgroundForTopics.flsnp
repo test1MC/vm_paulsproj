@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>You can change the background color for topics by using the main body style or classes of that style. If you want the background color to be applied to all topics using a particular stylesheet, you can use the main body style. If you want to change the background color for only some topics, create and use a class of the body style.</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>For the td and th styles, you also might want to adjust the vertical alignment of text (e.g., top, middle, bottom). You can do this by expanding the Cell property group and setting the <span class="Emphasis">vertical-align</span> property.</p>
+    </body>
+</html>

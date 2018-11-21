@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say that you often paste content from Microsoft Word into your <MadCap:variable name="Other.Product" /> documents. By default, when you paste the content into a <MadCap:snippetText src="ContentFileDocument.flsnp" />, it comes in as regular paragraphs, although you can select one of the other methods at that moment to change it (e.g., paste as inline text, paste as paragraph block). Suppose that most of the time you want the incoming text to be pasted into a list. In that case, after you paste some content from Word, you can click on the paste icon and choose the option to set the default. When you do this, a dialog opens, and you can select <span class="Emphasis">Paste List</span>. Then, whenever you paste content from an outside file in the future, that content will be brought in as a list instead of a paragraph by default.</p>
+        </div>
+    </body>
+</html>

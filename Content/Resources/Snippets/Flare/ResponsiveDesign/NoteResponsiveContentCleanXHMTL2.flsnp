@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Responsive content is supported in <MadCap:variable name="Outputs.CleanXHTML" /> output only if you <span class="EmphasisItalic">do not</span> select the target option to convert styles to inline. Responsive skins are not supported in <MadCap:variable name="Outputs.CleanXHTML" />.</p>
+        </div>
+    </body>
+</html>

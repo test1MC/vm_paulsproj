@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Align" MadCap:lastBlockDepth="3" MadCap:lastHeight="685" MadCap:lastWidth="1257">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p> Let's say that during the original translation, the topic "Topic.htm" was translated into Spanish and the resulting topic file name was also "Topic.htm." Later, however, an author split the topic in the original version into two separate files—Topic.htm and Topic2.htm. In the File Map window pane of an alignment project, the results might look like this (notice that about half of the segments are in the source Topic.htm file and the other half are in the source Topic2.htm file):</p>
+            <p>
+                <img src="../../../Images/Shared/align-files-example4.png" class="MaxWidth100Percent" />
+            </p>
+            <p> You can align and upload the files in order to store all of the translated data in translation memory. To do this, you would begin by aligning the first topic with the translated file. In the image above, this is already done (Topic.htm is aligned with Topic.htm on the right). Then you would double-click the row with the aligned files (Topic.htm and Topic2.htm). In the Alignment Tool, you would make sure the aligned segments are translated properly and use one of the buttons in the local toolbar to upload the file or selected segments to translation memory.</p>
+            <MadCap:pageBreak MadCap:conditions="LingoGuides.LingoAlignmentGuide" />
+            <p>After this, you would close the Alignment Tool. Then, in the File Map window pane, you would align the Topic2.htm source file with the Topic.htm target file. For example, with the Topic.htm source cell selected, you can click <img src="../../../Images/Shared/swap_cell_with_below_btn.png" class="ReduceButtonSize" />. This will swap that cell with the Topic2.htm cell, like this:</p>
+            <p>
+                <img src="../../../Images/Shared/align-files-example5.png" class="MaxWidth100Percent" />
+            </p>
+            <p>Once this is done, you would double-click the row with the aligned files (i.e., Topic2.htm and Topic.htm). In the Alignment Tool, you would make sure the aligned segments are translated properly and use one of the buttons in the local toolbar to upload the file or selected segments to translation memory.</p>
+        </div>
+    </body>
+</html>

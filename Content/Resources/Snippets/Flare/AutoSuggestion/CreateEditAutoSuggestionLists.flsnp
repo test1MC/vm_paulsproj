@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>After you add an auto suggestion list file to your project, you can add words, phrases, or sentences (256 character limit) to it. You can do this directly in the Auto Suggestion List Editor, or you can right-click selected text in the XML Editor and use the context menu to add it to the auto suggestions list file.</p>
+    </body>
+</html>

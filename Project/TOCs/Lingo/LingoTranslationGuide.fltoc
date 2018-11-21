@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Lingo">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Lingo/TitleLingo.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Lingo/TitleLingo.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    StartSection="false"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl" />
+  <TocEntry
+    Title="CH 1 Translating Files"
+    Link="/Content/Lingo/Translating-Files/Translating-Files.htm"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="1"
+    StartSection="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    BreakType="chapter"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"></TocEntry>
+  <TocEntry
+    Title="CH 2 Translation Features"
+    Link="/Content/Print-Only-Topics/Lingo/Translation-Features.htm"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="1"
+    StartSection="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    BreakType="chapter"
+    ChapterNumberReset="continue"
+    ChapterNumber=""
+    ChapterNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
+    <TocEntry
+      Title="Inline Formatting and Tags"
+      Link="/Content/Lingo/Translating-Files/Inline-Formatting-Tags.htm"
+      BreakType="none"
+      PageNumber=""
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Setting the Translated Status of Files"
+      Link="/Content/Lingo/Translating-Files/Setting-Translated-Status-Files.htm"
+      BreakType="none"
+      PageNumber=""
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Sending Translated Content for Review"
+      Link="/Content/Lingo/Reviews-Contributions/Sending-Translated-Content-for-Review.htm"
+      BreakType="none"
+      PageNumber=""
+      StartSection="false"
+      PageNumberReset="continue" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Multilingual Projects"
+    Link="/Content/Lingo/Language-Support/About-Multilingual-Projects.htm"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="(multiple)"
+    StartSection="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="CH 4 Translation Memory"
+    Link="/Content/Lingo/Translation-Memory/About-Translation-Memory.htm"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="(multiple)"
+    StartSection="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    BreakType="chapter">
+    <TocEntry
+      Title="Creating a Translation Memory Database"
+      Link="/Content/Lingo/Translation-Memory/Creating-TM-Database.htm"
+      BreakType="pageLayout"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Adding a Translation Memory Database"
+      Link="/Content/Lingo/Translation-Memory/Adding-TM.htm"
+      BreakType="pageLayout"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Choosing a Translation Memory Database"
+      Link="/Content/Lingo/Translation-Memory/Choosing-TM-Database.htm"
+      BreakType="pageLayout"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"></TocEntry>
+    <TocEntry
+      Title="Statuses and Matches"
+      Link="/Content/Lingo/Translation-Memory/Statuses-Matches.htm"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageNumber="(multiple)"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Applying TM Matches to Segments"
+      Link="/Content/Lingo/Translation-Memory/Applying-TM-Suggestions-to-Segments.htm"
+      PageNumberReset="continue"
+      PageNumber="(multiple)"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    <TocEntry
+      Title="Editing the Translation Memory Database"
+      Link="/Content/Lingo/Translation-Memory/Editing-Translation-Memory-Database.htm"
+      BreakType="pageLayout"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+      <TocEntry
+        Title="Translation Memory Metadata"
+        Link="/Content/Lingo/Translation-Memory/About-Translation-Memory-Metadata.htm"
+        BreakType="pageLayout"
+        PageNumber="(multiple)"
+        PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+      <TocEntry
+        Title="Cleaning Up the Translation Memory"
+        Link="/Content/Lingo/Translation-Memory/Cleaning-Up-Translation-Memory.htm"
+        BreakType="pageLayout"
+        PageNumber="(multiple)"
+        PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    </TocEntry>
+    <TocEntry
+      Title="Translation Memory Exchange"
+      Link="/Content/Lingo/Translation-Memory/About-Translation-Memory-Exchange.htm"
+      BreakType="pageLayout"
+      PageNumber="(multiple)"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl">
+      <TocEntry
+        Title="Importing TMX Files"
+        Link="/Content/Lingo/Translation-Memory/Importing-TMX-Files.htm"
+        BreakType="pageLayout"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+      <TocEntry
+        Title="Exporting TMX Files"
+        Link="/Content/Lingo/Translation-Memory/Exporting-TMX-Files.htm"
+        BreakType="pageLayout"
+        PageNumber="(multiple)"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl" />
+    </TocEntry>
+    <TocEntry
+      Title="Other Translation Memory Tasks"
+      Link="/Content/Lingo/Translation-Memory/Changing-Segment-Status-Colors.htm"
+      PageNumberReset="continue"
+      PageNumber="">
+      <TocEntry
+        Title="Setting Match Options for Suggestions"
+        Link="/Content/Lingo/Translation-Memory/Setting-Match-Options-Suggestions.htm"
+        BreakType="none"
+        PageNumber=""
+        StartSection="false"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Accepting Exact Matches on Applying TM"
+        Link="/Content/Lingo/Translation-Memory/Accepting-Exact-Matches-on-Applying-TM.htm" />
+      <TocEntry
+        Title="Updating Context Matches"
+        Link="/Content/Lingo/Translation-Memory/Updating-Segments-With-101-Matches.htm"></TocEntry>
+      <TocEntry
+        Title="Updating Translations With an Identical Source"
+        Link="/Content/Lingo/Translation-Memory/Updating-Translations-With-Identical-Source.htm" />
+      <TocEntry
+        Title="Ranking a Translation Memory Database"
+        Link="/Content/Lingo/Translation-Memory/Ranking-Translation-Memory.htm" />
+      <TocEntry
+        Title="Removing a Translation Memory"
+        Link="/Content/Lingo/Translation-Memory/Removing-Translation-Memory.htm" />
+      <TocEntry
+        Title="Deleting a Translation Memory"
+        Link="/Content/Lingo/Translation-Memory/Deleting-Translation-Memory.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Machine Translation"
+    Link="/Content/Lingo/Machine-Translation/About-Machine-Translation.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="Setting Machine Translation Options"
+      Link="/Content/Lingo/Machine-Translation/Setting-Machine-Translation-Options.htm"
+      StartSection="false" />
+    <TocEntry
+      Title="Choosing a Machine Translation Provider"
+      Link="/Content/Lingo/Machine-Translation/Choosing-Machine-Translation-Provider.htm" />
+    <TocEntry
+      Title="Translating Projects with Machine Translation"
+      Link="/Content/Lingo/Machine-Translation/Translating-Projects-Machine-Translation.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 6 Concordance"
+    Link="/Content/Lingo/Concordance/About-the-Concordance.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="CH 7 Bundles"
+    Link="/Content/Lingo/Bundles/About-Bundles.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="Preparing Translation Bundles"
+      Link="/Content/Lingo/Bundles/Preparing-Translation-Bundles.htm" />
+    <TocEntry
+      Title="Merging Completed Bundles"
+      Link="/Content/Lingo/Bundles/Merging-Completed-Bundles.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 8 Additional Features"
+    Link="/Content/Lingo/Introduction/Features/Additional-Features.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="Filters"
+      Link="/Content/Lingo/Filters/Filters.htm">
+      <TocEntry
+        Title="Content Flattening"
+        Link="/Content/Lingo/Filters/Content-Flattening.htm" />
+      <TocEntry
+        Title="Dynamic"
+        Link="/Content/Lingo/Filters/Dynamic-Filtering.htm" />
+      <TocEntry
+        Title="File Type"
+        Link="/Content/Lingo/Filters/File-Type-Filters.htm"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Language Skins"
+      Link="/Content/Lingo/Language-Support/Creating-Language-Skins.htm" />
+    <TocEntry
+      Title="Mapping Fonts"
+      Link="/Content/Lingo/Fonts/Mapping-Fonts.htm" />
+    <TocEntry
+      Title="Replacing Images—Batch"
+      Link="/Content/Lingo/Images/Batch-Replacing-Images.htm" />
+    <TocEntry
+      Title="Replacing Images—Skin"
+      Link="/Content/Lingo/Images/Replacing-Skin-Images.htm" />
+    <TocEntry
+      Title="Segmentation Rules"
+      Link="/Content/Lingo/Segmentation-Split-Join/About-Segmentation-Rules.htm"></TocEntry>
+    <TocEntry
+      Title="Sorting Indexes and Glossaries"
+      Link="/Content/Lingo/Indexes/Sorting-Indexes-Glossaries.htm" />
+    <TocEntry
+      Title="Split/Join"
+      Link="/Content/Lingo/Segmentation-Split-Join/About-Split-Join.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Lingo/PDF-Guides/PDF-Guides-Lingo.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled" />
+</CatapultToc>

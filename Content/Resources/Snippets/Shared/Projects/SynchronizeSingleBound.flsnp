@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Central,Products.Flare">
+    <body>
+        <p>It is possible to use the Pull and Push options in the Flare interface individually to synchronize your files, but it is more convenient to use the Synchronize option instead. Flare will first pull changes from the project on Central. After that, it will push changed files from the local project up to Central.</p>
+    </body>
+</html>

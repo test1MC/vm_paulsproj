@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1117">
+    <body>
+        <p>After editing a style, you can apply it to content in a topic or snippet. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../../Flare/Styles/Applying-Styles-to-Content.htm">Applying Styles to Topic Content</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Analyzer">See <MadCap:xref href="../../../../Analyzer/Styles/Applying-Styles-to-Content.htm">Applying Styles to Content</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../Contributor/Styles/Applying-Styles-to-Content.htm">Applying Styles to Content</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

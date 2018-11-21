@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>If you highlight a word in a paragraph and make it bold, you will see a "b" in a bar above (referring to a &lt;b&gt; tag). </p>
+            <p>
+                <img src="../../../Images/Shared/span_bars_example1.png" class="MaxWidth70Percent" />
+            </p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare,Products.Analyzer">
+    <body>
+        <div class="tip">
+            <p class="tipInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #564c05;&quot; class=&quot;mcFormatColor&quot;&gt;Tip: &lt;/span&gt;&lt;/b&gt;">When you hover over a rectangle without clicking, a popup displays the name of the page, which helps you to identify it. After you open a page, the name of the page is displayed in the upper-left corner of the page.</p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="4" MadCap:lastHeight="107" MadCap:lastWidth="739" MadCap:conditions="Products.Align,Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.HelpViewer,Products.Lingo,Products.MovieViewer,Products.Mimic" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>You can return the workspace configuration to the original layout that you saw when you first installed and launched <MadCap:variable name="Other.Product" />.</p>
+        <ul style="list-style-type: square;">
+            <li>
+                <MadCap:snippetText src="SelectWindowRibbon.flsnp" /> In the <span class="Emphasis">Window Layout</span> section select  <span class="Emphasis">Reset Layout</span>.</li>
+        </ul>
+    </body>
+</html>

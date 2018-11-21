@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare">
+    <body>
+        <ol class="LowerAlpha">
+            <li>Highlight all characters within a paragraph that you want to be affected by the style, without selecting the entire paragraph.</li>
+            <li>From the Home ribbon, Styles window pane, or Floating Style Picker, select the character style. </li>
+        </ol>
+    </body>
+</html>

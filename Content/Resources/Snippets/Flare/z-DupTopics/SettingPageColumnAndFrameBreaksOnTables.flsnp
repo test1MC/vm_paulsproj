@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="11" MadCap:lastHeight="8790" MadCap:lastWidth="901">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature_Supported/AllPrint.flsnp" />
+        <p>
+            <MadCap:snippetText src="../../Shared/Tables/PageColumnFrameBreaksSummary1.flsnp" /> <MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareStylesGuide,General.OnlineOnly">For additional information about frame breaks and why you might use them, see <MadCap:xref href="../../../../Flare/Page-Layouts/Frames/Setting-Frame-Breaks.htm">Setting Frame Breaks on Paragraphs and Headings</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="FlareGuides.FlareTablesGuide">For additional information about frame breaks and why you might use them, see the online Help.</MadCap:conditionalText></p>
+        <MadCap:snippetBlock src="../../Shared/Tables/PageColumnFrameBreaksSummary2.flsnp" />
+        <MadCap:snippetBlock src="../../Shared/Tables/PageColumnFrameBreaksSummary3.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">examples</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example—page break in regular stylesheet</p>
+                    <p>Let's say you have a long table. In the output, the first part of the table might be shown on page 14, and the second part of it is shown on page 15. Suppose the final table row on page 14 has so much content that it wraps around to page 15, in essence splitting that row. If you would rather not split rows such as this, but rather keep them entirely on one page or another, you can set a page break on the tr style in a regular stylesheet. In this situation, you would set the "page-break-inside" property to "avoid." Therefore, all tables in your output would simply break automatically at the end of pages when necessary.</p>
+                </div>
+                <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesGuide,FlareGuides.FlarePrintedOutputGuide" />
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example—page break in special table stylesheet</p>
+                    <p>Let's say you have many tables where you have not only main headings with a gray background at the top of each table, but subheadings with a blue background every so many rows. And whenever a new subheading is needed, you want a page break to occur before it so that the subheading row begins a new page. </p>
+                    <p>After designing your main header row in the Header tab of the Table Style Editor, you open the Rows tab. In the Rows tab you create two pattern items—one for the main table rows and another for rows used as subheadings.</p>
+                    <p>
+                        <img src="../../../Images/Shared/table_row_breaks_example1.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTablesGuide,FlareGuides.FlareStylesGuide,FlareGuides.FlarePrintedOutputGuide" />
+                    <p>You leave the "RegularRows" item set as a "Pattern" type, which means that this style will be applied to rows in the table automatically. On the other hand, you change the type of the "SubHeadings" item to "Custom." This means that the style will not automatically be applied to rows to be used as subheadings; instead, you must apply the style to those rows manually. Why? Because you can't predict when you're going to need a subheading in a table. So you simply apply that look whenever it's needed.</p>
+                    <p>
+                        <img src="../../../Images/Shared/table_row_breaks_example2.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTablesGuide,FlareGuides.FlareStylesGuide,FlareGuides.FlarePrintedOutputGuide" />
+                    <p>As mentioned, subheading rows should have a blue background, so that's what you set in the <span class="Emphasis">Background</span> area.</p>
+                    <p>
+                        <img src="../../../Images/Shared/table_row_breaks_example3.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTablesGuide,FlareGuides.FlareStylesGuide,FlareGuides.FlarePrintedOutputGuide" />
+                    <p>With the "SubHeadings" item still selected, you can click the <span class="Emphasis">Print Options</span> button at the bottom of the tab.</p>
+                    <p>
+                        <img src="../../../Images/Shared/table_row_breaks_example4.png" class="MaxWidth85Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesGuide,FlareGuides.FlarePrintedOutputGuide" />
+                    <p>In the Breaks dialog you select <span class="Emphasis">Always</span> in the <span class="Emphasis">Before</span> field in the <span class="Emphasis">Page Break</span> section.</p>
+                    <p>
+                        <img src="../../../Images/Shared/table_row_breaks_example5.png" class="MaxWidth70Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesGuide,FlareGuides.FlarePrintedOutputGuide" />
+                    <p>After you are finished designing your table stylesheet, you insert a table into a topic and apply the table stylesheet to it. But because the "SubHeading" pattern item was set to "Custom," none of the rows initially have the blue background or the page break setting. </p>
+                    <p>
+                        <img src="../../../Images/Shared/table_row_breaks_example6.png" class="MaxWidth75Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesGuide,FlareGuides.FlarePrintedOutputGuide" />
+                    <p>In PDF output the table might look like this:</p>
+                    <p>
+                        <img src="../../../Images/Shared/table_row_breaks_example7.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesGuide,FlareGuides.FlarePrintedOutputGuide" />
+                    <p>In order for a row to be treated as a subheading row with a page break, you need to right-click on the <span class="Emphasis">tr</span> tag bar and select the custom "SubHeadings" style.</p>
+                    <p>
+                        <img src="../../../Images/Shared/table_row_breaks_example8.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesGuide,FlareGuides.FlarePrintedOutputGuide" />
+                    <p>In the XML Editor, the table might now look like this (in this example, the topic is being viewed with the Default medium, which is why we don't see the page break in action):</p>
+                    <p>
+                        <img src="../../../Images/Shared/table_row_breaks_example9.png" class="MaxWidth75Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesGuide,FlareGuides.FlarePrintedOutputGuide" />
+                    <p>And in the PDF output, it would look like this:</p>
+                    <p>
+                        <img src="../../../Images/Shared/table_row_breaks_example10.png" class="MaxWidth65Percent" />
+                    </p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesGuide,FlareGuides.FlarePrintedOutputGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to set breaks for tables in a regular stylesheet</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol type="1" class="Decimal">
+                    <li>
+                        <MadCap:snippetText src="../Styles/EditStyleStep1.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Styles/SelectMediumStep1.flsnp" />
+                        </p>
+                        <MadCap:snippetBlock src="../../Shared/Styles/SelectMediumStep2.flsnp" />
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Styles/RemembersLastMedium.flsnp" />
+                        </p>
+                        <p MadCap:conditions="FlareGuides.FlareTablesGuide,General.OnlineOnly">
+                            <img src="../../../Images/Shared/medium_example1.png" class="MaxWidth80Percent">
+                            </img>
+                        </p>
+                    </li>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTablesGuide" />
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Styles/FilterTableStylesStep.flsnp" />
+                    </li>
+                    <li>From the list below, select the appropriate style. Usually you want to put a break on table (which sets the break on the entire table) or tr (which sets the break on rows, allowing you to easily end a page with one row due to the amount of content, and begin the next page with the following row).</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Styles/SelectShowAllPropertiesStep.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Styles/StylesToggleGroupOrAlphabetical.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Styles/ExpandPrintSupportGroupStep.flsnp" />
+                        </p>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Styles/PropertyNameLeftValueRight.flsnp" />
+                        </p>
+                    </li>
+                    <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTablesGuide,FlareGuides.FlareStylesGuide,FlareGuides.FlarePrintedOutputGuide" />
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Tables/SelectBreakPropertyAndValueStep.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>column-break-before</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>
+                                    <MadCap:snippetText src="../../Shared/Paragraphs/ColumnBreakBefore.flsnp" />
+                                </p>
+                                <ul class="FirstLevel">
+                                    <li><span class="SetOffFirstLevel">always </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeAlways.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">auto </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeAutomatic.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">avoid </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeAvoid.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">inherit </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInherit.flsnp" />
+                                    </li>
+                                </ul>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>column-break-after</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>
+                                    <MadCap:snippetText src="../../Shared/Paragraphs/ColumnBreakAfter.flsnp" />
+                                </p>
+                                <ul class="FirstLevel">
+                                    <li><span class="SetOffFirstLevel">always </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterAlways.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">auto </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterAutomatic.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">avoid </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterAvoid.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">inherit </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInherit.flsnp" />
+                                    </li>
+                                </ul>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>column-break-inside</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>
+                                    <MadCap:snippetText src="../../Shared/Paragraphs/ColumnBreakInside.flsnp" />
+                                </p>
+                                <ul class="FirstLevel">
+                                    <li><span class="SetOffFirstLevel">auto </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInsideAutomatic.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">avoid </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInsideAvoid.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">inherit </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInherit.flsnp" />
+                                    </li>
+                                </ul>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesGuide,FlareGuides.FlarePrintedOutputGuide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>frame-break-before</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/Paragraphs/FrameBreakBefore.flsnp" />
+                                <ul class="FirstLevel">
+                                    <li><span class="SetOffFirstLevel">always </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeAlways.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">auto </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeAutomatic.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">avoid </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeAvoid.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">inherit </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInherit.flsnp" />
+                                    </li>
+                                </ul>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>frame-break-after</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/Paragraphs/FrameBreakAfter.flsnp" />
+                                <ul class="FirstLevel">
+                                    <li><span class="SetOffFirstLevel">always </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterAlways.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">auto </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterAutomatic.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">avoid </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterAvoid.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">inherit </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInherit.flsnp" />
+                                    </li>
+                                </ul>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>frame-break-inside</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/Paragraphs/FrameBreakInside.flsnp" />
+                                <ul class="FirstLevel">
+                                    <li><span class="SetOffFirstLevel">automatic </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInsideAutomatic.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">avoid </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInsideAvoid.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">inherit </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInherit.flsnp" />
+                                    </li>
+                                </ul>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesGuide,FlareGuides.FlarePrintedOutputGuide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>page-break-before</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>
+                                    <MadCap:snippetText src="../../Shared/Paragraphs/PageBreakBefore.flsnp" />
+                                </p>
+                                <ul class="FirstLevel">
+                                    <li><span class="SetOffFirstLevel">always </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeAlways.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">auto </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeAutomatic.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">avoid </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeAvoid.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">inherit </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInherit.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">left </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeForceLeftPage.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">right </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeForceRightPage.flsnp" />
+                                    </li>
+                                </ul>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>page-break-after</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>
+                                    <MadCap:snippetText src="../../Shared/Paragraphs/PageBreakAfter.flsnp" />
+                                </p>
+                                <ul class="FirstLevel">
+                                    <li><span class="SetOffFirstLevel">always </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterAlways.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">auto </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterAutomatic.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">avoid </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterAvoid.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">inherit </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInherit.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">left </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterForceLeftPage.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">right </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterForceRightPage.flsnp" />
+                                    </li>
+                                </ul>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareTablesGuide,FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareStylesGuide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>page-break-inside</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>
+                                    <MadCap:snippetText src="../../Shared/Paragraphs/PageBreakInside.flsnp" />
+                                </p>
+                                <ul class="FirstLevel">
+                                    <li><span class="SetOffFirstLevel">auto </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInsideAutomatic.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">avoid </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInsideAvoid.flsnp" />
+                                    </li>
+                                    <li><span class="SetOffFirstLevel">inherit </span>
+                                        <MadCap:snippetText src="../../Shared/Paragraphs/BreakInherit.flsnp" />
+                                    </li>
+                                </ul>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesGuide,FlareGuides.FlarePrintedOutputGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Table styles:page layout breaks" />how to set breaks in a table stylesheet</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol type="1" class="Decimal">
+                    <li>
+                        <MadCap:snippetText src="../Styles/EditStyleStep1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Paragraphs/BreaksTableStylesheetStep.flsnp" />
+                    </li>
+                    <MadCap:snippetBlock src="../../Shared/Paragraphs/BreaksTableStylesheetTabOptions.flsnp" />
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Paragraphs/BreaksStylesheetStep2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Paragraphs/BreaksStylesheetStep3.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Paragraphs/BreaksStylesheetStep4.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>before</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>&#160;<MadCap:snippetText src="../../Shared/Paragraphs/PageColumnBreaksBefore.flsnp" /><ul class="FirstLevel"><li><span class="SetOffFirstLevel">Automatic </span><MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeAutomatic.flsnp" /></li><li><span class="SetOffFirstLevel">Always </span><MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeAlways.flsnp" /></li><li><span class="SetOffFirstLevel">Avoid </span><MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeAvoid.flsnp" /></li><li><span class="SetOffFirstLevel">Force to 'left page' </span><MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeForceLeftPage.flsnp" /></li><li><span class="SetOffFirstLevel">Force to 'right page' </span><MadCap:snippetText src="../../Shared/Paragraphs/BreakBeforeForceRightPage.flsnp" /></li></ul></p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>after</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>
+                                    <MadCap:snippetText src="../../Shared/Paragraphs/PageColumnBreaksAfter.flsnp" />
+                                    <ul class="FirstLevel">
+                                        <li><span class="SetOffFirstLevel">Automatic </span>
+                                            <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterAutomatic.flsnp" />
+                                        </li>
+                                        <li><span class="SetOffFirstLevel">Always </span>
+                                            <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterAlways.flsnp" />
+                                        </li>
+                                        <li><span class="SetOffFirstLevel">Avoid </span>
+                                            <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterAvoid.flsnp" />
+                                        </li>
+                                        <li><span class="SetOffFirstLevel">Force to 'left page' </span>
+                                            <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterForceLeftPage.flsnp" />
+                                        </li>
+                                        <li><span class="SetOffFirstLevel">Force to 'right page' </span>
+                                            <MadCap:snippetText src="../../Shared/Paragraphs/BreakAfterForceRightPage.flsnp" />
+                                        </li>
+                                    </ul>
+                                </p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>inside</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>You can select one of the options for setting a break inside the "rendering box" of the element.<ul class="FirstLevel"><li><span class="SetOffFirstLevel">Automatic </span><MadCap:snippetText src="../../Shared/Paragraphs/BreakInsideAutomatic.flsnp" /></li><li><span class="SetOffFirstLevel">Avoid </span><MadCap:snippetText src="../../Shared/Paragraphs/BreakInsideAvoid.flsnp" /></li></ul></p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Paragraphs/BreaksTableStylesheetWidowOrphanStep.flsnp" />
+                    </li>
+                    <MadCap:snippetBlock src="../../Shared/Paragraphs/BreaksTableStylesheetWidowOrphanOptions.flsnp" />
+                    <li>
+                        <MadCap:snippetBlock src="../../Shared/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesGuide,FlareGuides.FlarePrintedOutputGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../../Shared/Styles/NoteTableStylePrecedence.flsnp" />
+                <MadCap:snippetBlock src="../../Shared/Tables/NoteInsideBreakAvoid.flsnp" />
+                <MadCap:snippetBlock src="../../Shared/Tables/NoteFrameBreaksSupportedOutputs.flsnp" />
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">It is also possible to use styles to set breaks on lists. <MadCap:conditionalText MadCap:conditions="FlareGuides.FlareStylesGuide,General.OnlineOnly">See <MadCap:xref href="../../../../Flare/Lists/Editng-List-Styles/Setting-Page-Column-Breaks-Lists.htm">Setting Page and Column Breaks for Lists</MadCap:xref>.</MadCap:conditionalText><MadCap:snippetText src="../../Shared/ForMoreInfo/ForMoreInfoSeeOnlineHelpOrStylesGuide.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" /></p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlarePrintedOutputGuide" />
+    </body>
+</html>

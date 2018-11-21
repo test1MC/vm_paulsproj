@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="22" MadCap:lastHeight="6487" MadCap:lastWidth="757">
+    <head>
+        <link href="../../../TableStyles/Shared/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature_Supported/AllOnline_PDF.flsnp" />
+        <p>
+            <MadCap:snippetText src="../../Shared/Images/ImageMap.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create an image map</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/NavLinks/CreateImageMapSteps.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareImagesGuide,FlareGuides.FlareNavigationLinksGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>buttons and sections in the image map editor</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="FlareGuides.FlareImagesGuide,FlareGuides.FlareNavigationLinksGuide">Following are descriptions of buttons and sections found in the Image Map Editor.</p>
+                <MadCap:snippetBlock src="../../Shared/NavLinks/ImageMapEditorButtonsTable.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareImagesGuide,FlareGuides.FlareNavigationLinksGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Overlapping Objects and PDF&#160;Output</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>PDFs are limited to rectangular-shaped image map objects.  Therefore, if you have an image map with circle or polygon objects, those will be redrawn as rectangles in the PDF output.  If this occurs, Flare will include a compile warning. Also, keep in mind that if objects overlap one another, the one on the top layer (usually the last one drawn) takes precedence.</p>
+                <MadCap:snippetBlock src="../../Shared/Images/ImageMapsPDFExample.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.OnlineOnly,FlareGuides.FlareImagesGuide">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">warning</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="Warning" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Red;&quot; class=&quot;mcFormatColor&quot;&gt;Warning: &lt;/span&gt;&lt;/b&gt;">
+                    <MadCap:snippetText src="../../Shared/NavLinks/AvoidLinkingToSnippets1.flsnp" />&#160;<MadCap:snippetText src="../../Shared/NavLinks/AvoidLinkingToSnippets2.flsnp" /></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.OnlineOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also insert an image hyperlink. This lets you create one hyperlink for the entire image, as opposed to creating multiple hyperlinks for specific sections of the image. See <MadCap:xref href="../../../../Flare/Nav-Links/Image-Hyperlinks/Inserting-Image-Hyperlinks.htm" target="" title="" alt="">Inserting Image Hyperlinks</MadCap:xref>.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The Flare user interface lets you create client-side image maps, which are the most common type. However, you can code HTML and use a CGI script to create server-side image maps, where the file containing the links is located on a server. One down side of server-side image maps is that alt tags cannot be read, and therefore the output is not as accessible as it would be with client-side image maps. There is an option on the Warnings tab of the Target Editor for the web formats—<MadCap:snippetText src="../../Shared/Output/AllWebOutputsANDHTML5CleanXHTML.flsnp" />. This option lets you see compiler warnings when a server-side image map is found in the output.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

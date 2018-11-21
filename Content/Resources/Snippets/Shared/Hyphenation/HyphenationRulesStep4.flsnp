@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>If you want to add a new rule for a word, you can click in the <span class="Emphasis">Rule</span> field and type the word next to the others, adding a hyphen in a different location inside the word to indicate where it will break. Make sure to separate new text from other rules with a semi-colon.</p>
+    </body>
+</html>

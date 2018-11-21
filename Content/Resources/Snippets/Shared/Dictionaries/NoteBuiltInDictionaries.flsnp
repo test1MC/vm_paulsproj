@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo,Products.Contributor,Products.Analyzer">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">For more information about hyphenation patterns in different languages, see:</p>
+            <p><a href="http://hunspell.sourceforge.net/tb87nemeth.pdf" target="_blank">http://hunspell.sourceforge.net/tb87nemeth.pdf</a>.</p>
+        </div>
+    </body>
+</html>

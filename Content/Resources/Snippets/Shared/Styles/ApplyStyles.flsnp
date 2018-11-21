@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>You can apply a style (including a class or ID) to selected content. To do this, click the style in the Styles window pane to apply it to the selected content in the XML Editor. Classes are preceded by a period, and IDs are preceded by a hash tag.</p>
+    </body>
+</html>

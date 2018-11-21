@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="13" MadCap:lastHeight="6068" MadCap:lastWidth="889">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../../Contributor/Documents/OpenDocumentTopic.flsnp" MadCap:conditions="Products.Contributor" />
+                <MadCap:snippetText src="../Topics/OpenContentFile.flsnp" MadCap:conditions="Products.Flare" />
+            </li>
+            <li>Highlight or place your cursor in the paragraph to which you want to apply an autonumber format.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel">Ribbon</span>
+                        <MadCap:snippetText src="../UIElements/SelectHomeRibbon.flsnp" /> At the bottom of the <span class="Emphasis">Paragraph</span> section, click the arrow button <img src="../../../Images/Shared/arrow-btn.png" class="ReduceButtonSize" />.</li>
+                    <li><span class="SetOffFirstLevel">Keyboard Shortcut </span>Press&#160;<span class="Emphasis">CTRL+ALT+B</span>&#160;on your keyboard.</li>
+                    <li><span class="SetOffFirstLevel">Right-Click </span>
+                        <MadCap:snippetText src="../Paragraphs/RightClickParagraphProperties.flsnp" />
+                    </li>
+                </ul>
+                <p>The Paragraph Properties dialog opens.</p>
+            </li>
+            <li>Select the <span class="Emphasis">Autonumber</span> tab.</li>
+            <li>(Optional) From the <span class="Emphasis">Available commands</span> drop-down list, you can filter the autonumber commands shown in the area below by selecting one of the options.<MadCap:snippetBlock src="AvailableCommandsList.flsnp" /></li>
+            <MadCap:snippetBlock src="../PrintOutput/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareAutoNumbersGuide" />
+            <li>
+                <p>
+                    <MadCap:snippetText src="EnterFormatField.flsnp" />
+                </p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">examples</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <MadCap:snippetBlock src="EnterFormatFieldExamples.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:snippetBlock src="AutoNumberCommandDescriptions.flsnp" />
+            </li>
+            <li>
+                <p>
+                    <MadCap:keyword term="Positioning:auto-numbers;Autonumbers:positioning" />In the <span class="Emphasis">Position</span> field, you can select the position for the autonumber format in the paragraph.</p>
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:inside head" />Inside Head </span>
+                        <MadCap:snippetText src="AutoNumberInsideHead.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:outside head" />Outside Head </span>
+                        <MadCap:snippetText src="AutoNumberOutsideHead.flsnp" /> You can provide space between the format and the content by using the "Offset" field below.  </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:inside tail" />Inside Tail </span>
+                        <MadCap:snippetText src="AutoNumberInsideTail.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:outside tail" />Outside Tail </span>
+                        <MadCap:snippetText src="AutoNumberOutsideTail.flsnp" /> You can provide space between the format and the content by using the "Offset" field below. </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:float left" />Float Left </span>
+                        <MadCap:snippetText src="AutoNumberFloatLeft.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:float right" />Float Right </span>
+                        <MadCap:snippetText src="AutoNumberFloatRight.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:outside frame" />Outside Frame </span>
+                        <MadCap:snippetText src="AutoNumberOutsideFrame.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:outside frame left side" />Outside Frame (Left Side) </span>
+                        <MadCap:snippetText src="AutoNumberOutsideFrameLeftSide.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:outside frame right side" />Outside Frame (Right Side) </span>
+                        <MadCap:snippetText src="AutoNumberOutsideFrameRightSide.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">None </span>
+                        <MadCap:snippetText src="AutoNumberNone.flsnp" />
+                    </li>
+                </ul>
+            </li>
+            <li>In the <span class="Emphasis">Offset</span> field, you can <MadCap:snippetText src="AutoNumberOffset.flsnp" /></li>
+            <li>In the <span class="Emphasis">Span Class</span> field, you can <MadCap:snippetText src="AutoNumberSpanClass.flsnp" /></li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/InPropertiesDialogClickOK.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

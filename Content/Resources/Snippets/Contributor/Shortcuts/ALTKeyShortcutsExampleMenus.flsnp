@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="900" MadCap:lastWidth="688">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Let's say you want to open the Options dialog from the Tools menu. First, you press and release the <span class="Emphasis">ALT</span> key, which shows an underlined letter in each menu label.</p>
+            <p>
+                <img src="../../../Images/Contributor/alt_shortcut_keys_menu1_contributor.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>Press the <span class="Emphasis">T</span> key to open the Tools menu.</p>
+            <p>
+                <img src="../../../Images/Contributor/alt_shortcut_keys_menu2_contributor.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>Press the <span class="Emphasis">O</span> key.</p>
+            <p>
+                <img src="../../../Images/Contributor/alt_shortcut_keys_menu3_contributor.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>The Options dialog opens.</p>
+        </div>
+    </body>
+</html>

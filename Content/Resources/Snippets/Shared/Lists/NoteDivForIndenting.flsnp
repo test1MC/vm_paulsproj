@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>A &lt;div&gt; tag is a good way to indent lots of content. For example, you might have a section of content containing four paragraphs, a numbered list, and an image. Rather than creating special style classes for all of those different elements with an indentation setting (e.g., margin-left or padding-left) on each, you can place your indentation setting on the div style. That way, any content contained within that &lt;div&gt; tag will be indented accordingly.</p>
+    </body>
+</html>

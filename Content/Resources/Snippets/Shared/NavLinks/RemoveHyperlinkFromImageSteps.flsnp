@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../Topics/OpenContentFile.flsnp" />
+            </li>
+            <li>In the XML Editor, right-click the image.</li>
+            <li>In the context menu, select <span class="Emphasis">Hyperlink Image</span>. The Insert Hyperlink dialog opens.</li>
+            <li>In the bottom-left section of the dialog, click the <span class="Emphasis">Remove Link</span> button. The hyperlink effect is removed. </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

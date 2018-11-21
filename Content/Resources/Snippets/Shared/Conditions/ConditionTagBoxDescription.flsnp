@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="1" MadCap:lastHeight="65" MadCap:lastWidth="797" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo">
+    <body>Displays the color of condition tags that are associated with the file (if any). Condition tags are used to determine specific content or files to be included in some targets but not in others.</body>
+</html>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="183" MadCap:lastWidth="834">
+    <body>
+        <p>The Preview window pane updates when any of the following take place:</p>
+        <ul>
+            <li>A content file (i.e., topic, snippet, master page) is opened.</li>
+            <li>A change is saved in the XML Editor.</li>
+            <li>The refresh button <img src="../../../Images/Shared/refresh_btn.png" alt="" title="" class="ReduceButtonSize" /> in the window pane is clicked.</li>
+            <li>The File, Target, or Conditional Expression fields in the window pane are updated.</li>
+        </ul>
+    </body>
+</html>

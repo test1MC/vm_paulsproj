@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>You can associate a master page with individual topics, which is beneficial if you want some topics to use one master page and other topics to use a different master page.</p>
+    </body>
+</html>

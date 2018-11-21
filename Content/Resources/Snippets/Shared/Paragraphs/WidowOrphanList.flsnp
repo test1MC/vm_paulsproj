@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul>
+            <li><span class="SetOffFirstLevel">Widow Control</span> Determines the minimum number of lines in a paragraph to be left at the <i>top</i> of a page or column.</li>
+            <li><span class="SetOffFirstLevel">Orphan Control</span> Determines the minimum number of lines in a paragraph to be left at the <i>bottom</i> of a page or column. </li>
+        </ul>
+    </body>
+</html>

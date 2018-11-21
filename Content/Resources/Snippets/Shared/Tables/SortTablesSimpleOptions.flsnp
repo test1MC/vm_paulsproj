@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <ul type="1" class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Ribbon</span>
+                <MadCap:snippetText src="../UIElements/SelectTableRibbon.flsnp" /> In the <span class="Emphasis">Data</span> section, select the <span class="Emphasis">Ascending</span> down arrow and then choose <span class="Emphasis">Ascending </span> or <span class="Emphasis">Descending</span>.</li>
+            <li><span class="SetOffFirstLevel">Right-Click</span>&#160;<MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowing.flsnp" /><ul type="1" class="SecondLevel"><li>Right-click inside the table and from the context menu, select <span class="Emphasis">Sort Rows &gt; Ascending</span> or <span class="Emphasis">Sort Rows &gt; Descending</span>.</li><li>Right-click one of the appropriate tag bars to the left of the table, depending on the rows you want to sort (e.g., <span class="Emphasis">table</span>, <span class="Emphasis">thead</span>, <span class="Emphasis">tfoot</span>), and from the context menu, select <span class="Emphasis">Sort Rows &gt; Ascending</span> or <span class="Emphasis">Sort Rows &gt; Descending</span>.</li></ul></li>
+        </ul>
+    </body>
+</html>

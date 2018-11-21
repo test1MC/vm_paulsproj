@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.Capture">
+    <body>
+        <p><MadCap:variable name="Other.Product" /> provides you with an initial palette to help get you started. However, you can also link to external palettes. You might want to do this if you are working on a project and have a palette that is saved to an external location that is specific to that project, or if you are sharing a palette with a team. </p>
+    </body>
+</html>

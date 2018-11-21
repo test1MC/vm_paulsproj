@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Central,Products.Flare">
+    <body>
+        <p>The infrastructure for MadCap Central is hosted by Microsoft Azure, leveraging secured data centers worldwide. These Azure data centers are ISO27001 certified. For details, see <a href="https://www.microsoft.com/en-us/cloud-platform/global-datacenters" target="_blank">https://www.microsoft.com/en-us/cloud-platform/global-datacenters</a>.</p>
+        <p>The primary data center is located in Sacramento, California. A secondary read-only data center is located in Chicago, Illinois.  Additional failover web servers located around the world are also available. In the event of a data center outage, MadCap Software engineers can restore your data when needed, with no interaction needed from the customer.</p>
+        <p> In addition to data stored in the database, the source control provider (Git) has the ability to failover in case of an outage. This is essential in handling mission critical data in the event of a catastrophe.</p>
+        <p>
+            <img src="../../../Images/Shared/CentralSecurityDisasterRecovery.jpg" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

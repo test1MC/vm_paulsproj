@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare">
+    <body>
+        <p>(Optional) In the <MadCap:keyword term="Screen tip" /><span class="Emphasis">Screen Tip</span> field, you can type a phrase that will appear when the end user hovers over the hyperlink in the output.</p>
+    </body>
+</html>

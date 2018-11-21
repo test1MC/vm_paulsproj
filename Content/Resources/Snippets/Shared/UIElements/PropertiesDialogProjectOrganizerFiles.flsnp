@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>This dialog is used to do the following for project files.</p>
+        <ul>
+            <li>Display basic <MadCap:keyword term="Files:properties;Properties:files" />properties (name, location, size, date created, date last modified) of a file in the Project Organizer.</li>
+            <li>Mark the file <MadCap:keyword term="Read only:project files" />as "Read Only."</li>
+            <li>Set <MadCap:keyword term="Conditions:files;Files:condition tags" />condition tags on a project file. </li>
+            <li>
+                <MadCap:keyword term="Files:tags;Tags:files" />Associate file tags with a project file. </li>
+        </ul>
+    </body>
+</html>

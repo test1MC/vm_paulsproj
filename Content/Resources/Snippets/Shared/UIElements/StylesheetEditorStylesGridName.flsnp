@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>Displays the full name of the style class (the XML tag followed by a period and the name of the class, if any). For example, if you create a class of the p style called "tip," this column will display "p.tip."</p>
+    </body>
+</html>

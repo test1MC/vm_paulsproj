@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="761" MadCap:lastWidth="1505">
+    <body>
+        <p>By default, Google will index each word it finds on your pages, but there may be some words that you do not want to be indexed. This likely includes your TOC. After all, the words in the TOC will be repeated on most, if not all, of your pages. So it wouldn’t be useful for those words to be included in searches.</p>
+        <ol style="list-style-type: lower-alpha;">
+            <li>
+                <p>Go back to the first browser tab for your Google account and click the <span class="Emphasis">Advanced</span> tab.</p>
+                <p>
+                    <img src="../../../Images/Flare/google_search15.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>Click <span class="Emphasis">CSE context</span> to expand that section.</li>
+            <li>Click <span class="Emphasis">Download (XML)</span>. The cse.xml file is added to the Downloads folder on your computer.</li>
+            <MadCap:pageBreak MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+            <li>
+                <p>Edit the downloaded context file cse.xml to add the following attribute: <span class="TypedEntry">enable_nocontent_tag=“true”</span>. (If you already see this attribute in the file, you do not need to add it.)</p>
+                <p>To add the attribute, you can open the file in a text editor such as Notepad++. Then near the top of the file, change <span class="TypedEntry">&lt;CustomSearchEngine id= “[id]” creator=“[id]”&gt;</span> to <span class="TypedEntry">&lt;CustomSearchEngine id= “[id]” creator= “[id]” <span class="YellowBackground">enable_nocontent_tag=“true</span>”&gt;</span>. There may be other attributes that are already in the tag as well. Save your changes when finished.</p>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">Example</p>
+                    <p>Here is an example of an edited cse.xml file:</p>
+                    <p>
+                        <img src="../../../Images/Flare/google_search16.png" alt="" title="" class="MaxWidth90Percent" />
+                    </p>
+                </div>
+            </li>
+            <li>On your Google account page, go back to the CSE context section of the Advanced tab, and click <span class="Emphasis">Upload XML file</span>.</li>
+            <li>Choose the cse.xml file that you edited.</li>
+            <li>In the popup, click <span class="Emphasis">OK</span> to upload the file.</li>
+            <li>Continue with the following steps to customize the appearance of search results.</li>
+        </ol>
+    </body>
+</html>

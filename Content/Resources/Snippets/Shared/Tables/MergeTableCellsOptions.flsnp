@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Ribbon</span>
+                <MadCap:snippetText src="../UIElements/SelectTableRibbon.flsnp" /> In the <span class="Emphasis">Cells</span> section select <span class="Emphasis">Merge Cells</span>. </li>
+            <li><span class="SetOffFirstLevel">Right-Click</span> Right-click the table and from the context menu, select <span class="Emphasis">Merge Cells</span>.</li>
+        </ul>
+    </body>
+</html>

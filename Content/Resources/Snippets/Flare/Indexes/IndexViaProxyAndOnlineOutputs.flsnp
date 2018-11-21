@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="97" MadCap:lastWidth="1161">
+    <body>
+        <p>For online outputs, creating an index is typically done via a skin. By default, the MadCap style that controls index proxies is set to support only print-based outputs. However, you can change this. To do so, open your stylesheet, select the <span class="Emphasis">MadCap|indexProxy</span> style, and set the <span class="Emphasis">mc-output-support</span> property to <span class="Emphasis">all</span> (all-print is the default setting). By doing this, you can use the index proxy method to generate an index in some online outputs as well.</p>
+    </body>
+</html>

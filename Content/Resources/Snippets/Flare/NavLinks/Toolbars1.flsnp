@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="97" MadCap:lastWidth="1056">
+    <body>
+        <p>There are two types of toolbars that you can add to your online output—web and topic. A web toolbar displays buttons within the skin framework. A topic toolbar displays buttons in a custom toolbar within the topic content, based on the insertion of a Topic Toolbar proxy. The buttons in a toolbar help end users navigate through the output and perform other functions.</p>
+    </body>
+</html>

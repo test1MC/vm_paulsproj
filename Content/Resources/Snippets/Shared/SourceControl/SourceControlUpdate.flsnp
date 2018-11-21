@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>After you bind a Flare project to Subversion, you can update any of the source control files. When you do this, you are copying the most current files stored in Subversion to your local Flare project. When working with other authors, it is a good idea to do this frequently (e.g., at the beginning of each day) in order to ensure you have the latest changes that those authors have made, and that they have the latest changes you've made. You will see this option if your project is bound to Subversion.</p>
+    </body>
+</html>

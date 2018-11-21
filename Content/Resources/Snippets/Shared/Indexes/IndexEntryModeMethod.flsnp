@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="243" MadCap:lastWidth="739" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare">
+    <body>
+        <p>Use this method to accomplish the same thing as the Index window pane method. The difference is that, with this method, you do not need to move your cursor from the topic or snippet to the Index window pane. You simply click at the spot in the text where you want to insert the keyword and start typing. The words you type are added directly into the Index window pane. This is a good method to use if you plan to do a lot of indexing all at once, without performing any other tasks in the topic or snippet.</p>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Advantage </span>It is extremely fast and allows you to customize phrasing and add second-level keywords.</li>
+            <li><span class="SetOffFirstLevel">Disadvantage </span>It is not the best method to use if you want to perform indexing while also adding other content and formatting to topics or snippets. </li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Examples</p>
+            <p>The following images show how a particular file might look when you view its backup differences.</p>
+            <p>
+                <img src="../../../Images/Shared/backup_differences_btn_example.png" class="MaxWidth90Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Shared/backup_differences_example1.png" class="MaxWidth100Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Shared/backup_differences_example2.png" class="MaxWidth100Percent" />
+            </p>
+        </div>
+    </body>
+</html>

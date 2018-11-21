@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Align,Products.Lingo">
+    <body>
+        <p>You can add as many translation memories (TMs) as you need. For example, you might use one TM for Client A, a different TM for Client B, and yet another for Client C. When you add a TM, it can be used in any of your <MadCap:variable name="Other.Product" /> projects. </p>
+        <p>Adding a TM is different from creating one. While creating a TM generates a new, empty database, adding a TM takes one that already exists on your computer, network, or server and adds it to the list of available TMs in Lingo. This is useful if you had removed a TM from the list of available databases, but you need to use it again.</p>
+    </body>
+</html>

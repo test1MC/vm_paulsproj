@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Central,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1004">
+    <body>
+        <p>As you make changes to the imported Flare project, you will need to synchronize those changes with Central periodically to make sure the local and cloud files are in sync. <MadCap:conditionalText MadCap:conditions="Products.Central">See <MadCap:xref href="../../../../Central/Projects/Committing-Synchronizing-Single-Bound.htm">Committing and Synchronizing (Pull, Push) in a Single-bound Model</MadCap:xref> and <MadCap:xref href="../../../../Central/Projects/Pushing-Dual-Bound-Model.htm">Pushing in a Dual-bound Model</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

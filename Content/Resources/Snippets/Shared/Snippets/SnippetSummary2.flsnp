@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="110" MadCap:lastWidth="1174">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>A snippet is an important file used for single-sourcing that acts sort of like a miniature topic. In a snippet, you can insert and format text, tables, pictures, and whatever else can be included in a normal topic. We’re not usually talking about single words or phrases; that’s what variables are for. A snippet can be inserted into one or more topics throughout your project.  You can even insert them into other snippets, creating nested snippets.</p>
+    </body>
+</html>

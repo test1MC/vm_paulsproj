@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare" MadCap:lastBlockDepth="8" MadCap:lastHeight="1277" MadCap:lastWidth="1033">
+    <body>
+        <ol>
+            <li>	Create an image watermark with the watermark you want to use. Using your graphics software, you may need to edit the image to lighten appropriately for background use.</li>
+            <li>
+                <MadCap:snippetText src="../../Contributor/Styles/EditStyleStep1.flsnp" MadCap:conditions="Products.Contributor" />
+                <MadCap:snippetText src="../../Flare/Styles/EditStyleStep1.flsnp" MadCap:conditions="Products.Flare" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../Styles/FilterAllStylesStep.flsnp" />
+            </li>
+            <li>On the left side of the editor, find and select the <span class="Emphasis">body</span> tag.</li>
+            <li>
+                <MadCap:snippetText src="../Styles/SelectShowAllPropertiesStep.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../Styles/StylesToggleGroupOrAlphabetical.flsnp" />
+            </li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="../Styles/ExpandBackgroundGroupStep.flsnp" />
+                </p>
+                <p>
+                    <MadCap:snippetText src="../Styles/PropertyNameLeftValueRight.flsnp" />
+                </p>
+            </li>
+            <li>To the right of <span class="Emphasis">background-image</span>, click <img src="../../../Images/Shared/insert_image_btn2.png" />. The Insert Image dialog opens.</li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="ImagesInsertPictureStep1.flsnp" />
+                </p>
+                <MadCap:snippetBlock src="ImagesInsertPictureStep2.flsnp" />
+            </li>
+            <li>
+                <p>If you want a specific position for the background image, click in the cell to the right of <span class="Emphasis">background-position</span> and enter the appropriate command (definitions from <a href="http://www.w3.org/" target="_blank">http://www.w3.org</a>).</p>
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel">percentage </span>A percentage X aligns the point X% across (for horizontal) or down (for vertical) the image with the point X% across (for horizontal) or down (for vertical) the element's padding box. For example, with a value pair of '0% 0%',the upper left corner of the image is aligned with the upper left corner of the padding box. A value pair of '100% 100%' places the lower right corner of the image in the lower right corner of the padding box. With a value pair of '14% 84%', the point 14% across and 84% down the image is to be placed at the point 14% across and 84% down the padding box.</li>
+                    <li><span class="SetOffFirstLevel">length </span>A length L aligns the top left corner of the image a distance L to the right of (for horizontal) or below (for vertical) the top left corner of the element's padding box. For example, with a value pair of '2cm 1cm', the upper left corner of the image is placed 2cm to the right and 1cm below the upper left corner of the padding box.</li>
+                    <li><span class="SetOffFirstLevel">top </span>Equivalent to '0%' for the vertical position.</li>
+                    <li><span class="SetOffFirstLevel">right </span>Equivalent to '100%' for the horizontal position.</li>
+                    <li><span class="SetOffFirstLevel">bottom </span>Equivalent to '100%' for the vertical position.</li>
+                    <li><span class="SetOffFirstLevel">left </span>Equivalent to '0%' for the horizontal position.</li>
+                    <li><span class="SetOffFirstLevel">center </span>Equivalent to '50%' for the horizontal position if it is not otherwise given, or '50%' for the vertical position if it is.</li>
+                </ul>
+            </li>
+            <li>
+                <p>If you want the background image to repeat, click in the right column next to <span class="Emphasis">background-repeat</span> and select one of the options from the drop-down (definitions from <a href="http://www.w3.org/" target="_blank">http://www.w3.org</a>).</p>
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel">no-repeat </span>The image is not repeated. Only one copy of the image is drawn.</li>
+                    <li><span class="SetOffFirstLevel">repeat </span>The image is repeated both horizontally and vertically.</li>
+                    <li><span class="SetOffFirstLevel">repeat-x </span>The image is repeated horizontally only.</li>
+                    <li><span class="SetOffFirstLevel">repeat-y </span>The image is repeated vertically only.</li>
+                </ul>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

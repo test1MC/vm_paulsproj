@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <ol type="1" class="LowerAlpha">
+            <li>In the <span class="Emphasis">Widows</span> section, click the down arrow in the upper-right corner and select <span class="Emphasis">Number</span>. Then enter a number in the field. This determines the number of leftover rows allowed at the top of a page or column.</li>
+            <li>In the <span class="Emphasis">Orphans</span> section, click the down arrow in the upper-right corner and select <span class="Emphasis">Number</span>. Then enter a number in the field. This determines the number of leftover rows allowed at the bottom of a page or column.</li>
+        </ol>
+    </body>
+</html>

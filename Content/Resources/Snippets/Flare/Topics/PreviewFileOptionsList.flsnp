@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="362" MadCap:lastWidth="1141">
+    <body>
+        <ul>
+            <li>
+                <p><span class="SetOffFirstLevel">Local Toolbar </span>Open a topic, snippet, or master page. Then in the local toolbar of the XML Editor, click <img src="../../../Images/Shared/preview_btn.png" alt="" title="" class="ReduceButtonSize" />. If you click the down arrow, you can choose a target; otherwise, the preview opens according to the settings in the primary target (e.g., with the appropriate conditions already applied).</p>
+                <p>
+                    <img src="../../../Images/Flare/topic_preview_example.png" class="MaxWidth90Percent" />
+                </p>
+            </li>
+            <li><span class="SetOffFirstLevel">Ribbon </span>Open a topic, snippet, or master page. Then open the <span class="Emphasis">View</span> ribbon and select <span class="Emphasis">Preview Window</span>. Like the button in the local toolbar, this option also has a down arrow from which you can choose a specific target.</li>
+            <li><span class="SetOffFirstLevel">Right-Click </span>To preview a topic, snippet, or master page that is not open, you can right-click the file in the Content Explorer and choose <span class="Emphasis">Preview</span>.</li>
+        </ul>
+    </body>
+</html>

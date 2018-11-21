@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="19" MadCap:lastHeight="8888" MadCap:lastWidth="815">
+    <body>
+        <MadCap:snippetBlock src="../../Shared/Tables/EditingTableStylesheetsSummary.flsnp" />
+        <MadCap:dropDown MadCap:conditions="General.ServerOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>see the movie</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <object src="https://youtu.be/_x09W0XDF00" style="width: 560px;height: 315px;">
+                    </object>
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to edit a table stylesheet</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Styles/EditingTableStylesSteps.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineOnly">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Alternatively, you can edit table styles in a regular stylesheet separately (see <MadCap:xref href="../../../../Flare/Tables/Editing-Table-Styles-in-Regular-Stylesheets.htm">Editing Table Styles in Regular Stylesheets</MadCap:xref>). For the differences between regular stylesheets, table stylesheets, and local properties—and when you should use one over the other—see <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Regular-Stylesheets-Table-Stylesheets-Properties.htm">Regular Stylesheets, Table Stylesheets, or Properties?</MadCap:xref></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.OnlineOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>
+                    <MadCap:snippetText src="../../Shared/Styles/ApplyTableStylesSummary1.flsnp" /> See <MadCap:xref href="../../../../Flare/Styles/Applying-Table-Stylesheets-to-Tables.htm">Applying Table Stylesheets to Tables</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

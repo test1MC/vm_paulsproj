@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <ul>
+            <li>
+                <p><span class="SetOffFirstLevel">In Line with Text </span>This integrates the element into the text so that it becomes part of the line where it was inserted. If the element is taller than the line of text, this results in extra space between that line of text and the one above it. This option is actually the default method used when inserting an image. It does not have absolute positioning or a specific z-index setting applied to it. The option is included in the context submenu simply so that you can change from one of the absolute position options back to the default inline setting.</p>
+                <p>
+                    <img src="../../../Images/Shared/absolute-positioning26.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>

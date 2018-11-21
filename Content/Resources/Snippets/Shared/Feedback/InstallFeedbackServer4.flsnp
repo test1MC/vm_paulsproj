@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Pulse" MadCap:lastBlockDepth="1" MadCap:lastHeight="25" MadCap:lastWidth="1012">
+    <body>Make sure that a supported version of SQL Server is installed.<MadCap:conditionalText MadCap:conditions="Products.Flare"> See <MadCap:xref href="../../../../Flare/SQL/Installing-SQL-Server.htm">Installing SQL Server</MadCap:xref>.</MadCap:conditionalText></body>
+</html>

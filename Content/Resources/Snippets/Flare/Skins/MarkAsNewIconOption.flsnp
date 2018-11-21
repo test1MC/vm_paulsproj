@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="43" MadCap:lastWidth="877">
+    <body>
+        <p>You can select a different icon image for the topic items in the TOC when they are marked as new.<MadCap:conditionalText MadCap:conditions="General.OnlineOnly"> See <MadCap:xref href="../../../../Flare/TOCs/More/Marking-TOC-Entry-New.htm">Marking a TOC Entry as New</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

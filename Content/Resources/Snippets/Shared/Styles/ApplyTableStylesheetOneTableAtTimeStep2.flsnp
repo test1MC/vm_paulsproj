@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <ol type="1" class="LowerAlpha">
+            <li>
+                <p>In the context menu, select <span class="Emphasis">Table Properties</span>. The Table Properties dialog opens.</p>
+            </li>
+            <li>
+                <p>Click <span class="Emphasis">Table Style</span>, and from the drop-down select the stylesheet. </p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you have not yet created a table stylesheet yet, you can do so by clicking <img src="../../../Images/Shared/create_new_table_style_sheet_file_btn.png" class="ReduceButtonSize" /> to the right of the field. Click the face of the button, not the down arrow.</p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

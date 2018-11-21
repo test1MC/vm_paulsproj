@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Analyzer,Products.Flare">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Rotate Clockwise</span> Turns the frame 1 degree clockwise.</li>
+            <li><span class="SetOffFirstLevel">Rotate 45 Clockwise</span> Turns the frame 45 degrees clockwise.</li>
+            <li><span class="SetOffFirstLevel">Rotate 90 Clockwise</span> Turns the frame 90 degrees clockwise.</li>
+            <li><span class="SetOffFirstLevel">Rotate Counter Clockwise</span> Turns the frame 1 degree counter clockwise.</li>
+            <li><span class="SetOffFirstLevel">Rotate 45 Counter Clockwise</span> Turns the frame 45 degrees counter clockwise.</li>
+            <li><span class="SetOffFirstLevel">Rotate 90 Counter Clockwise</span> Turns the frame 90 degrees counter clockwise.</li>
+            <li><span class="SetOffFirstLevel">Reset Rotation</span> Returns the frame to its original setting before it was rotated.</li>
+        </ul>
+    </body>
+</html>

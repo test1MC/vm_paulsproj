@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Lingo">
+    <body>
+        <p>If you have an existing <MadCap:variable name="Other.Product" /> project on your local machine, bind the project to Git.</p>
+    </body>
+</html>

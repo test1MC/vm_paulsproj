@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare">
+    <body>
+        <p>This style is used for both the footnote number (or symbol) where it is inserted in the topic, as well as the number and accompanying comment text (at the bottom of the page, or wherever else you specify its location).</p>
+    </body>
+</html>

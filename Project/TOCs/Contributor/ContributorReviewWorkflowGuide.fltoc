@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  fileTags="Contributor/ContributorTopicAuthor.Kate"
+  conditions="Products.Contributor">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Contributor/TitleContributor.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Contributor/TitleContributor.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"
+    StartSection="false"
+    PageNumber="(multiple)" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 1 Review Workflow"
+    Link="/Content/Contributor/Reviews-Contributions/Review-Workflow-Contributor.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ComputeToc="false"
+    ReplaceMergeNode="false"></TocEntry>
+  <TocEntry
+    Title="CH 2 Review Packages Window Pane"
+    Link="/Content/Contributor/Interface/UI-Elements/Review-Packages-Window-Pane.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="CH 3 About Track Changes"
+    Link="/Content/Contributor/Reviews-Contributions/Track-Changes/About-Track-Changes.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Hiding and Showing Changes and Annotations"
+      Link="/Content/Contributor/Reviews-Contributions/Track-Changes/Hiding-Showing-Changes-Annotations.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Changing Your User Name and Initials"
+      Link="/Content/Contributor/Reviews-Contributions/Changing-User-Name-Initials.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Changing the Display of Tracked Changes"
+      Link="/Content/Contributor/Reviews-Contributions/Track-Changes/Changing-Display-Tracked-Changes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Changing the User Color for Reviews"
+      Link="/Content/Contributor/Reviews-Contributions/Changing-User-Color-for-Reviews.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Finding Changes"
+      Link="/Content/Contributor/Reviews-Contributions/Finding-Changes.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Accepting or Rejecting Tracked Changes"
+      Link="/Content/Contributor/Reviews-Contributions/Track-Changes/Accepting-Rejecting-Tracked-Changes.htm"
+      BreakType="none"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="first"
+      StartSection="false"
+      PageNumberReset="continue"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      PageNumber="(multiple)"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Annotations"
+    Link="/Content/Contributor/Reviews-Contributions/Annotations/Inserting-Annotations.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    PageNumber="(multiple)">
+    <TocEntry
+      Title="Editing Annotations"
+      Link="/Content/Contributor/Reviews-Contributions/Annotations/Editing-Annotations.htm"
+      BreakType="none"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Deleting Annotations"
+      Link="/Content/Contributor/Reviews-Contributions/Annotations/Deleting-Annotations.htm"
+      BreakType="none"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 5 Returning Documents to Authors"
+    Link="/Content/Contributor/Reviews-Contributions/Returning-Documents-to-Authors-Contributor.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Contributor/PDF-Guides/PDF-Guides-Contributor.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

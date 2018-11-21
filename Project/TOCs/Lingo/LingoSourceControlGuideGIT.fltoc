@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Lingo">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Lingo/TitleLingo.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Lingo/TitleLingo.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="(multiple)"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Source Control"
+    Link="/Content/Lingo/Source-Control/About-Source-Control-Lingo.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="CH 2 About Git"
+    Link="/Content/Lingo/Source-Control/Git/About-Git.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 3 Binding a Project to Source Control"
+    Link="/Content/Lingo/Source-Control/Git/Binding-Project-Source-Control-git.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 4 Importing a Project from Source Control"
+    Link="/Content/Shared/Source-Control/Git/Importing-Project-from-Source-Control-git.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 5 Committing Source Control Files"
+    Link="/Content/Shared/Source-Control/Git/Committing-Source-Control-Files-git.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 6 Pushing Files to a Remote Repository"
+    Link="/Content/Shared/Source-Control/Git/Pushing-Files-to-Remote.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 7 Pulling Files from a Remote Repository"
+    Link="/Content/Shared/Source-Control/Git/Pulling-Files-from-Remote.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 8 Synchronizing Source Control Files"
+    Link="/Content/Shared/Source-Control/Git/Synchronizing-Files.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 9 Merging Source Control Files"
+    Link="/Content/Shared/Source-Control/Git/Merging-Source-Control-Files-git.htm"
+    BreakType="chapter"
+    PageNumber="(multiple)"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 10 Additional Git Tasks"
+    Link="/Content/Lingo/Source-Control/Git/Additional-Git-Tasks.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/ChaptersLongAutoNum.flpgl"
+    PageType="firstright"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="Branches—Creating"
+      Link="/Content/Shared/Source-Control/Git/Creating-Branches.htm" />
+    <TocEntry
+      Title="Branches—Deleting"
+      Link="/Content/Shared/Source-Control/Git/Deleting-Branches.htm" />
+    <TocEntry
+      Title="Branches—Publishing"
+      Link="/Content/Shared/Source-Control/Git/Publishing-Branches.htm" />
+    <TocEntry
+      Title="Branches—Selecting"
+      Link="/Content/Shared/Source-Control/Git/Selecting-Branches.htm" />
+    <TocEntry
+      Title="Disabling the Get Latest Prompt for Source Control"
+      Link="/Content/Shared/Source-Control/Git/Disabling-Get-Latest-Prompt-git.htm" />
+    <TocEntry
+      Title="Enabling Source Control Status Checks"
+      Link="/Content/Shared/Source-Control/Git/Enabling-Source-Control-Status-Checks-git.htm" />
+    <TocEntry
+      Title="Modifying Network Settings"
+      Link="/Content/Shared/Source-Control/Git/Modifying-Network-Settings-git.htm" />
+    <TocEntry
+      Title="Reverting Modified Source Control Files"
+      Link="/Content/Shared/Source-Control/Git/Reverting-Source-Control-File-git.htm" />
+    <TocEntry
+      Title="Rolling Back to an Earlier Version of a File"
+      Link="/Content/Shared/Source-Control/Git/Rolling-Back-to-Earlier-Version-File-git.htm" />
+    <TocEntry
+      Title="Setting Color Options for Project File Differences"
+      Link="/Content/Shared/Source-Control/Git/Setting-Color-Options-Project-File-Differences_git.htm" />
+    <TocEntry
+      Title="Unbinding a Project from Git"
+      Link="/Content/Shared/Source-Control/Git/Unbinding-Project-from-Source-Control-git.htm" />
+    <TocEntry
+      Title="Viewing Differences in Source Control Files"
+      Link="/Content/Shared/Source-Control/Git/Viewing-Differences-Source-Control-Files-git.htm" />
+    <TocEntry
+      Title="Viewing Modified Files"
+      Link="/Content/Shared/Source-Control/Git/Viewing-Modified-Files-git.htm" />
+    <TocEntry
+      Title="Viewing the History of Source Control Files"
+      Link="/Content/Shared/Source-Control/Git/Viewing-History-Source-Control-Files-git.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/Lingo/PDF-Guides/PDF-Guides-Lingo.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled" />
+</CatapultToc>
